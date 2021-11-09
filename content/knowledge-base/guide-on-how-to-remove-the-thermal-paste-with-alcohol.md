@@ -3,6 +3,7 @@ title: Guide on How to Remove the Thermal Paste with Alcohol
 type: knowledge-base
 draft: true
 trending: false
+trendname: How to Remove the Thermal Paste with Alcohol
 seo_title: How to Remove the Thermal Paste with Alcohol - Complete Guide
 meta_Description: You need to remove the dried-up thermal paste to make room for
   a new replacement. The best way to remove the thermal paste with alcohol is
