@@ -27,13 +27,13 @@ sitepinterestAccount = "/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
 [home_section]
-section1 = "Style 1"
+section1 = "Style 2"
 section1Cat = "Category 2"
-section2 = "Off"
+section2 = "Style 2"
 section2Cat = "Category 1"
-section3 = "Off"
+section3 = "Style 2"
 section3Cat = "Category 1"
-section4 = "Off"
+section4 = "Style 2"
 section4Cat = "Category 1"
 
 [post_setting]
