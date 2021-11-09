@@ -1,5 +1,5 @@
-logo = ""
-icon = ""
+logo = "/uploads/logo.png"
+icon = "/uploads/favicon-32x32.png"
 tagline = "Best Techs Reviewed"
 contacteMail = "gamingtechies76@gmail.com"
 headerText = ""
