@@ -27,7 +27,7 @@ sitepinterestAccount = "/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
 [home_section]
-section1 = "Style 2"
+section1 = "Style 1"
 section1Cat = "Category 2"
 section2 = "Off"
 section2Cat = "Category 1"
