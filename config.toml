@@ -1,8 +1,8 @@
 languageCode = "en-us"
-DisqusShortname = "ghost-23"
-baseURL = "https://finaldesktop.netlify.app/"
+DisqusShortname = "gaming-techies"
+baseURL = "https://sitedesigntest.netlify.app/"
 googleAnalytics = "UA-XXXXXXXXX-XX"
-title = "Final Desktop"
+title = "Gaming Techies"
 paginate = "14"
 assetDir = "static"
 
