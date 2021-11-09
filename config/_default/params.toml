@@ -38,4 +38,4 @@ section4 = "Style 2"
 section4Cat = "Learning Guides"
 
 [post_setting]
-featured_img = false
+featured_img = true
