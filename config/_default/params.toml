@@ -1,0 +1,36 @@
+logo = ""
+icon = ""
+tagline = "Affiliate Theme, Fast, Responsive & Great"
+contacteMail = "yousafblogger@gmail.com"
+headerText = ""
+footerText = "This theme is the exact copy of FinalDesktop.com theme, with some tweaks and more accuracy. Where you can add footer text."
+
+[colors]
+mainColor = "#040404"
+textColor = "#ffffff"
+linkColor = "#03a0ff"
+
+[open_graph]
+meta_Description = ", highly seo frendly & workable. Where you can meta description of homepage."
+image = "https://finaldesktop.com/img/final-desktop-img.jpg"
+FacebookPublisher = ""
+
+[social_accounts]
+sitefbAccount = "finaldesktop"
+sitetwitterAccount = "finaldesktop"
+siteinstagramAccount = "finaldesktop"
+sitepinterestAccount = "finaldesktop"
+siteYouTubeAccount = "finaldesktop"
+
+[home_section]
+section1 = "Style 2"
+section1Cat = "Category 2"
+section2 = "Style 2"
+section2Cat = "Category 1"
+section3 = "Style 1"
+section3Cat = "Category 1"
+section4 = "Style 1"
+section4Cat = "Category 1"
+
+[post_setting]
+featured_img = true

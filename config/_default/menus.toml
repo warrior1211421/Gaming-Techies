@@ -1,0 +1,62 @@
+# Main Menu Starts Here...
+
+  [[main]]
+    name = "Home"
+    url = "/"
+    weight = "1"
+
+  [[main]]
+    parent = "Buying Guide"
+    name = "Motherboards"
+    url = "/motherboards/"
+    weight = "2"
+    
+  [[main]]
+    parent = "Buying Guide"
+    name = "Processors"
+    url = "/cpus/"
+    weight = "3"
+    
+  [[main]]
+    parent = "Buying Guide"
+    name = "Graphics Cards"
+    url = "/graphics-cards/"
+    weight = "4"
+    
+  [[main]]
+    parent = "Buying Guide"
+    name = "CPU Coolers"
+    url = "/cpu-coolers/"
+    weight = "5"
+
+# Footer Menu Starts Here...
+
+  [[footer]]
+    name = "Terms and Conditions"
+    url = "/terms-of-service/"
+    weight = "1"
+
+  [[footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = "2"
+
+  [[footer]]
+    name = "Affiliate Disclosure"
+    url = "/affiliate-disclosure/"
+    weight = "3"
+
+  [[footer]]
+    name = "About US"
+    url = "/about-us/"
+    weight = "4"
+
+  [[footer]]
+    name = "Contact US"
+    url = "/contact-us/"
+    weight = "5"
+    
+  [[footer]]
+    name = "Sitemap"
+    url = "/sitemap.xml/"
+    weight = "5"

@@ -1,0 +1,31 @@
+languageCode = "en-us"
+DisqusShortname = "ghost-23"
+baseURL = "https://finaldesktop.netlify.app/"
+googleAnalytics = "UA-XXXXXXXXX-XX"
+title = "Final Desktop"
+paginate = "14"
+assetDir = "static"
+
+[permalinks]
+posts = "/:title/"
+pages = "/page/:title/"
+categories = "/:title/"
+tags = "/:title/"
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+
+[[related.indices]]
+name = "categories"
+weight = 100
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "author"
