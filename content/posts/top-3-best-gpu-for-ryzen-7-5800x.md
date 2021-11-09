@@ -118,8 +118,119 @@ buyingGuide: >-
   It is suggested to look out for the best GPU for Ryzen 7 5800X if you want to have the most exclusive gaming experience of your life. The GPU-processor compatibility is extremely important for your gaming system: it will help you keep going efficiently in your gaming rounds and will keep you ahead in your passion all the time.
 product_table: false
 the_products:
-  - {}
-  - {}
+  - summary_award: EVGA 08G-P5-3755-KR 123123
+    paragraphs:
+      - paragraph: >-
+          If you are in search of a GPU that is made to withstand all the heavy
+          requirements of your online gaming sessions, then we have this EVGA
+          GPU for you. EVGA is an American-based hardware manufacturing company
+          that is famous for its quality manufacturing of Intel-chipset-based
+          motherboards and NVIDIA-GPU-based video cards. 
+
+
+          #### Features
+
+
+          The features for which this GPU is considered best to go with your gaming system are its incredible memory speed, boost clock feature, the addition of advanced technologies, durably built, and long life. All these features combine to make this GPU categorized among one of the top-rated and most preferred for Ryzen 7 5800X. 
+
+
+          Foremost, the GPU comes with a powerful memory type that is GDDR6 that reaches a maximum of up to 8192 MB. The memory type is incredible in making this GPU better support for all your high-end online games. 
+
+
+          Then comes its boost clock feature that is amazingly helpful in maintaining the great speed of your gaming system. This GPU is made to support a maximum of 1770 MHz that is perfect for supporting all your heavy-duty online games. A higher boost clock is important to have in a GPU as it will guarantee you greater speed that in turn will help you out in enjoying the most exclusive gaming sessions of all times. 
+
+
+          Apart from excellent hand-to-eye coordination, comprehensive knowledge of games, and great reflexes present times, online games also require a highly powerful gaming system that could provide you incredible response time and higher frame rates. 
+
+
+          These extraordinary features are provided by this boost clock technology that comes with this GPU. Thus, this boost clock feature makes this GPU a worth buying unit and never lets you regret your decision. 
+
+
+          Moreover, the GPU also comes with the addition of advanced Triple HDB Fans iCX3 Technology that keeps your system cooler even while working under the high pressure of heavy tasks. 
+
+
+          The great thing about this Fan technology is that it works at much quieter acoustic noise. So, it will never interrupt you or irritate you during your gaming sessions where you need to put all your focus on your movements, firings, and other actions. 
+
+
+          Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements. 
+
+
+          #### Conclusion 
+
+
+          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
+      - paragraph: >-
+          #### Conclusion 
+
+
+          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
+      - paragraph: >-
+          #### Conclusion 
+
+
+          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
+      - paragraph: >-
+          #### Conclusion 
+
+
+          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
+      - paragraph: >-
+          #### Conclusion 
+
+
+          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
+      - paragraph: >-
+          #### Conclusion 
+
+
+          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
+    pros:
+      - pro: asd
+      - pro: asd
+      - pro: "123"
+    amzlink: https://www.amazon.com/EVGA-08G-P5-3755-KR-GeForce-Cooling-Backplate/dp/B08L8L71SM?&linkCode=ll1&tag=gamingtechi09-20&linkId=3f65154e947578040f0596dcbfd29e3f&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: EVGA 08G-P5-3755-KR
+    name: EVGA 08G-P5-3755-KR
+    specifications:
+      - specification: "**Brand:** 123 | **Name**: 123"
+      - specification: "**Name**: 123"
+    cons:
+      - con: asd
+    image: /uploads/xfx-rx-5600-xt-thicc.webp
+    award: EVGA 08G-P5-3755-KR
+  - summary_award: EVGA 08G-P5-3755-KR
+    paragraphs:
+      - paragraph: >-
+          Lastly, the thing that will push you towards making your final
+          decision of buying it is that it is highly durable and long-living. It
+          is the best thing because it will keep you at ease with your
+          expenditure as you know the thing you are going to buy will last for a
+          long to serve your gaming requirements. 
+
+
+          Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements. 
+
+
+          Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements.
+      - paragraph: Lastly, the thing that will push you towards making your final
+          decision of buying it is that it is highly durable and long-living. It
+          is the best thing because it will keep you at ease with your
+          expenditure as you know the thing you are going to buy will last for a
+          long to serve your gaming requirements.
+    pros:
+      - pro: asd12
+      - pro: asd123
+      - pro: asd213
+    amzlink: EVGA 08G-P5-3755-KR
+    nameForTOC: EVGA 08G-P5-3755-KR
+    name: EVGA 08G-P5-3755-KR
+    specifications:
+      - specification: "**Brand:** 123 | **Name**: 123"
+      - specification: "**Name**: 123"
+    cons:
+      - con: "123"
+    image: /uploads/xfx-rx-5600-xt-thicc.webp
+    award: EVGA 08G-P5-3755-KR
 conclusion:
   - paragraph: >-
       ### Final Discussion
