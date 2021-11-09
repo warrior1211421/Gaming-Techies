@@ -1,0 +1,122 @@
+<!-- Basic Meta Tags -->
+<meta charset="utf-8" />
+<meta name="language" content="english" />
+<meta property="og:locale" content="en_US" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:type" content="website" />
+<meta name="format-detection" content="telephone=yes" />
+<meta name="HandheldFriendly" content="true" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta name="distribution" content="web" />
+
+<!-- Robots Metas -->
+{{- partial "basic/head/robots" . -}}
+
+<!-- Stylesheets -->
+{{- $globalStyle := resources.Get "css/global.css" | minify -}}
+{{- $max900 := resources.Get "css/max-900px.css" | minify -}}
+{{- $min700 := resources.Get "css/min-700px.css" | minify -}}
+{{- $min900 := resources.Get "css/min-900px.css" | minify -}}
+{{- $min1000 := resources.Get "css/min-1000px.css" | minify -}}
+{{- $fontawesome := resources.Get "css/font-awesome.css" | minify -}}
+{{- $mainStyle := slice $globalStyle $max900 $min700 $min900 $min1000 | resources.Concat "css/main.css" | fingerprint -}}
+
+<style>
+:root {
+    --mainColor: {{site.Params.colors.mainColor | default "black"}};
+    --textColor: {{site.Params.colors.textColor | default "white"}};
+    --linkColor: {{site.Params.colors.linkColor | default "blue"}};
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+</style>
+<link rel="stylesheet" href="{{- $mainStyle.Permalink| safeCSS -}}">
+<script nonce async src="https://kit.fontawesome.com/e1c451d9d8.js" crossorigin="anonymous" type="text/javascript"></script>
+
+<!-- Favicon Tags -->
+{{- with .Site.Params.icon -}}
+<link rel="icon" href="{{ . | absURL }}" />
+<link rel="apple-touch-icon" href="{{ . | absURL }}" />
+<meta name="msapplication-TileImage" content="{{ . | absURL }}" />
+{{- end -}}
+
+<!-- Title Meta Tags -->
+{{- partial "basic/head/title" . -}}
+<meta property="og:site_name" content="{{.Site.Title}}" />
+
+<!-- Description Meta Tags -->
+{{- partial "basic/head/description" . -}}
+{{- with .Params.meta_Keywords -}}
+<meta name="keywords" content="{{.}}" />
+{{- end -}}
+
+<!-- URL Metas -->
+{{- with .Permalink -}}
+<link rel="canonical" href="{{.}}" />
+<meta property="og:url" content="{{.}}" />
+<meta property="twitter:url" content="{{.}}" />
+{{- end -}}
+
+<!-- Open Graph Meta -->
+{{ if .IsHome }}
+<meta property="og:image" content="{{ site.Params.open_graph.image | absURL }}" />
+{{- else -}}
+<meta property="og:image" content="{{ .Params.featured_Image | absURL }}" />
+{{- end }}
+<meta property="og:image:width" content="{{ site.Params.open_graph.imageW | default " 1200" }}" />
+<meta property="og:image:height" content="{{ site.Params.open_graph.imageH | default " 680" }}" />
+<meta name="twitter:card" content="summary_large_image">
+{{- with site.Params.open_graph.FacebookPublisher }}
+<meta property="article:publisher" content="{{.}}">
+{{- end }}
+{{- with site.Params.open_graph.FacebookAuthor }}
+<meta property="article:author" content="{{.}}">
+{{- end }}
+{{- with site.Params.open_graph.TwitterPublisher }}
+<meta name="twitter:site" content="{{.}}">
+{{- end }}
+{{- with site.Params.open_graph.TwitterAuthor }}
+<meta name="twitter:creator" content="{{.}}">
+{{- end -}}
+
+<!-- Page Specific Open Graph Tags -->
+{{ if .IsPage -}}
+{{ with .Date }}
+<meta property="article:published_time" content="{{ time . }}" />
+{{ end }}
+{{ with .Params.updateDate }}
+<meta property="article:modified_time" content="{{ time . }}" />
+<meta property="og:updated_time" content="{{ time . }}" />
+{{ end }}
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="{{site.Params.Author.name}}" />
+{{- with .Params.categories }}
+<meta property="article:section" content="{{index . 0 }}">
+{{- end -}}
+{{- with .Params.tags }}
+<meta property="article:tag" content="{{index . 0 }}">
+{{- end -}}
+{{- end -}}
+
+<!-- Prefetch - Preload -->
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+
+<!-- Site Verfications -->
+{{- if .IsHome}}
+{{- with site.Params.verifications.googleSiteVerify }}
+<meta name="google-site-verification" content="{{.}}" />
+{{- end }}
+{{- with site.Params.verifications.BingWebmaster }}
+<meta name="msvalidate.01" content="{{.}}" />
+{{- end }}
+{{- with site.Params.verifications.PinterestVerify }}
+<meta name="p:domain_verify" content="{{.}}" />
+{{- end }}
+{{- with site.Params.verifications.YandexVerify }}
+<meta name="yandex-verification" content="{{.}}" />
+{{- end }}
+{{ end -}}

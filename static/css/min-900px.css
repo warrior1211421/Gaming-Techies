@@ -1,0 +1,9 @@
+@media screen and (min-width:900px) {
+    .block-table {
+        max-width: unset;
+        overflow-x: unset
+    }
+    .sub-title{
+        width:78%;
+    }
+}

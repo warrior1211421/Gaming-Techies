@@ -1,0 +1,14 @@
+{{- partial "basic/schema/navigation.html" . }}
+
+{{- if .IsHome }}
+    {{- partial "basic/schema/organization.html" . }}
+    {{- partial "basic/schema/blog-schema.html" . }}
+{{- end }}
+
+{{- if eq .Page.Type "post" }}
+    {{- partial "basic/schema/article.html" . }}
+{{- end }}
+
+{{- if eq .Page.Type "knowledge-base" }}
+    {{- partial "basic/schema/blogpost.html" . }}
+{{- end }}

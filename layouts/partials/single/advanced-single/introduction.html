@@ -1,0 +1,4 @@
+<!-- Intro Paragraphs -->
+    {{ range .Params.paragraphs }}
+        <p>{{.paragraph | markdownify }}</p>
+    {{ end }}

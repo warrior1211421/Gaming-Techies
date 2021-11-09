@@ -1,0 +1,29 @@
+<div class="home-hero">
+    <div class="mainCarousel curatedCarousel">
+        <section class="feature-block top-featured listingResultsWrapper" id="homePageCarousel">
+            {{ partial "homepage/featured-section" . }}
+            <div class="ez-homepage-section home-hero-sub-posts">
+                {{ range first 4 (after 1 ( where .Site.RegularPages.ByDate.Reverse "Section" "ne" "pages")) }}
+                    <div class="feature-block-item-wrapper" itemprop="image" itemscope=""
+                        itemtype="https://schema.org/ImageObject">
+                        <a class="article-link" href="{{.Permalink}}"
+                            aria-label="{{.Title}}">
+                            <figure class="feature-block-item" data-original="{{.Params.featured_Image}}">
+                                <img loading="lazy" src="{{ .Params.featured_Image | absURL }}"
+                                    width="480" height="233" alt="{{.Title}}">
+                                <meta itemprop="url"
+                                    content="{{.Params.featured_Image | absURL }}">
+                                <meta itemprop="height" content="882">
+                                <meta itemprop="width" content="1496">
+                                <figcaption>
+                                    <span itemprop="caption" class="article-name">{{.Title}}</span>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+
+        </section>
+    </div>
+</div>

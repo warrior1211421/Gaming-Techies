@@ -1,0 +1,117 @@
+<header>
+    {{ if .Params.categories }}
+    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope
+            itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{.Site.BaseURL}}">
+              <span class="breadcrumb-list" itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        {{ with .Params.categories }}
+        <li itemprop="itemListElement" itemscope
+            itemtype="https://schema.org/ListItem">
+          <a itemscope itemtype="https://schema.org/WebPage"
+             itemprop="item" itemid="{{ index . 0 | urlize | absURL }}/"
+             href="{{ index . 0 | urlize | absURL }}/">
+            <span class="breadcrumb-list" itemprop="name">{{ index . 0 }}</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        {{ end }}
+      </ol>
+    {{ end }}
+    <h1 class="page-title">{{.Title}}</h1>
+    <div class="single-post-meta">
+        <p class="single_meta">
+            {{- if .Site.Data.authors -}}
+            {{ $author := index .Site.Data.authors (.Params.author | anchorize) }}
+            <span class="by-author">By <span style="white-space: nowrap;">{{ $author.name }}</span>
+            {{- else -}}
+            <span class="by-author">By <span style="white-space: nowrap;"> {{site.Params.Author.name}} </span>
+            {{- end -}}
+            <time class="published-date relative-date"
+                datetime="{{.Date}}"
+                data-published-date="{{.Date}}">
+                - Last Updated: <time class="entry__meta-date flex flex-row items-center  f7 "
+                    title="{{.Params.updateDate}}">
+                    {{ if .Params.updateDate }}
+                        {{dateFormat "January 2, 2006" .Params.updateDate}}
+                    {{ else }}
+                        {{dateFormat "January 2, 2006" .Date}}
+                    {{ end }}
+                </time>
+            </time>
+        </p>
+        <nav class="socialite-widget box less-space"
+            data-contexturl="{{.Permalink | absURL}}">
+            <ul class="socialite-widget-ul">
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Facebook" rel="nofollow noopener noreferrer"
+                        href="https://facebook.com/sharer.php?u={{ .Permalink | absURL }}"
+                        data-platform="facebook" target="_blank" class="facebook socialite" data-action="share"
+                        aria-label="Facebook">
+                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Twitter" rel="nofollow noopener noreferrer"
+                        href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink | absURL }}"
+                        data-platform="twitter" target="_blank" class="twitter socialite" data-action="tweet"
+                        aria-label="Twitter">
+                        <i class="fab fa-twitter" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Tumblr" rel="nofollow noopener noreferrer"
+                        href="http://www.tumblr.com/share/link?url={{.Permalink | absURL}}"
+                        data-platform="tumblr" target="_blank" class="tumblr socialite" data-action="tumblr"
+                        aria-label="Tumblr">
+                        <i class="fab fa-tumblr" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item mobile-only">
+                    <a data-component-tracking-label="Whatsapp" rel="nofollow noopener noreferrer"
+                        href="whatsapp://send?text={{.Title | htmlEscape }} {{.Permalink | absURL}}"
+                        data-platform="whatsapp" class="whatsapp socialite" data-action="message" aria-label="WhatsApp">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Reddit" rel="nofollow noopener noreferrer"
+                        href="http://www.reddit.com/submit?url={{.Permalink | absURL}}&amp;title={{.Title | htmlEscape }}"
+                        data-platform="reddit" target="_blank" class="reddit socialite" data-action="submit"
+                        aria-label="Reddit">
+                        <i class="fab fa-reddit-alien" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Pinterest" rel="nofollow noopener noreferrer"
+                        href="http://pinterest.com/pin/create/button/?url={{ .Permalink | absURL }}&description={{ .Title }}"
+                        data-platform="pinterest" target="_blank" class="pinterest socialite" data-action="pin"
+                        aria-label="Pinterest">
+                        <i class="fab fa-pinterest-p" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Linkedin" rel="nofollow noopener noreferrer"
+                        href="http://pinterest.com/pin/create/button/?url={{ .Permalink | absURL }}&description={{ .Title }}"
+                        data-platform="linkedin" target="_blank" class="linkedin socialite" data-action="pin"
+                        aria-label="linkedin">
+                        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="socialite-widget-item">
+                    <a data-component-tracking-label="Email" rel="nofollow noopener noreferrer"
+                        href="mailto:?subject=Found This Very Interesting&amp;body=This topic will be usefull {{.Permalink | absURL}}"
+                        class="email socialite" data-platform="email" aria-label="Email">
+                        <i class="fas fa-envelope" aria-hidden="true"></i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    {{ if .Params.sub_title }}
+        <p class="sub-title">{{.Params.sub_title}}</p>        
+    {{ end }}
+</header>
+
+<hr style="width:100%;border:1px dashed #d3d3d3">

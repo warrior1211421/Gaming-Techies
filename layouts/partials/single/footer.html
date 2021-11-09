@@ -1,0 +1,75 @@
+<div class="post-footer-meta">
+    <script>
+        $('.js-load-disqus').click(function() {
+            $('.js-disqus').toggle();
+        });</script>
+<button class='comment-button js-load-disqus' onclick='disqus(); return false;'>Leave a Comment</button>
+
+<nav class="socialite-widget box less-space"
+data-contexturl="{{.Permalink | absURL}}">
+<ul class="socialite-widget-ul incenter">
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Facebook" rel="nofollow noopener noreferrer"
+            href="https://facebook.com/sharer.php?u={{ .Permalink | absURL }}"
+            data-platform="facebook" target="_blank" class="facebook socialite" data-action="share"
+            aria-label="Facebook">
+            <i class="fab fa-facebook-f" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Twitter" rel="nofollow noopener noreferrer"
+            href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink | absURL }}"
+            data-platform="twitter" target="_blank" class="twitter socialite" data-action="tweet"
+            aria-label="Twitter">
+            <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Tumblr" rel="nofollow noopener noreferrer"
+            href="http://www.tumblr.com/share/link?url={{.Permalink | absURL}}"
+            data-platform="tumblr" target="_blank" class="tumblr socialite" data-action="tumblr"
+            aria-label="Tumblr">
+            <i class="fab fa-tumblr" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item mobile-only">
+        <a data-component-tracking-label="Whatsapp" rel="nofollow noopener noreferrer"
+            href="whatsapp://send?text={{.Title | htmlEscape }} {{.Permalink | absURL}}"
+            data-platform="whatsapp" class="whatsapp socialite" data-action="message" aria-label="WhatsApp">
+            <i class="fab fa-whatsapp" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Reddit" rel="nofollow noopener noreferrer"
+            href="http://www.reddit.com/submit?url={{.Permalink | absURL}}&amp;title={{.Title | htmlEscape }}"
+            data-platform="reddit" target="_blank" class="reddit socialite" data-action="submit"
+            aria-label="Reddit">
+            <i class="fab fa-reddit-alien" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Pinterest" rel="nofollow noopener noreferrer"
+            href="http://pinterest.com/pin/create/button/?url={{ .Permalink | absURL }}&description={{ .Title }}"
+            data-platform="pinterest" target="_blank" class="pinterest socialite" data-action="pin"
+            aria-label="Pinterest">
+            <i class="fab fa-pinterest-p" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Linkedin" rel="nofollow noopener noreferrer"
+            href="http://pinterest.com/pin/create/button/?url={{ .Permalink | absURL }}&description={{ .Title }}"
+            data-platform="linkedin" target="_blank" class="linkedin socialite" data-action="pin"
+            aria-label="linkedin">
+            <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+        </a>
+    </li>
+    <li class="socialite-widget-item">
+        <a data-component-tracking-label="Email" rel="nofollow noopener noreferrer"
+            href="mailto:?subject=Found This Very Interesting&amp;body=This topic will be usefull {{.Permalink | absURL}}"
+            class="email socialite" data-platform="email" aria-label="Email">
+            <i class="fas fa-envelope" aria-hidden="true"></i>
+        </a>
+    </li>
+</ul>
+</nav>
+</div>

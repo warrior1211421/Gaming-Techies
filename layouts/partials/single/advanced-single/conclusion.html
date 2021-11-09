@@ -1,0 +1,8 @@
+{{ if .Params.conclusion }}
+<div id="conclusion" class="pb2-5 c-v-a">
+    <h2>Conclusion</h2>
+    {{ range .Params.conclusion }}
+        <p>{{.paragraph | markdownify}}</p>
+    {{ end }}
+</div>
+{{ end }}

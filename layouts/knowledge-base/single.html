@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ partial "ads/sticky" . }}
+
+{{ partial "ads/above-content" . }}
+
+    <article class="news-article single-article">
+
+        {{ partial "single/meta" . }}
+        {{ partial "single/featured_image" . }}
+
+        <div class="article-with-sidebar">
+            
+            {{ partial "single/simple-single" . }}
+
+            {{ partial "sidebar/knowledge-base" . }}
+
+        </div>
+
+        {{ partial "single/editor-recommendation" . }}
+
+    </article>
+
+{{ end }}

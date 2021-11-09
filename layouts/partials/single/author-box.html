@@ -1,0 +1,51 @@
+{{ if .Params.author }}
+<style>
+    .author-box{
+        padding: 20px 30px;
+        line-height: 28px;
+        margin-bottom: 20px;
+        min-height: 100px;
+        background: 0 0;
+        clear: both;
+        text-align: center;
+        background-color: #ededed;
+    }
+    .author-box .avatar img{
+        display: block;
+        margin: 0 auto;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 10px;
+
+    }
+    .author-box .name{
+        display: inline;
+        font-weight: 700;
+        line-height: 24px;
+        font-size: 22px;
+        color:#008fb9;
+    }
+    .author-box .bio{
+        font-size: 16px;
+        line-height: 22px;
+        margin: 8px auto;
+    }
+</style>
+{{ $author := index .Site.Data.authors (.Params.author | anchorize) }}
+{{- if $author.name -}}
+<div class="author-box">
+    <div class="avatar"><img src="{{ $author.avatar | absURL }}" loading="lazy" alt="{{ $author.name }}" title="{{ $author.name }}" /></div>
+    <div class="name"><a href="{{.Site.BaseURL}}/author/{{.Params.author | anchorize}}/">{{ $author.name }}</a></div>
+    <div class="bio">{{ $author.bio }}</div>
+</div>
+{{- else -}}
+<div class="author-box">
+    <div class="avatar" style="background-image: url({{site.Params.Author.avatar}});"></div>
+    <div class="name">{{site.Params.Author.name}}</div>
+    <div class="bio">{{site.Params.Author.bio}}</div>
+</div>
+{{- end -}}
+{{ end }}

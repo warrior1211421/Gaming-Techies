@@ -1,0 +1,93 @@
+<style>
+    .homeListingResults{
+    height: 350px;
+    padding: 0 30px;
+    padding-top: 30px !important;
+    min-height: 300px;
+    max-height: 350px;
+    overflow-y: scroll;
+    box-shadow: 0 10px 20px #ededed;
+    }
+    .article-name.scroll::before{
+    content: "\00BB";
+    }
+    #categoriesList .list-title.scroll{
+    margin:0;
+    }
+    .ez-homepage-section.home-hero-sub-posts{
+        grid-template-columns: 1fr 1fr;
+    }
+</style>
+<div id="categoriesList" class="{{ if or (eq site.Params.home_section.section1 "Style 1") (eq site.Params.home_section.section2 "Style 1") }}ez-homepage-section{{ end }} home-hero-sub-posts">
+    {{ if eq site.Params.home_section.section1 "Style 1" }}
+    {{ $category1 := site.Params.home_section.section1Cat }}
+    <!-- Section 1 -->
+    <section style="background-color:white;" data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
+            <h2 class="list-title scroll"><a style="color:black" href="{{ $category1 | anchorize | absURL }}">{{$category1}}</a></h2>
+        <div class="homeListingResults"  data-sort="page" data-listkey="mixedPrimary">
+            {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $category1) }}
+            <div class="listingResult small result1" style="background-color: transparent;" itemscope="" itemtype="https://schema.org/Guide">
+                <a href="{{.Permalink |}}" class="article-link"
+                    aria-label="{{.Title}}" title="{{.Title}}">
+                    <article class="search-result search-result-review has-rating">
+                        <figure data-original="{{.Params.featured_Image}}" itemscope=""
+                            itemtype="https://schema.org/ImageObject">
+                            <link itemprop="url" href="{{.Params.featured_Image}}">
+                            <link itemprop="image" href="{{.Params.featured_Image}}">
+                            <meta itemprop="height" content="680">
+                            <meta itemprop="width" content="1200">
+                            <meta itemprop="name" content="{{.Title}}">
+                        </figure>
+                        <header>
+                            <h3 class="article-name scroll" itemprop="name caption">
+                                {{.Title}}
+                            </h3>
+                        <meta itemprop="dateCreated" content="{{.Params.updateDate}}">
+                        </header>
+                    </article>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+
+    <!-- Section 2 -->
+
+
+    {{ if eq site.Params.home_section.section2 "Style 1" }}
+    {{ $category2 := site.Params.home_section.section2Cat }}
+    <section style="background-color:white;" data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
+        <h2 class="list-title scroll"><a style="color:black" href="{{ $category2 | anchorize | absURL }}">{{$category2}}</a></h2>
+    <div class="homeListingResults"  data-sort="page" data-listkey="mixedPrimary">
+        {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $category2) }}
+        <div class="listingResult small result1" style="background-color: transparent;" itemscope="" itemtype="https://schema.org/Guide">
+            <a href="{{.Permalink |}}" class="article-link"
+                aria-label="{{.Title}}" title="{{.Title}}">
+                <article class="search-result search-result-review has-rating">
+                    <figure data-original="{{.Params.featured_Image}}" itemscope=""
+                        itemtype="https://schema.org/ImageObject">
+                        <link itemprop="url" href="{{.Params.featured_Image}}">
+                        <link itemprop="image" href="{{.Params.featured_Image}}">
+                        <meta itemprop="height" content="680">
+                        <meta itemprop="width" content="1200">
+                        <meta itemprop="name" content="{{.Title}}">
+                    </figure>
+                    <header>
+                        <h3 class="article-name scroll" itemprop="name caption">
+                            {{.Title}}
+                        </h3>
+                    {{- if .Site.Data.authors -}}
+                    {{ $author := index .Site.Data.authors (.Params.author | anchorize) }}
+                    <meta itemprop="author" content="{{ $author.name }}">
+                    {{- end -}}
+                    <meta itemprop="dateCreated" content="{{.Params.updateDate}}">
+                    </header>
+                </article>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+</div>

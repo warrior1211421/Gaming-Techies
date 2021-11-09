@@ -1,0 +1,41 @@
+<div class="editors-recommended c-v-a">
+    <div class="bound pv4">
+        <h2 class="related-posts-h">Editor's Recommended</h2>
+        <div class="e-r buying-guide-list">
+            <div class="related-posts r-p-3 e-r pv3 w-30">
+                {{ $related := .Site.RegularPages.RelatedIndices . "categories" }}
+                {{ range first 3 (shuffle $related) }}
+                <div class="c0117">
+                    <article data-relatedarticles="true">
+                        <header class="c0119">
+                            <span class="c0120"><a class="c0121" href="{{.RelPermalink | absURL }}" aria-label="{{.Title}}">{{.Title}}</a></span>
+                            <p class="c0122 byline">
+                                {{- if .Site.Data.authors -}}
+                                {{ $author := index .Site.Data.authors (.Params.author | anchorize) }}
+                                <span class="by-author">By <span style="white-space: nowrap;">{{ $author.name }}</span>
+                                {{- else -}}
+                                <span class="by-author">By <span style="white-space: nowrap;"> {{site.Params.Author.name}} </span>
+                                {{- end -}}
+                                {{ if .Params.updateDate }}
+                                - Updated <time class="entry__meta-date flex flex-row items-center  f7 "
+                                title="{{dateFormat "January 2, 2006" .Params.updateDate}}">
+                                {{dateFormat "January 2, 2006" .Params.updateDate}}
+                            </time>
+                                {{ end }}
+                            </p>
+                        </header>
+                        <div class="c0125">
+                            <div class="LazyLoad is-visible">
+                                <a class="c0126 crop-fill"
+                                    href="{{.RelPermalink | absURL }}"
+                                    aria-label="{{.Title}}"><img src="{{.Params.featured_Image}}"
+                                        width="405" height="255" alt="{{.Title}}" loading="lazy"></a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>

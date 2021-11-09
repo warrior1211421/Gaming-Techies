@@ -1,0 +1,63 @@
+<!-- HomePage Title Tags -->
+{{- if .IsHome -}}
+<title>{{.Title}} | {{ .Site.Params.tagline }}</title>
+<meta property="og:title" content="{{.Title}} | {{ .Site.Params.tagline }}" />
+<meta property="twitter:title" content="{{.Title}} | {{ .Site.Params.tagline }}" />
+{{- end -}}
+
+<!-- Page with SEO_TITLE -->
+{{- if .IsPage -}}
+{{- with .Params.seo_title }}
+<title>
+    {{.}}
+</title>
+<meta property="og:title" content="{{ . }}" />
+<meta property="twitter:title" content="{{ . }}" />
+{{- end -}}
+{{- end -}}
+
+{{- if .Site.Data.categories -}}
+<!-- Category With SEO_TITLE -->
+{{- $category := index .Site.Data.categories (.Title | anchorize) }}
+{{ if $category.seo_title }}
+{{- with $category.seo_title }}
+<title>{{ . }}</title>
+<meta property="og:title" content="{{ . }}" />
+<meta property="twitter:title" content="{{ . }}" />
+{{- end -}}
+{{- else -}}
+{{ with $category.name }}
+<title>{{ . }} | {{ $.Site.Title }}</title>
+<meta property="og:title" content="{{ . }}" />
+<meta property="twitter:title" content="{{ . }}" />
+{{ end -}}
+{{ end -}}
+{{- end -}}
+
+{{- if .Site.Data.tags -}}
+<!-- Tag With SEO_TITLE -->
+{{- $tag := index .Site.Data.tags (.Title | anchorize) }}
+{{- if $tag.seo_title -}}
+{{ with $tag.seo_title }}
+<title>{{ . }}</title>
+<meta property="og:title" content="{{ . }}" />
+<meta property="twitter:title" content="{{ . }}" />
+{{ end -}}
+{{- else -}}
+{{ with $tag.name }}
+<title>{{ . }} | {{ $.Site.Title }}</title>
+<meta property="og:title" content="{{ . }}" />
+<meta property="twitter:title" content="{{ . }}" />
+{{- end -}}
+{{ end -}}
+{{- end -}}
+
+{{- if .Site.Data.authors -}}
+<!-- Author Title -->
+{{- $author := index .Site.Data.authors (.Title | anchorize) }}
+{{ with $author.name }}
+<title>Author: {{ . }} | {{ $.Site.Title }}</title>
+<meta property="og:title" content="{{ . }}" />
+<meta property="twitter:title" content="{{ . }}" />
+{{ end }}
+{{- end -}}

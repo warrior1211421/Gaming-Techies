@@ -1,0 +1,39 @@
+<h3 class="toc_heading">Table of Contents</h3>
+<div class="static table-of-contents">
+    <span class="big-one">
+        <a href="#product-summary">
+            Summary
+        </a>
+    </span>
+    {{ if .Params.buyingGuide }}
+    <span class="big-one">
+        <a href="#buying-guide">
+            Buying Guide
+        </a>
+    </span>
+    {{ end }}
+</div>
+<ul class="table-of-contents">
+    {{ range .Params.the_products }}
+    <li>
+        <a href="#{{.name | anchorize}}"> {{.name}}
+        </a>
+    </li>
+    {{ end }}
+</ul>
+<div class="static table-of-contents">
+    {{ if .Params.conclusion }}
+    <span class="big-one">
+        <a href="#conclusion">
+            Conclusion
+        </a>
+    </span>
+    {{ end }}
+    {{ if .Params.faqs }}
+    <span class="big-one">
+        <a href="#frequently-asked-questions">
+            FAQs
+        </a>
+    </span>
+    {{ end }}
+</div>

@@ -1,0 +1,264 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+editor:
+  preview: false
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+    #meta -->
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "posts"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Trending", name: "trending", widget: "boolean", default: false, required: false}
+      - {label: "Trending Name", name: "trendname", widget: "string", required: false}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Discription", name: "meta_Description", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "meta_Keywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "relation", required: false, collection: "authors", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image", name: "featured_Image", widget: "image", hint: "Recommended Size: 1200x680", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      #Intro-Paragraphs -->
+      - {label: "Paragraphs", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
+      #Buying Guide
+      - {label: Buying Guice Heading, name: buyingGuideHead, required: false, widget: string }
+      - {label: Buying Guice, name: buyingGuide, required: false, widget: markdown }
+      #Summary & Main-Heading -->
+      - {label: At A Glance, name: product_Summary, required: false, widget: string }
+      - {label: Main Haeding, name: product_Mheading, required: false, widget: string }
+      - {label: "Product Table", name: "product_table", widget: "boolean", default: false, required: false}
+      #Product Recommendations
+      - {label: "Recommendation", name: "the_products",widget: "list", required: false, fields: [
+            {label: "Name/Modal", required: false, name: name, widget: string },
+            {label: "NameForTOC", required: false, name: nameForTOC, widget: string },
+            {label: Award, required: false, name: award, widget: string },
+            {label: Summary Award, required: false, name: summary_award, widget: string },
+
+            {label: Design, required: false, name: image, widget: image},
+            {label: "Affiliate Link", required: false, name: amzlink, widget: string },
+            # Specifications
+            {label: Specifications, name: specifications, required: false, widget: "list", fields: 
+              [ {label: Specification, name: specification, widget: markdown } ] 
+            },
+             #Pros & Cons
+            {label: Pros, name: pros, required: false, widget: "list", fields: 
+              [ {label: Pro, name: pro, widget: string } ] 
+            },
+            {label: Cons, name: cons, required: false, widget: "list", fields: 
+              [ {label: Con, name: con, widget: string } ]
+            },
+            #Product Paragraphs
+            {label: Paragraphs, name: paragraphs, required: false, widget: "list", fields: 
+              [ {label: Paragraph, name: paragraph, widget: markdown } ]
+            }
+      ] }
+      # Below Producs
+      - {label: "Conclusion", name: "conclusion", required: false, widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
+      #Frequently Asked Questions
+      - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 
+        [ {label: "Question", name: "question", widget: "string" },
+          {label: "Answer", name: "answer", widget: "markdown" } 
+        ] }
+
+
+
+#KnowledgeBase Collection
+  - name: "knowledge-base"
+    label: "Knowledge Base"
+    folder: "content/knowledge-base"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "knowledge-base"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Trending", name: "trending", widget: "boolean", default: false, required: false}
+      - {label: "Trending Name", name: "trendname", widget: "string", required: false}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Discription", name: "meta_Description", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "meta_Keywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "relation", required: false, collection: "authors", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image", name: "featured_Image", widget: "image", hint: "Recommended Size: 1200x680", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      #Frequently Asked Questions
+      - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 
+        [ {label: "Question", name: "question", widget: "string" },
+          {label: "Answer", name: "answer", widget: "markdown" } 
+        ] }
+
+#Pages Collection
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "pages"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Discription", name: "meta_Description", widget: "text", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+#Categories Collection
+  - name: categories
+    label: Categories
+    folder: data/categories/
+    create: true
+    extension: toml
+    preview_path: "{{fields.url}}"
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name, required: false}
+      - {name: seo_title, label: SEO Title, required: false}
+      - {name: meta_Description, label: SEO Discription, widget: text, required: false}
+
+
+#Tags Collection
+  - name: tags
+    label: Tags
+    folder: data/tags/
+    preview_path: "{{fields.url}}"
+    create: true
+    extension: toml
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name, required: false}
+      - {name: seo_title, label: SEO Title, required: false}
+      - {name: meta_Description, label: SEO Discription, widget: text, required: false}
+
+#Authos Collection
+  - name: authors
+    label: Authors
+    folder: data/authors/
+    create: true
+    extension: toml
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name, required: false}
+      - {name: avatar, label: Avatar, widget: image, required: false}
+      - {name: bio, label: Author Bio, widget: markdown, required: false}
+      - {name: authorMail, label: Contact Mail, widget: string, required: false}
+
+#Settings
+  - name: settings
+    label: Site Settings
+    files: 
+      - label: "About Site"
+        name: "about"
+        file: "/config.toml"
+        fields:
+          - { label: Site URL, name: baseURL, widget: string, required: false }
+          - { label: Site Title, name: title, widget: string, required: false }
+          - { label: Language, name: languageCode, widget: string, default: en-us, required: false }
+          - { label: Total Post to Show on Frontpage, name: paginate, widget: string, default: 8, required: false }
+          - { label: Google Analytics Code, name: googleAnalytics, widget: string, required: false }
+          - { label: Disqus Shortname, name: DisqusShortname, widget: string, required: false }
+
+      - label: "SEO Settings"
+        name: "seo_settings"   
+        file: "/config/_default/params.toml"
+        fields:
+          - {label: Site Logo, name: logo, widget: image, hint: 'height 90px max will fit here', required: false}
+          - {label: Favicon, name: icon, widget: image, hint: '128x128.', required: false}
+          - {label: Extended Title, name: tagline, widget: string, required: false}    
+          - {label: Contact eMail, name: contacteMail, widget: string, required: false}
+          - {label: Header Text, name: headerText, widget: markdown, required: false}
+          - {label: Footer Text, name: footerText, widget: markdown, required: false}
+          - label: "Site Colors"
+            name: "colors"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: Main Color, name: mainColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: Text Color, name: textColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: Link Color, name: linkColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+          - label: "Open Graph Meta"
+            name: "open_graph"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Meta Description, name: meta_Description, widget: text, required: false}
+             - {label: Meta Image, name: image, hint: '1920x1080', widget: image, required: false }
+             - {label: Facebook Publisher, name: FacebookPublisher, widget: string, required: false}
+             - {label: Facebook Author, name: FacebookAuthor, widget: string, required: false}
+             - {label: Twitter Publisher, name: TwitterPublisher, widget: string, required: false}
+             - {label: Twitter Author, name: TwitterAuthor, widget: string, required: false}
+          - label: "Site Verifications"
+            name: "verifications"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Google Search Console Tag, name: googleSiteVerify, widget: string, required: false}
+             - {label: Bing Webmaster Tag, name: BingWebmaster, widget: string, required: false}
+             - {label: Pinterest Tag, name: PinterestVerify, widget: string, required: false}
+             - {label: Yandex Tag, name: YandexVerify, widget: string, required: false}         
+          - label: "Social Media Accounts"
+            name: "social_accounts"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: Facebook, name: sitefbAccount, widget: string, required: false}
+              - { label: Twitter, name: sitetwitterAccount, widget: string, required: false}
+              - { label: Instagram, name: siteinstagramAccount, widget: string, required: false}
+              - { label: Pinterest, name: sitepinterestAccount, widget: string, required: false}
+              - { label: YouTube, name: siteYouTubeAccount, widget: string, required: false}
+          - label: "Homepage Sections"
+            name: "home_section"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Section 1, name: section1, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
+             - {label: "Section 1 Category", name: "section1Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+             - {label: Section 2, name: section2, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
+             - {label: "Section 2 Category", name: "section2Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+             - {label: Section 3, name: section3, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
+             - {label: "Section 3 Category", name: "section3Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+             - {label: Section 4, name: section4, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
+             - {label: "Section 4 Category", name: "section4Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+          - label: "Post Settings"
+            name: "post_setting"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Show Featured Image, name: featured_img, widget: boolean, required: false}
+
+
+      - label: "Below Header Ad Code"
+        name: "below_header_ad"
+        file: /layouts/partials/ads/above-content.html
+        fields:
+          - { label: Code, name: body, widget: text, required: false }
+      - label: "Below Products Ad Code"
+        name: "below_products_ad"
+        file: /layouts/partials/ads/below-product.html
+        fields:
+          - { label: Code, name: body, widget: text, required: false }
+      - label: "Sidebar Ad Code"
+        name: "sidebar_ad"
+        file: /layouts/partials/ads/sidebar.html
+        fields:
+          - { label: Code, name: body, widget: text, required: false }

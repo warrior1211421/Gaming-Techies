@@ -1,0 +1,19 @@
+<footer style="position: relative; bottom:0; width:100%" id="document-footer" class="c-v-a">
+    <style>
+        .footer-text{
+            font-size:14px !important;
+            line-height: 1.5;
+        }
+    </style>
+    <div id="document-footer-content" class="container full">
+    <p class="footer-text">{{.Site.Params.footerText}}</p>
+        <nav>
+            <ul>
+                {{ range .Site.Menus.footer }}
+                <li><a href="{{.URL}}">{{.Name}}</a></li>
+                {{end}}
+            </ul>
+        </nav>
+        <p class="footer-text">© {{.Site.Title}} - {{now.Format "2006"}} All Right Reserved.</p>
+    </div>
+</footer>

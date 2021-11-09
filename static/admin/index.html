@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard | Content Management</title>
+</head>
+<style>
+  body, .css-f3a0ud-NoPreviewContainer-card-splitPane{
+    background-color: #333 !important;
+  }
+  .css-1prcas7-ControlPaneContainer{
+    max-width: 1200px !important;
+    padding-bottom: 100px !important;
+  }
+  .css-15ugu1-StyledP{
+    margin-bottom: 18px !important;
+    line-height: 1.7 !important;
+  }
+  .css-y6l81z-StyledH2{
+    font-weight: 700 !important;
+    line-height: 2 !important;
+    font-size: 24px !important;
+    margin: 20px 0 !important;
+  }
+</style>
+<body>
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    CMS.registerEditorComponent({
+      id: "advance_img",
+      label: "Advance Image",
+      fields: [
+          {
+              name: "the_image",
+              label: "Image",
+              widget: "image"
+          },
+          {
+            label: "Align Image",
+            name: "align",
+            widget: "select",
+            options: ["left", "center", "right"]
+          },
+          {
+            label: "Image Size",
+            name: "resize",
+            widget: "select",
+            options: ["exsmall", "small", "medium", "large", "full"]
+          },
+          {
+            label: "Alt & Title",
+            name: "title",
+            widget: "string"
+          },
+      ],
+      pattern: /{{< img src="([a-zA-Z0-9-_ ]+)" align="([a-zA-Z0-9-_ ]+)" resize="([a-zA-Z0-9-_ ]+)" alt="([a-zA-Z0-9-_ ]+)" title="([a-zA-Z0-9-_ ]+)" >}}/,
+      fromBlock: function(match) {
+          return {
+              the_image: match[1],
+              align: match[2],
+              resize: match[3],
+              title: match[4],
+          };
+      },
+      toBlock: function(obj) {
+          return `{{< img src="${obj.the_image}" align="${obj.align}" resize="${obj.resize}" alt="${obj.title}" title="${obj.title}" >}}`;
+      },
+      toPreview: function(obj) {
+          return (`<figure><img src=${obj.the_image} alt=${obj.title}><figcaption>${obj.title}</figcaption></figure>`);
+      },
+  });
+  </script>
+</body>
+</html>

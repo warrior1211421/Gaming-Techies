@@ -1,0 +1,24 @@
+<div id='disqus_thread' style="padding-top: 30px;
+border-top: 1px #eee solid;
+margin-top: 20px;"></div>
+<script>
+  var disqus_shortname = '{{.Site.DisqusShortname }}';
+
+  // DON'T EDIT BELOW THIS LINE
+  var disqus_config = function () {
+    this.page.url = '{{ .Permalink | absURL }}';
+  };
+
+  function disqus() {
+    var d = document, s = d.createElement('script');
+
+    s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+
+    document.getElementsByClassName('js-load-disqus')[0].setAttribute('disabled', '');
+    document.getElementsByClassName('js-load-disqus')[0].classList.add('comment-button--disabled');
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript' rel='nofollow'>comments powered by Disqus.</a></noscript>

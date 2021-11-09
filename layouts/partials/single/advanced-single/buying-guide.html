@@ -1,0 +1,10 @@
+{{ if .Params.buyingGuide }}
+<div id="buying-guide">
+    {{ if .Params.buyingGuideHead }}
+        <h2>{{.Params.buyingGuideHead}}</h2>
+    {{ else }}
+        <h2>Quick Buying Tips!</h2>
+    {{ end }}
+    <p>{{.Params.buyingGuide | markdownify}}</p>
+</div>
+{{ end }}

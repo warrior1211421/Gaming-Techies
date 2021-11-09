@@ -1,0 +1,21 @@
+{{ if eq site.Params.post_setting.featuredImage true }}
+<div class="box less-space hero-image-wrapper" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+    <figure>
+        <div style="position: relative; width: 100%;">
+            <div class="hero-image-padding-wrap padding-on">
+                <picture>
+                    <img itemprop="contentUrl" src="{{.Params.featured_Image}}" alt="{{.Title}}" class="block-image-ads hero-image" width="{{ site.Params.open_graph.imageW | default "1200" }}" height="{{ site.Params.open_graph.imageH | default "680" }}" loading="lazy">
+                </picture>
+            </div>
+        </div>
+        <meta itemprop="url" content="{{.Permalink}}">
+        <meta itemprop="name" content="{{.Title}}">
+        <meta itemprop="height" content="{{ site.Params.open_graph.imageH | default "680" }}">
+        <meta itemprop="width" content="{{ site.Params.open_graph.imageW | default "1200" }}">
+        <figcaption>
+            <span class="caption" itemprop="caption">{{.Title}} </span>
+            <span class="credit">(Image: © <span itemprop="copyrightHolder">{{.Site.Title}}</span>)</span>
+        </figcaption>
+    </figure>
+    </div>
+{{ end }}

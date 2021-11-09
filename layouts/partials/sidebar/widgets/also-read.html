@@ -1,0 +1,15 @@
+    <h3 class="ttu f6 w-100 pb2 mv0 latest-posts-heading">Also Read</h3>
+    {{ $related := .CurrentSection.RegularPages.Related .}}
+    {{ range first 3 (shuffle $related) }}
+        <div class="flex sidebar-post pv2-5 b-bottom-d">
+            <a href="{{.Permalink}}">
+                <img src="{{.Params.featured_image}}"
+                    width="115" alt="{{.Title}}" loading="lazy">
+            </a>
+            <div class="flex flex-column items-start ml2 w-100">
+                <a href="{{.Permalink}}">
+                    <h3 class="f6 truncate-2 mb2 mt0">{{.Title}}</h3>
+                </a>
+            </div>
+        </div>
+    {{ end }}

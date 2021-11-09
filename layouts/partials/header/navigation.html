@@ -1,0 +1,24 @@
+<div class="wrapper">
+    <div class="menuitems container full" role="menubar">
+        <ul class="nav-list component-loaded" data-component="nav" role="menu">
+            {{ range .Site.Menus.main }}
+            {{ if .Children }}
+                <li class="menu-item menu-item-{{ .Name | urlize }} menu-level-1 has-submenu menu-item-hover-reveal">
+                    <span style="margin-right: 3px;">{{.Name}}</span>
+                    <ul class="sub-menu" data-{{ .Name | urlize }}-submenu="{{ .Name | urlize }}" role="menu">
+                        {{ range .Children }}
+                            <li class="sub-menu-item menu-level-2 primary-style" role="menuitem">
+                                <a aria-label="{{ .Name }}" href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ else }}
+                <li class="menu-item menu-item-{{ .Name | urlize }}" data-menuitem="{{ .Name | urlize }}" role="menuitem">
+                    <a data-component-label="{{ .Name | urlize }}" aria-label="{{ .Name | urlize }}" class="nav-name-{{ .Name | urlize }}" href="{{.URL | absURL}}" class="nav-link">{{.Name}}</a>
+                </li>
+            {{ end }}
+        {{ end }}
+        </ul>
+    </div>
+</div>

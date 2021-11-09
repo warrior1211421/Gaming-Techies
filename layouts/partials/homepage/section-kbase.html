@@ -1,0 +1,48 @@
+<div id="categoriesList" class="ez-homepage-section">
+    <section data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
+        <header>
+            <h2 class="list-title" style="background-color: color:var(--textColor);"><a href="{{ "knowledge-base" | absURL }}">Knowledge Base</a></h2>
+        </header>
+        <div class="listingResults mixedPrimary" data-sort="page" data-listkey="mixedPrimary">
+            {{ range first 6 ( where .Site.RegularPages.ByDate.Reverse "Section" "eq" "knowledge-base") }}
+            <div class="listingResult small result1">
+                <a href="{{.Permalink}}" class="article-link"
+                    aria-label="{{.Title}}">
+                    <article class="search-result search-result-review has-rating">
+                        <div class="image" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+                            <figure class="article-lead-image-wrap"
+                                data-original="{{.Params.featured_Image}}">
+                                <img src="{{.Params.featured_Image}}"
+                                    width="480" height="233" alt="{{.Title}}" loading="lazy">
+                                <meta itemprop="url"
+                                    content="{{.Params.featured_Image}}">
+                                <meta itemprop="height" content="{{ site.Params.open_graph.imageH | default "680" }}">
+                                <meta itemprop="width" content="{{ site.Params.open_graph.imageW | default "1200" }}">
+                            </figure>
+                        </div>
+                        <div class="content">
+                            <header>
+                                <h3 class="article-name">{{.Title}}</h3>
+                                <p class="byline">
+                                    <time class="published-date relative-date"
+                                        datetime="{{.Date}}"
+                                        data-published-date="{{.Date}}">
+                                        - Last Updated: <time class="entry__meta-date flex flex-row items-center  f7 "
+                                            title="{{.Params.updateDate}}">
+                                            {{ if .Params.updateDate }}
+                                                {{dateFormat "January 2, 2006" .Params.updateDate}}
+                                            {{ else }}
+                                                {{dateFormat "January 2, 2006" .Date}}
+                                            {{ end }}
+                                        </time>
+                                    </time>
+                                </p>
+                            </header>
+                        </div>
+                    </article>
+                </a>
+            </div>  
+            {{ end }}
+        </div>
+    </section>
+</div>

@@ -1,0 +1,16 @@
+{{ define "main" }}
+    
+<article class="news-article single-article">
+    {{ partial "single/meta" . }}
+    {{ partial "single/featured_image" . }}
+    <div class="article-with-sidebar">
+    {{ partial "single/advanced_single" . }}
+    {{ partial "sidebar/index" . }}
+    </div>
+
+    {{ partial "single/editor-recommendation" . }}
+
+</article>
+
+
+{{ end }}

@@ -1,0 +1,10 @@
+
+<div id="article-body" class="text-copy contentBody">
+    
+    <article class="article">{{ .Content | htmlUnescape | safeHTML }}</article>
+
+    {{ partial "single/author-box" . }}
+    {{ partial "single/footer" . }}
+    {{ partial "single/disqus" . }}
+
+</div>
