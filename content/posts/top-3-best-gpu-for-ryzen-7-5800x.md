@@ -12,6 +12,8 @@ author: Gabriel
 date: 2021-11-09T16:39:33.570Z
 updateDate: 2021-11-09T16:39:33.590Z
 featured_Image: /uploads/best-gpu-for-ryzen-7-5800x.webp
+categories:
+  - Buying Guides
 paragraphs:
   - paragraph: >-
       Getting the **best GPU for Ryzen 7 5800x** is extremely important: despite
