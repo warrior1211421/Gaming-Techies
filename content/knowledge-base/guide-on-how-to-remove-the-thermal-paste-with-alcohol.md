@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Remove the Thermal Paste with Alcohol
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 trendname: How to Remove the Thermal Paste with Alcohol
 seo_title: How to Remove the Thermal Paste with Alcohol - Complete Guide
