@@ -31,6 +31,13 @@
     <div class="subtitle">
         <p>{{.award}}</p>
     </div>
+	        <p class="amazon-link">
+            <a href="{{.amzlink}}" aria-label="{{.name}}"
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
+            <a href="{{.amzlink}}"
+                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
+                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
+        </p>
     <div class="specifications">
     {{ range .specifications }}
     {{ if .specification }}
@@ -60,13 +67,6 @@
                 {{ end }}
             </div>
         </div>
-        <p class="amazon-link">
-            <a href="{{.amzlink}}" aria-label="{{.name}}"
-                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
-            <a href="{{.amzlink}}"
-                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
-                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
-        </p>
     </div>
     {{ range .paragraphs }}
         <p>{{.paragraph | markdownify}}</p>
