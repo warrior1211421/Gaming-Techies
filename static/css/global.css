@@ -205,7 +205,7 @@ img.logo {
 
 .has-submenu span::after{
     content: "\f0d7";
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Poppins';
     margin-left: 3px;
 }
 
@@ -1661,7 +1661,7 @@ ul.table-of-contents li a{
     color: #000 !important;
     border-radius: 7px !important;
     font-weight: bold !important;
-    font-family: Segoe UI, Open Sans, sans-serif !important;
+    font-family: 'Poppins' !important;
     text-transform: uppercase !important;
     text-align: center !important;
 }
