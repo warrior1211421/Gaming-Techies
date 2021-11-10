@@ -39,6 +39,19 @@
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
+        <p class="amazon-link">
+            <a href="{{.amzlink}}" aria-label="{{.name}}"
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
+            <a href="{{.amzlink}}"
+                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
+                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
+        </p>
+    </div>
+    {{ range .paragraphs }}
+        <p>{{.paragraph | markdownify}}</p>
+    {{ end }}
+    {{ partial "ads/below-product" . }}
+</div>
     <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
@@ -60,17 +73,4 @@
                 {{ end }}
             </div>
         </div>
-        <p class="amazon-link">
-            <a href="{{.amzlink}}" aria-label="{{.name}}"
-                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
-            <a href="{{.amzlink}}"
-                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
-                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
-        </p>
-    </div>
-    {{ range .paragraphs }}
-        <p>{{.paragraph | markdownify}}</p>
-    {{ end }}
-    {{ partial "ads/below-product" . }}
-</div>
 {{ end }}
