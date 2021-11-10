@@ -1,7 +1,7 @@
 ---
 title: Top 3 Best GPU for for Ryzen 7 5800x
 type: posts
-draft: true
+draft: false
 trending: true
 trendname: Ryzen 7 5800x
 seo_title: Top 3 Best GPU for Ryzen 7 5800x
