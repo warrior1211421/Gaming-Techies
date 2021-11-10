@@ -14,7 +14,8 @@ author: Gabriel
 date: 2021-11-09T16:47:54.108Z
 updateDate: 2021-11-09T16:47:54.134Z
 featured_Image: /uploads/how-to-remove-the-thermal-paste-with-alcohol.webp
-categories: []
+categories:
+  - Learning Guides
 faqs:
   - question: What is the best motherboard for AMD overclocking?
     answer: Usually, overclockers prefer MSI motherboards for their stable BIOS and
