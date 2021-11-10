@@ -2,7 +2,7 @@
 title: Guide on How to Remove the Thermal Paste with Alcohol
 type: knowledge-base
 draft: false
-trending: false
+trending: true
 trendname: How to Remove the Thermal Paste with Alcohol
 seo_title: How to Remove the Thermal Paste with Alcohol - Complete Guide
 meta_Description: You need to remove the dried-up thermal paste to make room for
@@ -14,8 +14,7 @@ author: Gabriel
 date: 2021-11-09T16:47:54.108Z
 updateDate: 2021-11-09T16:47:54.134Z
 featured_Image: /uploads/how-to-remove-the-thermal-paste-with-alcohol.webp
-categories:
-  - Learning Guides
+categories: []
 faqs:
   - question: What is the best motherboard for AMD overclocking?
     answer: Usually, overclockers prefer MSI motherboards for their stable BIOS and
