@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 type: pages
-draft: true
+draft: false
 seo_title: Privacy Policy - Gaming Techies
 meta_Description: This is the privacy policy page of Gaming Techies. learn how
   we maintain the privacy of our users. we take full responsibility for our
