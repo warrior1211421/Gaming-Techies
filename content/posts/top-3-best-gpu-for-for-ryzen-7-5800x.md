@@ -36,22 +36,6 @@ paragraphs:
 
 
       All of the following GPUs are highly tested for their performance, longevity, and advanced features. These additions are highly necessary for any gaming processor to have to support the modern, advanced, and high-FPS demanding games.
-  - paragraph: When you pair this advanced processor with the right GPU that is made
-      exclusively for this type, you will see the performance of your processor
-      automatically heading to an exceptionally great level. Here you will get
-      the list of GPUs that will be helpful for you to get the right one for
-      your processor type and your gaming requirements.
-  - paragraph: AMD Ryzen 7 5800x is an 8-cores processor that comes featured with
-      high-FPS gaming rings. It is the newest generation Ryzen processor that
-      comes with advanced features. It is manufactured to provide the user with
-      a higher boost clock and the same amount of threads and cores. This is
-      probably the reason why this processor is widely regarded as one of the
-      best gaming processors in the market.
-  - paragraph: When you pair this advanced processor with the right GPU that is made
-      exclusively for this type, you will see the performance of your processor
-      automatically heading to an exceptionally great level. Here you will get
-      the list of GPUs that will be helpful for you to get the right one for
-      your processor type and your gaming requirements.
 buyingGuideHead: Buyer’s Guide for Buying the Best GPU for Ryzen 7 5800x
 buyingGuide: >-
   Buying the best GPU for your gaming system is not an easy task: you have to
