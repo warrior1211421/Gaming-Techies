@@ -167,31 +167,6 @@ the_products:
 
 
           With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
-      - paragraph: >-
-          #### Conclusion 
-
-
-          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
-      - paragraph: >-
-          #### Conclusion 
-
-
-          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
-      - paragraph: >-
-          #### Conclusion 
-
-
-          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
-      - paragraph: >-
-          #### Conclusion 
-
-
-          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
-      - paragraph: >-
-          #### Conclusion 
-
-
-          With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
     pros:
       - pro: asd
       - pro: asd
@@ -201,7 +176,6 @@ the_products:
     name: EVGA 08G-P5-3755-KR
     specifications:
       - specification: "**Brand:** 123 | **Name**: 123"
-      - specification: "**Name**: 123"
     cons:
       - con: asd
     image: /uploads/xfx-rx-5600-xt-thicc.webp
@@ -220,11 +194,6 @@ the_products:
 
 
           Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements.
-      - paragraph: Lastly, the thing that will push you towards making your final
-          decision of buying it is that it is highly durable and long-living. It
-          is the best thing because it will keep you at ease with your
-          expenditure as you know the thing you are going to buy will last for a
-          long to serve your gaming requirements.
     pros:
       - pro: asd12
       - pro: asd123
@@ -234,17 +203,16 @@ the_products:
     name: EVGA 08G-P5-3755-KR
     specifications:
       - specification: "**Brand:** 123 | **Name**: 123"
-      - specification: "**Name**: 123"
     cons:
       - con: "123"
     image: /uploads/xfx-rx-5600-xt-thicc.webp
     award: EVGA 08G-P5-3755-KR
 conclusion:
-  - paragraph: >-
-      ### Final Discussion
-
-
-      It is suggested to look out for the best GPU for Ryzen 7 5800X if you want to have the most exclusive gaming experience of your life. The GPU-processor compatibility is extremely important for your gaming system: it will help you keep going efficiently in your gaming rounds and will keep you ahead in your passion all the time.
+  - paragraph: "It is suggested to look out for the best GPU for Ryzen 7 5800X if
+      you want to have the most exclusive gaming experience of your life. The
+      GPU-processor compatibility is extremely important for your gaming system:
+      it will help you keep going efficiently in your gaming rounds and will
+      keep you ahead in your passion all the time."
 faqs:
   - question: Is Ryzen 7 5800x good for gaming?
     answer: It is considered the most advanced and most amazing unit that you can
