@@ -32,7 +32,7 @@ faqs:
       for the next two years. However, you need a suitable GPU to play the game
       at recommended settings.
 ---
-Thermal paste is an important part of every system that ensures optimum heat transfer under immense load conditions. There is a myth that thermal paste cools the system temperature itself, which is completely wrong. Instead, a thermal paste acts as a conductor to transfer the heat from the processor and GPU to the heatsinks by filling the micro-voids. However, the paste gets dried out with the passage of time and requires immediate replacement. So, if you face such problems, I will tell you **how to remove the thermal paste with alcohol and a rubbing cloth.**
+Thermal paste is an important part of every system that ensures optimum heat transfer under immense load conditions. There is a myth that thermal paste cools the system temperature itself, which is completely wrong. Instead, a thermal paste acts as a conductor to transfer the heat from the processor and GPU to the heatsinks by filling the micro-voids. However, the paste gets dried out with the passage of time and requires immediate replacement. So, if you face such problems, I will tell you **how to remove the thermal paste with alcohol and a rubbing cloth.s**
 
 ## Why do you Need to Remove the Thermal Paste?
 
