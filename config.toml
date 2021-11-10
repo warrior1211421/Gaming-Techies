@@ -1,8 +1,8 @@
 languageCode = "en-us"
-DisqusShortname = "gaming-techies"
+DisqusShortname = ""
 baseURL = "https://sitedesigntest.netlify.app/"
 googleAnalytics = "UA-XXXXXXXXX-XX"
-title = "Gaming Techies"
+title = ""
 paginate = "14"
 assetDir = "static"
 
