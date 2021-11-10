@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact Us - Gaming Techies
 type: pages
 draft: false
 seo_title: Contact Us
