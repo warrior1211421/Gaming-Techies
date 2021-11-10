@@ -28,13 +28,13 @@ sitepinterestAccount = "https://www.pinterest.com/gamingtechies76/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
 [home_section]
-section1 = "Style 2"
+section1 = "Style 1"
 section1Cat = "Buying Guides"
-section2 = "Style 2"
-section2Cat = "Buying Guides"
-section3 = "Style 2"
-section3Cat = "Learning Guides"
-section4 = "Style 2"
+section2 = "Style 1"
+section2Cat = "Monitors"
+section3 = "Style 1"
+section3Cat = "Motherboards"
+section4 = "Style 1"
 section4Cat = "Learning Guides"
 
 [post_setting]
