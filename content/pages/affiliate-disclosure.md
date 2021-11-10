@@ -1,7 +1,7 @@
 ---
 title: Affiliate Disclosure
 type: pages
-draft: false
+draft: true
 seo_title: Affiliate Disclosure - Gaming Techies
 meta_Description: Amazon and/or other companies pay Gaming Techies a small
   commission or other compensation for helping to bring customers to their
