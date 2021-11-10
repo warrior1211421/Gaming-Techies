@@ -119,7 +119,7 @@ buyingGuide: >-
 
   It is suggested to look out for the best GPU for Ryzen 7 5800X if you want to have the most exclusive gaming experience of your life. The GPU-processor compatibility is extremely important for your gaming system: it will help you keep going efficiently in your gaming rounds and will keep you ahead in your passion all the time.
 product_Summary: ads
-product_Mheading: asd
+product_Mheading: asdasd
 product_table: true
 the_products:
   - summary_award: EVGA 08G-P5-3755-KR 123123
