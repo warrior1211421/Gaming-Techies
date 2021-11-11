@@ -34,10 +34,6 @@
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
-		<div>
-    {{ range .paragraphs }}
-        <p>{{.paragraph | markdownify}}</p>
-		</div>
 			 <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
@@ -61,6 +57,8 @@
         </div>
     </div>
 	<div>
+    {{ range .paragraphs }}
+        <p>{{.paragraph | markdownify}}</p>
 			        <p class="amazon-link">
             <a href="{{.amzlink}}" aria-label="{{.name}}"
                 class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
