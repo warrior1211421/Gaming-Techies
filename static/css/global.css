@@ -351,7 +351,7 @@ img.logo {
 }
 
 .list-text-links .list-title {
-    color: #000;
+    color: #fff;
     font-size: 16px;
     font-weight: 700;
     padding-left: 20px;
@@ -414,7 +414,7 @@ img.logo {
     text-align: center;
     margin-bottom: 20px;
     text-transform: uppercase;
-	color: white;
+	color: #000;
     border-top: 2px solid var(--mainColor);
     border-bottom: 2px solid var(--mainColor)
 }
