@@ -59,6 +59,33 @@
 	<div>
     {{ range .paragraphs }}
         <p>{{.paragraph | markdownify}}</p>
+		    <div class="specifications">
+    {{ range .specifications }}
+        <p class="specs__text">{{ .specification | markdownify }}</p>
+    {{ end }}
+    </div>
+			 <div class="p-and-c">
+        <div class="w-100 flex pros-and-cons mb2-5">
+            <div class="w-100 pros black mr2">
+                <h4 class="mb3 f4 ttu pros">Pros</h4>
+                {{range .pros}}
+                <p class="flex flex-row items-start">
+                    <span class="bg-greene teal br-50 mr2 tc f5 single-post-recommendation-pros-cons">✓</span>
+                    <span>{{.pro}}</span>
+                {{end}}
+                </p>
+            </div>
+            <div class="w-100 cons black">
+                <h4 class="mb3 f4 ttu cons">Cons</h4>
+                {{ range .cons }}
+                <p class="flex flex-row items-start">
+                        <span class="bg-rede grey-4 f5 br-50 tc mr2 single-post-recommendation-pros-cons">✗</span>
+                        <span>{{.con}}</span>
+                    </p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
 			        <p class="amazon-link">
             <a href="{{.amzlink}}" aria-label="{{.name}}"
                 class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
