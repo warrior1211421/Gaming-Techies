@@ -106,11 +106,8 @@ buyingGuide: >-
 
 
   It is suggested to look out for the best GPU for Ryzen 7 5800X if you want to have the most exclusive gaming experience of your life. The GPU-processor compatibility is extremely important for your gaming system: it will help you keep going efficiently in your gaming rounds and will keep you ahead in your passion all the time.
-
-
-  ## Our Recommendations For Best Motherboard for Ryzen 5 5600X
-product_Summary: ""
-product_Mheading: ""
+product_Summary: Best Motherboard for Ryzen 5 5600X
+product_Mheading: Best Motherboard for Ryzen 5 5600X
 product_table: true
 the_products:
   - summary_award: Best GPU for Gaming
@@ -183,9 +180,6 @@ the_products:
 
 
           Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements.
-
-
-          ## Summary For Best Motherboard for Ryzen 5 5600X
     pros:
       - pro: asd12
       - pro: asd123
