@@ -40,10 +40,7 @@
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
-	<div>
-    {{ range .paragraphs }}
-        <p>{{.paragraph | markdownify}}</p>
-					 <div class="p-and-c">
+			 <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
                 <h4 class="mb3 f4 ttu">REASONS TO BUY</h4>
@@ -65,6 +62,9 @@
             </div>
         </div>
     </div>
+	<div>
+    {{ range .paragraphs }}
+        <p>{{.paragraph | markdownify}}</p>
 		</div>
     {{ end }}
     {{ partial "ads/below-product" . }}
