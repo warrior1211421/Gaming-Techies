@@ -608,7 +608,12 @@ article figure {
 
 .w-100.pros.black.mr2{
 	width: 50%;
-	background-color: #fff;
+	background-color: hsla(0,0%,80%,.23137);
+    margin: 0!important;
+}
+.w-100.cons.black{
+	width: 50%;
+	background-color: hsla(0,0%,80%,.23137);
     margin: 0!important;
 }
 
@@ -617,15 +622,11 @@ article figure {
     padding: 10px;
     color: white;
 }
+
 .mb3.f4.ttu.cons{
 	background: #db4437;
     padding: 10px;
     color: white;
-}
-.w-100.cons.black{
-	width: 50%;
-	background-color: #fff;
-    margin: 0!important;
 }
 
 .s-p-s-g .image-figure {
