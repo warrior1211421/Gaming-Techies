@@ -29,17 +29,17 @@ In compliance with the FTC guidelines, please assume the following about links a
 
 Any/all of the links on gamingtechies.com are affiliate links for which I receive a small compensation from sales of certain items.
 
-### 1. Amazon affiliate links.
+### 1. Amazon Affiliate Links.
 
 gamingtechies.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for website owners to earn fees by linking to Amazon.com and affiliated sites, as well as to other websites that may be affiliated with Amazon Service LLC Associates Program.
 
-### 2. Product affiliate links.
+### 2. Product Affiliate Links.
 
 If you click a product affiliate link and buy the product, then I will get a percentage of the sale or some other type of compensation.
 
 Again, prices are not different if you use these affiliate links. You will not pay more by clicking through to the link. These links are not “pay per click.”
 
-### What about sponsored content?
+### What About Sponsored Content?
 
 I do not write sponsored posts. I want to provide authentic, un-biased information. However, if a company would like to publish sponsored content on Gaming Techies, I will disclose this clearly at the beginning of the post.
 
