@@ -34,8 +34,10 @@
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
-	    {{ range .paragraphs }}
+		<div>
+    {{ range .paragraphs }}
         <p>{{.paragraph | markdownify}}</p>
+		</div>
 			 <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
