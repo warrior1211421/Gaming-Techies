@@ -106,11 +106,11 @@ buyingGuide: >-
 
 
   It is suggested to look out for the best GPU for Ryzen 7 5800X if you want to have the most exclusive gaming experience of your life. The GPU-processor compatibility is extremely important for your gaming system: it will help you keep going efficiently in your gaming rounds and will keep you ahead in your passion all the time.
-product_Summary: ""
-product_Mheading: ""
+product_Summary: Summary
+product_Mheading: "Best GPU for Ryzen 7 5800x - Top 3 List "
 product_table: true
 the_products:
-  - summary_award: EVGA 08G-P5-3755-KR 123123
+  - summary_award: Best GPU for Gaming
     paragraphs:
       - paragraph: >-
           If you are in search of a GPU that is made to withstand all the heavy
@@ -147,9 +147,6 @@ the_products:
           Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements. 
 
 
-          #### Conclusion 
-
-
           With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
     pros:
       - pro: asd
@@ -157,13 +154,18 @@ the_products:
       - pro: "123"
     amzlink: https://www.amazon.com/EVGA-08G-P5-3755-KR-GeForce-Cooling-Backplate/dp/B08L8L71SM?&linkCode=ll1&tag=gamingtechi09-20&linkId=3f65154e947578040f0596dcbfd29e3f&language=en_US&ref_=as_li_ss_tl
     nameForTOC: EVGA 08G-P5-3755-KR
-    name: EVGA 08G-P5-3755-KR
+    name: 1. EVGA 08G-P5-3755-KR
     specifications:
-      - specification: "**Brand:** 123 | **Name**: 123"
+      - specification: "**ISP Compatibility:** All cable providers (Xfinity by Comcast,
+          Spectrum, and COX) || **Speed Plans:** Up to 2Gbps || **Wifi
+          Speeds:** Up to 3200Mbps || **Wifi Coverage:** 4000 Square Ft.
+          (Supporting 45+ devices with Beamforming+ tech) || **Modem
+          Technology:** DOCSIS 3.1 and 32x8 Channel Bonding || **Ports:** 4x
+          (1Gbps Ethernet), 2x (USB3.0)"
     cons:
       - con: asd
     image: /uploads/xfx-rx-5600-xt-thicc.webp
-    award: EVGA 08G-P5-3755-KR
+    award: Best GPU for Gaming
   - summary_award: EVGA 08G-P5-3755-KR
     paragraphs:
       - paragraph: >-
