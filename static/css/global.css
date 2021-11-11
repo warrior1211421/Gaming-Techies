@@ -1166,9 +1166,10 @@ footer p {
 }
 
 .news-article .text-copy .specs__text {
-    margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
+	margin-bottom: 1rem;
+    background: hsla(0,0%,80%,.23137);
+    padding: 1rem;
+    border: 1px solid hsla(0,0%,80%,.23137);
 }
 
 .news-article .image-figure .image-figcaption {
