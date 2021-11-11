@@ -618,13 +618,13 @@ article figure {
 }
 
 .mb3.f4.ttu.pros{
-	background: #0f9d58;
+	background: rgb(230, 255, 240);
     padding: 10px;
     color: white;
 }
 
 .mb3.f4.ttu.cons{
-	background: #db4437;
+	background: rgb(255, 235, 233);
     padding: 10px;
     color: white;
 }
