@@ -2,7 +2,7 @@ logo = "/uploads/logo.png"
 icon = "/uploads/favicon-32x32.png"
 tagline = "Best Techs Reviewed"
 contacteMail = "gamingtechies76@gmail.com"
-headerText = "{{<html>}} <strong>Gaming Techies supported by its audience. When you purchase through our links, we may earn an <a href=\"https://gamingtechies.com/affiliate-disclosure/\" aria-label=\"affiliate commission\">affiliate commission</a> at no additional cost to you.</strong>{{</html>}}"
+headerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
 footerText = "Gaming Techies © 2021. All Rights Reserved."
 
 [colors]
