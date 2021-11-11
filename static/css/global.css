@@ -612,15 +612,16 @@ article figure {
     margin: 0!important;
 }
 
-.w-100.pros.black.mr2 h4::after{
-    border-bottom: 3px solid var(--theme-color);
-    bottom: 0;
-    content: "";
-    display: block;
-    position: absolute;
-    width: 40px;
+.mb3.f4.ttu.pros{
+	background: #0f9d58;
+    padding: 10px;
+    color: white;
 }
-
+.mb3.f4.ttu.cons{
+	background: #db4437;
+    padding: 10px;
+    color: white;
+}
 .w-100.cons.black{
 	width: 50%;
 	background-color: #fff;
