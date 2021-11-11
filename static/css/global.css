@@ -610,7 +610,7 @@ article figure {
     border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
 }
 
-.w-100 flex pros-and-cons mb2-5{
+.w-100.flex.pros-and-cons.mb2-5{
 	display: flex;
 }
 
