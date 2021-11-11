@@ -441,7 +441,8 @@ img.logo {
 
 #article-body figure {
     padding-top: 20px;
-    border-top: 2px dashed #d3d3d3
+    border-bottom: 2px dashed #d3d3d3;
+	border-top: 2px dashed #d3d3d3;
 }
 
 #conclusion, #buying-guide, #product-summary, #frequently-asked-questions, #below-products {
