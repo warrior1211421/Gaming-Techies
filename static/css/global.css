@@ -71,11 +71,8 @@ img {
     max-width: 100%
 }
 
-.a.responsive-icon{
-    color: fff#;
-}
 .responsive-icon{
-    color: fff#;
+    color: fff#; !important
 }
 
 article, aside, figcaption, figure, footer, header, nav, section {
