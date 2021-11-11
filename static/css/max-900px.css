@@ -17,7 +17,7 @@
     }
     .nav-list.component-loaded {
         padding-top: 1em;
-        background: var(--mainColor);
+        background: #333;
     }
     .buttons-social{
         display: none !important;
