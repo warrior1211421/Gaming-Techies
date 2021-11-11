@@ -42,7 +42,8 @@
     </div>
 	<div>
     {{ range .paragraphs }}
-			 <div class="p-and-c">
+        <p>{{.paragraph | markdownify}}</p>
+					 <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
                 <h4 class="mb3 f4 ttu">REASONS TO BUY</h4>
@@ -64,7 +65,6 @@
             </div>
         </div>
     </div>
-        <p>{{.paragraph | markdownify}}</p>
 		</div>
     {{ end }}
     {{ partial "ads/below-product" . }}
