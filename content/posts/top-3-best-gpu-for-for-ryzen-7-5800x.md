@@ -26,7 +26,8 @@ paragraphs:
       it with the right GPU type. 
 
 
-      {{html}}\
+      {{html}}
+
 
       <div class="sb_top_three">
       	<div class="sb_p-box">
