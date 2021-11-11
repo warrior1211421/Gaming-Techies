@@ -9,11 +9,11 @@ meta_Description: This is the privacy policy page of Gaming Techies. learn how
 url: privacy-policy
 date: 2021-11-10T14:00:38.616Z
 ---
-## Who are we
+## Who are We
 
 Our website address is: [https://www.gamingtechies.com/](https://gamingtechies.com/)
 
-## What personal data we collect and why we collect it
+## What Personal Data We Collect and Why We Collect It
 
 ### Comments
 
@@ -45,17 +45,17 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ## Analytics
 
-### How long we retain your data
+### How Long We Retain Your Data
 
 If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-## What rights you have over your data
+## What Rights You Have Over Your Data
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-## Where we send your data
+## Where we Send Your Data
 
 Visitor comments may be checked through an automated spam detection service.
 
