@@ -668,7 +668,7 @@ article figure {
     font-weight: bold;
     border-radius: 5px;
     text-transform: uppercase;
-    background-color: var(--linkColor);
+    background-color: #007ac7;
 }
 
 .figure-img {
