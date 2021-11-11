@@ -193,7 +193,7 @@ img.logo {
 }
 
 .menu-item a, .menu-item span {
-    color: #fff;
+    color: #000;
     display: inline-block;
     font-weight: 600;
     font-size: 16px;
