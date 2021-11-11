@@ -31,9 +31,6 @@
         </p>
     <div class="specifications">
     {{ range .specifications }}
-    {{ if .specification }}
-        <p class="specs__title"><strong>SPECIFICATIONS</strong></p>
-    {{ end }}
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
