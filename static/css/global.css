@@ -629,7 +629,7 @@ article figure {
     color: white;
 }
 .flex.flex-row.items-start{
-	padding:10px;
+	padding-left:10px;
 }
 .s-p-s-g .image-figure {
     display: -webkit-box;
