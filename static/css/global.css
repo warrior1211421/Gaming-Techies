@@ -189,7 +189,7 @@ img.logo {
 }
 
 .menu-item>a:hover, .sub-menu-item>a:hover {
-    border-bottom: 2px solid var(--textColor);
+    border-bottom: 2px solid #000;
 }
 
 .menu-item a, .menu-item span {
