@@ -636,6 +636,13 @@ article figure {
     margin-bottom: 10px
 }
 
+.w-100 flex pros-and-cons mb2-5{
+	gap: 15px;
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;		
+}
+
 .news-article .btn {
     color: var(--textColor);
     font-size: 15px;
