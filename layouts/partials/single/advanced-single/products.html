@@ -24,9 +24,6 @@
     </h3>
     <div class="subtitle">
         <p>{{.award}}</p>
-		<style>
-		margin-bottom: 0px;
-		</style>
     </div>
 	        <p class="amazon-link">
             <a href="{{.amzlink}}" aria-label="{{.name}}"
@@ -68,6 +65,13 @@
 	<div>
     {{ range .paragraphs }}
         <p>{{.paragraph | markdownify}}</p>
+			        <p class="amazon-link">
+            <a href="{{.amzlink}}" aria-label="{{.name}}"
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
+            <a href="{{.amzlink}}"
+                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
+                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
+        </p>
 		</div>
     {{ end }}
     {{ partial "ads/below-product" . }}
