@@ -606,6 +606,14 @@ article figure {
 	display: flex;
 }
 
+.w-100.pros.black.mr2{
+	width: 50%;
+}
+
+.w-100.cons.black{
+	width: 50%;
+}
+
 .s-p-s-g .image-figure {
     display: -webkit-box;
     display: -ms-flexbox;
