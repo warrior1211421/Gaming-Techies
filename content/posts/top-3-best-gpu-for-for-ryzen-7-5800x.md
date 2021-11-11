@@ -156,7 +156,12 @@ the_products:
     nameForTOC: EVGA 08G-P5-3755-KR
     name: 1. EVGA 08G-P5-3755-KR
     specifications:
-      - specification: "**Brand:** 123 | **Name**: 123"
+      - specification: "**ISP Compatibility:** All cable providers (Xfinity by Comcast,
+          Spectrum, and COX) || **Speed Plans:** Up to 2Gbps || **Wifi
+          Speeds:** Up to 3200Mbps || **Wifi Coverage:** 4000 Square Ft.
+          (Supporting 45+ devices with Beamforming+ tech) || **Modem
+          Technology:** DOCSIS 3.1 and 32x8 Channel Bonding || **Ports:** 4x
+          (1Gbps Ethernet), 2x (USB3.0)"
     cons:
       - con: asd
     image: /uploads/xfx-rx-5600-xt-thicc.webp
