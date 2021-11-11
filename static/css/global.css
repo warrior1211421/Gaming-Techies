@@ -445,10 +445,6 @@ img.logo {
 	border-top: 2px dashed #d3d3d3;
 }
 
-.w-100-flex-pros-and-cons-mb2-5{
-	display: flex;
-}
-
 #conclusion, #buying-guide, #product-summary, #frequently-asked-questions, #below-products {
     margin-top: 30px;
     border-top: 2px dashed #d3d3d3
@@ -612,6 +608,10 @@ article figure {
     grid-column-gap: 15px;
     grid-template-columns: 1fr;
     border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
+}
+
+.w-100 flex pros-and-cons mb2-5{
+	display: flex;
 }
 
 .s-p-s-g .image-figure {
