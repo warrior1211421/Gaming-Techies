@@ -256,7 +256,7 @@ img.logo {
 }
 
 #document-footer {
-    background-color: #000;
+    background-color: #333;
 }
 
 #document-footer-content {
@@ -691,7 +691,7 @@ article figure {
     margin-bottom: 1rem;
     font-family: inherit;
     box-sizing: border-box;
-    background-color: #000;
+    background-color: #333;
     text-transform: uppercase
 }
 
