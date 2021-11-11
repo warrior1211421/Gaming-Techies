@@ -98,7 +98,7 @@ article, aside, figcaption, figure, footer, header, nav, section {
     font-size: 24px;
     line-height: 60px;
     max-height: 60px;
-    background-color: #000;
+    background-color: #333;
 }
 
 .burgerbar .burgerbar-small {
