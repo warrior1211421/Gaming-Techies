@@ -602,14 +602,6 @@ article figure {
     line-height: 16px
 }
 
-.p-and-c {
-    display: grid;
-    margin-bottom: 1rem;
-    grid-column-gap: 15px;
-    grid-template-columns: 1fr;
-    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
-}
-
 .w-100.flex.pros-and-cons.mb2-5{
 	display: flex;
 }
