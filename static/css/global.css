@@ -651,7 +651,7 @@ article figure {
 }
 
 .pros-and-cons h4 {
-    margin-bottom: 10px
+	margin: 0px!important;
 }
 
 .news-article .btn {
