@@ -36,7 +36,7 @@ paragraphs:
 
 
       All of the following GPUs are highly tested for their performance, longevity, and advanced features. These additions are highly necessary for any gaming processor to have to support the modern, advanced, and high-FPS demanding games.
-buyingGuideHead: Quick Shopping Tips
+buyingGuideHead: Go Through these Quick Shopping Tips Before Buying
 buyingGuide: >-
   Buying the best GPU for your gaming system is not an easy task: you have to
   consider a lot of features and factors to never fall for the wrong one. 
