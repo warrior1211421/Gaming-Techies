@@ -36,7 +36,7 @@ paragraphs:
 
 
       All of the following GPUs are highly tested for their performance, longevity, and advanced features. These additions are highly necessary for any gaming processor to have to support the modern, advanced, and high-FPS demanding games.
-buyingGuideHead: Buyer’s Guide for Buying the Best GPU for Ryzen 7 5800x
+buyingGuideHead: Quick Shopping Tips
 buyingGuide: >-
   Buying the best GPU for your gaming system is not an easy task: you have to
   consider a lot of features and factors to never fall for the wrong one. 
@@ -106,7 +106,7 @@ buyingGuide: >-
 
 
   It is suggested to look out for the best GPU for Ryzen 7 5800X if you want to have the most exclusive gaming experience of your life. The GPU-processor compatibility is extremely important for your gaming system: it will help you keep going efficiently in your gaming rounds and will keep you ahead in your passion all the time.
-product_Summary: Summary
+product_Summary: ""
 product_Mheading: "Best GPU for Ryzen 7 5800x - Top 3 List "
 product_table: true
 the_products:
