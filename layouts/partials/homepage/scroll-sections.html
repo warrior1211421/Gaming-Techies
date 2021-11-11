@@ -18,7 +18,7 @@
         grid-template-columns: 1fr 1fr;
     }
 </style>
-<div id="categoriesList" class="{{ if or (eq site.Params.home_section.section1 "Style 1") (eq site.Params.home_section.section2 "Style 1") }}ez-homepage-section{{ end }} home-hero-sub-posts">
+<div id="categoriesList" class="{{ if or (eq site.Params.home_section.section1 "Style 1") (eq site.Params.home_section.section2 "Style 1") (eq site.Params.home_section.section3 "Style 1") (eq site.Params.home_section.section4 "Style 1") }}ez-homepage-section{{ end }} home-hero-sub-posts">
     {{ if eq site.Params.home_section.section1 "Style 1" }}
     {{ $category1 := site.Params.home_section.section1Cat }}
     <!-- Section 1 -->
@@ -61,6 +61,78 @@
         <h2 class="list-title scroll"><a style="color:black" href="{{ $category2 | anchorize | absURL }}">{{$category2}}</a></h2>
     <div class="homeListingResults"  data-sort="page" data-listkey="mixedPrimary">
         {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $category2) }}
+        <div class="listingResult small result1" style="background-color: transparent;" itemscope="" itemtype="https://schema.org/Guide">
+            <a href="{{.Permalink |}}" class="article-link"
+                aria-label="{{.Title}}" title="{{.Title}}">
+                <article class="search-result search-result-review has-rating">
+                    <figure data-original="{{.Params.featured_Image}}" itemscope=""
+                        itemtype="https://schema.org/ImageObject">
+                        <link itemprop="url" href="{{.Params.featured_Image}}">
+                        <link itemprop="image" href="{{.Params.featured_Image}}">
+                        <meta itemprop="height" content="680">
+                        <meta itemprop="width" content="1200">
+                        <meta itemprop="name" content="{{.Title}}">
+                    </figure>
+                    <header>
+                        <h3 class="article-name scroll" itemprop="name caption">
+                            {{.Title}}
+                        </h3>
+                    {{- if .Site.Data.authors -}}
+                    {{ $author := index .Site.Data.authors (.Params.author | anchorize) }}
+                    <meta itemprop="author" content="{{ $author.name }}">
+                    {{- end -}}
+                    <meta itemprop="dateCreated" content="{{.Params.updateDate}}">
+                    </header>
+                </article>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+
+{{ if eq site.Params.home_section.section3 "Style 1" }}
+    {{ $category3 := site.Params.home_section.section3Cat }}
+    <!-- Section 1 -->
+    <section style="background-color:white;" data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
+            <h2 class="list-title scroll"><a style="color:black" href="{{ $category3 | anchorize | absURL }}">{{$category3}}</a></h2>
+        <div class="homeListingResults"  data-sort="page" data-listkey="mixedPrimary">
+            {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $category3) }}
+            <div class="listingResult small result1" style="background-color: transparent;" itemscope="" itemtype="https://schema.org/Guide">
+                <a href="{{.Permalink |}}" class="article-link"
+                    aria-label="{{.Title}}" title="{{.Title}}">
+                    <article class="search-result search-result-review has-rating">
+                        <figure data-original="{{.Params.featured_Image}}" itemscope=""
+                            itemtype="https://schema.org/ImageObject">
+                            <link itemprop="url" href="{{.Params.featured_Image}}">
+                            <link itemprop="image" href="{{.Params.featured_Image}}">
+                            <meta itemprop="height" content="680">
+                            <meta itemprop="width" content="1200">
+                            <meta itemprop="name" content="{{.Title}}">
+                        </figure>
+                        <header>
+                            <h3 class="article-name scroll" itemprop="name caption">
+                                {{.Title}}
+                            </h3>
+                        <meta itemprop="dateCreated" content="{{.Params.updateDate}}">
+                        </header>
+                    </article>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+
+    <!-- Section 2 -->
+
+
+    {{ if eq site.Params.home_section.section4 "Style 1" }}
+    {{ $category4 := site.Params.home_section.section4Cat }}
+    <section style="background-color:white;" data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
+        <h2 class="list-title scroll"><a style="color:black" href="{{ $category4 | anchorize | absURL }}">{{$category4}}</a></h2>
+    <div class="homeListingResults"  data-sort="page" data-listkey="mixedPrimary">
+        {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $category4) }}
         <div class="listingResult small result1" style="background-color: transparent;" itemscope="" itemtype="https://schema.org/Guide">
             <a href="{{.Permalink |}}" class="article-link"
                 aria-label="{{.Title}}" title="{{.Title}}">

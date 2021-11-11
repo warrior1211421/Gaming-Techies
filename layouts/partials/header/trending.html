@@ -3,7 +3,7 @@
         <div class="trending-lead">Trending</div>
         <div class="trend-wrapper">
             <ul class="trending-items">
-                {{ range first 4 (where .Site.RegularPages ".Params.trending" "eq" true) }}
+                {{ range first 5 (where .Site.RegularPages ".Params.trending" "eq" true) }}
                 <li class="trending-item"><a href="{{.Permalink | absURL }}" aria-label="{{ .Params.trendname | title}}">{{ .Params.trendname | title}}</a></li>
                 {{ end }}
             </ul>

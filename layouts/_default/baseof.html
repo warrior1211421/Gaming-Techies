@@ -24,5 +24,8 @@
         {{- end }}
         <script nonce async src="{{ "js/main.js" | absURL }}" type="text/javascript"></script>
         <script src="{{ "js/jquery.min.js" | absURL }}" type="text/javascript"></script>
+        {{ if .IsPage }}
+        <script src="{{ "js/toc.js" | absURL }}" type="text/javascript"></script>
+        {{ end }}
     </body>
 </html>
