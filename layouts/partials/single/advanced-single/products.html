@@ -1,7 +1,6 @@
 {{ if .Params.product_Mheading }}
     <h2>{{.Params.product_Mheading}}</h2>
 {{else}}
-    <h2>{{.Title}} Reviews</h2>
 {{end}}
 <!-- Product Previews -->
 {{ range .Params.the_products }}
@@ -15,13 +14,8 @@
             </a>
         </div>
         <meta itemprop="url" content="{{.image}}">
-        <meta itemprop="height" content="240">
-        <meta itemprop="width" content="320">
-        <figcaption class="image-figcaption">
-            <span class="caption" itemprop="caption">{{.name}}</span>
-            <span class="credit">(Image credit: <span itemprop="copyrightHolder">Amazon</span>)</span>
-        </figcaption>
-    </figure>
+        <meta itemprop="height" content="300">
+        <meta itemprop="width" content="300">
     <h3 class="title__heading">
         <a href="{{.amzlink}}" aria-label="{{.name}}"
             target="_blank" rel="nofollow sponsored noopener noreferrer">
@@ -31,6 +25,13 @@
     <div class="subtitle">
         <p>{{.award}}</p>
     </div>
+	        <p class="amazon-link">
+            <a href="{{.amzlink}}" aria-label="{{.name}}"
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
+            <a href="{{.amzlink}}"
+                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
+                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
+        </p>
     <div class="specifications">
     {{ range .specifications }}
     {{ if .specification }}
@@ -60,16 +61,11 @@
                 {{ end }}
             </div>
         </div>
-        <p class="amazon-link">
-            <a href="{{.amzlink}}" aria-label="{{.name}}"
-                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
-            <a href="{{.amzlink}}"
-                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
-                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
-        </p>
     </div>
+	<div>
     {{ range .paragraphs }}
         <p>{{.paragraph | markdownify}}</p>
+		</div>
     {{ end }}
     {{ partial "ads/below-product" . }}
 </div>
