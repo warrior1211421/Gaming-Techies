@@ -6,27 +6,23 @@
     weight = "1"
 
   [[main]]
-    parent = "Buying Guide"
+    name = "Learning Guides"
+    url = "/knowledge-base/"
+    weight = "2"
+
+  [[main]]
+    name = "Buying Guides"
+    url = "/buying-guides/"
+    weight = "3"
+	
+  [[main]]
     name = "Motherboards"
     url = "/motherboards/"
-    weight = "2"
-    
-  [[main]]
-    parent = "Buying Guide"
-    name = "Processors"
-    url = "/cpus/"
-    weight = "3"
-    
-  [[main]]
-    parent = "Buying Guide"
-    name = "Graphics Cards"
-    url = "/graphics-cards/"
     weight = "4"
     
   [[main]]
-    parent = "Buying Guide"
-    name = "CPU Coolers"
-    url = "/cpu-coolers/"
+    name = "Monitors"
+    url = "/monitors/"
     weight = "5"
 
 # Footer Menu Starts Here...
