@@ -608,12 +608,12 @@ article figure {
 
 .w-100.pros.black.mr2{
 	width: 50%;
-	background-color: hsla(0,0%,80%,.23137);
+	background: rgb(230, 255, 240);
     margin: 0!important;
 }
 .w-100.cons.black{
 	width: 50%;
-	background-color: hsla(0,0%,80%,.23137);
+	background: rgb(255, 235, 233);
     margin: 0!important;
 }
 
