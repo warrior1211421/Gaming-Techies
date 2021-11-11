@@ -609,6 +609,8 @@ article figure {
 .w-100.pros.black.mr2{
 	width: 50%;
 	background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px -3px #000;
     margin: 0!important;
     padding: 15px;
 }
