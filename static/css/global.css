@@ -1169,7 +1169,7 @@ footer p {
 	margin-bottom: 1rem;
     background: hsla(0,0%,80%,.23137);
     padding: 1rem;
-    border: 1px solid hsla(0,0%,80%,.23137);
+    border: 1px solid hsl(0deg 0% 80%)
 }
 
 .news-article .image-figure .image-figcaption {
