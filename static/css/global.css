@@ -636,7 +636,7 @@ article figure {
     margin-bottom: 10px
 }
 
-.w-100 flex pros-and-cons mb2-5{
+.p-and-c w-100 flex pros-and-cons mb2-5{
 	gap: 15px;
     width: 100%;
     display: flex;
