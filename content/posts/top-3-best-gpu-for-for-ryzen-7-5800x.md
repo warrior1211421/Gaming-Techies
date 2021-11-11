@@ -151,9 +151,6 @@ the_products:
 
 
           With all these features in this unit, you will get premium quality performance from your building, along with providing you with incredible satisfaction in your purchase. You will enjoy your gameplay for the long term and can get back to the company if you find any trouble dealing with it within 3-years of time.
-
-
-          ## Summary For Best Motherboard for Ryzen 5 5600X
     pros:
       - pro: asd
       - pro: asd
@@ -186,6 +183,9 @@ the_products:
 
 
           Lastly, the thing that will push you towards making your final decision of buying it is that it is highly durable and long-living. It is the best thing because it will keep you at ease with your expenditure as you know the thing you are going to buy will last for a long to serve your gaming requirements.
+
+
+          ## Summary For Best Motherboard for Ryzen 5 5600X
     pros:
       - pro: asd12
       - pro: asd123
