@@ -154,7 +154,7 @@ the_products:
       - pro: "123"
     amzlink: https://www.amazon.com/EVGA-08G-P5-3755-KR-GeForce-Cooling-Backplate/dp/B08L8L71SM?&linkCode=ll1&tag=gamingtechi09-20&linkId=3f65154e947578040f0596dcbfd29e3f&language=en_US&ref_=as_li_ss_tl
     nameForTOC: EVGA 08G-P5-3755-KR
-    name: 1. EVGA 08G-P5-3755-KR
+    name: EVGA 08G-P5-3755-KR
     specifications:
       - specification: "**ISP Compatibility:** All cable providers (Xfinity by Comcast,
           Spectrum, and COX) || **Speed Plans:** Up to 2Gbps || **Wifi
