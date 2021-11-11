@@ -450,6 +450,10 @@ img.logo {
     border-top: 2px dashed #d3d3d3
 }
 
+#product-summary{
+	margin-bottom: 30px;
+}
+
 #conclusion h2 {
     margin-top: 0!important
 }
