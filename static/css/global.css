@@ -1531,6 +1531,10 @@ footer p {
     opacity: .5;
     cursor: not-allowed;
 }
+
+.fa.fa-bars{
+	color;white:
+}
 #disqus_recommendations{
     display: none !important;
 }
