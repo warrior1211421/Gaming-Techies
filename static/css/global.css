@@ -629,7 +629,7 @@ article figure {
 
 .subtitle p {
     font-weight: 300;
-    margin:0;
+    margin-bottom:3px;	
 }
 
 .pros-and-cons h4 {
