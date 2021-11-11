@@ -32,9 +32,6 @@ paragraphs:
       When you pair this advanced processor with the right GPU that is made exclusively for this type, you will see the performance of your processor automatically heading to an exceptionally great level. Here you will get the list of GPUs that will be helpful for you to get the right one for your processor type and your gaming requirements. 
 
 
-      ## Best GPU for Ryzen 7 5800x - Top 3 List 
-
-
       All of the following GPUs are highly tested for their performance, longevity, and advanced features. These additions are highly necessary for any gaming processor to have to support the modern, advanced, and high-FPS demanding games.
 buyingGuideHead: Go Through these Quick Shopping Tips Before Buying
 buyingGuide: >-
