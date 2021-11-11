@@ -110,7 +110,7 @@ product_Summary: Summary
 product_Mheading: "Best GPU for Ryzen 7 5800x - Top 3 List "
 product_table: true
 the_products:
-  - summary_award: EVGA 08G-P5-3755-KR 123123
+  - summary_award: Best GPU for Gaming
     paragraphs:
       - paragraph: >-
           If you are in search of a GPU that is made to withstand all the heavy
@@ -154,13 +154,13 @@ the_products:
       - pro: "123"
     amzlink: https://www.amazon.com/EVGA-08G-P5-3755-KR-GeForce-Cooling-Backplate/dp/B08L8L71SM?&linkCode=ll1&tag=gamingtechi09-20&linkId=3f65154e947578040f0596dcbfd29e3f&language=en_US&ref_=as_li_ss_tl
     nameForTOC: EVGA 08G-P5-3755-KR
-    name: EVGA 08G-P5-3755-KR
+    name: 1. EVGA 08G-P5-3755-KR
     specifications:
       - specification: "**Brand:** 123 | **Name**: 123"
     cons:
       - con: asd
     image: /uploads/xfx-rx-5600-xt-thicc.webp
-    award: EVGA 08G-P5-3755-KR
+    award: Best GPU for Gaming
   - summary_award: EVGA 08G-P5-3755-KR
     paragraphs:
       - paragraph: >-
