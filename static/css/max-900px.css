@@ -22,6 +22,10 @@
     .buttons-social{
         display: none !important;
     }
+	
+	.menu-item a, .menu-item span{
+		padding: 10px	
+	}
     .home-hero-sub-posts{
         display: block !important;
     }
