@@ -12,7 +12,7 @@ linkColor = "#03a0ff"
 
 [open_graph]
 meta_Description = "Gaming Techies is a professional online website that keeps you updated with all the gaming techs reviews, news and latest information."
-image = "https://finaldesktop.com/img/final-desktop-img.jpg"
+image = "/uploads/banner_image.png"
 FacebookPublisher = ""
 
 [verifications]
