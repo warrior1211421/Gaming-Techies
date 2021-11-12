@@ -12,6 +12,8 @@ author: Gabriel
 date: 2021-11-12T22:54:29.596Z
 updateDate: 2021-11-12T22:54:29.611Z
 featured_Image: /uploads/how-to-keep-your-gpu-cool-while-gaming.webp
+categories:
+  - Knowledge Base
 ---
 Gaming is one of the most leading sports these days, and the gaming community is expanding exceptionally. With the rise in this popular sport, many new high-profile games are being introduced which demand greater hardware support from the processor.
 
