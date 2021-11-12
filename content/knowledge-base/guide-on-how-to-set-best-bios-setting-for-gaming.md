@@ -2,7 +2,8 @@
 title: Guide on How to Set Best BIOS Setting for Gaming
 type: knowledge-base
 draft: false
-trending: false
+trending: true
+trendname: Bios Setting for Gaming
 seo_title: Best BIOS Setting for Gaming [Complete Guide]
 meta_Description: There may be many things that can make your PC compatible for
   quick gaming, and one thing among them is the best BIOS settings for gaming...
