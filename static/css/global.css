@@ -505,7 +505,7 @@ article figure {
 }
 
 .pagination-link {
-    color: #333;
+    color: #fff;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -515,7 +515,7 @@ article figure {
     justify-content: center;
     padding: 10px 50px;
     border-radius: 8px;
-    background-color: var(--mainColor);
+    background-color: #333;
     margin:10px 0;
 }
 
