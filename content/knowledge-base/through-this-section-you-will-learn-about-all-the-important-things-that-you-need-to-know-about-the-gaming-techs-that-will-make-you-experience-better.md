@@ -1,6 +1,5 @@
 ---
-title: Through this section, you will learn about all the important things that
-  you need to know about the gaming techs that will make you experience better.
+title: Guide on How to Remove the Thermal Paste with Alcohol
 type: knowledge-base
 draft: false
 trending: false
