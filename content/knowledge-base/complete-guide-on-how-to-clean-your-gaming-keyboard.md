@@ -96,8 +96,6 @@ There are many times when you eat near to your gaming keyboards, and this makes 
 
 ![Careful Cleaning](/uploads/careful-cleaning.webp "Careful Cleaning")
 
-![Careful cleaning](https://gamingtechies.com/img/careful-cleaning.webp "Careful cleaning")
-
 There are some occasions when even your daily cleaning doesn't work, and some particles remain stick to the keys with greater stubbornness. For this, you can take a step further ahead and do a careful cleaning of your Keyboard. Following are some steps that you can follow to carry out this type of cleaning:
 
 1. Unplug your Keyboard from your PC
