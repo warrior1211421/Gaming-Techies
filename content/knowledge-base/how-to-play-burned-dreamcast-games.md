@@ -12,6 +12,8 @@ author: Gabriel
 date: 2021-11-12T14:57:28.909Z
 updateDate: 2021-11-12T14:57:28.923Z
 featured_Image: /uploads/how-to-play-burned-dreamcast-games.webp
+categories:
+  - Knowledge Base
 ---
 Dreamcast was released back in 1999 by Sega as the predecessor to all sixth-generation gaming consoles. Its open-source firmware provides endless possibilities for playing later games. In this tutorial, I will explain how to play burned Dreamcast games. 
 
