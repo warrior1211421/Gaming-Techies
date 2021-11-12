@@ -7,7 +7,7 @@ seo_title: How to Optimize Mac for Gaming? [A to Z Guide]
 meta_Description: MAC is not meant for gaming but if you want to do gaming on it
   along with you work here is how to optimize MAC for gaming you just have to
   follow these steps...
-url: how-to-turn-on-avast-gaming-mode
+url: how-to-optimize-mac-for-gaming
 author: Gabriel
 date: 2021-11-12T22:58:29.239Z
 updateDate: 2021-11-12T22:58:29.253Z

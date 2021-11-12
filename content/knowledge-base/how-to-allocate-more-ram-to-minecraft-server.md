@@ -1,7 +1,7 @@
 ---
 title: How to Allocate more RAM to Minecraft Server?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Allocate more Ram
 seo_title: How to Allocate more RAM to Minecraft server? [A to Z Guide]
