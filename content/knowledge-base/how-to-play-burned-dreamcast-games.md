@@ -17,10 +17,6 @@ Dreamcast was released back in 1999 by Sega as the predecessor to all sixth-gene
 
 The list of original Dreamcast game titles is limited to only 624. However, the powerful hardware and the stable firmware allow you to play a lot more than that.
 
-Table of Contents
-
-Show
-
 ## Does your Dreamcast Support Burned Games? 
 
 ![Does your Dreamcast Support Burned Games](/uploads/does-your-dreamcast-support-burned-games.webp "Does your Dreamcast Support Burned Games")
