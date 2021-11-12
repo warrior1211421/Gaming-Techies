@@ -75,8 +75,6 @@ Some projects, such as BleemCast, came up with the idea to optimize PlayStation 
 
 ## Can I Watch Movies on Dreamcast? 
 
-![Can I Watch Movies on Dreamcast](/uploads/can-i-watch-movies-on-dreamcast.webp "Can I Watch Movies on Dreamcast")
-
 As a matter of fact, yes! Dreamcast comes with a DVD drive that supports movie DVDs. You can watch all movies from a DVD with a resolution of up to 480P on your Dreamcast console. 
 
 Simply insert the movie DVD into the console and power it on. When the console doesn’t detect any playable games on the disk, it will shift to a multimedia mode. This mode provides all available movies from the DVD. You can select your desired movie from the list, and it will start playing. You can even burn your own movie DVDs using Imgburn to play on the console. Currently, Dreamcast supports all major video formats like MP4, AVI, and MOV and a video encoding of H264. 
