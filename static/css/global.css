@@ -1078,8 +1078,8 @@ footer p {
 
 .page .btn-teal {
     color: #fff;
-    border: 1px solid var(--mainColor);
-    background-color: var(--mainColor)
+    border: #333;
+    background-color:#333;
 }
 
 .page .btn, .page a[type=button] {
