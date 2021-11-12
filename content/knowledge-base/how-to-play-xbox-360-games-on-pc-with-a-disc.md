@@ -1,9 +1,9 @@
 ---
-title: How to play Xbox 360 games on pc with a disc?
+title: How to Play Xbox 360 Games on Pc with a Disc?
 type: knowledge-base
 draft: false
 trending: false
-seo_title: How to play Xbox 360 games on pc with a disc? (Emulator Guide)
+seo_title: How to Play Xbox 360 Games on Pc with a Disc? (Emulator Guide)
 meta_Description: Here is an emulator guide on how to play xbox 360 games on pc
   with a disc; we have a detailed step-by-step guide that will help you overcome
   this problem...
