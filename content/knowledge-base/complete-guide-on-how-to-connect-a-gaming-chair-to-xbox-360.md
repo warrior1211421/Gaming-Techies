@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on How to Connect a Gaming Chair to Xbox 360
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 trendname: ""
 seo_title: How To Connect a Gaming Chair to Xbox 360
