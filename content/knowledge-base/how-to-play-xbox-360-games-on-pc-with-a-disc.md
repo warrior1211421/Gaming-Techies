@@ -11,6 +11,7 @@ url: how-to-play-xbox-360-games-on-pc-with-a-disc
 author: Gabriel
 date: 2021-11-12T15:13:35.364Z
 updateDate: 2021-11-12T15:13:35.381Z
+featured_Image: /uploads/how-to-play-xbox-360-games-on-pc-with-a-disc.webp
 categories:
   - Knowledge Base
 ---
