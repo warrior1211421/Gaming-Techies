@@ -1709,6 +1709,20 @@ ul.table-of-contents li a{
     margin: 20px 0 !important;
 }
 
+/* Sayim Css Here*/
+
+.h3.f6.truncate-2.mb2.mt0{
+	margin: 3px;
+}
+
+.h3.ttu.f6.w-100.pb2.mv0.latest-posts-heading{
+	background: #333;
+    color: white;
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 20px;
+}
+
 @media only screen and (max-width:768px) {
     .amzn-native-header-text {
         display: block !important;
