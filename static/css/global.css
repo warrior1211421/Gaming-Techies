@@ -719,12 +719,6 @@ margin: 0;
     margin-bottom: 15px
 }
 
-.table-of-contents a {
-    color: #333;
-    font-size: 15px;
-    line-height: 20px;
-}
-
 .related-articles-block {
     margin-top: 10px;
     margin-bottom: 20px
@@ -749,11 +743,6 @@ margin: 0;
 
 .table-of-contents li:last-child{
     margin-bottom: 0 !important;
-}
-
-.table-of-contents li ul {
-    margin: 15px 0;
-    list-style-type: disc;
 }
 
 .bg-grey-1 {
@@ -1735,6 +1724,17 @@ ul.table-of-contents li a{
     margin-bottom: 0.4em;
     line-height: 1.4;
 }
+
+.table-of-contents li ul {
+    margin: 6px 0;
+    list-style-type: disc;
+}
+
+.table-of-contents a {
+    font-size: 15px;
+    line-height: 20px;
+}
+
 
 @media only screen and (max-width:768px) {
     .amzn-native-header-text {
