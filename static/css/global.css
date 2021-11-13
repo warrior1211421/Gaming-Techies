@@ -605,35 +605,6 @@ article figure {
     line-height: 16px
 }
 
-.w-100.flex.pros-and-cons.mb2-5{
-	display: flex;
-}
-
-.w-100.pros.black.mr2{
-	width: 50%;
-	background: rgb(230, 255, 240);
-    margin: 0!important;
-}
-.w-100.cons.black{
-	width: 50%;
-	background: rgb(255, 235, 233);
-    margin: 0!important;
-}
-
-.mb3.f4.ttu.pros{
-	background: #0f9d58;
-    padding: 10px;
-    color: white;
-}
-
-.mb3.f4.ttu.cons{
-	background: #db4437;
-    padding: 10px;
-    color: white;
-}
-.flex.flex-row.items-start{
-	padding-left:10px;
-}
 .s-p-s-g .image-figure {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1731,6 +1702,36 @@ ul.table-of-contents li a{
     padding: 5px 0px;
     padding: 5 px 0;
     font-size: 20px;
+}
+
+.w-100.flex.pros-and-cons.mb2-5{
+	display: flex;
+}
+
+.w-100.pros.black.mr2{
+	width: 50%;
+	background: rgb(230, 255, 240);
+    margin: 0!important;
+}
+.w-100.cons.black{
+	width: 50%;
+	background: rgb(255, 235, 233);
+    margin: 0!important;
+}
+
+.mb3.f4.ttu.pros{
+	background: #0f9d58;
+    padding: 10px;
+    color: white;
+}
+
+.mb3.f4.ttu.cons{
+	background: #db4437;
+    padding: 10px;
+    color: white;
+}
+.flex.flex-row.items-start{
+	padding-left:10px;
 }
 
 @media only screen and (max-width:768px) {
