@@ -772,7 +772,6 @@ margin: 0;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    max-width: 240px;
     list-style: decimal;
     flex-direction: column;
 }
@@ -1721,7 +1720,16 @@ ul.table-of-contents li a{
 	background: #333;
     color: white;
     text-align: center;
+    padding: 0px 0px 5px 5px;
+    font-size: 20px;
+}
+
+.ttu.f6.mt0{	
+    background: #333;
+    color: #fff;
+    text-align: center;
     padding: 5px 0px;
+    padding: 5 px 0;
     font-size: 20px;
 }
 
