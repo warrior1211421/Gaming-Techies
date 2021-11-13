@@ -1713,6 +1713,7 @@ ul.table-of-contents li a{
 
 .f6.truncate-2.mb2.mt0{
 	margin: 3px;
+	border-bottom: 2px solid #007AC7;
 }
 
 .ttu.f6.w-100.pb2.mv0.latest-posts-heading{
