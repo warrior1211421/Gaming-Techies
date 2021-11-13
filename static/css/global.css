@@ -747,12 +747,6 @@ margin: 0;
     flex-direction: column;
 }
 
-.table-of-contents li {
-    margin-left: 20px;
-    margin-bottom: 0.4em;
-    line-height: 1.4;
-}
-
 .table-of-contents li:last-child{
     margin-bottom: 0 !important;
 }
@@ -1734,6 +1728,12 @@ ul.table-of-contents li a{
 }
 .flex.flex-row.items-start{
 	padding-left:10px;
+}
+
+.table-of-contents li {
+    margin-left: 20px;
+    margin-bottom: 0.4em;
+    line-height: 1.4;
 }
 
 @media only screen and (max-width:768px) {
