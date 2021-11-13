@@ -1701,6 +1701,7 @@ ul.table-of-contents li a{
     text-align: center;
     padding: 5px 0px;
     font-size: 20px;
+	margin-bottom: 0px;
 }
 
 .w-100.flex.pros-and-cons.mb2-5{
