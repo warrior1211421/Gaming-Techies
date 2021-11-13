@@ -32,10 +32,6 @@ All these computer cases are perfect in their own way. Some are experts in savin
 
 In this article, I will be describing everything you need to know to choose the perfect computer case.
 
-Table of Contents
-
-Show
-
 ## Did you Know?
 
 There is a 5th type of computer case known as the Super Tower case. It is mostly used by organizations and computer experts. These cases are so massive that you can fit two complete PC systems inside them. Normally, this case is classified as a full tower case.
