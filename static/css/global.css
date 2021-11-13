@@ -1733,8 +1733,8 @@ ul.table-of-contents li a{
 .table-of-contents a {
     font-size: 15px;
     line-height: 20px;
+	color: 000;
 }
-
 
 @media only screen and (max-width:768px) {
     .amzn-native-header-text {
