@@ -749,8 +749,10 @@ margin: 0;
 
 .table-of-contents li {
     margin-left: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 0.4em;
+    line-height: 1.4;
 }
+
 .table-of-contents li:last-child{
     margin-bottom: 0 !important;
 }
