@@ -1,0 +1,12 @@
+{{ with .Params.specifications }}
+<div class="specs-list">
+    <p class="list-header">Product Specification</p>
+    <ul class="specs list-items">
+        {{ range . }}
+        <li class="specs list-item">
+            <i class="fa fa-cog"></i><b>{{.specsFeature}}:</b> {{.specsValue}}
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

@@ -1,0 +1,403 @@
+/* Slider CSS */
+
+.slider-gallery {
+    margin: 8px;
+}
+
+.ez-slider-img {
+    display: block;
+    aspect-ratio: 16/9 !important;
+    object-fit: cover;
+}
+
+.slider-nav {
+    max-width: 90%;
+    display: block;
+    margin-top: -10%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slider-gallery .ez-slider-img {
+    border: 3px solid white;
+    box-shadow: 0px 3px 10px -8px black;
+}
+
+@media only screen and (max-width:700px) {
+    .slider-nav {
+        max-width: 100%;
+        margin: auto;
+    }
+}
+
+/* Slider CSS END */
+
+/* Rating Box CSS */
+
+@font-face {
+    font-family: 'star';
+    src: url(/fonts/stars.woff2);
+}
+
+.ez-product-scores {
+    max-width: 80%;
+    margin: 15px auto;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 2fr 1fr;
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+}
+
+@media only screen and (max-width:786px) {
+    .ez-product-scores {
+        max-width: 100%;
+        grid-auto-flow: row;
+        grid-template-columns: none;
+    }
+}
+
+.ez-product-scores .score-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: rgba(243, 243, 243, .5);
+    border-radius: 2px;
+    font-size: 15px;
+}
+.ez-product-scores .score-item:hover{
+    background: rgb(224, 224, 224);
+}
+
+.ez-product-scores .score-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fa.fa-star.checked {
+    color: #FDA256;
+}
+
+.fa.fa-star.unchecked {
+    color: #F9DFCC;
+}
+
+.ez-overall-score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    color: #fff;
+    border-radius: 2px;
+    background: #1A202C;
+}
+
+.ez-average-score {
+    font-size: 55px;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.ez-score-label {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    margin: 15px 0 0 0;
+}
+
+/* Rating BOX END */
+
+/* Product Quick Summary Box */
+
+.product-short {
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 8px;
+}
+
+/* Product SUMMARY END */
+
+/* Top 3 Picks Table */
+
+#top-picks {
+    padding: 5px 0;
+    font-size: 15px;
+    background-color: #e7e7e7;
+    text-align: center;
+}
+
+.table-grid {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.table-grid-item {
+    background-color: #e7e7e7;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.table-grid .grid-pick {
+    top: 0;
+    display: block;
+    width: max-content;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #00897b;
+    color: white;
+    padding: 3px 25px 3px 10px;
+    text-align: left !important;
+    position: relative;
+}
+
+.table-grid .grid-pick::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    bottom: 0;
+    right: -1px;
+    border-bottom: 1.3rem solid #e7e7e7;
+    border-left: 1.3rem solid transparent;
+}
+
+.table-grid .grid-img {
+    display: block;
+    margin: 1em auto;
+    position: relative;
+}
+
+.table-grid .grid-name {
+    font-weight: bold;
+    color: #111;
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+.table-grid .the-features {
+    text-align: left;
+    margin: .5em 8px;
+}
+
+.table-grid .the-features p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 1.8;
+}
+
+.table-grid .the-features p:before {
+    content: "✓";
+    font-size: 15px;
+    margin-right: 5px;
+    color: var(--mainColor);
+}
+
+.table-grid .grid-cta {
+    margin: 1em 10px;
+    bottom: 0;
+}
+
+.table-grid .grid-cta .btn {
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: .5rem .8rem;
+    min-width: fit-content !important;
+    border: 0;
+    cursor: pointer !important;
+}
+
+.table-grid .grid-cta .btn-review {
+    display: block;
+}
+
+@media only screen and (max-width:786px) {
+    .table-grid {
+        grid-auto-flow: row;
+        grid-template-columns: none;
+    }
+}
+
+/* Top 3 Picks END */
+
+/* Author Box CSS */
+
+.author-box {
+    padding: 20px 30px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    min-height: 100px;
+    background: 0 0;
+    clear: both;
+    text-align: center;
+    background-color: #ededed;
+}
+
+.author-box .avatar img {
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+}
+
+.author-box .name {
+    display: inline;
+    font-weight: 700;
+    line-height: 24px;
+    font-size: 22px;
+    color: #008fb9;
+}
+
+.author-box .bio {
+    font-size: 16px;
+    line-height: 22px;
+    margin: 8px auto;
+}
+
+/* Author BOX CSS End */
+
+/* Scroll Sections CSS */
+
+.homeListingResults {
+    height: 350px;
+    padding: 0 30px;
+    padding-top: 30px !important;
+    min-height: 300px;
+    max-height: 350px;
+    overflow-y: scroll;
+    box-shadow: 0 10px 20px #ededed;
+}
+
+.article-name.scroll::before {
+    content: "\00BB";
+}
+
+#categoriesList .list-title.scroll {
+    margin: 0;
+}
+
+.ez-homepage-section.home-hero-sub-posts {
+    grid-template-columns: 1fr 1fr;
+}
+
+/* Scroll Section Css END */
+
+/* Below Rating CTA Buttons */
+.cta-btns-group{
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+}
+.cta-btns-group .btn{
+    margin: 0 8px;
+    padding: 15px;
+    transition: .2s ease-in-out;
+    border-radius: 8px;
+}
+.cta-btns-group .btn:hover{
+    transform: translateY(-5px);
+    transition: .2s ease-in-out;
+    box-shadow: 0px 0px 30px -10px var(--linkColor);
+}
+/* Below Rating CTA Btns END */
+
+/* Specs Table CSS */
+.specs-list{
+    display: block;
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 8px;
+}
+.list-header{
+    font-size: 22px !important;
+    font-weight: bolder;
+    margin: 0;
+}
+.specs.list-items{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 40px;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+@media only screen and (max-width:768px) {
+    .specs.list-items{
+        grid-template-columns: none;
+    }
+}
+.specs.list-item{
+    list-style: none;
+}
+.specs.list-item i{
+    margin-right: 8px;
+    font-size:18px;
+    color: var(--mainColor);
+}
+
+/* Specs Table CSS END */
+
+/* PROS & Cons CSS */
+.product-pros-cons{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+    margin: 10px auto;
+}
+@media only screen and (max-width:768px) {
+    .product-pros-cons{
+        grid-template-columns: none;
+        grid-auto-flow: row;
+        grid-row-gap: 10px;
+    }
+}
+.product-review{
+    display: block;
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 8px;
+}
+.product-review ul{
+    padding-left: 0 !important;
+}
+.product-review li{
+    list-style: none;
+}
+.product-review li::before{
+    height: 18px;
+    width: 18px;
+    font-size: 18px;
+    border-radius: 50%;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: courier;
+    color: white;
+    margin-right: 8px;
+}
+.product-review .pros-list li::before{
+    content: "\002B";
+    background-color: green;
+}
+.product-review .cons-list li::before{
+    content: "\2212";
+    background-color: red;
+}

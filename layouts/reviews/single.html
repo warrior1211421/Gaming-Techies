@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ partial "ads/above-content" . }}
+
+    <article class="news-article single-article">
+
+        {{ partial "single/meta" . }}
+    <div class="product-meta" style="margin-bottom:10px;padding-bottom:30px;border-bottom:2px dashed #ddd">
+        {{ if ge .Params.productImages 3 }}
+            {{ partial "single/review-single/featured-area" . }}
+        {{ else }}
+            {{ partial "single/featured_image" . }}
+        {{ end }}
+        {{ partial "single/review-single/rating-box" . }}
+        {{ partial "single/review-single/btns" . }}
+        {{ partial "single/review-single/summary" . }}
+    </div>
+
+
+        <div class="article-with-sidebar">
+            
+            {{ partial "single/review-single" . }}
+
+            {{ partial "sidebar/knowledge-base" . }}
+
+        </div>
+
+        {{ partial "single/editor-recommendation" . }}
+
+    </article>
+
+{{ end }}

@@ -1,7 +1,10 @@
 
 <div id="article-body" class="text-copy contentBody">
     
-    <article class="article">
+    {{ partial "single/review-single/specification" . }}
+    {{ partial "single/review-single/pros-cons" . }}
+
+    <article id="review-body" class="article">
         {{ .Content | htmlUnescape | safeHTML }}
         {{ partial "single/advanced-single/faqs" . }}
     </article>

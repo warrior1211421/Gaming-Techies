@@ -1,0 +1,22 @@
+<div class="product-pros-cons">
+    <div class="product-review pros">
+        <p class="list-header">Pros</p>
+        <ul class="pros-list">
+            {{ range .Params.pros }}
+            <li>
+                {{.pro}}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="product-review cons">
+        <p class="list-header">Cons</p>
+        <ul class="cons-list">
+            {{ range .Params.cons }}
+            <li>
+                {{.con}}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>

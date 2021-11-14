@@ -1,0 +1,8 @@
+{{ if .Params.productSummary }}
+<div class="product-short">
+    <h2>
+        Quick Summary
+    </h2>
+    <p>{{.Params.productSummary | markdownify}}</p>
+</div>
+{{ end }}

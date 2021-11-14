@@ -1,0 +1,16 @@
+<div class="ez-featured_area box less-space hero-image-wrapper">
+    <div class="slider slider-for">
+        {{ range .Params.productImages }}
+            <div class="slider-item">
+                <img loading="lazy" src="{{.product_Img}}" alt="{{.Title}}" class="ez-slider-img" >
+            </div>
+        {{ end }}
+    </div>
+    <div class="slider slider-nav">
+        {{ range .Params.productImages }}
+            <div class="slider-gallery">
+                <img loading="lazy" src="{{.product_Img}}" alt="{{.Title}}" class="ez-slider-img" >
+            </div>
+        {{ end }}
+    </div>
+</div>

@@ -1,0 +1,76 @@
+{{ $products := .Params.the_products}}
+{{ if $products }}
+<h2 id="top-picks">Our Top 3 Recommendations</h2>
+<div class="table-grid">
+    {{ $products := .Params.the_products}}
+    {{ range first 1 $products }}
+    <div class="table-grid-item">
+        <span class="grid-pick" style="background-color: #A02902;">Best Pick</span>
+        <a class="grid-img"
+            href="{{.amzlink}}">
+            <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
+        </a>
+        <a class="grid-name" href="#{{replaceRE " " " _" .nameForTOC}}">{{ .nameForTOC }}</a>
+        {{ if .pros }}
+        <div class="the-features">
+            {{range first 3 .pros}}
+            <p>{{.pro}}</p>
+            {{end}}
+        </div>
+        {{end}}
+        <div class="grid-cta">
+            <a class="btn btn-table"
+                href="{{.amzlink}}"
+                target="_blank" rel="nofollow sponsored noopener noreferrer">Check Price</a>
+
+        </div>
+    </div>
+    {{ end }}
+    <!-- 2nd Pick -->
+    {{ range after 1 $products | first 1 }}
+    <div class="table-grid-item">
+        <span class="grid-pick" style="background-color:var(--mainColor);">Most Popular</span>
+        <a class="grid-img"
+            href="{{.amzlink}}">
+            <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
+        </a>
+        <a class="grid-name" href="#{{replaceRE " " " _" .nameForTOC}}">{{ .nameForTOC }}</a>
+        {{ if .pros }}
+        <div class="the-features">
+            {{range first 3 .pros}}
+            <p>{{.pro}}</p>
+            {{end}}
+        </div>
+        {{end}}
+        <div class="grid-cta">
+            <a class="btn btn-table"
+                href="{{.amzlink}}"
+                target="_blank" rel="nofollow sponsored noopener noreferrer">Check Price</a>
+        </div>
+    </div>
+    {{ end }}
+    <!-- 3rd Pick -->
+    {{ range after 2 $products | first 1 }}
+    <div class="table-grid-item">
+        <span class="grid-pick">Budget Pick</span>
+        <a class="grid-img"
+            href="{{.amzlink}}">
+            <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
+        </a>
+        <a class="grid-name" href="#{{replaceRE " " " _" .nameForTOC}}">{{ .nameForTOC }}</a>
+        {{ if .pros }}
+        <div class="the-features">
+            {{range first 3 .pros}}
+            <p>{{.pro}}</p>
+            {{end}}
+        </div>
+        {{end}}
+        <div class="grid-cta">
+            <a class="btn btn-table"
+                href="{{.amzlink}}"
+                target="_blank" rel="nofollow sponsored noopener noreferrer">Check Price</a>
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{end}}

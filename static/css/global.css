@@ -36,7 +36,7 @@ hr{
 }
 
 a {
-    color: #007ac7;
+    color: var(--linkColor);
     text-decoration: none;
 }
 
@@ -72,7 +72,7 @@ img {
 }
 
 .responsive-icon{
-    color: fff#; !important
+    color: var(--mainColor);
 }
 
 article, aside, figcaption, figure, footer, header, nav, section {
@@ -98,7 +98,7 @@ article, aside, figcaption, figure, footer, header, nav, section {
     font-size: 24px;
     line-height: 60px;
     max-height: 60px;
-    background-color: #333;
+    background-color: #fff;
 }
 
 .burgerbar .burgerbar-small {
@@ -175,7 +175,7 @@ img.logo {
 }
 
 .primary-nav .wrapper {
-    background: #feb033;
+    background: var(--mainColor)
 }
 
 .primary-nav .menuitems {
@@ -189,11 +189,11 @@ img.logo {
 }
 
 .menu-item>a:hover, .sub-menu-item>a:hover {
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid var(--textColor);
 }
 
 .menu-item a, .menu-item span {
-    color: #000;
+    color: var(--textColor);
     display: inline-block;
     font-weight: 600;
     font-size: 16px;
@@ -216,7 +216,7 @@ img.logo {
     display: none;
     position: absolute;
     padding-bottom: 1rem;
-    background: #feb033;
+    background: var(--mainColor);
 }
 
 .has-submenu {
@@ -239,13 +239,15 @@ img.logo {
 }
 
 #affiliateDisclaimer a {
-    color: #007ac7;
+    color: #333;
     text-decoration: underline
 }
 
 #main {
     min-height: 70vh
 }
+
+
 
 #affiliateDisclaimer {
     font-size: 14px;
@@ -254,7 +256,7 @@ img.logo {
 }
 
 #document-footer {
-    background-color: #333;
+    background-color: #333
 }
 
 #document-footer-content {
@@ -308,7 +310,7 @@ img.logo {
 
 .feature-block-item figcaption {
     overflow: hidden;
-    padding: 10px 10px 13px
+    padding: 10px 20px 13px
 }
 
 .feature-block.top-featured .article-name {
@@ -332,10 +334,6 @@ img.logo {
 .article-name {
     color: #333;
     margin-top: 0;
-}
-
-.knowledge-base-color{
-	color:black;
 }
 
 .home-hero {
@@ -414,7 +412,6 @@ img.logo {
     text-align: center;
     margin-bottom: 20px;
     text-transform: uppercase;
-	color: #000;
     border-top: 2px solid var(--mainColor);
     border-bottom: 2px solid var(--mainColor)
 }
@@ -444,17 +441,12 @@ img.logo {
 
 #article-body figure {
     padding-top: 20px;
-    border-bottom: 2px dashed #d3d3d3;
-	border-top: 2px dashed #d3d3d3;
+    border-top: 2px dashed #d3d3d3
 }
 
 #conclusion, #buying-guide, #product-summary, #frequently-asked-questions, #below-products {
     margin-top: 30px;
     border-top: 2px dashed #d3d3d3
-}
-
-#product-summary{
-	margin-bottom: 30px;
 }
 
 #conclusion h2 {
@@ -505,7 +497,7 @@ article figure {
 }
 
 .pagination-link {
-    color: #fff;
+    color: #333;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -515,7 +507,7 @@ article figure {
     justify-content: center;
     padding: 10px 50px;
     border-radius: 8px;
-    background-color: #333;
+    background-color: var(--mainColor);
     margin:10px 0;
 }
 
@@ -605,6 +597,14 @@ article figure {
     line-height: 16px
 }
 
+.p-and-c {
+    display: grid;
+    margin-bottom: 1rem;
+    grid-column-gap: 15px;
+    grid-template-columns: 1fr;
+    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
+}
+
 .s-p-s-g .image-figure {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -624,11 +624,12 @@ article figure {
 
 .subtitle p {
     font-weight: 300;
-    margin: 0px;
+    margin:0;
+    padding-bottom: 10px;
 }
 
 .pros-and-cons h4 {
-	margin: 0px!important;
+    margin-bottom: 10px
 }
 
 .news-article .btn {
@@ -641,7 +642,7 @@ article figure {
     font-weight: bold;
     border-radius: 5px;
     text-transform: uppercase;
-    background-color: #007ac7;
+    background-color: var(--linkColor);
 }
 
 .figure-img {
@@ -666,12 +667,6 @@ article figure {
     box-sizing: border-box;
     background-color: #333;
     text-transform: uppercase
-}
-
-.amazon-link{
-
-margin: 0;
-
 }
 
 .c0117 {
@@ -719,6 +714,12 @@ margin: 0;
     margin-bottom: 15px
 }
 
+.table-of-contents a {
+    color: #333;
+    font-size: 15px;
+    line-height: 20px;
+}
+
 .related-articles-block {
     margin-top: 10px;
     margin-bottom: 20px
@@ -737,12 +738,22 @@ margin: 0;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    max-width: 240px;
     list-style: decimal;
     flex-direction: column;
 }
 
+.table-of-contents li {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
 .table-of-contents li:last-child{
     margin-bottom: 0 !important;
+}
+
+.table-of-contents li ul {
+    margin: 15px 0;
+    list-style-type: disc;
 }
 
 .bg-grey-1 {
@@ -864,6 +875,10 @@ td a {
 
 #frequently-asked-questions {
     margin-bottom: 1rem
+}
+
+.pros-and-cons .cons>p:last-child {
+    margin-bottom: 0
 }
 
 p:empty {
@@ -1033,8 +1048,8 @@ footer p {
 
 .page .btn-teal {
     color: #fff;
-    border: #333;
-    background-color:#333;
+    border: 1px solid var(--mainColor);
+    background-color: var(--mainColor)
 }
 
 .page .btn, .page a[type=button] {
@@ -1115,6 +1130,7 @@ footer p {
 
 .subtitle {
     margin-bottom: 1rem;
+    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
 }
 
 .subtitle, .title__heading {
@@ -1123,10 +1139,9 @@ footer p {
 }
 
 .news-article .text-copy .specs__text {
-	margin-bottom: 1rem;
-    background: hsla(0,0%,80%,.23137);
-    padding: 1rem;
-    border: 1px solid hsl(0deg 0% 80%)
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
 }
 
 .news-article .image-figure .image-figcaption {
@@ -1470,7 +1485,7 @@ footer p {
     border: 0;
     padding: 0 50px;
     height: 30px;
-    background-color: #333;
+    background-color: var(--mainColor);
     color:white;
     font-weight: 900;
     font-size: 15px;
@@ -1484,10 +1499,6 @@ footer p {
 .comment-button--disabled{
     opacity: .5;
     cursor: not-allowed;
-}
-
-.fa.fa-bars{
-	color: #fff;
 }
 #disqus_recommendations{
     display: none !important;
@@ -1641,104 +1652,4 @@ ul.table-of-contents li a{
 }
 .summary-jump a:hover{
     border-bottom: 1px solid var(--mainColor) !important;
-}
-
-.amzn-native-header-text {
-    display: block !important;
-    padding: 10px 30px !important;
-    background-color: #febd69 !important;
-    color: #000 !important;
-    border-radius: 7px !important;
-    font-weight: bold !important;
-    font-family: Segoe UI, Open Sans, sans-serif !important;
-    text-transform: uppercase !important;
-    text-align: center !important;
-}
-
-.amzn-native-brand,
-.amzn-native-brand-bottom {
-    display: none !important;
-}
-
-.amzn-native-container {
-    margin: 20px 0 !important;
-}
-
-/* Custom Css Here*/
-
-.f6.truncate-2.mb2.mt0{
-	margin-bottom: 10px;
-    border-bottom: 2px solid #007ac7;
-    padding-bottom: 5px;
-}
-
-.ttu.f6.w-100.pb2.mv0.latest-posts-heading{
-	background: #333;
-    color: white;
-    text-align: center;
-    padding: 5px 0px;
-    font-size: 20px;
-}
-
-.ttu.f6.mt0{	
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0px;
-    font-size: 20px;
-	margin-bottom: 0px;
-}
-
-.w-100.flex.pros-and-cons.mb2-5{
-	display: flex;
-}
-
-.w-100.pros.black.mr2{
-	width: 50%;
-	background: rgb(230, 255, 240);
-    margin: 0!important;
-}
-.w-100.cons.black{
-	width: 50%;
-	background: rgb(255, 235, 233);
-    margin: 0!important;
-}
-
-.mb3.f4.ttu.pros{
-	background: #0f9d58;
-    padding: 10px;
-    color: white;
-}
-
-.mb3.f4.ttu.cons{
-	background: #db4437;
-    padding: 10px;
-    color: white;
-}
-.flex.flex-row.items-start{
-	padding-left:10px;
-}
-
-.table-of-contents li {
-    margin-left: 20px;
-    margin-bottom: 0.4em;
-    line-height: 1.4;
-}
-
-.table-of-contents li ul {
-    margin: 6px 0;
-    list-style-type: disc;
-}
-
-.table-of-contents a {
-    font-size: 15px;
-    line-height: 20px;
-	color: #000;
-}
-
-@media only screen and (max-width:768px) {
-    .amzn-native-header-text {
-        display: block !important;
-        text-align: center !important;
-    }
 }

@@ -31,15 +31,17 @@ collections:
       - {label: "Featured Image", name: "featured_Image", widget: "image", hint: "Recommended Size: 1200x680", required: false}
       - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
       - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Product Table", name: "product_table", widget: "boolean", default: false, required: false}
+      - {label: "Top 3 Table", name: "top3_table", widget: "boolean", default: false, required: false}
       #Intro-Paragraphs -->
       - {label: "Paragraphs", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
+      - {label: "After Top 3 Table", name: after_intro, widget: markdown }
       #Buying Guide
       - {label: Buying Guice Heading, name: buyingGuideHead, required: false, widget: string }
       - {label: Buying Guice, name: buyingGuide, required: false, widget: markdown }
       #Summary & Main-Heading -->
       - {label: At A Glance, name: product_Summary, required: false, widget: string }
       - {label: Main Haeding, name: product_Mheading, required: false, widget: string }
-      - {label: "Product Table", name: "product_table", widget: "boolean", default: false, required: false}
       #Product Recommendations
       - {label: "Recommendation", name: "the_products",widget: "list", required: false, fields: [
             {label: "Name/Modal", required: false, name: name, widget: string },
@@ -97,6 +99,58 @@ collections:
       - {label: "Featured Image", name: "featured_Image", widget: "image", hint: "Recommended Size: 1200x680", required: false}
       - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
       - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      #Frequently Asked Questions
+      - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 
+        [ {label: "Question", name: "question", widget: "string" },
+          {label: "Answer", name: "answer", widget: "markdown" } 
+        ] }
+
+#Product Reviews Collection
+  - name: "product-reviews"
+    label: "Product Reviews"
+    folder: "content/reviews"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "reviews"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Discription", name: "meta_Description", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "meta_Keywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "relation", required: false, collection: "authors", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image", name: "featured_Image", widget: "image", hint: "Recommended Size: 1200x680", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Product Images", name: "productImages", widget: "list", hint: "More than 3 Images Required", required: false, fields:
+        [{label: "Image", name: "product_Img", widget: "image" }]
+        }
+      - {label: "Buy Button Link", name: "buybtn", widget: "string", required: false}
+      - {label: "Product Summary", name: "productSummary", widget: "markdown", required: false}
+        #Ratings
+      - {label: "Ratings", name: "ratings", widget: "list", required: false, fields:
+          [
+            {label: "Feature", name: "feature", widget: "string" },
+            {label: "Rating", name: "rating", widget: select, options: ["1","2","3","4","5"] }
+          ]
+        }
+      - {label: "Overall Score", name: "overRating", widget: select, options: ["1","2","3","4","5"], required:false }
+        #Specifications
+      - {label: Specifications, name: specifications, required: false, widget: "list", fields: 
+          [ {label: "Feature", name: "specsFeature", widget: string },
+            {label: "Value", name: "specsValue", widget: string }
+          ]
+        }
+      - {label: Pros, name: pros, required: false, widget: "list", fields: 
+          [ {label: Pro, name: pro, widget: string } ] 
+        }
+      - {label: Cons, name: cons, required: false, widget: "list", fields: 
+          [ {label: Con, name: con, widget: string } ]
+        }
       - {label: "Body", name: "body", widget: "markdown", required: false}
       #Frequently Asked Questions
       - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 

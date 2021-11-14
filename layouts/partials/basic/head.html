@@ -22,7 +22,8 @@
 {{- $min900 := resources.Get "css/min-900px.css" | minify -}}
 {{- $min1000 := resources.Get "css/min-1000px.css" | minify -}}
 {{- $fontawesome := resources.Get "css/font-awesome.css" | minify -}}
-{{- $mainStyle := slice $globalStyle $max900 $min700 $min900 $min1000 | resources.Concat "css/main.css" | fingerprint -}}
+{{- $newfeatures := resources.Get "css/v1.2.css" | minify -}}
+{{- $mainStyle := slice $globalStyle $max900 $min700 $min900 $min1000 $newfeatures | resources.Concat "css/main.css" | fingerprint }}
 
 <style>
 :root {
@@ -33,6 +34,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
 </style>
 <link rel="stylesheet" href="{{- $mainStyle.Permalink| safeCSS -}}">
+{{ if .Params.productImages }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"> -->
+{{ end }}
 <script nonce async src="https://kit.fontawesome.com/e1c451d9d8.js" crossorigin="anonymous" type="text/javascript"></script>
 
 <!-- Favicon Tags -->

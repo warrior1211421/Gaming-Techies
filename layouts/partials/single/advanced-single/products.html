@@ -1,6 +1,7 @@
 {{ if .Params.product_Mheading }}
     <h2>{{.Params.product_Mheading}}</h2>
 {{else}}
+    <h2>{{.Title}} Reviews</h2>
 {{end}}
 <!-- Product Previews -->
 {{ range .Params.the_products }}
@@ -14,8 +15,13 @@
             </a>
         </div>
         <meta itemprop="url" content="{{.image}}">
-        <meta itemprop="height" content="300">
-        <meta itemprop="width" content="300">
+        <meta itemprop="height" content="240">
+        <meta itemprop="width" content="320">
+        <figcaption class="image-figcaption">
+            <span class="caption" itemprop="caption">{{.name}}</span>
+            <span class="credit">(Image credit: <span itemprop="copyrightHolder">Amazon</span>)</span>
+        </figcaption>
+    </figure>
     <h3 class="title__heading">
         <a href="{{.amzlink}}" aria-label="{{.name}}"
             target="_blank" rel="nofollow sponsored noopener noreferrer">
@@ -25,19 +31,18 @@
     <div class="subtitle">
         <p>{{.award}}</p>
     </div>
-	        <p class="amazon-link">
-            <a href="{{.amzlink}}" aria-label="{{.name}}"
-                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Check Price</a>
-        </p>
     <div class="specifications">
     {{ range .specifications }}
+    {{ if .specification }}
+        <p class="specs__title"><strong>SPECIFICATIONS</strong></p>
+    {{ end }}
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
-			 <div class="p-and-c">
+    <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
-                <h4 class="mb3 f4 ttu pros">Pros</h4>
+                <h4 class="mb3 f4 ttu">REASONS TO BUY</h4>
                 {{range .pros}}
                 <p class="flex flex-row items-start">
                     <span class="bg-greene teal br-50 mr2 tc f5 single-post-recommendation-pros-cons">✓</span>
@@ -46,7 +51,7 @@
                 </p>
             </div>
             <div class="w-100 cons black">
-                <h4 class="mb3 f4 ttu cons">Cons</h4>
+                <h4 class="mb3 f4 ttu">REASONS TO AVOID</h4>
                 {{ range .cons }}
                 <p class="flex flex-row items-start">
                         <span class="bg-rede grey-4 f5 br-50 tc mr2 single-post-recommendation-pros-cons">✗</span>
@@ -55,18 +60,16 @@
                 {{ end }}
             </div>
         </div>
-    </div>
-	<div>
-    {{ range .paragraphs }}
-        <p>{{.paragraph | markdownify}}</p>
-			        <p class="amazon-link">
+        <p class="amazon-link">
             <a href="{{.amzlink}}" aria-label="{{.name}}"
                 class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
             <a href="{{.amzlink}}"
                 aria-label="{{.name}}" class="amazon-review-button" target="_blank"
                 rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
         </p>
-		</div>
+    </div>
+    {{ range .paragraphs }}
+        <p>{{.paragraph | markdownify}}</p>
     {{ end }}
     {{ partial "ads/below-product" . }}
 </div>

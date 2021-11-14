@@ -1,23 +1,3 @@
-<style>
-    .homeListingResults{
-    height: 350px;
-    padding: 0 30px;
-    padding-top: 30px !important;
-    min-height: 300px;
-    max-height: 350px;
-    overflow-y: scroll;
-    box-shadow: 0 10px 20px #ededed;
-    }
-    .article-name.scroll::before{
-    content: "\00BB";
-    }
-    #categoriesList .list-title.scroll{
-    margin:0;
-    }
-    .ez-homepage-section.home-hero-sub-posts{
-        grid-template-columns: 1fr 1fr;
-    }
-</style>
 <div id="categoriesList" class="{{ if or (eq site.Params.home_section.section1 "Style 1") (eq site.Params.home_section.section2 "Style 1") (eq site.Params.home_section.section3 "Style 1") (eq site.Params.home_section.section4 "Style 1") }}ez-homepage-section{{ end }} home-hero-sub-posts">
     {{ if eq site.Params.home_section.section1 "Style 1" }}
     {{ $category1 := site.Params.home_section.section1Cat }}

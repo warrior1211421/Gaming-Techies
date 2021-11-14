@@ -1,0 +1,30 @@
+<div class="ez-product-scores">
+    <ul class="score-items">
+        {{ range .Params.ratings }}
+        <li class="score-item"><span>{{.feature}}</span>
+            {{ with .rating }}
+                <div>
+                    <span class="{{ if lt . "1" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+                    <span class="{{ if lt . "2" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+                    <span class="{{ if lt . "3" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+                    <span class="{{ if lt . "4" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+                    <span class="{{ if lt . "5" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+                </div>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ with .Params.overRating }}
+    <div class="ez-overall-score">
+        <span class="ez-average-score">{{.}}/5</span>
+        <div>
+            <span class="{{ if lt . "1" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+            <span class="{{ if lt . "2" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+            <span class="{{ if lt . "3" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+            <span class="{{ if lt . "4" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+            <span class="{{ if lt . "5" }}fa fa-star unchecked{{else}}fa fa-star checked{{end}}"></span>
+        </div>
+        <span class="ez-score-label">Overall Score</span>
+    </div>
+    {{end}}
+</div>

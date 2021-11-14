@@ -16,24 +16,12 @@
         border-radius: 10px
     }
     .nav-list.component-loaded {
-        background: #feb033;
+        padding-top: 1em;
+        background: var(--mainColor);
     }
     .buttons-social{
         display: none !important;
     }
-	
-	.menu-item a, .menu-item span{
-		padding: 10px	
-	}
-	.w-100.flex.pros-and-cons.mb2-5 {
-		display: grid;
-	}	
-	.w-100.pros.black.mr2 {
-		width: 100%;
-	}
-	.w-100.cons.black {
-		width: 100%;
-	}
     .home-hero-sub-posts{
         display: block !important;
     }
