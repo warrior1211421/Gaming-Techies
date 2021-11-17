@@ -40,7 +40,7 @@ after_intro: >-
 
 
   **[Skip to Product Reviews](https://elastic-kalam-225070.netlify.app/best-motherboard-for-i7-4790k/#1-msi-atx-ddr3-2600-lga-1150)**
-buyingGuideHead: Read These Quick Shopping Tips Before You Buy
+buyingGuideHead: Quick Shopping Tips
 buyingGuide: >-
   Even if you know which motherboards suit best your **i7 4790K**, you must
   still have considered a lot of things that make up a motherboard great in its
@@ -100,8 +100,8 @@ buyingGuide: >-
 
 
   So, these were some most important things that we suggest you to must consider in a motherboard. If you never ignore to look out for these things in the motherboard that you are buying for your **Intel core i7 4790K**, we bet that you are unlikely to go wrong with your decision.
-product_Summary: Best Motherboards for i7 4790k - Summary
-product_Mheading: Best Motherboards for i7 4790k Reviews
+product_Summary: Best Motherboard for i7 4790k - Summary
+product_Mheading: Best Motherboard for i7 4790k Reviews
 the_products:
   - summary_award: "Best Motherboard for Audio Components "
     paragraphs:
