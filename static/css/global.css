@@ -1703,7 +1703,7 @@ a {
     text-decoration: none;
 }
 .menu-item, .sub-menu-item {
-    margin-bottom: 0 1rem;
+    padding: 0 1rem;
 }
 
 .menu-item a, .menu-item span {
