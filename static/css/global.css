@@ -1587,13 +1587,6 @@ ul.table-of-contents li a{
 	padding-left: 12px;
 }
 
-.mb3.f4.ttu{
-	background: linear-gradient(90deg,#5fcc89,#24b95e);
-    padding: 12px;
-    color: white;
-    text-align: center;
-}
-
 .has-submenu .sub-menu {
     left: 0;
     top: 18px;
