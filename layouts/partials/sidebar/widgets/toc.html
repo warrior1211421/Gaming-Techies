@@ -16,7 +16,7 @@
 <ul class="table-of-contents">
     {{ range .Params.the_products }}
     <li>
-        <a href="#{{.name | anchorize}}"> {{.name}}
+        <a href="#{{.name | anchorize}}"> {{.namefortoc }}
         </a>
     </li>
     {{ end }}
