@@ -27,21 +27,18 @@
     <div class="subtitle">
         <p>{{.award}}</p>
     </div>
+			<div>
+        <p class="amazon-link">
+            <a href="{{.amzlink}}" aria-label="{{.name}}"
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Check Price</a>
+        </p>
+    </div>
     <div class="specifications">
     {{ range .specifications }}
     {{ if .specification }}
     {{ end }}
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
-    </div>
-		<div>
-        <p class="amazon-link">
-            <a href="{{.amzlink}}" aria-label="{{.name}}"
-                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
-            <a href="{{.amzlink}}"
-                aria-label="{{.name}}" class="amazon-review-button" target="_blank"
-                rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
-        </p>
     </div>
 	<div>
     {{ range .paragraphs }}
