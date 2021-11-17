@@ -319,7 +319,7 @@ img.logo {
     position: relative;
     margin-bottom: 12px;
     text-transform: uppercase;
-    background-color: #333;
+    background-color: var(--mainColor)
 }
 
 .list-text-links .list-title a {
@@ -1592,6 +1592,15 @@ ul.table-of-contents li a{
     position: absolute;
     padding-bottom: 1rem;
     background: #feb033;
+}
+
+.list-title {
+
+	border: none;
+    background-color: #333;
+    color: var(--textColor);
+}
+	
 }
 
 .fa.fa-bars {
