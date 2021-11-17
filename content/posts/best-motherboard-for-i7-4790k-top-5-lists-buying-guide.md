@@ -97,6 +97,8 @@ buyingGuide: >-
 
 
   So, these were some most important things that we suggest you to must consider in a motherboard. If you never ignore to look out for these things in the motherboard that you are buying for your Intel core i7 4790K, we bet that you are unlikely to go wrong with your decision.
+product_Summary: Best Motherboards for i7 4790k - Summary
+product_Mheading: Best Motherboards for i7 4790k Reviews
 the_products:
   - summary_award: "Best Motherboard for audio components "
     paragraphs:
