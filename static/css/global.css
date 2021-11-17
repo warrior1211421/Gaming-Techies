@@ -1550,6 +1550,10 @@ ul.table-of-contents li a{
 
 /*Sayim Css Here*/
 
+.summary-p{
+	padding-top: 20px;
+}
+
 .amazon-review-button {
     font-size: 15px;
     font-weight: 600;
