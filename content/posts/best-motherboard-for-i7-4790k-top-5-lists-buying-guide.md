@@ -140,7 +140,7 @@ the_products:
     nameForTOC: MSI ATX DDR3 2600 LGA 1150
     name: 1. MSI ATX DDR3 2600 LGA 1150
     specifications:
-      - specification: "**sBrand:** MSI **\\|** **Maximum RAM Memory:** 32 GB **\\|**
+      - specification: "**Brand:** MSI **\\|** **Maximum RAM Memory:** 32 GB **\\|**
           **Memory Slots:** 4 **\\|** **Weight:** 4 pounds **\\|**
           **Dimensions**:11.6 x 8.7 x 2.2 inches"
     cons:
