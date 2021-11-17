@@ -176,10 +176,6 @@ img.logo {
     padding: 0 1rem
 }
 
-.menu-item>a:hover, .sub-menu-item>a:hover {
-    border-bottom: 2px solid var(--textColor);
-}
-
 .has-submenu:hover>.sub-menu {
     display: block
 }
@@ -1643,6 +1639,10 @@ ul.table-of-contents li a{
     line-height: 60px;
     max-height: 60px;
     background-color: #333;
+}
+
+.menu-item>a:hover, .sub-menu-item>a:hover {
+    border-bottom: 2px solid #000;
 }
 
 .primary-nav .wrapper {
