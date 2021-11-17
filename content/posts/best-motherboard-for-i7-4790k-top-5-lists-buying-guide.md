@@ -140,9 +140,12 @@ the_products:
     nameForTOC: MSI ATX DDR3 2600 LGA 1150
     name: 1. MSI ATX DDR3 2600 LGA 1150
     specifications:
-      - specification: "**Brand:** MSI **\\|** **Maximum RAM Memory:** 32 GB **\\|**
-          **Memory Slots:** 4 **\\|** **Weight:** 4 pounds **\\|**
-          **Dimensions**:11.6 x 8.7 x 2.2 inches"
+      - specification: |-
+          * **Brand:** MSI
+          * **Maximum RAM Memory:** 32 GB 
+          * **Memory Slots:** 4
+          * **Weight:** 4 pounds 
+          * **Dimensions**:11.6 x 8.7 x 2.2 inches
     cons:
       - con: Only 5 fan slots
     image: /uploads/msi-atx-ddr3-2600-lga-1150.webp
@@ -310,7 +313,7 @@ the_products:
       - con: Only one usable extra PCI-e 1x slot
     image: /uploads/gigabyte-b365m-ds3h.webp
     award: Best for Providing Premium Gaming Network
-  - summary_award: Best to avoid Overheating
+  - summary_award: Best to Avoid Overheating
     paragraphs:
       - paragraph: >-
           Here we are with our last product on the list of 5 best motherboards
@@ -343,7 +346,7 @@ the_products:
     cons:
       - con: Only 2 fan connectors available
     image: /uploads/asus-micro-atx-ddr3.webp
-    award: "Best to avoid Overheating "
+    award: "Best to Avoid Overheating "
 conclusion:
   - paragraph: All these above mentioned five **best motherboards for i7 4790K** are
       amazing and fascinating in their existence. If you make up a choice and
