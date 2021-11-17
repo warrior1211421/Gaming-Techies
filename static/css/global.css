@@ -1633,6 +1633,10 @@ ul.table-of-contents li a{
     background: #feb033;
 }
 
+.fa.fa-bars {
+	color:white;
+}
+
 .burgerbar {
     height: 60px;
     font-size: 24px;
