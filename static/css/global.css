@@ -167,10 +167,6 @@ img.logo {
     max-height: 44px
 }
 
-.menu-item, .sub-menu-item {
-    padding: 0 1rem
-}
-
 .has-submenu:hover>.sub-menu {
     display: block
 }
@@ -1705,6 +1701,10 @@ ul.table-of-contents li a{
 a {
     color: #2871de;
     text-decoration: none;
+}
+
+.menu-item, .sub-menu-item {
+    margin-bottom: 10px;
 }
 
 .menu-item a, .menu-item span {
