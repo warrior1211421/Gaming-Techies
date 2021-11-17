@@ -1552,6 +1552,7 @@ ul.table-of-contents li a{
 
 .summary-p{
 	padding-top: 20px;
+	margin-top: 2px dashed #d3d3d3;
 }
 
 .amazon-review-button {
