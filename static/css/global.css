@@ -1087,12 +1087,6 @@ footer p {
     margin:0;
 }
 
-.news-article .text-copy .specs__text {
-    margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
-}
-
 .news-article .image-figure .image-figcaption {
     text-align: center
 }
@@ -1646,6 +1640,12 @@ ul.table-of-contents li a{
     border-radius: 5px;
     text-transform: uppercase;
     background-color: #2871de;
+}
+
+.news-article .text-copy .specs__text {
+	border: 1px solid hsl(0deg 0% 80%);
+    background: #e7e7e7;
+    padding: 15px;
 }
 
 a {
