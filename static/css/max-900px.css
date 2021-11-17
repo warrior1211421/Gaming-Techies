@@ -57,6 +57,9 @@
 
 /* Sayim Css Here */
 
+	.w-100.flex.pros-and-cons.mb2-5 {
+		display: grid;
+	}
     .nav-list.component-loaded {
         padding-top: 1em;
         background: #feb033;
