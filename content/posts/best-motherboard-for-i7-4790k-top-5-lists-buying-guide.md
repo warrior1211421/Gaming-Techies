@@ -350,8 +350,8 @@ faqs:
   - answer: The motherboards that come with a greater number of SATA ports and RAM
       slots, along with having the best compatible processor socket type and PCI
       slots, is considered best for i7 4790K.
-    question: What is best and compatible motherboard for i7 4790K?
-  - question: How much a good motherboard costs?
+    question: What is Best and Compatible Motherboard for i7 4790K?
+  - question: How Much a Good Motherboard Costs?
     answer: It is quite obvious that a good-quality motherboard comes in a pricy
       range. To be specific, you should keep in mind a good cost of almost $200-
       $300 maximum. Any item expensive than this might be too much for a
@@ -360,5 +360,5 @@ faqs:
       should last as long as up to your processor is living: 2-3 years. Any
       motherboard that dies in a fewer time is not quality, and you should not
       consider buying it."
-    question: How long should a good motherboard for Intel Core i7 4790K last?
+    question: How Long Should a Good Motherboard for Intel Core i7 4790K Last?
 ---
