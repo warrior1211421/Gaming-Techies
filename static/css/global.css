@@ -599,19 +599,6 @@ article figure {
     margin-bottom: 10px
 }
 
-.news-article .btn {
-    color: var(--textColor);
-    font-size: 15px;
-    padding: .5rem 2rem;
-    min-width: 8.4rem;
-    text-align: center;
-    display: inline-block;
-    font-weight: bold;
-    border-radius: 5px;
-    text-transform: uppercase;
-    background-color: var(--linkColor);
-}
-
 .figure-img {
     text-align: center
 }
@@ -1651,6 +1638,19 @@ ul.table-of-contents li a{
 
 .primary-nav .wrapper {
     background: #feb033;
+}
+
+.news-article .btn {
+    color: var(--textColor);
+    font-size: 15px;
+    padding: .5rem 2rem;
+    min-width: 8.4rem;
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color: #2871de;
 }
 
 .menu-item a, .menu-item span {
