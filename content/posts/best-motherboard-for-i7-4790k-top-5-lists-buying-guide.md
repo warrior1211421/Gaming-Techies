@@ -251,8 +251,8 @@ the_products:
     name: 3. ASUS Z97-A Motherboard
     specifications:
       - specification: "**Brand:** ASUS **\\|** **Maximum RAM Memory:** 32 GB **\\|**
-          **Memory Slots:** 4 | **Weight:** 3.2 ounces **\\|** **Dimensions:**
-          10.4 x 2.7 x 12.9 inches"
+          **Memory Slots:** 4 **\\|** **Weight:** 3.2 ounces **\\|**
+          **Dimensions:** 10.4 x 2.7 x 12.9 inches"
     cons:
       - con: A bit pricy
     image: /uploads/asus-z97-a-motherboard.webp
