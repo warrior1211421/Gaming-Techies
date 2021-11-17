@@ -231,4 +231,15 @@ ul.table-of-contents{
     width: 100%;
     height: auto;
 }
+
+/* Sayim CSS Here */
+	.w-100.flex.pros-and-cons.mb2-5 {
+		display: grid;
+	}
+	.w-100.pros.black.mr2{
+	width: 100%;
+	}
+	.w-100.cons.black{
+	width: 100%;	
+	}
 }
