@@ -186,16 +186,6 @@ img.logo {
     margin-left: 3px;
 }
 
-.has-submenu .sub-menu {
-    left: 0;
-    top: 18px;
-    width: 200px;
-    display: none;
-    position: absolute;
-    padding-bottom: 1rem;
-    background: var(--mainColor);
-}
-
 .has-submenu {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1633,6 +1623,16 @@ ul.table-of-contents li a{
 
 /*Sayim Css Here*/
 
+.has-submenu .sub-menu {
+    left: 0;
+    top: 18px;
+    width: 200px;
+    display: none;
+    position: absolute;
+    padding-bottom: 1rem;
+    background: #feb033;
+}
+
 .burgerbar {
     height: 60px;
     font-size: 24px;
@@ -1646,7 +1646,7 @@ ul.table-of-contents li a{
 }
 
 .primary-nav .wrapper {
-    background: #feb033
+    background: #feb033;
 }
 
 .menu-item a, .menu-item span {
