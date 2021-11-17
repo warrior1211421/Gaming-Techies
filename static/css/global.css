@@ -628,11 +628,6 @@ article figure {
     top: 1rem
 }
 
-.sidebar-container h3 {
-    font-size: 25px;
-    margin-bottom: 15px
-}
-
 .table-of-contents a {
     color: #333;
     font-size: 15px;
@@ -1541,6 +1536,12 @@ ul.table-of-contents li a{
 
 /*Sayim Css Here*/
 
+.sidebar-container h3 {
+    margin-bottom: 15px;
+    border-bottom: 2px solid #2871DE;
+    padding-bottom: 5px;
+}
+
 .table-of-contents {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1605,7 +1606,7 @@ ul.table-of-contents li a{
 }
 
 .ttu.f6.w-100.pb2.mv0.latest-posts-heading{
-	background: #333;
+	background: #2871DE;
     text-align: center;
     color: white;
     padding: 5px;
@@ -1615,7 +1616,7 @@ ul.table-of-contents li a{
 }
 
 .ttu.f6.mt0{
-	background: #333;
+	background: #2871DE;
     text-align: center;
     color: white;
 	width: 108%;
