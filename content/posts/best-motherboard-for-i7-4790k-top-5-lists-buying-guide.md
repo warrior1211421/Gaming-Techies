@@ -310,7 +310,7 @@ the_products:
       - con: Only one usable extra PCI-e 1x slot
     image: /uploads/gigabyte-b365m-ds3h.webp
     award: Best for Providing Premium Gaming Network
-  - summary_award: Best to avoid Overheating
+  - summary_award: Best to Avoid Overheating
     paragraphs:
       - paragraph: >-
           Here we are with our last product on the list of 5 best motherboards
@@ -343,7 +343,7 @@ the_products:
     cons:
       - con: Only 2 fan connectors available
     image: /uploads/asus-micro-atx-ddr3.webp
-    award: "Best to avoid Overheating "
+    award: "Best to Avoid Overheating "
 conclusion:
   - paragraph: All these above mentioned five **best motherboards for i7 4790K** are
       amazing and fascinating in their existence. If you make up a choice and
