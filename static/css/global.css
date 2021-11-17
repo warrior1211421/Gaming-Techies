@@ -35,11 +35,6 @@ hr{
     width: 30%;
 }
 
-a {
-    color: var(--linkColor);
-    text-decoration: none;
-}
-
 p{
     font-size: 18px;
     line-height: 1.5;
@@ -1651,6 +1646,11 @@ ul.table-of-contents li a{
     border-radius: 5px;
     text-transform: uppercase;
     background-color: #2871de;
+}
+
+a {
+    color: #2871de;
+    text-decoration: none;
 }
 
 .menu-item a, .menu-item span {
