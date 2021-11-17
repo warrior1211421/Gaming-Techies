@@ -6,7 +6,6 @@
     weight = "1"
 
   [[main]]
-	Parent = "Buyers Guide"
     name = "Knowledge Base"
     url = "/knowledge-base/"
     weight = "2"
