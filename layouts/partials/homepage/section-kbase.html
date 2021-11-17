@@ -1,7 +1,7 @@
 <div id="categoriesList" class="ez-homepage-section">
     <section data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
         <header>
-            <h2 class="list-title" style="background-color: color: #000"><a href="{{ "knowledge-base" | absURL }}">Knowledge Base</a></h2>
+            <h2 class="list-title" style="color: #000"><a href="{{ "knowledge-base" | absURL }}">Knowledge Base</a></h2>
         </header>
         <div class="listingResults mixedPrimary" data-sort="page" data-listkey="mixedPrimary">
             {{ range first 6 ( where .Site.RegularPages.ByDate.Reverse "Section" "eq" "knowledge-base") }}
