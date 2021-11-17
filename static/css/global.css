@@ -1575,10 +1575,11 @@ ul.table-of-contents li a{
     grid-template-columns: 1fr;
 }
 
-.mb3.f4.ttu {
+.w-100.cons.black{
 	width: 50%;
 }
-.mb3.f4.ttu {
+
+.w-100.pros.black.mr2{
 	width: 50%;
 }
 
