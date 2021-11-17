@@ -1605,6 +1605,25 @@ ul.table-of-contents li a{
     background: #db4437;
 }
 
+.ttu.f6.w-100.pb2.mv0.latest-posts-heading{
+	background: #333;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px !important;
+}
+
+.ttu.f6.mt0{
+	background: #333;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px !important;
+}
 .has-submenu .sub-menu {
     left: 0;
     top: 18px;
