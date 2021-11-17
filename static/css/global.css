@@ -1124,6 +1124,10 @@ footer p {
     border: none!important
 }
 
+.knowledge-base-color{
+	color: #fff;
+}
+
 .computer-case-sizes-article:first-of-type img {
     max-width: 100%
 }
