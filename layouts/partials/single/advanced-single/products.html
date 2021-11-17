@@ -1,4 +1,3 @@
-<div class= "Sayim Table">
 {{ if .Params.product_Mheading }}
     <h2>{{.Params.product_Mheading}}</h2>
 {{else}}
@@ -41,7 +40,6 @@
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}
     </div>
-	</div>
 	<div>
     {{ range .paragraphs }}
         <p>{{.paragraph | markdownify}}</p>
