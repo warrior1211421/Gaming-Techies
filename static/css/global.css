@@ -1704,7 +1704,7 @@ a {
 }
 
 .menu-item, .sub-menu-item {
-    margin-bottom: 10px;
+    margin-bottom: 0 1rem;
 }
 
 .menu-item a, .menu-item span {
