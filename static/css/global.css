@@ -93,14 +93,6 @@ article, aside, figcaption, figure, footer, header, nav, section {
     margin: auto
 }
 
-.burgerbar {
-    height: 60px;
-    font-size: 24px;
-    line-height: 60px;
-    max-height: 60px;
-    background-color: #fff;
-}
-
 .burgerbar .burgerbar-small {
     height: 60px;
     max-height: 60px;
@@ -174,10 +166,6 @@ img.logo {
     height: auto
 }
 
-.primary-nav .wrapper {
-    background: var(--mainColor)
-}
-
 .primary-nav .menuitems {
     z-index: auto;
     display: block;
@@ -190,13 +178,6 @@ img.logo {
 
 .menu-item>a:hover, .sub-menu-item>a:hover {
     border-bottom: 2px solid var(--textColor);
-}
-
-.menu-item a, .menu-item span {
-    color: var(--textColor);
-    display: inline-block;
-    font-weight: 600;
-    font-size: 16px;
 }
 
 .has-submenu:hover>.sub-menu {
@@ -1652,4 +1633,25 @@ ul.table-of-contents li a{
 }
 .summary-jump a:hover{
     border-bottom: 1px solid var(--mainColor) !important;
+}
+
+/*Sayim Css Here*/
+
+.burgerbar {
+    height: 60px;
+    font-size: 24px;
+    line-height: 60px;
+    max-height: 60px;
+    background-color: #333;
+}
+
+.primary-nav .wrapper {
+    background: #feb033
+}
+
+.menu-item a, .menu-item span {
+    color: #000;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 16px;
 }
