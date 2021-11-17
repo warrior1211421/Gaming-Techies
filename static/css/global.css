@@ -1577,14 +1577,24 @@ ul.table-of-contents li a{
 
 .w-100.cons.black{
 	width: 50%;
+	background: rgb(255, 235, 233);
 }
 
 .w-100.pros.black.mr2{
 	width: 50%;
+	background: rgb(230, 255, 240);
 }
 
 .flex.flex-row.items-start{
 	padding-left: 12px;
+}
+
+.mb3.f4.ttu.pros{
+	padding: 10px;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    background: linear-gradient(90deg,#5fcc89,#24b95e);
 }
 
 .has-submenu .sub-menu {
@@ -1596,6 +1606,14 @@ ul.table-of-contents li a{
     padding-bottom: 1rem;
     background: #feb033;
 }	
+
+.mb3.f4.ttu.cons{
+	padding: 10px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    background: #de6c64;
+}
 
 .fa.fa-bars {
 	color:white;
