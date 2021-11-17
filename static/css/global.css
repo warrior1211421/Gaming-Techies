@@ -1572,6 +1572,10 @@ ul.table-of-contents li a{
 
 /*Sayim Css Here*/
 
+.w-100.flex.pros-and-cons.mb2-5{
+	display:flex;
+}
+
 .has-submenu .sub-menu {
     left: 0;
     top: 18px;
