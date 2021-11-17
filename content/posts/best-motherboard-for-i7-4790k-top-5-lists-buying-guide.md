@@ -137,9 +137,9 @@ the_products:
     nameForTOC: MSI ATX DDR3 2600 LGA 1150
     name: 1. MSI ATX DDR3 2600 LGA 1150
     specifications:
-      - specification: "**Brand:** MSI **\\|** **Maximum RAM Memory:** 32 GB | **Memory
-          Slots:** 4 **\\|** **Weight:** 4 pounds **\\|** **Dimensions**:11.6 x
-          8.7 x 2.2 inches"
+      - specification: "**Brand:** MSI **\\|** **Maximum RAM Memory:** 32 GB **\\|**
+          **Memory Slots:** 4 **\\|** **Weight:** 4 pounds **\\|**
+          **Dimensions**:11.6 x 8.7 x 2.2 inches"
     cons:
       - con: Only 5 fan slots
     image: /uploads/msi-atx-ddr3-2600-lga-1150.webp
@@ -251,8 +251,8 @@ the_products:
     name: 3. ASUS Z97-A Motherboard
     specifications:
       - specification: "**Brand:** ASUS **\\|** **Maximum RAM Memory:** 32 GB **\\|**
-          **Memory Slots:** 4 | **Weight:** 3.2 ounces **\\|**
-          **Dimensions:**10.4 x 2.7 x 12.9 inches"
+          **Memory Slots:** 4 | **Weight:** 3.2 ounces **\\|** **Dimensions:**
+          10.4 x 2.7 x 12.9 inches"
     cons:
       - con: A bit pricy
     image: /uploads/asus-z97-a-motherboard.webp
@@ -332,6 +332,10 @@ the_products:
     amzlink: https://www.amazon.com/dp/B00CRJU3JA?th=1&psc=1&linkCode=ll1&tag=gamingtechi09-20&linkId=24151dab1e427da7e3d2b669fe7c16d3&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS Micro ATX DDR3
     name: 5. ASUS Micro ATX DDR3
+    specifications:
+      - specification: "**Brand:** ASUS | **Maximum RAM Memory:** 64 GB | **Memory
+          Slots:** 4 | **Weight:** 1.82 lbs | **Dimensions:** 9.2 x 7.6 x 2.05
+          inches"
     cons:
       - con: Only 2 fan connectors available
     image: /uploads/asus-micro-atx-ddr3.webp
