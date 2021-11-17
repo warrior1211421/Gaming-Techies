@@ -1251,16 +1251,6 @@ footer p {
     flex-direction: column
 }
 
-.amazon-review-button {
-    font-size: 15px;
-    font-weight: 600;
-    color: var(--linkColor);
-    margin: 5px auto;
-    padding: 5px 12px;
-    text-decoration: underline;
-    text-shadow: 0 0 black;
-}
-
 .ra-article {
     margin-bottom: 20px
 }
@@ -1563,6 +1553,15 @@ ul.table-of-contents li a{
 }
 
 /*Sayim Css Here*/
+
+.amazon-review-button {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--linkColor);
+    margin: 5px auto;
+    text-decoration: underline;
+    text-shadow: 0 0 black;
+}
 
 .w-100.flex.pros-and-cons.mb2-5{
 	display:flex;
