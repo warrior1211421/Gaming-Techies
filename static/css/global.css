@@ -1590,11 +1590,19 @@ ul.table-of-contents li a{
 }
 
 .mb3.f4.ttu.pros{
-	padding: 10px;
-    color: white;
-    text-align: center;
-    margin: 0px;
-    background: linear-gradient(90deg,#5fcc89,#24b95e);
+	padding: 0.5em 1em;
+    color: #fff;
+    font-size: 1.1em;
+    margin: 0;
+    background: #0f9d58;
+}
+
+.mb3.f4.ttu.cons{
+    padding: 10px;
+    color: #fff;
+    margin: 0;
+    font-size: 1.1em;
+    background: #db4437;
 }
 
 .has-submenu .sub-menu {
@@ -1606,14 +1614,6 @@ ul.table-of-contents li a{
     padding-bottom: 1rem;
     background: #feb033;
 }	
-
-.mb3.f4.ttu.cons{
-	padding: 10px;
-    text-align: center;
-    color: white;
-    margin: 0px;
-    background: #de6c64;
-}
 
 .fa.fa-bars {
 	color:white;
