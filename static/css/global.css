@@ -1534,12 +1534,12 @@ ul.table-of-contents li a{
 
 .table-of-contents li {
     margin-left: 20px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .sidebar-container h3 {
     margin-bottom: 15px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 .table-of-contents {
