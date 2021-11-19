@@ -263,8 +263,8 @@ faqs:
   - answer: Intel Core i7-8700k uses LGA 1151 rev2 and Coffee Lake memory
       architecture. All the motherboards provided in this article are compatible
       with the Core i7 8th gen to Core i9 9th Gen processors.
-    question: What socket do I need for Core i7 8700K?
-  - question: Can I play heavy games with Core i7-8700K?
+    question: What Socket do I Need for Core i7 8700K?
+  - question: Can I Play Heavy Games with Core i7-8700K?
     answer: Core i7 8700k is one of the most powerful processors of the 8th gen
       family. It provides an average 3.70 GHz frequency and a Turbo of 4.7 with
       still some head for overclocking. Therefore, i7-8700k is perfect for
@@ -273,5 +273,5 @@ faqs:
       completely different architecture. Still, in terms of performance, the
       Intel Core i7-8700K is pretty similar to AMD Ryzen 7 2700x except for a
       few differences.
-    question: What is the AMD equivalent of Intel I7-8700K?
+    question: What is the AMD Equivalent of intel I7-8700K?
 ---
