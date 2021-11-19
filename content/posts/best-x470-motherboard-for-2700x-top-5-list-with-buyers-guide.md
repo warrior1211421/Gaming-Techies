@@ -167,8 +167,8 @@ the_products:
       - pro: Better Optimization Feature
     cons:
       - con: Up-to-date BIOS is needed before installation
-  - name: 3. MSI Performance AM4 M.2 USB
-    nameForTOC: MSI Performance AM4 M.2 USB 3
+  - name: 3. MSI Performance AM4 M.2 USB 3
+    nameForTOC: MSI Performance AM4 M.2 USB
     image: /uploads/amd-ryzen-2nd-and-3rd-gen-am4-m.2.webp
     specifications:
       - specification: "**Brand:** MSI **\\|** **Series:** B450GPLMAX **\\|**
