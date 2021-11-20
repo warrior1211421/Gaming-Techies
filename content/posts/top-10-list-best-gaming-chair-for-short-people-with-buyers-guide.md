@@ -344,10 +344,7 @@ the_products:
       - pro: "Gas lift class 4. "
     cons:
       - con: Additional lumbar support is a bit rigid.
-  - name: 7. GTRACING Chair With Seat Height Adjust ability
-    nameForTOC: GTRACING Chair With Seat Height Adjust ability
-    image: /uploads/gtracing-gaming-chair.webp
-    amzlink: https://amzn.to/35h8Tgy
+  - summary_award: Seat Height Adjust ability
     paragraphs:
       - paragraph: >-
           GT RACING provides the best-rated gaming chairs for short people as it
@@ -383,8 +380,13 @@ the_products:
       - pro: Plenty of colors to choose from.
       - pro: "330 lbs. Weight support. "
       - pro: "Rotates up to 360 degrees, and lean back as far as 170 degrees. "
+    amzlink: https://amzn.to/35h8Tgy
+    nameForTOC: GTRACING Chair
+    name: "7. GTRACING Chair "
     cons:
       - con: Feel like breaking or falling when you lean backward.
+    image: /uploads/gtracing-gaming-chair.webp
+    award: Seat Height Adjust ability
   - name: 8. AKRacing California
     nameForTOC: AKRacing California
     image: /uploads/ak-racing-california-gaming-chair.webp
