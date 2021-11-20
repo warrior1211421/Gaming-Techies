@@ -415,8 +415,91 @@ the_products:
       - pro: "Well-built. "
     cons:
       - con: Not-so-generous padding.
-  - {}
-  - {}
+  - name: 9. KaiMeng Leather High Back
+    nameForTOC: KaiMeng Leather High Back
+    image: /uploads/kaimeng-gaming-chair.webp
+    amzlink: https://amzn.to/35h8RoW
+    paragraphs:
+      - paragraph: >-
+          For an upgraded gaming experience, try out this KaiMeng brand for
+          chairs, which uses an upgraded and durable gas lift that provides its
+          chairs a long life and reliability.
+
+
+          KaiMeng Office Gaming Chair entertains a short person with all the features that other gaming chairs do to tall and heightened ones. With its exceptionally great features, a short person can enjoy his favorite game with excitement and ease.
+
+
+          KaiMeng gaming chair is intentionally designed for short persons, including teens and adults, and provides them increased and extraordinary comfortable experience during their gameplay. Comfortable gaming can lead you to win over your opponents easily and more quickly.
+
+
+          Coming with the inclusion of an advanced and upgraded SGS BIFMA gas lift, it allows you an easy adjustment in the dimensions perfectly suited to your height. You don’t have to put extra force while adjusting it. Rather a swift and smooth adjustment will take your heart.
+
+
+          It is made to have a unique and attractive ergonomic design with high-quality PU leather that provides it a greater life, strength, and reliability. With such a comfortable chair when it remains with you for a longer time, you will be greatly happy spending your money buying it.
+
+
+          To provide you greater comfort and relaxation, KaiMeng has kept sure to add the padded armrest in the design. These armrests provide your arms support. When you are busy playing your game, these padded armrests are busy holding your arms to provide you greater comfort.
+
+
+          The base of the chair is high quality and five stars rated, while its wheels are rotatable without making any noise. They run smoothly on your floor while not doing any damage to it.
+
+
+          You can easily adjust the dimensions of the chair according to your height. It comes with a 13.5 to 16.5 inches adjustable height, 19.5× 20.1 inches seating area, 26.93 inches backrest height with a maximum capacity greater than or equal to 280 lbs.
+
+
+          KaiMeng does provide you all the features that a perfect chair specifically designed for gaming persons would provide. However, the best thing about this chair is that it takes care of the gaming needs of the short person and exclusively comes to comfort them with the benefitting features.
+    pros:
+      - pro: "Easily adjustable dimensions. "
+      - pro: "Greater comfort. "
+      - pro: Perfect chair for the above-average consumer.
+      - pro: "Easy to assemble and carry. "
+      - pro: "Reasonable price. "
+    cons:
+      - con: Too close to a 90° angle with the seat.
+  - name: 10. Hbada High Back Chair
+    nameForTOC: Hbada High Back Chair
+    image: /uploads/hbada-gaming-chair.webp
+    amzlink: https://amzn.to/3vmZdMr
+    paragraphs:
+      - paragraph: >-
+          Keep yourself ready to get the exclusive comfort and relaxation for
+          your long day gameplay with this Hbada Computer Chair. You will be
+          excited to know that this gaming chair is made specifically keeping in
+          mind all the needs of a gamer.
+
+
+          Hbada knows what you want and adds all the additional features that a short heightened gamer would love to have in his chair.
+
+
+          A generous piled cushioning that is spread all over the chair to provide you greater comfort and relaxation during your whole day of gameplay is the thing that you are definitely going to love about this chair. Its specialized ergonomic cushion placement provides a comfortable rest to your head, lumbar region, arms, and legs.
+
+
+          The chair is made of high-quality PU leather and breathable mesh. It provides a sleek appearance to the chair and is designed to make sure the air circulation and prevents discomfort and wear built while when you are in your chair for a longer period of time.
+
+
+          It allows you greater dimensions adjustment facility so that you can adjust your chair according to your own convenience. 90°-135° adjustment for the backrest allows you to adjust the seat arrangement easily and most conveniently.
+
+
+          It is a built padded lumbar cushion that provides you extra support, an adjustable headrest, and a hydraulic gas lift height adjuster that never lets you out in additional force for the adjustment.
+
+
+          The armrests of the chair can be flipped up to help you slide the chair under your desk easily. This dress a lot of space in the room whenever you are not playing.
+
+
+          The wheels of the chair are 360° rotatable, and you can easily glide them over your floor and carpet to adjust the position where you want to place it.
+
+
+          For a short person, the dimensions of the chair are perfect. It comes with a seat size of 56×50, 56×71 inches back size, 52-62 cm adjustable seat height, and 8 cm of sponge seat cushion thickness.
+
+
+          There is nothing in this chair that would not attract you to buy and try it for once. The chair is a great addition to the series of chairs that are desi9for the short person.
+    pros:
+      - pro: "Increased comfort. "
+      - pro: Gas-lift provides easy adjustment.
+      - pro: "Easily adjustable and moveable. "
+      - pro: "Perfect for short heightened gamers. "
+    cons:
+      - con: Available only in red color.
 conclusion:
   - paragraph: Buying the best gaming chair of your choice is now not difficult with
       our carefully made list of the top 10 **best gaming chairs for short
