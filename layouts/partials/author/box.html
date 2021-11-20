@@ -1,4 +1,24 @@
 {{ if  .Site.Data.authors}}    
+<style>
+    .author-box {
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        gap: 30px;
+        padding: 20px;
+        background: white;
+        margin-top: 20px;
+    }
+    .author-box .avatar img{
+        border-radius: 100%;
+    }
+    h1.name {
+        background: linear-gradient(90deg, black, var(--mainColor));
+        color: transparent;
+        background-clip: text;
+        -webkit-background-clip: text;
+        display: inline-block;
+    }
+</style>
 {{ $author := index .Site.Data.authors (.Title | anchorize) }}
 <div class="author-box">
     <div class="avatar"><img src="{{ $author.avatar | absURL }}" loading="lazy" alt="{{ $author.name }}" title="{{ $author.name }}" /></div>

@@ -1525,22 +1525,6 @@ ul.table-of-contents li a{
 
 /*Sayim Css Here*/
 
-.author-box {
-    grid-template-columns: 1fr 4fr;
-    gap: 30px;
-    padding: 20px;
-    background: white;
-    margin-top: 20px;
-}
-    .author-box .avatar img{
-    border-radius: 100%;
-	width: 200px;
-	height: 200px;
-}
-h1.name {
-    color: black;
-}
-
 .table-of-contents li ul {
     margin: 7px 0;
     list-style-type: disc;
