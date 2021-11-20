@@ -46,6 +46,7 @@
     {{ end }}
     {{ partial "ads/below-product" . }}
 	</div>
+	{{if .pros}}
 	    <div class="p-and-c">
         <div class="w-100 flex pros-and-cons mb2-5">
             <div class="w-100 pros black mr2">
@@ -68,6 +69,7 @@
             </div>
         </div>
 		</div>
+		{{end}}
 				<div>
         <p class="amazon-link">
             <a href="{{.amzlink}}" aria-label="{{.name}}"
