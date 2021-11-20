@@ -345,7 +345,76 @@ the_products:
     cons:
       - con: Additional lumbar support is a bit rigid.
   - name: 7. GTRACING Chair With Seat Height Adjust ability
-  - {}
+    nameForTOC: GTRACING Chair With Seat Height Adjust ability
+    image: /uploads/gtracing-gaming-chair.webp
+    amzlink: https://amzn.to/35h8Tgy
+    paragraphs:
+      - paragraph: >-
+          GT RACING provides the best-rated gaming chairs for short people as it
+          takes great care of all the things that suit them, including the
+          average height of the chair, how long are a chair seat and makes
+          exceptionally great gaming chairs.
+
+
+          This red-colored gaming chair for short persons is featured packed and leaves no space for any objection by the buyers.
+
+
+          When it comes to buying a chair for a short person, dimensions are very important as they decide how comfortable an individual can be even when he is in it for a longer time.
+
+
+          This chair comes with 20.8 inches in length, 21.2 inches in width, and 48.82 to 51.97 inches in height, plus 16 inches in length and 19.68 inches in width for sitting area dimensions.
+
+
+          Its strong metal frame provides its strong firm support and enhances its stability. Its seat and back are thickly padded with soft foam that makes you super comfortable in your seating, even for a whole day long.
+
+
+          It has a 360-degree reclining and rocking swivel, 5-point base heavy-duty, accompanied with smooth-rolling casters, and has removable headrest pillow and lumbar cushion provided for your comfort and relaxation.
+
+
+          Buying a perfectly dimensioned chair for the short person doesn’t mean that you have to compromise on the material. At least GT RACING doesn’t think like that. So, it has used high-quality PU leather in the manufacturing of this chair that provides this chair with a long and reliable life.
+
+
+          This chair can be installed as a gaming chair in your gaming area, as an office chair in your office or conference room, or even as a study chair in your study room. It serves all the functions to its fullest.
+
+
+          With its firm and stable design, it is perfectly strong and looks amazingly attractive. It provides you greater comfort and takes care of your health that might get ruined by sitting on an uncomfortable chair that makes your muscle painful and distorted.
+    pros:
+      - pro: Great customer service.
+      - pro: Plenty of colors to choose from.
+      - pro: "330 lbs. Weight support. "
+      - pro: "Rotates up to 360 degrees, and lean back as far as 170 degrees. "
+    cons:
+      - con: Feel like breaking or falling when you lean backward.
+  - name: 8. AKRacing California
+    nameForTOC: AKRacing California
+    image: /uploads/ak-racing-california-gaming-chair.webp
+    paragraphs:
+      - paragraph: >-
+          Take your time, think, and invest AKRacing to get exclusive comfort
+          for the years to come. AKRacing designs high-quality gaming chairs,
+          keeping in mind the durability and the comfort of their customers.
+
+
+          If you have thought to go for the AKRacing California Gaming Chair because you are short, then we must say that you have made the right choice. Sitting on a smaller frame, this featured pack chair is just right for a short/petite person.
+
+
+          This chair has an extra small size that goes well for a short person of 5'6". So now, you can sit comfortably in the incredibly awesome chair and enjoy your gaming while being at ease and relaxed.
+
+
+          AKRacing California Gaming Chair is made of a steel frame coated with anti-corrosive paint. It comes in bright, attractive colors that make it look stylish and eye-catching. Its decent-looking, white armrests provide you with additional support for your arms and never let you feel tired.
+
+
+          It comes with 100% cold-curved foam padding that provides optimum density for durability and long term seating for eight long continuous hours.
+
+
+          To get a perfect body posture that can add to your comfort and relaxation rather than pain and irritation, the AKRacing California Gaming Chair is the best option to go for.
+    amzlink: https://amzn.to/3xkFYUZ
+    pros:
+      - pro: "Inexpensive as compared to other gaming chairs. "
+      - pro: Comfortable.
+      - pro: "Well-built. "
+    cons:
+      - con: Not-so-generous padding.
   - {}
   - {}
 conclusion:
