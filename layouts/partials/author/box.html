@@ -13,11 +13,8 @@
 		height: 200px;
     }
     h1.name {
-        background: linear-gradient(90deg, black, var(--mainColor));
-        color: transparent;
-        background-clip: text;
-        -webkit-background-clip: text;
-        display: inline-block;
+        color: black;
+		font-size: 20px;
     }
 </style>
 {{ $author := index .Site.Data.authors (.Title | anchorize) }}
