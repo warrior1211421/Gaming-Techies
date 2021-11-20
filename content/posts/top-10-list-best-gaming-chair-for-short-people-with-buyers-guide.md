@@ -52,7 +52,7 @@ buyingGuide: >-
   All chairs are not the same and have distinct features from one another. So, one chair might suit one person but not the other. And when it comes to buying a gaming chair for a short person, the chair must have the blend of features that are considered best for both gaming purposes and short height and weight person. So what are those features? Let us discuss.
 
 
-  #### Height
+  ### Height
 
 
   Height is the first and foremost thing a short person should look for while buying a chair for himself. You must look for a chair that is compatible with your own height so that when you sit on it to play the game, it should not irritate you.
@@ -64,7 +64,7 @@ buyingGuide: >-
   So make sure to look at the height of the chair you buy. One of the best things you can do about buying a chair of suitable height is that you can buy a chair that comes with an option of seat-height adjustment. If you buy a chair with the seat-height adjustment, you can alter its dimensions according to your own convenience, and even when the chair is to be used by a person taller than you can also use it. So it’s a good option to think of.
 
 
-  #### Comfort
+  ### Comfort
 
 
   A gamer can never ignore comfort. While playing for long hours in your whole day, if you are not comfortable in your chair, it can have a lot of consequences like losing the game and even severe health issues, including backache and neck pain.
@@ -73,7 +73,7 @@ buyingGuide: >-
   So to avoid such a condition, think of buying a comfortable chair before-hand so that you would not have to lose both- your game and your health.
 
 
-  **What makes a gaming chair comfortable?**
+  ### **What makes a Gaming Chair Comfortable?**
 
 
   There are certain things that make a gaming chair comfortable and let it meet your needs and expectations.
@@ -94,13 +94,13 @@ buyingGuide: >-
   **Dimensions:** Consider the height, size, and dimensions of the gaming chair before buying it if you want it to be more comfortable for you.
 
 
-  #### Material
+  ### Material
 
 
   Material is another important thing to consider while buying a gaming chair for a short person. Spending your money on things that are not good quality and are not reliable at all is just the wastage of money and regret for a long time, so think twice before spending your money and buy a chair with good quality material that provides it durability and reliability.
 
 
-  #### Design
+  ### Design
 
 
   Consider buying a chair that is modern, stylish, and fashionable while also being comfortable and cozy. Though it’s not that much important, it’s sometimes good to have products matching your interior setting or something new, attractive, and stylish that increases your pleasure manifold. So consider buying a chair that has a stylish and fashionable looking design along with the features to provide you comfort and relaxation while playing your game.
