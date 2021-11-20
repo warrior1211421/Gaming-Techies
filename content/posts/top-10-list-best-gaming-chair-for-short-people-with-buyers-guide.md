@@ -515,21 +515,21 @@ faqs:
       person. It totally depends upon your own personal preference, although you
       have to keep certain things in mind while preferring one brand over the
       other.
-    question: Which brand offers the best gaming chair for short person?
-  - question: What to look for in a best gaming chair?
+    question: Which Brand Offers the Best Gaming Chair for Short Person?
+  - question: What to Look for in a Best Gaming Chair?
     answer: You should consider many things while buying a chair for you if you are
       short, like; height adjustability, lumber and armrest support, sufficient
       seat dimensions with perfect width and depth, breathable and durable
       material, and easy operate adjustment controls, etc.
-  - question: Can non-compatible chair dimensions affect the health of short person?
+  - question: Can Non-compatible Chair Dimensions Affect the Health of Short Person?
     answer: Yes, if the dimensions of the chair are not compatible with the person,
       it can have severe impacts on the health of a short person. It alters the
       blood circulation of your body and can cause lumbar and neck dysfunctions.
   - answer: Yes, gaming chairs are good for your back as these chairs are specially
       designed to provide your back and additional and extra support that
       prevents you from any sitting diseases.
-    question: Are gaming chairs good for back?
-  - question: What chair height suits best for a short person?
+    question: Are Gaming Chairs Good for Back?
+  - question: What Chair Height Suits Best for a Short Person?
     answer: It depends upon an individual’s height. However, gaming chairs are
       designed in such a way that you can easily adjust the chair height
       according to your own ease.
