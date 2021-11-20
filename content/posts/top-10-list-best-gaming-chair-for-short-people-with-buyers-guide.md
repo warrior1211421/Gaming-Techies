@@ -367,6 +367,7 @@ the_products:
       - specification: "**Brand:** AKRacing **\\|** **Material:** Metal **\\|**
           **Weight:** 57 Pounds **\\|** **Dimensions:** 19.7 x 20.9 x 52.8
           inches **\\|** **Weight Capacitance:** Not Mentioned"
+    amzlink: https://amzn.to/3gjbP2C
   - summary_award: Seat Height Adjust ability
     paragraphs:
       - paragraph: >-
