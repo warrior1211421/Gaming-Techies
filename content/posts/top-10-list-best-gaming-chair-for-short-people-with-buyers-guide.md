@@ -149,6 +149,10 @@ the_products:
     amzlink: https://amzn.to/3gnidpE
     nameForTOC: Furmax Chain
     name: 1. Furmax LeatherChair
+    specifications:
+      - specification: "**Brand:** Furmax **\\|** **Material:** Leather, Mesh and
+          Plastic **\\|** **Weight:** 28.7 Pounds **\\|** **Dimensions:** 19.8 x
+          19.8 x 42 inches **\\|** **Weight Capacitance:** 280 lb"
     cons:
       - con: Washers are not included for all the bolts.
     image: /uploads/furmax-gaming-chair.webp
@@ -196,6 +200,10 @@ the_products:
     amzlink: https://amzn.to/2Tn30vL
     nameForTOC: Homall Chair
     name: 2. Homall Chair Racing Office
+    specifications:
+      - specification: "**Brand:** Homall **\\|** **Material:** Leather **\\|**
+          **Weight:** 38.5 Pounds **\\|** **Dimensions:** 20.5 x 21 x 51 inches
+          **\\|** **Weight Capacitance:** 260 lbs"
     cons:
       - con: Jiggling arms need to be tightened often.
     image: /uploads/homall-gaming-chair.webp
@@ -237,6 +245,10 @@ the_products:
     amzlink: https://amzn.to/3iMmBjs
     nameForTOC: "BestOffice PC Office Chair "
     name: "3. BestOffice PC Office Chair "
+    specifications:
+      - specification: "**Brand:** BestOffice **\\|** **Material:** Leather **\\|**
+          **Weight:** 34 pounds **\\|** **Dimensions:** 27.3 x 28 x 44.5 inches
+          **\\|** **Weight Capacitance:** 250 Pounds"
     cons:
       - con: None.
     image: /uploads/bestoffice-pc-gaming-chair.webp
@@ -272,6 +284,10 @@ the_products:
     amzlink: https://amzn.to/3iGKf0W
     nameForTOC: Ficmax Chair
     name: 4. Ficmax Chair
+    specifications:
+      - specification: "**Brand:** Ficmax **\\|** **Material:** Leather **\\|**
+          **Weight:** 51 Pounds **\\|** **Dimensions:** 33.8 x 12.6 x 25.2
+          inches **\\|** **Weight Capacitance:** 300 lbs"
     cons:
       - con: No instructions for setup.
     image: /uploads/ficmax-ergonomic-gaming-chair.webp
@@ -280,7 +296,10 @@ the_products:
     nameForTOC: Coavas Racing Chair
     image: /uploads/coavas-gaming-chair.webp
     amzlink: https://amzn.to/3znwrOT
-    specifications: []
+    specifications:
+      - specification: "**Brand:** Coavas **\\|** **Material:** Leather **\\|**
+          **Weight:** 14.1 Kilograms **\\|** **Dimensions:** 24.6 x 45.08 X
+          26.18 inches **\\|** **Weight Capacitance:** 280 Pounds"
     paragraphs:
       - paragraph: >-
           Are you short? No issues! Coavas is here to satisfy you with its best
@@ -344,6 +363,10 @@ the_products:
       - pro: "Gas lift class 4. "
     cons:
       - con: Additional lumbar support is a bit rigid.
+    specifications:
+      - specification: "**Brand:** AKRacing **\\|** **Material:** Metal **\\|**
+          **Weight:** 57 Pounds **\\|** **Dimensions:** 19.7 x 20.9 x 52.8
+          inches **\\|** **Weight Capacitance:** Not Mentioned"
   - summary_award: Seat Height Adjust ability
     paragraphs:
       - paragraph: >-
@@ -383,6 +406,10 @@ the_products:
     amzlink: https://amzn.to/35h8Tgy
     nameForTOC: GTRACING Chair
     name: "7. GTRACING Chair "
+    specifications:
+      - specification: "**Brand:** GTRACING **\\|** **Material:** Faux Leather **\\|**
+          **Weight:** 50 Pounds **\\|** **Dimensions:** 20.86 x 21.26 x 51.97
+          inches **\\|** **Weight Capacitance:** 300 lbs"
     cons:
       - con: Feel like breaking or falling when you lean backward.
     image: /uploads/gtracing-gaming-chair.webp
@@ -417,6 +444,10 @@ the_products:
       - pro: "Well-built. "
     cons:
       - con: Not-so-generous padding.
+    specifications:
+      - specification: "**Brand:** AKRacing **\\|** **Material:** Polyurethane **\\|**
+          **Weight:** 60 Pounds **\\|** **Dimensions:** 17.72 x 21.26 x 47.24
+          inches8 **\\|** **Weight Capacitance:** 150 Kilograms"
   - name: 9. KaiMeng Leather High Back
     nameForTOC: KaiMeng Leather High Back
     image: /uploads/kaimeng-gaming-chair.webp
@@ -458,6 +489,10 @@ the_products:
       - pro: "Reasonable price. "
     cons:
       - con: Too close to a 90° angle with the seat.
+    specifications:
+      - specification: "**Brand:** KaiMeng **\\|** **Material:** Mesh, Steel **\\|**
+          **Weight:** Not Mentioned **\\|** **Dimensions:** 19.8 x 19.8 x 38.8
+          inches **\\|** **Weight Capacitance:** Not Mentioned"
   - name: 10. Hbada High Back Chair
     nameForTOC: Hbada High Back Chair
     image: /uploads/hbada-gaming-chair.webp
@@ -502,6 +537,10 @@ the_products:
       - pro: "Perfect for short heightened gamers. "
     cons:
       - con: Available only in red color.
+    specifications:
+      - specification: "**Brand:** Hbada **\\|** **Material:** Polyurethane **\\|**
+          **Weight:** 53.2 pounds **\\|** **Dimensions:** 34 x 26 x 13 inches
+          **\\|** **Weight Capacitance:** Not Mentioned"
 conclusion:
   - paragraph: Buying the best gaming chair of your choice is now not difficult with
       our carefully made list of the top 10 **best gaming chairs for short
