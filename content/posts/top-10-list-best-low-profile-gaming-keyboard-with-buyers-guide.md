@@ -163,6 +163,10 @@ the_products:
     amzlink: https://amzn.to/3zpHDdO
     nameForTOC: Razer Huntsman Elite
     name: 1. Razer Huntsman Elite
+    specifications:
+      - specification: "**Brand:** Razer **\\| Color:** Classic Black **\\| Weight:**
+          3.76 lbs **\\| Dimensions:** 9.22 x 17.64 x 1.42 inches **\\| Hardware
+          Platform:** PC"
     cons:
       - con: The Key is a bit loud.
     image: /uploads/razer-huntsman-gaming-keyboard.webp
@@ -214,6 +218,10 @@ the_products:
       - pro: "Attractive looking. "
     cons:
       - con: Not much rated.
+    specifications:
+      - specification: "**Brand:** Alienware **\\| Color:** Lunar Light **\\| Weight:**
+          2.9 pounds **\\| Dimensions:** 3.10 x 19.70 x 8.80 inches **\\|
+          Hardware Platform:** PC"
   - summary_award: Best Quiet & Cushioned Keyboard
     paragraphs:
       - paragraph: >-
@@ -251,6 +259,10 @@ the_products:
     amzlink: https://amzn.to/3iMoNHI
     nameForTOC: Razer Cynosa Chroma
     name: "3. Razer Cynosa Chroma "
+    specifications:
+      - specification: "**Brand:** Razer **\\| Color:** Black **\\| Weight:** 2.09
+          pounds **\\| Dimensions:** 18.24 x 6.07 x 1.22 inches **\\| Hardware
+          Platform:** PC"
     cons:
       - con: Slightly intrusive spyware.
     image: /uploads/razer-gaming-keyboard.webp
@@ -306,6 +318,10 @@ the_products:
     amzlink: https://amzn.to/3wmPYwX
     nameForTOC: Aikun Ultra-Slim
     name: 4. Aikun Ultra-Slim
+    specifications:
+      - specification: "**Brand:** Aikun **\\| Color:** AX8100 Grey **\\| Weight:** 4
+          ounces **\\| Dimensions:** 16.93 x 4.82 x 0.49 inches **\\| Hardware
+          Platform:** PC"
     cons:
       - con: Cant find any.
     image: /uploads/aikun-wireless-keyboard.webp
@@ -353,6 +369,10 @@ the_products:
     amzlink: https://amzn.to/3iEgMVj
     nameForTOC: "NPET OK10 "
     name: 5. NPET OK10
+    specifications:
+      - specification: "**Brand:** NPET **\\| Color:** Black **\\| Weight:** 1.34 pounds
+          **\\| Dimensions:** 17.52 x 5.87 x 0.93 inches **\\| Hardware
+          Platform:** PC"
     cons:
       - con: Doesn't work perfectly well with Mac-books.
     image: /uploads/npet-ok10-keyboard.webp
@@ -393,6 +413,10 @@ the_products:
     cons:
       - con: The not-so-helpful customer service department.
     amzlink: https://amzn.to/3wmnIKY
+    specifications:
+      - specification: "**Brand:** Razer **\\| Color:** Classic Black **\\| Weight:**
+          1.63 pounds **\\| Dimensions:** 5.53 x 14.27 x 1.45 inches **\\|
+          Hardware Platform:** PC"
   - summary_award: Best Compact Mini Keyboard
     paragraphs:
       - paragraph: >-
@@ -430,6 +454,10 @@ the_products:
     amzlink: https://amzn.to/3iIAwXU
     nameForTOC: GMYLE Mini
     name: 7. GMYLE Mini
+    specifications:
+      - specification: "**Brand:** GMYLE **\\| Color:** Metallic Silver + White **\\|
+          Weight:** 9.2 ounces **\\| Dimensions:** 11.22 x 4.72 x 0.16 inches
+          **\\| Hardware Platform:** PC"
     cons:
       - con: No cons.
     image: /uploads/gmyle-usb-mini-keyboard.webp
@@ -472,6 +500,10 @@ the_products:
       - pro: "Reliable performance. "
     cons:
       - con: Surely None.
+    specifications:
+      - specification: "**Brand:** MageGee **\\| Color:** Not Specified **\\| Weight:**
+          2.74 pounds **\\| Dimensions:** 17.7 x 8.7 x 1.8 inches **\\| Hardware
+          Platform:** PC"
   - summary_award: Best Compact Optical RGB Keyboard
     paragraphs:
       - paragraph: >-
@@ -508,6 +540,10 @@ the_products:
     amzlink: https://amzn.to/35jCBSc
     nameForTOC: "Vulcan TKL Pro "
     name: "9. Vulcan TKL Pro "
+    specifications:
+      - specification: "**Brand:** Vulcan **\\| Color:** Black **\\| Weight:** 2.12
+          pounds **\\| Dimensions:** 15.2 x 6.97 x 1.73 inches **\\| Hardware
+          Platform:** PC"
     cons:
       - con: "No USB passthrough. "
       - con: Ringing appears while typing.
@@ -552,6 +588,10 @@ the_products:
     amzlink: https://amzn.to/3pRrHg2
     nameForTOC: Cooler Master Devastator 3 Keyboard & Mouse
     name: 10. Cooler Master Devastator 3 Keyboard & Mouse
+    specifications:
+      - specification: "**Brand:** Cooler Master **\\| Color:** DEVASTOR 3 **\\|
+          Weight:** 2.26 pounds **\\| Dimensions:** 17.7 x 5.84 x 1.4 inches
+          **\\| Hardware Platform:** PC"
     cons:
       - con: Slightly irritating mouse performance.
     image: /uploads/cooler-master-gaming-keyboard.webp
