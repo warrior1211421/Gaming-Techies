@@ -207,6 +207,10 @@ the_products:
     amzlink: https://amzn.to/2SAwp5v
     nameForTOC: Sennheiser HD 599
     name: "1. Sennheiser HD 599 "
+    specifications:
+      - specification: "**Brand:** Sennheiser **\\| Color:** Ivory **\\| Weight:** 0.55
+          lbs **\\| Dimensions:** 8.10 x 3.95 x 10.25 inches **\\| Form:**
+          Over-Ear"
     cons:
       - con: The cable to the headset is not removable.
     image: /uploads/sennheiser-hd-599-open-back-headphone.webp
@@ -242,6 +246,10 @@ the_products:
     amzlink: https://amzn.to/35jBkdS
     nameForTOC: "Audio-Technica "
     name: "2. Audio-Technica "
+    specifications:
+      - specification: "**Brand:** Audio-Technica **\\| Color:** Black **\\| Weight:**
+          0.63 lbs **\\| Dimensions:** 12.00 x 6.00 x 8.00 inches **\\| Form:**
+          Over-Ear"
     cons:
       - con: The cable to the headset is not removable.
     image: /uploads/audio-technica-gaming-headset.webp
@@ -275,6 +283,9 @@ the_products:
     amzlink: https://amzn.to/3zrL8R5
     nameForTOC: EPOS I Sennheiser
     name: 3. EPOS I Sennheiser
+    specifications:
+      - specification: "**Brand:** EPOS **\\| Color:** Black **\\| Weight:** 1.38 pounds
+          **\\| Dimensions:** 2.44 x 2.5 x 9.25 inches **\\| Form:** On Ear"
     cons:
       - con: Slightly expensive.
     image: /uploads/epos-sennheiser-gaming-headset.webp
@@ -308,6 +319,10 @@ the_products:
     amzlink: https://amzn.to/3gjeARF
     nameForTOC: Beyerdynamic
     name: 4. Beyerdynamic
+    specifications:
+      - specification: "**Brand:** Beyerdynamic **\\| Color:** Gray **\\| Weight:** 0.55
+          lbs **\\| Dimensions:** 8.70 x 4.70 x 9.10 inches **\\| Form:** On
+          Ear"
     cons:
       - con: "Slight sound leakage may disturb others around you. "
       - con: Do not fold up/lay flat. Not suited for traveling.
@@ -346,6 +361,10 @@ the_products:
       - pro: "Improved, unforgettable gaming experience. "
     cons:
       - con: Non-removable cable.
+    specifications:
+      - specification: "**Brand:** Audio-Technica **\\| Color:** Black **\\| Weight:**
+          1.00 lbs **\\| Dimensions:** 11.00 x 5.00 x 88.00 inches **\\| Form:**
+          Over Ear"
   - name: 6. Philips X2HR Fidelio
     nameForTOC: Philips X2HR Fidelio
     image: /uploads/philips-x2hr-fidelio-over-ear-headphone.webp
@@ -382,6 +401,10 @@ the_products:
       - pro: "Large soundstage for gaming. "
       - pro: Perfect bass.
       - pro: "Highly rated and recommended. "
+    specifications:
+      - specification: "**Brand:** Philips **\\| Color:** Black **\\| Weight:** 13.4
+          ounces **\\|Dimensions:** 4.3 x 7.4 x 9.1 inches **\\| Form:** Over
+          Ear"
   - name: 7. NUBWO N9PRO
     nameForTOC: NUBWO N9PRO
     image: /uploads/nubwo-n9pro-gaming-headset.webp
@@ -420,6 +443,10 @@ the_products:
       - pro: "Modern, and great humanized design. "
     cons:
       - con: Mic quality is not that perfect.
+    specifications:
+      - specification: "**Brand:** NUBWOO **\\| Color:** Blue **\\| Weight:** 1.15
+          pounds **\\| Dimensions:** 10 x 8 x 4 inches Color **\\| Form:** Over
+          Ear"
   - summary_award: Best Noise Cancelling Microphone
     paragraphs:
       - paragraph: >-
@@ -453,6 +480,9 @@ the_products:
     amzlink: https://amzn.to/3pRShpt
     nameForTOC: Massdrop
     name: 8. Massdrop
+    specifications:
+      - specification: "**Brand:** DROP **\\| Color:** Black **\\| Weight:** 10 ounces
+          **\\| Dimensions:** 10.3 x 9.4 x 4.4 inches **\\| Form:** Over Ear"
     cons:
       - con: Slightly high clamping pressure.
     image: /uploads/massdrop-gaming-headset.webp
@@ -496,6 +526,10 @@ the_products:
       - pro: "Exceptionally comfortable. "
     cons:
       - con: Low surround sound quality without the amp.
+    specifications:
+      - specification: "**Brand:** ASTRO **\\| Color:** Red and Black **\\| Weight**:
+          12.8 ounces **\\| Dimensions:** 3.62 x 7.95 x 7.09 inches **\\|
+          Form:** Over Ear"
   - name: 10. Audio Technica ATH-AD900X
     nameForTOC: Audio Technica ATH-AD900X
     image: /uploads/audio-technica-headphones.webp
@@ -527,6 +561,10 @@ the_products:
       - pro: Better gaming experience.
     cons:
       - con: A bit expensive.
+    specifications:
+      - specification: "**Brand:** Audio-Technica **\\| Color:** Black **\\| Weight:**
+          9.3 ounces **\\| Dimensions:** 11.3 x 8.3 x 4.7 inches **\\| Form:**
+          Over Ear"
 conclusion:
   - paragraph: So gamers, we hope now you have the knowledge of all the brands and
       of all the things that you must consider while buying the **best open back
