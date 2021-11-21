@@ -46,7 +46,7 @@ a {
 }
 
 p{
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
     margin-bottom: 1em;
     font-weight: normal;
@@ -319,7 +319,7 @@ img.logo {
 }
 
 .feature-block.top-featured .article-name {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin-bottom: 0;
     line-height: 1.25
@@ -663,7 +663,7 @@ article figure {
 .related-posts-h {
     height: 52px;
     color: #fff;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     padding-top: 16px;
     text-align: center;
@@ -826,7 +826,7 @@ article figure {
 }
 
 .table-responsive {
-    font-size: 18px
+    font-size: 16px
 }
 
 table {
@@ -866,7 +866,7 @@ td, th {
 .b-m {
     color: #fff;
     padding: 10px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     text-transform: uppercase;
     background-color: var(--mainColor);
@@ -908,7 +908,7 @@ footer p {
 }
 
 .vertical-header h1 {
-    font-size: 18px
+    font-size: 16px
 }
 
 .primary-nav>.wrapper {
@@ -972,7 +972,7 @@ footer p {
     color: #fff;
     position: fixed;
     cursor: pointer;
-    font-size: 18px;
+    font-size: 16px;
     border-radius: 2px;
     background-color: var(--mainColor)
 }
@@ -1000,7 +1000,7 @@ footer p {
 }
 
 .page p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.7;
     margin-bottom: 1rem
 }
@@ -1313,7 +1313,7 @@ footer p {
 
 .figure-product .product__title {
     color: #333;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700
 }
 
