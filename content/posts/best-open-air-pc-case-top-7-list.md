@@ -65,6 +65,7 @@ after_intro: >-
   * Lastly, buy a PC case according to the hardware and motherboard.
 
   * You can add accessories like RGBs, water cooling, fans later on.
+buyingGuideHead: Quick Shopping Tips!
 buyingGuide: >-
   The PC case is a one-time purchase most of the time. You can upgrade the
   hardware later, but you will scarcely consider upgrading the case. Because the
