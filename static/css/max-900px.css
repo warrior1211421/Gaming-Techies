@@ -15,10 +15,6 @@
         background-color: #f5f5f5;
         border-radius: 10px
     }
-    .nav-list.component-loaded {
-        padding-top: 1em;
-        background: var(--mainColor);
-    }
     .buttons-social{
         display: none !important;
     }
@@ -58,4 +54,21 @@
     .socialite-widget-ul{
         margin:15px 0;
     }
+	
+	/* Sayim Css Here */
+	.w-100.flex.pros-and-cons.mb2-5 {
+		display: grid;
+	}
+	.w-100.pros.black.mr2{
+	width: 100%;
+	}
+	.w-100.cons.black{
+	width: 100%;	
+	}
+    .nav-list.component-loaded {
+        padding-top: 15px;
+        background: #feb033;
+    }
+}
+
 }
