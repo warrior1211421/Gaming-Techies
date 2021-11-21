@@ -8,7 +8,12 @@ footerText = "Gaming Techies © 2021. All Rights Reserved."
 [colors]
 mainColor = "#040404"
 textColor = "#ffffff"
-linkColor = "#03a0ff"
+linkColor = "#2871de"
+ctaColor = "#2871de"
+
+[fonts]
+bodyFont = "Poppins, sans-serif"
+heading = "Poppins, sans-serif"
 
 [open_graph]
 meta_Description = "Gaming Techies is a professional online website that keeps you updated with all the gaming techs reviews, news and latest information."
