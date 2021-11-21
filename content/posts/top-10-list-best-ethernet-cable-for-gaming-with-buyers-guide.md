@@ -1,7 +1,7 @@
 ---
 title: Top 10 List - Best Ethernet Cable for Gaming with Buyers Guide
 type: posts
-draft: true
+draft: false
 trending: true
 trendname: Ethernet cable for gaming
 seo_title: Best Ethernet Cable for Gaming [Buyer's Guide]
