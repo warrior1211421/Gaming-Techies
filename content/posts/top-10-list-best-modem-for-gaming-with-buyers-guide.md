@@ -146,6 +146,10 @@ the_products:
     amzlink: https://amzn.to/3wAd7w9
     nameForTOC: NETGEAR C7800
     name: 1. NETGEAR C7800
+    specifications:
+      - specification: "**Brand:** NETGEAR **\\| Frequency**: 2.4 GHz **\\| Weight:**
+          3.15 pounds **\\| Dimensions:** 10.4 x 7.5 x 12.4 inches **\\|
+          Frequency:** 2.4 GHz **\\| Data Speed:** 1 GBPS"
     cons:
       - con: It does not work perfectly with Comcast.
     image: /uploads/netgear-c7800-modem.webp
@@ -195,6 +199,10 @@ the_products:
     amzlink: https://amzn.to/3zrLBTl
     nameForTOC: ASUS DOCSIS 3.0
     name: 2. ASUS DOCSIS 3.0
+    specifications:
+      - specification: "**Brand:** ASUS **\\| Frequency:** 5 GHz **\\| Weight:** 2.09
+          pounds **\\| Dimensions:** 7.4 x 2.36 x 11.81 inches **\\| Data
+          Speed:** 2534 MBPS"
     cons:
       - con: Slight incorrect installation instructions.
     image: /uploads/asus-modem-combo.webp
@@ -236,6 +244,10 @@ the_products:
     amzlink: https://amzn.to/3vpRnBs
     nameForTOC: "Linksys WRT32X AC3200 "
     name: 3. Linksys WRT32X AC3200
+    specifications:
+      - specification: "**Brand:** Linksys **\\| Frequency:** 5 GHz **\\| Weight:** 1.76
+          pounds **\\| Dimensions:** 2.04 x 9.68 x 7.63 inches **\\| Data
+          Speed:** 3200 MBPS"
     cons:
       - con: No cons.
     image: /uploads/linksys-wrt32x-gaming-modem.webp
@@ -275,14 +287,16 @@ the_products:
     amzlink: https://amzn.to/3vjBMDv
     nameForTOC: NETGEAR CM600
     name: 4. NETGEAR CM600
+    specifications:
+      - specification: "**Brand:** NETGEAR **\\| Frequency:** Not Specified **\\|
+          Weight:** 12 ounces **\\| Dimensions:** 8.47 x 9.97 x 3.78 inches
+          **\\| Data Speed:** Not Specified"
     cons:
       - con: Not compatible with Verizon, Direct, AT&T, DISH CenturyLink, DSL provides,
           and bundled voice services.
     image: /uploads/netgear-cable-modem-cm600.webp
     award: Best Cable Modem For Gaming
-  - name: 5. MOTOROLA MG7540
-    nameForTOC: MOTOROLA MG7540
-    image: /uploads/motorola-vdsladsl2-modem-router.webp
+  - summary_award: ""
     paragraphs:
       - paragraph: >-
           Ever since its establishment, Motorola has remained dedicated to
@@ -320,17 +334,23 @@ the_products:
 
 
           So game lovers, have this modem with you at your home and enjoy the unlimited exclusive gaming experience that will make you be a pleasure with your gameplay all the time you have it.
-    summary_award: ""
-    amzlink: https://amzn.to/3pOMlNM
     pros:
       - pro: "Available in multi colors. "
       - pro: Perfect for gamers.
       - pro: "Packed in PVC Jacket. "
       - pro: "100% Pure Copper. "
       - pro: "Speed up-to 10Gbps. "
+    amzlink: https://amzn.to/3pOMlNM
+    nameForTOC: MOTOROLA MG7540
+    name: 5. MOTOROLA MG7540
+    specifications:
+      - specification: "**Brand:** MOTOROLA **\\| Frequency:** 2.4 GHz and 5 GHz **\\|
+          Weight:** 2.5 pounds **\\| Dimensions:** 11 x 10.24 x 2.75 inches
+          **\\| Data Speed:** 10/100/1000 MBPS"
     cons:
       - con: "Difficult Installation. "
       - con: Less Bandwidth.
+    image: /uploads/motorola-vdsladsl2-modem-router.webp
   - name: 6. NETGEAR Orbi All-in-One
     nameForTOC: NETGEAR Orbi All-in-One
     image: /uploads/netgear-orbi-all-in-one-wifi-router.webp
@@ -375,6 +395,10 @@ the_products:
       - pro: Saves rental fee of up to $156.
     cons:
       - con: Not compatible with Verizon, CenturyLink, or AT&T.
+    specifications:
+      - specification: "**Brand:** NETGEAR **\\| Frequency:** Not Specified **\\|
+          Weight:** 3.25 pounds **\\| Dimensions:** 8 x 9.57 x 5.91 inches **\\|
+          Data Speed:** 2.2 GBPS"
   - name: 7. ARRIS SURFboard SBG7600AC2
     nameForTOC: ARRIS SURFboard SBG7600AC2
     image: /uploads/arris-surfboard-sbg7600ac2.webp
@@ -420,6 +444,10 @@ the_products:
       - con: "Not compatible with Verizon, ATT, Century Link, or other DSL or Fiber
           internet providers. "
       - con: Digital voice service not supported.
+    specifications:
+      - specification: "**Brand:** ARRIS **\\| Frequency:** Not Specified **\\|
+          Weight:** 2.59 pounds **\\| Dimensions:** 9.72 x 4.06 x 9.5 inches
+          **\\| Data Speed:** 1400 MBPS"
   - name: 8. Motorola MB8600
     nameForTOC: Motorola MB8600
     image: /uploads/motorola-mb8600-cable-modem.webp
@@ -465,6 +493,10 @@ the_products:
     cons:
       - con: Not compatible with Verizon, AT&T, CenturyLink, and other satellite, DSL,
           or fiber optic services.
+    specifications:
+      - specification: "**Brand:** Motorola **\\| Frequency:** Not Specified **\\|
+          Weight:** 1.1 ounces **\\| Dimensions:** 7.25 x 2.25 x 7.88 **\\|**
+          inches **\\| Data Speed:** Not Specified"
   - name: 9. Tenda AC10U Smart Gigabit
     nameForTOC: Tenda AC10U Smart Gigabit
     image: /uploads/tenda-gigabit-wi-fi-router.webp
@@ -515,6 +547,10 @@ the_products:
       - pro: Ultimate coverage.
     cons:
       - con: A bit expensive.
+    specifications:
+      - specification: "**Brand:** Tenda **\\| Frequency:** 5 GHz **\\| Weight:** 12.4
+          ounces **\\| Dimensions:** 8.66 x 5.57 x 1.93 inches **\\| Data
+          Speed:** 1200 MBPS"
   - name: 10. WAVLINK AC2100
     nameForTOC: WAVLINK AC2100
     image: /uploads/wavlink-smart-wifi-router.webp
@@ -559,6 +595,10 @@ the_products:
     cons:
       - con: Not much rated.
     amzlink: https://amzn.to/3ghTcMx
+    specifications:
+      - specification: "**Brand:** WAVLINK **\\| Frequency:** 5 GHz **\\| Weight:** 2.25
+          pounds **\\| Dimensions:** 9 x 5.7 x 8.7 inches **\\| Data Speed:**
+          1000 MBPS"
 conclusion:
   - paragraph: >-
       Gaming in itself is a focus demanding task, but in the middle of the game,
