@@ -163,6 +163,10 @@ the_products:
     amzlink: https://amzn.to/3ghRNWh
     nameForTOC: DbillionDa Cat8
     name: 1. DbillionDa Cat 8
+    specifications:
+      - specification: "**Brand:** DbillionDa **\\|** **Compatibility:** Routers,
+          Server, Computers **\\| Weight:** 3.52 ounces **\\| Dimensions:** 7.13
+          x 7.05 x 0.75 inches **\\| Connector:** RJ-45"
     cons:
       - con: A little bit expensive.
     image: /uploads/dbillionda-cat-8-ethernet-cable.webp
@@ -206,6 +210,10 @@ the_products:
     amzlink: https://amzn.to/3pSkZGo
     nameForTOC: GLANICS Cat 8
     name: 2. GLANICS Cat 8
+    specifications:
+      - specification: "**Brand:** GLANICS **\\| Compatibility:** Routers, Devices **\\|
+          Weight:** 4.08 ounces **\\| Dimensions:** 10 x 8.5 x 0.5inches **\\|
+          Connector:** RJ-45"
     cons:
       - con: The price is a bit high.
     image: /uploads/glanics-cat-8-ethernet-cable.webp
@@ -250,6 +258,10 @@ the_products:
       - pro: "Impressive design. "
     cons:
       - con: Not much rated.
+    specifications:
+      - specification: "**Brand:** Jadaol **\\| Compatibility:** Computer, Max, Gaming
+          system (PS4,PS3) and others. **\\| Weight:** 1.38 pounds
+          **\\|Dimensions:** 7.5 x 7.6 x 0.5 inches **\\| Connector:** RJ-45"
   - summary_award: High Speed Ethernet Cable Cat-7
     paragraphs:
       - paragraph: >-
@@ -284,6 +296,10 @@ the_products:
     amzlink: https://amzn.to/3gyr0Ec
     nameForTOC: "Vandesail Cat-7 "
     name: "4. Vandesail Cat-7 "
+    specifications:
+      - specification: "**Brand:** Vandesail **\\| Compatibility:** Laptop **\\|
+          Weight:** 4 ounces **\\| Dimensions:** 8.3 x 5.7 x 1.1 inches **\\|
+          Connector:** RJ-45"
     cons:
       - con: Less efficient in performance than Cat-8.
     image: /uploads/vandesail-cat7-ethernet-cable.webp
@@ -327,6 +343,10 @@ the_products:
       - pro: "Money-back guarantee. "
     cons:
       - con: Extremely stiff, not easy to install.
+    specifications:
+      - specification: "**Brand:** InstallerParts **\\| Compatibility:** PC, Routers,
+          Server, Modem, Printerd **\\| Weight:** 2.94 pounds **\\|
+          Dimensions:** 13.5 x 8.54 x 2.68 inches **\\| Connector Type:** RJ-45"
   - summary_award: Best Dual Support Cable
     paragraphs:
       - paragraph: >-
@@ -364,6 +384,10 @@ the_products:
     amzlink: https://amzn.to/3iKVZQd
     nameForTOC: Mediabridge Cat-5e
     name: 6. Mediabridge Cat-5e
+    specifications:
+      - specification: "**Brand:** Mediabridge **\\|Compatibility:** Routers, Computer,
+          Printer **\\|Weight:** 3.2 ounces **\\| Dimensions:** 8 x 6.25 x 1
+          inches **\\| Connector:** RJ-45"
     cons:
       - con: Not much rated.
     image: /uploads/mediabridge-cat-5e-ethernet-patch-cable.webp
@@ -405,6 +429,10 @@ the_products:
     amzlink: https://amzn.to/3pXVB2b
     nameForTOC: Jadaol Cat-6
     name: 7. Jadaol Cat-6
+    specifications:
+      - specification: "**Brand:** Jadaol **\\| Compatibility:** Gaming System (PS4,
+          PS3), xbox 360, and others. **\\| Weight:** 10.4 ounces **\\|
+          Dimensions:** 3.5 x 3.5 x 0.4 inches **\\| Connector:** RJ-45"
     cons:
       - con: Lesser bandwidth.
     image: /uploads/jadaol-cat6-ethernet-cable.webp
@@ -447,6 +475,10 @@ the_products:
       - pro: "Upgraded performance. "
     cons:
       - con: Comparatively less data transfer speed
+    specifications:
+      - specification: "**Brand:** GearIt **\\| Compatibility:** PC, Server, Router,
+          Printer **\\| Weight:** 12 ounces **\\| Dimensions:** 11 x 7.4 x 2.7
+          inches **\\| Connector:** RJ-45"
   - name: 9. Cable Matters 8-Color Combo
     nameForTOC: Cable Matters 8-Color Combo
     image: /uploads/cablematters-cat-5e-ethernet-cable.webp
@@ -477,6 +509,10 @@ the_products:
       - pro: "Excellent data transfer speed. "
     cons:
       - con: Less bandwidth support.
+    specifications:
+      - specification: "**Brand:** Cable Matters **\\| Compatibility:** Personal
+          Computers **\\| Weight:** 10.4 ounces **\\| Dimensions:** 10 x 8 x 1.5
+          inches **\\| Connector:** RJ-45"
   - name: 10. Monoprice Cat5e Ethernet Patch Cable
     nameForTOC: Monoprice Cat5e Ethernet Patch Cable
     image: /uploads/monoprice-109557-cat-5e-ethernet-cable.webp
@@ -506,6 +542,10 @@ the_products:
       - pro: "Durable life. "
     cons:
       - con: No cons.
+    specifications:
+      - specification: "**Brand:** Monoprice **\\| Compatibility:** Computers **\\|
+          Weight:** 1.28 ounces **\\| Dimensions:** 9.5 x 10.3 x 1.6 inches
+          **\\| Connector:** RJ-45"
 conclusion:
   - paragraph: No cables in the market are as efficient as these Ethernet cables
       are. Manufactured with advanced and upgraded features, these
