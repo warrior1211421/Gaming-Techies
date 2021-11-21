@@ -38,7 +38,7 @@ There is a 5th type of computer case known as the Super Tower case. It is mostly
 
 ## Full Tower Case (FT):- Best for Large Systems
 
-![Full Tower Case](https://gamingtechies.com/img/full-tower-case.webp "Full Tower Case")
+![Full Tower Case](/uploads/full-tower-case.webp "Full Tower Case")
 
 * **Height : 56cm**
 * **Width, depth : variable**
