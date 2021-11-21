@@ -3,7 +3,7 @@
 {{- if $author.name -}}
 <div class="author-box">
     <div class="avatar"><img src="{{ $author.avatar | absURL }}" loading="lazy" alt="{{ $author.name }}" title="{{ $author.name }}" /></div>
-    <div class="name"><a href="{{.Site.BaseURL}}/author/{{.Params.author | anchorize}}/">{{ $author.name }}</a></div>
+    <div class="name"><a href="/author/{{.Params.author | anchorize}}/">{{ $author.name }}</a></div>
     <div class="bio">{{ $author.bio }}</div>
 </div>
 {{- else -}}

@@ -37,6 +37,9 @@
 .product-table td a {
     color: #000;
 }
+.product-table td a.btn{
+    color: var(--textColor);
+}
 
 .product-table img {
     width: 110px;
@@ -137,7 +140,7 @@
             <td data-label="Image">
             <img width="110" height="110" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
             </td>
-            <td data-label="Brand">{{ .name }}</div></td>
+            <td data-label="Brand">{{ .nameForTOC }}</div></td>
             <td data-label="Price">
                 <a class="btn btn-table" href="{{.amzlink}}" target="_blank" rel="nofollow sponsored noopener noreferrer">See On Amazon</a>
             </td>

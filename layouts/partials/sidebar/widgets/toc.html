@@ -16,18 +16,13 @@
 <ul class="table-of-contents">
     {{ range .Params.the_products }}
     <li>
-        <a href="#{{.name | anchorize}}"> {{.name}}
+        <a href="#{{.name | anchorize}}"> {{.nameForTOC}}
         </a>
     </li>
     {{ end }}
 </ul>
 <div class="static table-of-contents">
     {{ if .Params.conclusion }}
-	<span class="big-one">
-        <a href="#product-summary">
-            Summary
-        </a>
-    </span>
     <span class="big-one">
         <a href="#conclusion">
             Conclusion

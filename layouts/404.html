@@ -1,11 +1,18 @@
 {{ define "main" }}
 <title>404 Page Not Found</title>
 <style>
+    .trending-wrapper{
+        display: none;
+    }
     .container.full#main{
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-direction: column;
+        text-align: center;
     }
 </style>
         		<h1><center>404 Page Not Found</center></h1>
+                <p>Sorry The Page You're Looking Can't be Found</p>
+                <a href="{{.Site.BaseURL}}" class="btn">Back to Home</a>
 {{ end }}

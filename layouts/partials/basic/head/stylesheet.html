@@ -1,0 +1,34 @@
+<!-- Stylesheets -->
+{{- $globalStyle := resources.Get "css/global.css" | minify -}}
+{{- $max900 := resources.Get "css/max-900px.css" | minify -}}
+{{- $min700 := resources.Get "css/min-700px.css" | minify -}}
+{{- $min900 := resources.Get "css/min-900px.css" | minify -}}
+{{- $min1000 := resources.Get "css/min-1000px.css" | minify -}}
+{{- $fontawesome := resources.Get "css/font-awesome.css" | minify -}}
+{{- $newfeatures := resources.Get "css/v1.2.css" | minify -}}
+{{- $mainStyle := slice $globalStyle $max900 $min700 $min900 $min1000 $newfeatures | resources.Concat "css/main.css" | fingerprint }}
+
+<style>
+:root {
+    --mainColor: {{site.Params.colors.mainColor | default "black"}};
+    --textColor: {{site.Params.colors.textColor | default "white"}};
+    --linkColor: {{site.Params.colors.linkColor | default "blue"}};
+    --ctaColor: {{site.Params.colors.ctaColor | default "grey"}};
+    --fontBody: '{{ site.Params.fonts.bodyFont | default "Open Sans"}}';
+    --fontHeading: '{{ site.Params.fonts.heading | default "Open Sans"}}';
+}
+{{ if (fileExists "layouts/partials/basic/head/custom-css.html") -}}
+    {{- partial "basic/head/custom-css" . | safeHTML | safeCSS -}}
+{{ end }}
+</style>
+{{- $fontbody := replace site.Params.fonts.bodyFont " " "+" }}
+{{- $fontheading := replace site.Params.fonts.heading " " "+"}}
+{{- $href := "//fonts.googleapis.com/css?family=" }}
+<link rel="stylesheet" href="{{- $mainStyle.Permalink| safeCSS -}}">
+<link href='{{$href}}{{$fontbody}}' rel='stylesheet' type='text/css'>
+<link href='{{$href}}{{$fontheading}}' rel='stylesheet' type='text/css'>
+{{- if .Params.productImages }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"> -->
+{{- end }}
+<script nonce async src="https://kit.fontawesome.com/e1c451d9d8.js" crossorigin="anonymous" type="text/javascript"></script>

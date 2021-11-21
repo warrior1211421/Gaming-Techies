@@ -232,8 +232,8 @@ collections:
           - { label: Google Analytics Code, name: googleAnalytics, widget: string, required: false }
           - { label: Disqus Shortname, name: DisqusShortname, widget: string, required: false }
 
-      - label: "SEO Settings"
-        name: "seo_settings"   
+      - label: "Other Settings"
+        name: "other_settings"   
         file: "/config/_default/params.toml"
         fields:
           - {label: Site Logo, name: logo, widget: image, hint: 'height 90px max will fit here', required: false}
@@ -250,6 +250,14 @@ collections:
             - { label: Main Color, name: mainColor, widget: color, enableAlpha: true, allowInput: true, required: false }
             - { label: Text Color, name: textColor, widget: color, enableAlpha: true, allowInput: true, required: false }
             - { label: Link Color, name: linkColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: CTA Button Color, name: ctaColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+          - label: "Site Fonts"
+            name: "fonts"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: Body Font, name: bodyFont, widget: string, required: false }
+            - { label: Heading Font, name: heading, widget: string, required: false }
           - label: "Open Graph Meta"
             name: "open_graph"
             widget: "object"
@@ -305,14 +313,24 @@ collections:
         name: "below_header_ad"
         file: /layouts/partials/ads/above-content.html
         fields:
-          - { label: Code, name: body, widget: text, required: false }
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
       - label: "Below Products Ad Code"
         name: "below_products_ad"
         file: /layouts/partials/ads/below-product.html
         fields:
-          - { label: Code, name: body, widget: text, required: false }
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
       - label: "Sidebar Ad Code"
         name: "sidebar_ad"
         file: /layouts/partials/ads/sidebar.html
         fields:
-          - { label: Code, name: body, widget: text, required: false }
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
+      - label: "Custom CSS"
+        name: "custom-css"
+        file: /layouts/partials/basic/head/custom-css.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
+      - label: "Custom Head"
+        name: "customHead"
+        file: /layouts/partials/basic/head/custom.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
