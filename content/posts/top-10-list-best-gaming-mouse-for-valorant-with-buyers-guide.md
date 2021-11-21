@@ -141,6 +141,10 @@ the_products:
     amzlink: https://amzn.to/3iBrnk1
     nameForTOC: Logitech G Pro
     name: 1. Logitech G Pro
+    specifications:
+      - specification: "**Brand:** Logitech **\\| Color:** Black **\\| Weight:** 2.82
+          ounces **\\| Dimensions:** 4.92 x 2.5 x 1.57 inches **\\| Type:**
+          Wireless"
     cons:
       - con: No Cons.
     image: /uploads/logitech-g-pro-wireless-gaming-mouse.webp
@@ -185,6 +189,10 @@ the_products:
       - pro: "RGB illumination "
     cons:
       - con: No Cons.
+    specifications:
+      - specification: "**Brand:** XTRFY **\\| Color:** Black **\\| Weight:** 0.25
+          Kilograms **\\| Dimensions:** 1.54 x 4.72 x 2.68 inches **\\| Type:**
+          Wired"
   - summary_award: Best Gaming Mouse For Valorant
     paragraphs:
       - paragraph: >-
@@ -223,6 +231,9 @@ the_products:
     amzlink: https://amzn.to/2SAUXeC
     nameForTOC: BenQ Zowie S1 Symmetrical
     name: 3. BenQ Zowie S1 Symmetrical
+    specifications:
+      - specification: "**Brand:** BenQ **\\| Color:** Black **\\| Weight:** 9.6 ounces
+          **\\| Dimensions:** 4.96 x 2.4 x 1.5 inches **\\| Type:** Wired"
     cons:
       - con: Less prominent clicks.
     image: /uploads/benq-zowie-s1-symmetrical-gaming-mouse.webp
@@ -266,7 +277,9 @@ the_products:
     amzlink: https://amzn.to/3woUPhc
     nameForTOC: "Logitech G703 "
     name: "4. Logitech G703 "
-    specifications: []
+    specifications:
+      - specification: "**Brand:** Logitech **\\| Color:** Black **\\| Weight:** Not
+          Mentioned **\\| Dimensions:** Not Mentioned **\\| Type:** Wireless"
     cons:
       - con: Lightings and idle mode drain battery.
     image: /uploads/logitech-g703-lightspeed-gaming-mouse.webp
@@ -314,6 +327,10 @@ the_products:
       - pro: "Long term support. "
     cons:
       - con: Software is needed to make it work properly.
+    specifications:
+      - specification: "**Brand:** Razer **\\| Color:** Classic Black **\\| Weight:**
+          6.4 ounces **\\| Dimensions:** 2.87 x 5 x 1.69 inches **\\| Type:**
+          Wired"
   - name: 6. Finalmouse x Ninja Air58
     paragraphs:
       - paragraph: >-
@@ -349,6 +366,9 @@ the_products:
       - pro: Attractive design.
       - pro: "Great performance. "
       - pro: "Perfect for Valorant players. "
+    specifications:
+      - specification: "**Brand:** FinalMouse **\\| Color:** Red **\\| Weight:** 6.4
+          ounces **\\| Dimensions:** 7 x 4.7 x 2.7 inches **\\| Type:** Wired"
   - name: 7. Razer Viper Mini Ultralight
     nameForTOC: Razer Viper Mini Ultralight
     image: /uploads/razer-viper-mini-ultralight-gaming-mouse.webp
@@ -390,6 +410,10 @@ the_products:
       - pro: "Advanced features. "
     cons:
       - con: The button press is too soft.
+    specifications:
+      - specification: "**Brand:** Razer **\\| Color:** Classic Black **\\| Weight:**
+          4.9 ounces **\\| Dimensions:** 4.66 x 2.42 x 1.51 inches **\\| Type:**
+          Wired"
   - name: 8. HyperX Pulsefire Surge
     nameForTOC: HyperX Pulsefire Surge
     image: /uploads/hyperx-pulsefire-surge-gaming-mouse.webp
@@ -429,6 +453,9 @@ the_products:
       - pro: "3389 sensors. "
     cons:
       - con: Tricky software.
+    specifications:
+      - specification: "**Brand:** Hyper X **\\| Color:** RGB **\\| Weight:** 4.6 ounces
+          **\\| Dimensions:** 4.7× 2.5 x 1.6 inches **\\| Type:** Wired"
   - name: 9. SteelSeries Rival 650
     nameForTOC: SteelSeries Rival 650
     image: /uploads/steelseries-rival-650.webp
@@ -467,6 +494,10 @@ the_products:
       - pro: "Quality control. "
     cons:
       - con: Not-so-good support industry.
+    specifications:
+      - specification: "**Brand:** SteelSeries **\\| Color:** Black **\\| Weight:** 5.8
+          ounces **\\| Dimensions:** 2.69 × 5.15 x 1.7 inches **\\| Type:**
+          Wired/Wireless"
   - name: 10. FinalMouse Ultralight 2
     nameForTOC: FinalMouse Ultralight 2
     image: /uploads/finalmouse-ultralight-2.webp
@@ -497,6 +528,10 @@ the_products:
       - pro: "Perfect aiming. "
     cons:
       - con: Too light for some who prefer heavier mice.
+    specifications:
+      - specification: "**Brand:** FinalMouse **\\| Color:** Cape Town **\\| Weight:**
+          1.66 ounces **\\| Dimensions:** 7 x 5 x 2.5 inches **\\| Type:**
+          Wired"
 conclusion:
   - paragraph: We believe that we have been successful in listing down the great
       performing, top-rated ,and **best gaming mouse for Valorant** that you can
