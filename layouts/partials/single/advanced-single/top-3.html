@@ -1,6 +1,6 @@
 {{ $products := .Params.the_products}}
 {{ if $products }}
-<h2 id="top-picks">In a Hurry? Here are our Top 3 Picks</h2>
+<h2 id="top-picks">Our Top 3 Recommendations</h2>
 <div class="table-grid">
     {{ $products := .Params.the_products}}
     {{ range first 1 $products }}
@@ -10,7 +10,7 @@
             href="{{.amzlink}}">
             <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
         </a>
-        <a class="grid-name" href="#{{replaceRE " " " _" .nameForTOC}}">{{ .nameForTOC }}</a>
+        <a class="grid-name" href="#{{.name | anchorize}}">{{ .nameForTOC }}</a>
         {{ if .pros }}
         <div class="the-features">
             {{range first 3 .pros}}
@@ -34,7 +34,7 @@
             href="{{.amzlink}}">
             <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
         </a>
-        <a class="grid-name" href="#{{replaceRE " " " _" .nameForTOC}}">{{ .nameForTOC }}</a>
+        <a class="grid-name" href="#{{.name | anchorize}}">{{ .nameForTOC }}</a>
         {{ if .pros }}
         <div class="the-features">
             {{range first 3 .pros}}
@@ -57,7 +57,7 @@
             href="{{.amzlink}}">
             <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
         </a>
-        <a class="grid-name" href="#{{replaceRE " " " _" .nameForTOC}}">{{ .nameForTOC }}</a>
+        <a class="grid-name" href="#{{.name | anchorize}}">{{ .nameForTOC }}</a>
         {{ if .pros }}
         <div class="the-features">
             {{range first 3 .pros}}
