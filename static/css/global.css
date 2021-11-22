@@ -817,10 +817,6 @@ td a {
     margin-bottom: 1rem
 }
 
-.pros-and-cons .cons>p:last-child {
-    margin-bottom: 0
-}
-
 p:empty {
     display: none
 }
