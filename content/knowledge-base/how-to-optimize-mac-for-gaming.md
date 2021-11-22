@@ -33,7 +33,7 @@ To keep yourself away from this and prevent your machine from slowing down, you 
 
 ## Close the Unnecessary Apps
 
-![Close the unnecessary apps](https://gamingtechies.com/img/close-the-unnecessary-apps.webp "Close the unnecessary apps")
+![Close the unnecessary apps](/uploads/close-the-unnecessary-apps.webp "Close the unnecessary apps")
 
 If you are about to play your game on Mac, the very first thing you have to do is close some unnecessary apps. This is because all the apps, tasks, and games use up more RAM and processing power. So, make sure you close them up before starting your game. 
 
@@ -43,7 +43,7 @@ So, closing these apps might help you get the space back again, and your games c
 
 ## Restarting Can Help
 
-![Restart you PC](https://gamingtechies.com/img/restarting-can-help.webp "Restart you PC")
+![Restart you PC](/uploads/restarting-can-help.webp "Restart you PC")
 
 You can make use of multiple cleaning and app-tuning processes, but it will not free up more resources as restarting your Mac will do. Restarting your Mac at least once a week, or even more, once a month can really help. 
 
@@ -51,7 +51,7 @@ If you are the type of person that shuts down the system and starts it up all ag
 
 ## Check your Hardware
 
-![Check you hardware](https://gamingtechies.com/img/check-your-hardware.webp "Check you hardware")
+![Check you hardware](/uploads/check-your-hardware.webp "Check you hardware")
 
 Another thing which you can do to make your machine even better is to keep a check on your hardware system. While buying a brand new Mac for your gaming, make sure to first consider your gaming needs and buy the system accordingly. You can also go for the customized upgrade options which are offered by Apple and many other retailers. 
 
@@ -59,13 +59,13 @@ However, if you are an existing user of Mac, you can simply look out to upgrade 
 
 ## Upgrade your HDD
 
-![Upgrade you HDD](https://gamingtechies.com/img/upgrade-your-hdd.webp "Upgrade you HDD")
+![Upgrade you HDD](/uploads/upgrade-your-hdd.webp "Upgrade you HDD")
 
 Upgrading [HDD](https://en.wikipedia.org/wiki/Hard_disk_drive) can also help you greatly in making your Mac work well to support all the games that you love to play daily. 
 
 ## Upgrade your RAM
 
-![Upgrade your RAM](https://gamingtechies.com/img/upgrade-your-ram.webp "Upgrade your RAM")
+![Upgrade your RAM](/uploads/upgrade-your-ram.webp "Upgrade your RAM")
 
 Upgrading the [RAM](https://en.wikipedia.org/wiki/Random-access_memory) is a great option to go for if you want your Mac to work extremely well to support all your gaming needs. The reason for this is that RAM plays an important role in running your game more smoothly. It even allows you to play multiple types of games. So upgrading the RAM can actually help you upgrade your gaming experience. 
 
@@ -75,7 +75,7 @@ If your Mac is running slow, you might upgrade its RAM, and it will make it runn
 
 ## Get an Advanced SSD 
 
-![Get an advanced SSD](https://gamingtechies.com/img/get-an-advanced-ssd.webp "Get an advanced SSD")
+![Get an advanced SSD](/uploads/get-an-advanced-ssd.webp "Get an advanced SSD")
 
 If you think graphics cards and processors are the only things that matter the most for gaming, they are probably wrong in this regard. Along with an upgraded processor and graphics card, advanced-level hard drives also matter a lot. 
 
