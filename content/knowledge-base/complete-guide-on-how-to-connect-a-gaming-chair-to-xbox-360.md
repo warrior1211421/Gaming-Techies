@@ -48,7 +48,7 @@ Let us now move ahead to explore deeply the four methods of connectivity that yo
 
 ## Method# 1 (If You Have a Wireless Gaming Chair)
 
-![Wireless gaming chair](https://gamingtechies.com/img/wireless-gaming-chair.webp "Wireless gaming chair")
+![Wireless gaming chair](/uploads/wireless-gaming-chair.webp "Wireless gaming chair")
 
 Some people prefer using wireless gaming chairs, as they like the way they cut down all the needs for the wires and keep them away from various wire tangling issues. Also, the specialty of these wireless gaming chairs is that they are well-equipped with wireless transmitters, which are highly efficient in converting the audio signals to in-built speakers in the chair.
 
@@ -72,7 +72,7 @@ After completing the last step, you will experience that the transmitter is conv
 
 ## Method# 2 (Using HDMI Converters)
 
-![Using HDMI converters](https://gamingtechies.com/img/use-hdmi-converters.webp "Using HDMI converters")
+![Using HDMI converters](/uploads/use-hdmi-converters.webp "Using HDMI converters")
 
 This is probably the simplest method of all the other four. All you will need in this method are two HDMI cables and an HDMI converter, that’s all. So let’s begin!
 
@@ -92,7 +92,7 @@ Connect these red and white ends of the cable with the red and white ports of yo
 
 ## Method# 3 (Use an Aux Cord)
 
-![Use an aux cord](https://gamingtechies.com/img/use-an-aux-cord.webp "Use an aux cord")
+![Use an aux cord](/uploads/use-an-aux-cord.webp "Use an aux cord")
 
 This is another simplest method that I am going to tell you. It is effortless and less time consuming than the other two methods that I have already mentioned. In this method, you have to follow the two simple steps that I have mentioned below.
 
@@ -106,7 +106,7 @@ Now, using the Aux cable, connect your gaming chair to the control panel by plug
 
 ## Method# 4 (Using RAC Audio Cable)
 
-![Using RAC audio cable](https://gamingtechies.com/img/using-rac-audio-cable.webp "Using RAC audio cable")
+![Using RAC audio cable](/uploads/using-rac-audio-cable.webp "Using RAC audio cable")
 
 This method may seem to you a bit at odds with the other three, but still, I feel this method is also easy and convenient as most of the time, I go by it when I have to connect my Xbox 360 with my gaming chair. If you decide to go by this method, let me clarify that you will need the following things:
 
