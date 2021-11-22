@@ -64,7 +64,7 @@ now let's get to the steps that are involved in the cleaning process!
 
 ### Step#1 Unplug your Mouse 
 
-![Unplug your mouse](https://gamingtechies.com/img/unplug-your-mouse.webp "Unplug your mouse")
+![Unplug your mouse](/uploads/unplug-your-mouse.webp "Unplug your mouse")
 
 The very first step that you have to follow is free your mouse from any type of connections. If you own a [wired mouse](https://www.a4tech.com/products.aspx?id=9), then unplug it from our PC and free it from all the wired connections. Besides, if you have a wireless mouse, then take out all the batteries present inside.
 
@@ -72,7 +72,7 @@ By doing this, you will be prevented from any types of electrical shocks and inj
 
 ### Step#2 Use Microfiber cloth 
 
-![Use microfiber cloth](https://gamingtechies.com/img/use-microfiber-cloth.webp "Use microfiber cloth")
+![Use microfiber cloth](/uploads/use-microfiber-cloth.webp "Use microfiber cloth")
 
 After that, you make sure your mouse is disconnected from any external circuits or connections; the next step is of deep cleaning. Make sure that you clean all the crevices, cracks, curves and all other parts of the mouse. 
 
@@ -94,7 +94,7 @@ For this you have to use canned air and blow it out that got loosened by the too
 
 ### Step#5 Wipe and Disinfect Your Mouse
 
-![Wipe and disinfect your mouse](https://gamingtechies.com/img/wipe-and-disinfect-your-mouse.webp "Wipe and disinfect your mouse")
+![Wipe and disinfect your mouse](/uploads/wipe-and-disinfect-your-mouse.webp "Wipe and disinfect your mouse")
 
 Now, the only last step left in this cleaning process is to wipe down your mouse to remove the remaining dirt or grease. But, in case of wired mice, we suggest you not to use it inside the battery compartment. 
 
