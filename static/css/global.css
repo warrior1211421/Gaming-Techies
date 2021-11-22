@@ -1096,11 +1096,6 @@ footer p {
     font-weight: 600
 }
 
-.subtitle {
-    margin-bottom: 1rem;
-    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
-}
-
 .subtitle, .title__heading {
     text-align: center;
     margin:0;
@@ -1700,6 +1695,10 @@ ul.table-of-contents li a{
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 8px !important;
+}
+
+.subtitle {
+    margin-bottom: 1rem;
 }
 
 .amazon-link {
