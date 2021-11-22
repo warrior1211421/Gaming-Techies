@@ -456,12 +456,6 @@ article figure {
     margin-bottom: 0px;
 }
 
-.listingResult .article-name {
-    font-size: 20px;
-    line-height: 26px;
-    margin-bottom: 7px
-}
-
 .byline {
     color: #333;
     display: block;
@@ -1705,6 +1699,13 @@ ul.table-of-contents li a{
     font-weight: 700;
     margin-bottom: 8px !important;
 }
+
+.listingResult .article-name {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 7px
+}
+
 
 .subtitle {
     margin-bottom: 1rem;
