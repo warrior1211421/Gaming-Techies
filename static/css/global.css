@@ -488,22 +488,6 @@ article figure {
 .news-article header {
     margin-top: 10px
 }
-
-.pagination-link {
-    color: #333;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    font-size: 20px;
-    font-weight: 600;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 50px;
-    border-radius: 8px;
-    background-color: var(--mainColor);
-    margin:10px 0;
-}
-
 .news-article header h1 {
     font-size: 25px;
     font-weight: 600;
@@ -1706,6 +1690,20 @@ ul.table-of-contents li a{
     margin-bottom: 7px
 }
 
+.pagination-link {
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 50px;
+    border-radius: 8px;
+    background-color: #333;
+    margin:10px 0;
+}
 
 .subtitle {
     margin-bottom: 1rem;
