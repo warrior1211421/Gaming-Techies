@@ -21,7 +21,7 @@ So, if you are stuck with the problem and don’t know how to reduce CPU usage w
 
 ## Reasons that a Computer has High CPU Usage
 
-![Reasons that a computer has high CPU usage](https://gamingtechies.com/img/reasons-that-a-computer-has-high-cpu-usage.webp "Reasons that a computer has high CPU usage")
+![Reasons that a computer has high CPU usage](/uploads/reasons-that-a-computer-has-high-cpu-usage.webp "Reasons that a computer has high CPU usage")
 
 Well! There can be many reasons behind this issue. It would be helpful if your first lookout for various reasons and then move ahead to find the solution based upon the issue. Following are some reasons that bottleneck your gaming platform. 
 
@@ -55,7 +55,7 @@ Now that you know what reasons might get your CPU to over-usage, you can try out
 
 ### Disable Unnecessary Background Applications 
 
-![Disable unnecessary background applications](https://gamingtechies.com/img/disable-unnecessary-background-applications.webp "Disable unnecessary background applications")
+![Disable unnecessary background applications](/uploads/disable-unnecessary-background-applications.webp "Disable unnecessary background applications")
 
 The first important thing that you have to make sure to do is that before you start playing your game on the gaming device, disable all the unnecessary applications that are running in the background of your game. 
 
@@ -69,7 +69,7 @@ By doing this, you will relieve the CPU of much burden that it has if running bo
 
 ## Solution 2: Uninstall GPU Drivers
 
-![Uninstall GPU Drivers](https://gamingtechies.com/img/uninstall-gpu-drivers.webp "Uninstall GPU Drivers")
+![Uninstall GPU Drivers](/uploads/uninstall-gpu-drivers.webp "Uninstall GPU Drivers")
 
 Sometimes when the [CPU is bottlenecking](https://pc-builds.com/calculator/) (Calculate Bottleneck), it can be caused by faulty graphics drivers. You can fix it by uninstalling the faulty drivers ([AMD](https://www.amd.com/) or [Nvidia](https://www.nvidia.com/)) from your computer and then downloading the drivers from the manufacturer’s website and reinstalling them.
 
@@ -84,7 +84,7 @@ Once the driver is uninstalled, visit the graphics card’s manufacturer’s web
 
 ## Solution 3: Change The In-Game Settings
 
-![Change in game settings](https://gamingtechies.com/img/change-in-game-settings.webp "Change in game settings")
+![Change in game settings](/uploads/change-in-game-settings.webp "Change in game settings")
 
 This problem is also known to be caused by the in-game settings not being compatible with your computer’s specifications.
 
@@ -96,7 +96,7 @@ If none of the above settings work, try to play at low graphics settings and see
 
 ### Solution 4: Disable All Power Preserving Modes
 
-![Disable all power preserving modes](https://gamingtechies.com/img/disable-all-power-preserving-modes.webp "Disable all power preserving modes")
+![Disable all power preserving modes](/uploads/disable-all-power-preserving-modes.webp "Disable all power preserving modes")
 
 The power preserving modes are useless when your CPU is already getting bottlenecked, and for a gamer, these settings will only hold the CPU’s performance back. So, how to reduce CPU usage while gaming, you ask? Well, by disabling these settings, of course.
 
@@ -118,7 +118,7 @@ To turn off Power preserving modes, follow the given steps: 
 
 ## Solution 5: Reinstall The Game That Is Causing The Issue
 
-![Reinstall the game that is causing the issue](https://gamingtechies.com/img/reinstall-the-game-that-is-causing-the-issue.webp "Reinstall the game that is causing the issue")
+![Reinstall the game that is causing the issue](/uploads/reinstall-the-game-that-is-causing-the-issue.webp "Reinstall the game that is causing the issue")
 
 It may be the case that the issue is with the game installation itself. Sometimes a game can become corrupted and thus cause various problems, including high CPU usage. So, how to reduce CPU usage in games? Reinstalling the game should fix this issue. Follow the steps given below to uninstall the game:
 
@@ -132,7 +132,7 @@ Once the game is uninstalled, download it again from official sources and reinst
 
 ## Solution 6: Upgrade your Hardware
 
-![Upgrade your hardware](https://gamingtechies.com/img/upgrade-your-hardware.webp "Upgrade your hardware")
+![Upgrade your hardware](/uploads/upgrade-your-hardware.webp "Upgrade your hardware")
 
 If none of the above solutions were able to help you, then it is probably time that you upgrade your hardware to a newer edition. Sometimes whatever you may try, it can just come to your hardware not compatible enough to run the game. Sadly when that’s the case, then there is no other option other than to upgrade the hardware.
 
