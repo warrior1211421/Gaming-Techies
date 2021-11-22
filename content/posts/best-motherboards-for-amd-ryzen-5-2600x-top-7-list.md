@@ -65,7 +65,7 @@ the_products:
           Every aspect of this motherboard is optimized for multiplayer gaming. For instance, optimum cooling is the key to a lag-free gaming experience. Therefore, the board supports both an air cooler as well as an AIO water cooler to tackle all the heat that your powerful system may generate. Similarly, the audio boost technology automatically detects and optimizes the sound quality according to your headset. So, there is no need to install any additional support software for your Bloody or Logitech gaming headsets.
 
 
-          Finally, the number of slots that you get for your various hardware seems endless. You can attach up to eight USB accessories in both 2.0 and 3.1 universal serial bus ports, along with two M2 SSD cards and 6x SATA SSDs. If that’s not enough, there is plenty of room for your graphics cards as well. The board supports both **SLI and** [**Crossfire GPUs** ](https://www.amd.com/en/technologies/crossfire)with multi-GPU support to further boost your gaming performance.
+          Finally, the number of slots that you get for your various hardware seems endless. You can attach up to eight USB accessories in both 2.0 and 3.1 universal serial bus ports, along with two M2 SSD cards and 6x SATA SSDs. If that’s not enough, there is plenty of room for your graphics cards as well. The board supports both **SLI and** **[Crossfire GPUs](https://www.amd.com/en/technologies/crossfire)** with multi-GPU support to further boost your gaming performance.
     pros:
       - pro: "Elegant design "
       - pro: Suitable for overclocking
@@ -201,16 +201,15 @@ the_products:
     paragraphs:
       - paragraph: >-
           MSI provides both
-          [X](https://www.quora.com/What-does-the-X-mean-in-AMD-processors) and
-          B AMD chips in their motherboards. As you know, the B-xxx system
+          **[X](https://www.quora.com/What-does-the-X-mean-in-AMD-processors)**
+          and B AMD chips in their motherboards. As you know, the B-xxx system
           chipsets are more powerful than the X series due to several reasons.
           For instance, the B450 chip provides more room for overclocking,
           hardcore gaming, and system tweaking than the x370 chipset. **[MSI
-          B450
-          ](https://www.amazon.com/dp/B07FP11742?&linkCode=ll1&tag=gamingtechi09-20&linkId=e4fa5a417bcdd4fef33de744f0c1d8ab&language=en_US&ref_=as_li_ss_tl)**Gaming
-          Pro Carbon is very similar to the c370 version as it comes with very
-          similar features, but the advanced chipset justifies the higher price
-          tag.
+          B450](https://www.amazon.com/dp/B07FP11742?&linkCode=ll1&tag=gamingtechi09-20&linkId=e4fa5a417bcdd4fef33de744f0c1d8ab&language=en_US&ref_=as_li_ss_tl)**
+          Gaming Pro Carbon is very similar to the c370 version as it comes with
+          very similar features, but the advanced chipset justifies the higher
+          price tag.
 
 
           The motherboard is very stable in terms of thermal and power efficiency. For instance, it covers all the vital components of desktop computer like the dual M2 slots, the SATA slots/ports, usb ports and the processor slot with an improved thermal guard. This guard monitors the system temperatures in real-time and gradually optimizes the fan speed accordingly.
