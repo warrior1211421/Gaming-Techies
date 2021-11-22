@@ -39,7 +39,7 @@ after_intro: >-
   To help you out in getting the motherboard that could go perfectly great with your processor, we have come up with this guide. It has some **best motherboards for i7 4790K** processor. So, you can choose any one of them for getting a superior quality partner for your Intel processor.
 
 
-  **[Skip to Product Reviews](https://elastic-kalam-225070.netlify.app/best-motherboard-for-i7-4790k/#1-msi-atx-ddr3-2600-lga-1150)**
+  **[Skip to Product Reviews](https://gamingtechies.com/best-motherboard-for-i7-4790k/#1-msi-atx-ddr3-2600-lga-1150)**
 buyingGuideHead: Quick Shopping Tips
 buyingGuide: >-
   Even if you know which motherboards suit best your **i7 4790K**, you must
