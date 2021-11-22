@@ -38,7 +38,7 @@ Overheating is one of those reasons that can keep you from enjoying a smoother a
 
 ## Why Gaming Laptops turn Hot? 
 
-![Why gaming laptops turn hot](https://gamingtechies.com/img/why-gaming-laptops-turn-hot.webp "Why gaming laptops turn hot")
+![Why gaming laptops turn hot](/uploads/why-gaming-laptops-turn-hot.webp "Why gaming laptops turn hot")
 
 Gaming laptops are made exclusively to provide you greater help and ease for all your gaming sessions that you enjoy playing most among all. The great thing about these gaming laptops is that they are lightweight, portable, come in an easy-to-handle frame, and have an advanced pack of graphics in a compact size. However, this compactness is their biggest plus point, while on the other hand, this very compactness is also one of the biggest weaknesses of these laptops. 
 
@@ -46,7 +46,7 @@ The reason for saying this is that even the normal laptops generate a lot of hea
 
 ## Is Cooling down a Gaming Laptop Necessary? 
 
-![Is cooling down a gaming laptop necessary?](https://gamingtechies.com/img/is-cooling-down-a-gaming-laptop-necessary.webp "Is cooling down a gaming laptop necessary?")
+![Is cooling down a gaming laptop necessary?](/uploads/is-cooling-down-a-gaming-laptop-necessary.webp "Is cooling down a gaming laptop necessary?")
 
 While talking about playing high-end games on a gaming laptop, it is extremely important that it remains cooler during all the long sessions. This is because all these heavy profile games require a lot of [RAM](https://en.wikipedia.org/wiki/Random-access_memory) and speed to run smoothly to help you enjoy the session to the optimal level. To support these games, if your gaming laptop is not cool as it is required, then you might get irritated as it will get slow each time its GPU and CPU are under heavy load. 
 
@@ -54,7 +54,7 @@ So, if you want to have a smoother gaming experience with all your favorite game
 
 ## Keeping a Gaming Laptop Cool; a complete Guide 
 
-![Keeping a gaming laptop cool](https://gamingtechies.com/img/keeping-a-gaming-laptop-cool.webp "Keeping a gaming laptop cool")
+![Keeping a gaming laptop cool](/uploads/keeping-a-gaming-laptop-cool.webp "Keeping a gaming laptop cool")
 
 There are many things that you can try out to make sure your laptop’s cooling system remains functioning properly and can even allow you to enjoy some extra activities most conveniently as well. Here are some things that you can try out to get the most results:
 
