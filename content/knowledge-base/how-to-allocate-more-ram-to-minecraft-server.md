@@ -20,7 +20,7 @@ Have you ever happened to play Minecraft on your gaming device; how enjoyable it
 
 ## Why is more RAM needed for Minecraft? 
 
-![Why is more RAM needed for Minecraft](https://gamingtechies.com/img/why-is-more-ram-needed-for-minecraft.webp "Why is more RAM needed for Minecraft")
+![Why is more RAM needed for Minecraft](/uploads/why-is-more-ram-needed-for-minecraft.webp "Why is more RAM needed for Minecraft")
 
 [Minecraft](https://www.minecraft.net/) is an amazing game that runs perfectly well on almost every platform, provided that it has enough RAM to support it. Without enough RAM, you are likely to experience crashes, stuttering, and various other similar issues, which will make the game nearly impossible for you to play. 
 
@@ -28,7 +28,7 @@ So. It is very important that you allocate more RAM to your Minecraft server. Th
 
 ## Is Allocating RAM in Minecraft easy?
 
-![Is Allocating ram in Minecraft easy](https://gamingtechies.com/img/is-allocating-ram-in-minecraft-easy.webp "Is Allocating ram in Minecraft easy")
+![Is Allocating ram in Minecraft easy](/uploads/is-allocating-ram-in-minecraft-easy.webp "Is Allocating ram in Minecraft easy")
 
 Although lesser Ram can greatly hinder your performance in the game as it is quite obvious that crashing and stuttering never let you get involved in it completely. The game becomes completely unplayable. Even though it can cause many issues but still, it is not at all difficult to allocate more RAM; it is extremely easy to do it if you follow just a few simple steps. 
 
@@ -38,7 +38,7 @@ Here’s how you can do it! 
 
 ## Allocate more RAM to Minecraft using ATLauncher: Complete Process 
 
-![Allocate more RAM to Minecraft Using ATLauncher](https://gamingtechies.com/img/is-allocating-ram-in-minecraft-easy.webp "Allocate more RAM to Minecraft Using ATLauncher")
+![Allocate more RAM to Minecraft Using ATLauncher](/uploads/is-allocating-ram-in-minecraft-easy.webp "Allocate more RAM to Minecraft Using ATLauncher")
 
 This is to say that allocating RAM into Minecraft was previously difficult because it was a manual task. However, there’s now an intelligent mod that can do that for you, provided that you use it correctly. 
 
@@ -66,7 +66,7 @@ That’s all! You have successfully allocated more RAM into the Minecraft server
 
 ## Allocating more RAM in a Minecraft Server
 
-![Allocating more RAM in a Minecraft server](https://gamingtechies.com/img/allocate-more-ram-in-a-minecraft-server.webp "Allocating more RAM in a Minecraft server")
+![Allocating more RAM in a Minecraft server](/uploads/allocate-more-ram-in-a-minecraft-server.webp "Allocating more RAM in a Minecraft server")
 
 Allocating more Ram to Minecraft is simple, as you already know it. However, when you talk about allocating more RAM into Minecraft when it is hosted on a server, it is a bit different than allocating RAM through [ATLauncher](https://atlauncher.com/). Even though it is slightly different, it is not difficult or complicated as it may seem to you. All you have to do is follow the below given simple steps to complete the process successfully. 
 
