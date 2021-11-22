@@ -40,7 +40,7 @@ The reason for this is that there is a huge difference between an ordinary lapto
 
 ## What is the Difference Between an Ordinary Laptop and a Gaming Laptop?
 
-![Difference between an ordinary laptop and a gaming laptop](https://gamingtechies.com/img/what-is-the-difference-between-an-ordinary-laptop-and-a-gaming-laptop.webp "Difference between an ordinary laptop and a gaming laptop")
+![Difference between an ordinary laptop and a gaming laptop](/uploads/what-is-the-difference-between-an-ordinary-laptop-and-a-gaming-laptop.webp "Difference between an ordinary laptop and a gaming laptop")
 
 There is a massive difference between a gaming laptop and an ordinary one in the sense that a gaming laptop comes with upgraded and advanced features that are necessary to support various games. These are just the same as business or standard laptops, and their manufacturing makes all the difference. 
 
@@ -48,7 +48,7 @@ A gaming laptop comes with high speed, better graphics, huge memory, and also fa
 
 ## How to Convert a Laptop into a Gaming Laptop?
 
-![How to convert a laptop into a gaming laptop](https://gamingtechies.com/img/how-to-convert-a-laptop-into-a-gaming-laptop.webp "How to convert a laptop into a gaming laptop")
+![How to convert a laptop into a gaming laptop](/uploads/how-to-convert-a-laptop-into-a-gaming-laptop.webp "How to convert a laptop into a gaming laptop")
 
 As it is already known that gaming laptops come with the most advanced features that are not found in those ordinary laptops. So, if you are thinking of converting your laptop into a gaming laptop, you might not be able to do it completely. 
 
