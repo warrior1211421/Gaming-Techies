@@ -1490,6 +1490,7 @@ ul.table-of-contents li a{
 .trend-wrapper {
     overflow-x: scroll;
     overflow-y: hidden
+	text-decoration: underline;
 }
 .trending-items {
     width: 1000px;
