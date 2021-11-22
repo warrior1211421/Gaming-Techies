@@ -23,7 +23,7 @@ So, it is amazing software that keeps your system protected from any virus or ha
 
 ## Does Avast Affect Gaming?
 
-![Does Avast affect gaming](https://gamingtechies.com/img/does-avast-affect-gaming.webp "Does Avast affect gaming")
+![Does Avast affect gaming](/uploads/does-avast-affect-gaming.webp "Does Avast affect gaming")
 
 Does Avast affect gaming? This is probably one of the most asked questions, and the answer to this is; yes, it does. The [RAM](https://www.microsoft.com/en-us/windows) of your computer is the most important part of your [CPU](https://en.wikipedia.org/wiki/Central_processing_unit), especially if you want to play games. Avast is most commonly known to hog RAM as it periodically scans your system for viruses. Because of this scanning feature, it may ruin your gaming experience up to some extent. 
 
@@ -31,7 +31,7 @@ Having a good RAM might help you a lot in experiencing some fun time with your g
 
 ## What’s the Solution? 
 
-![Solution](https://gamingtechies.com/img/solution.webp "Solution")
+![Solution](/uploads/solution.webp "Solution")
 
 Even though Avast negatively affects your gaming experience and this is a worrisome thing to have. Nevertheless, this doesn’t mean that you will have to be in this state forever. While this Avast Antivirus makes your gaming slightly worse, it is also the only thing that offers you the solution to this problem. 
 
@@ -41,7 +41,7 @@ So, if you want your CPU to be more suitable for playing games, you simply have 
 
 ## Activating Avast Gaming Mode
 
-![Activating Avast gaming mode](https://gamingtechies.com/img/activating-avast-gaming-mode.webp "Activating Avast gaming mode")
+![Activating Avast gaming mode](/uploads/activating-avast-gaming-mode.webp "Activating Avast gaming mode")
 
 The Game Mode by Avast Antivirus is undoubtedly a great feature for all PC gamers. It helps you adjust your system settings according to the needs of your games. It also helps you disable any [unnecessary apps](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/) (reduce CPU usage) that are all the time running in the background. By eliminating these apps from running in the background, you can easily improve the performance of your system, and you can easily play the games of your choice. 
 
