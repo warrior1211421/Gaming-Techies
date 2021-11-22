@@ -391,7 +391,7 @@ conclusion:
       that comes with six cores and thus delivers up to 4.2GHz clocking speed
       and comes overclockable right out of the box. This means, it is way better
       than those dual-core processors that are now not considered as best for
-      gaming in 2021.
+      gaming.
 
 
       However, to get the most out of Ryzen 5 2600x, you need a suitable motherboard to sustain this immense amount of performance. Therefore, I have provided the top 7 **best motherboards for Ryzen 5 2600x** that you can easily find in the market.
