@@ -255,7 +255,7 @@ the_products:
           driver guards with built-in heatsinks.
 
 
-          So, if you plan to build a small yet powerful gaming PC on a limited budget, I highly recommend the [ASRock AB350M](https://www.amazon.com/dp/B06X9LN3QK?&linkCode=ll1&tag=gamingtechi09-20&linkId=fcf8dc45656f9b780ec6da881613a27b&language=en_US&ref_=as_li_ss_tl) for you.
+          So, if you plan to build a small yet powerful gaming PC on a limited budget, I highly recommend the **[ASRock AB350M](https://www.amazon.com/dp/B06X9LN3QK?&linkCode=ll1&tag=gamingtechi09-20&linkId=fcf8dc45656f9b780ec6da881613a27b&language=en_US&ref_=as_li_ss_tl)** for you.
 
 
           ASRock has proved that high performance with durability and a smaller form factor doesn’t necessarily mean an expensive build. For instance, ASRock has accomplished all these milestones at such a low price and in your pre-set tight budget.
