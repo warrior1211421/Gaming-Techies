@@ -23,7 +23,7 @@ However, before moving any further to apply some strategies, we suggest that you
 
 ## Causes of your Hands Getting Cold
 
-![Causes of your hands getting cold](https://gamingtechies.com/img/causes-of-your-hands-getting-cold.webp "Causes of your hands getting cold")
+![Causes of your hands getting cold](/uploads/causes-of-your-hands-getting-cold.webp "Causes of your hands getting cold")
 
 There are many things that can cause your hands to get colder, most often while you play the game. Following are some of the most common reasons that you must know: 
 
@@ -45,7 +45,7 @@ So, these were the most common causes which subject you to have colder hands whi
 
 ## Cold Hand Can Lead to Something Serious
 
-![Cold hand can lead to something serious](https://gamingtechies.com/img/cold-hand-can-lead-to-something-serious.webp "Cold hand can lead to something serious")
+![Cold hand can lead to something serious](/uploads/cold-hand-can-lead-to-something-serious.webp "Cold hand can lead to something serious")
 
 While there may be many reasons why your hands get cold often while you are playing games, the issue is something that you must take notice of at an earlier stage. If you are one of those persons who think gaming is the relevant part of their lives, these colder hands can have a real negative effect on it. You will feel your gaming pace getting reduced, and if it persists, you may also lose the motor activities that have been helping you win the game. 
 
@@ -55,7 +55,7 @@ There are also many solutions which you can try considering to get rid of this i
 
 ## What’s the Solution; Keep your Hands Warmer while Playing 
 
-![Keep your hands warmer while playing](https://gamingtechies.com/img/keep-your-hands-warmer-while-playing.webp "Keep your hands warmer while playing")
+![Keep your hands warmer while playing](/uploads/keep-your-hands-warmer-while-playing.webp "Keep your hands warmer while playing")
 
 Following are some most helpful tips that you can follow to get warmer hands for gaming: 
 
