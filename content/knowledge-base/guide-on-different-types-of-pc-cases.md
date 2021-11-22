@@ -59,25 +59,25 @@ Cable management is not a problem as well. You can easily fit all the cables you
 
 ### Corsair 1000D
 
-![Corsair 1000D](https://gamingtechies.com/img/corsair-1000d.webp "Corsair 1000D")
+![Corsair 1000D](/uploads/corsair-1000d.webp "Corsair 1000D")
 
 The first PC case in the list comes from a very well-known manufacturer. Corsair is a firm that requires no introduction. They have been making the perfect PC accessories for almost a decade now. The 1000D is classified as a Super Tower case. It has the housing space for any crazy build that you throw at it. It can house two ATX sized motherboards simultaneously. You don’t have to worry about the cooling system because it comes pre-fitted with two exhaust fans at the front. They help increase the rig’s air intake to make it remain thermally stable even at high usage loads.
 
 ### Cooler Master Cosmos C700P
 
-![Cooler Master Cosmos C700P](https://gamingtechies.com/img/cooler-master-cosmos-c700p.webp "Cooler Master Cosmos C700P")
+![Cooler Master Cosmos C700P](/uploads/cooler-master-cosmos-c700p.webp "Cooler Master Cosmos C700P")
 
 C700P is the next generation of the notorious Cosmos PC case. It has the same price tag as its predecessor but comes packed with many modern features. it supports all motherboards’ sizes. You can install micro-ATX to E-ATX in this case without the need to make alterations. It comes pre-installed with RGB strips on both the bottom and top ends. It makes the PC look more elegant and powerful. It can house up to two separate systems and a liquid cooling radiator. You can install full sized Multiple-GPUs with proper cooling. The only drawback to this pc case is that you have to perform cable management manually. However, it is expected to be included in later editions to the PC case.
 
 ### Thermaltake View 71
 
-![Thermaltake View 71](https://gamingtechies.com/img/thermaltake-view-71.webp "Thermaltake View 71")
+![Thermaltake View 71](/uploads/thermaltake-view-71.webp "Thermaltake View 71")
 
 The view 71 is the best full-tower-sized PC case available on the market. It can house any sized motherboard, i.e., Mini ITX, Micro ATX, ATX, and even the E-ATX. You can even install an ATX and Mini-ATX at the same time in this case. Just a single HDMI can access both systems. You can even toggle multi-display to access both systems simultaneously. This case has a self-weight of 18.9Kgs. So, you have to designate a separate space for this system because it isn’t portable.
 
 ## Mid Tower (MT):- Best for Airflow
 
-![Mid Tower](https://gamingtechies.com/img/mid-tower-case.webp "Mid Tower")
+![Mid Tower](/uploads/mid-tower-case.webp "Mid Tower")
 
 The MT is pretty similar to full-tower PC cases. They have almost the same features but comes in a very portable size. These cases are perfect if you enjoy Lan party sessions with your buds. These cases have HDDs and SSDs built-in bays. You can install the standard sized HDDs without having to make alterations. These bays are modular, which means that they can be removed when not used to make room for other components. These cases are perfect for home users because they occupy less space and can be carried around under your arms.
 
@@ -91,7 +91,7 @@ The only drawback to this case is that it can’t house full-sized graphic cards
 
 ### Corsair 4000D
 
-![Corsair 4000D](https://gamingtechies.com/img/corsair-4000d.webp "Corsair 4000D")
+![Corsair 4000D](/uploads/corsair-4000d.webp "Corsair 4000D")
 
 The 4000D is a mid-ranged PC case. It follows the principle to remain modest in its display but maintain the best quality. It doesn’t come included with pre-installed RGBs, but they can be added to external accessories. It is the only PC case with motherboard combability from E-ATX to ITX sizes. You can install full-sized multiple-GPUs in this unit without alterations.
 
@@ -101,7 +101,7 @@ Multiple storage devices can be installed with this PC case. You can house up to
 
 ### NZXT H510 Elite
 
-![NZXT H510 Elite](https://gamingtechies.com/img/nzxt-h510-elite.webp "NZXT H510 Elite")
+![NZXT H510 Elite](/uploads/nzxt-h510-elite.webp "NZXT H510 Elite")
 
 The best see-through PC case on the whole list! It has the ability to house the biggest components that you can mount. Suppose you are planning to devote a lot of cash and time to your PC built. You should probably show it off in front of your fellows. The H510 allows you to install the hardware in any orientation you like. Thanks to its multi-point mounting technology.
 
@@ -109,7 +109,7 @@ You can install any sized motherboard from E-ATX to micro ITX in this case. It h
 
 ### Phanteks Eclipse P300A
 
-![Phanteks Eclipse P300A](https://gamingtechies.com/img/phanteks-eclipse-p300a.webp "Phanteks Eclipse P300A")
+![Phanteks Eclipse P300A](/uploads/phanteks-eclipse-p300a.webp "Phanteks Eclipse P300A")
 
 The P300A is the best-budget PC case in the market. It has fewer features than the above-stated models. But the features and quality are worth the amount of money spent. If you have a limited budget, then you should consider this unit over any other. It has the best airflow and cooling system in the whole industry. It comes with a built-in exhaust fan in the rear end and a mesh door at the front. This mesh can be used as natural exhaust components as well as for directing airflow towards the cooling radiator.
 
@@ -129,7 +129,7 @@ You can install any mini-ITX or smaller sized motherboard in an SFF case due to 
 
 ### Thermaltake Core P1
 
-![Thermaltake Core P1](https://gamingtechies.com/img/thermaltake-core1.webp "Thermaltake Core P1")
+![Thermaltake Core P1](/uploads/thermaltake-core-p1.webp "Thermaltake Core P1")
 
 The P1 is the best case for Mini-ATX or smaller motherboards. It is perfect if you plan to build a compact or mini gaming PC because it has the perfect balance between compact size and airflow. If you require further airflow, you can install two external cooling fans to the front of the case. You even have the option to include cooling radiators, but the equipment needs to be placed outside the case.
 
@@ -139,7 +139,7 @@ This case has the combability to house most of the modern hardware without requi
 
 ### NZXT H200i
 
-![NZXT H200i](https://gamingtechies.com/img/nzxt-h200i.webp "NZXT H200i")
+![NZXT H200i](/uploads/nzxt-h200i.webp "NZXT H200i")
 
  The H200i is the best simple case with a lot of power hidden inside. Suppose you are on a tight budget and space requirements. It would be best if you considered this case over any other. It doesn’t have any of the premium designing or RGBs included, but it does have the support of almost any motherboard inside. You can even install a full-sized GPU in this case without alterations.
 
@@ -147,7 +147,7 @@ This case can be mounted on top of your desk or even on the wall. It will increa
 
 ### Corsair Carbide 200R Compact ATX Case
 
-![Corsair Carbide 200R](https://gamingtechies.com/img/corsair-carbide-200r-compact-atx-case.webp "Corsair Carbide 200R")
+![Corsair Carbide 200R](/uploads/corsair-carbide-200r-compact-atx-case.webp "Corsair Carbide 200R")
 
 When making the transition from MT to SFF cases, the Carbide 200R comes at the boundary of both cases. It has the compaction of a mini-ATX case but the airflow and compatibility of an MT case. Overall, it is a beast of a case. It can be mounted with up to six 120mm cooling fans along with a liquid cooling radiator.
 
@@ -155,7 +155,7 @@ This case is pretty heavy in terms of weight, but the amazing performance and fe
 
 ## Mini Tower PC Case
 
-![Mini Tower PC Case](https://gamingtechies.com/img/mini-tower-pc-case.webp "Mini Tower PC Case")
+![Mini Tower PC Case](/uploads/mini-tower-pc-case.webp "Mini Tower PC Case")
 
 The Mini tower PC case is slightly smaller than the MT case but larger than the SFF case. You can consider them as vertical SFF cases due to their highly compacted housing system; it is best for home-based extra pc mainly used for browsing the internet or for office use. If you are building a system on a very tight budget, this can be your dream case. It has compatibility for Mini-ATX boards and micro-ITX boards.
 
