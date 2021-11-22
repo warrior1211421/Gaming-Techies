@@ -40,7 +40,7 @@ Before we first move ahead to know which OS is most suitable for gaming, let us 
 
 ## Windows 
 
-![Windows](https://gamingtechies.com/img/windows.webp "Windows")
+![Windows](/uploads/windows.webp "Windows")
 
 [Microsoft](https://www.microsoft.com/) is undoubtedly one of the most widely used and most popular operating systems when we talk about gaming in particular. It simplifies the user interface and brings the gaming systems even closer to the public. 
 
@@ -50,7 +50,7 @@ However, the most advanced among them all is the latest introduced [Windows 10]
 
 ## Linux
 
-![Linux](https://gamingtechies.com/img/linux.webp "Linux")
+![Linux](/uploads/linux.webp "Linux")
 
 It doesn't donate any single operating system but covers a broad range of OS that is most probably based on [open-source Linux Kernel](https://en.wikipedia.org/wiki/Linux_kernel). It is an advanced operating system that offers people the most flexible and free OS. 
 
@@ -60,7 +60,7 @@ The great thing about these versions is that they are entirely free and are buil
 
 ## MacOS
 
-![Mac](https://gamingtechies.com/img/mac.webp "Mac")
+![Mac](/uploads/mac.webp "Mac")
 
 Initially released in 2001, it is amazingly popular worldwide in the name of its performance. The only difference between it and Windows is that it is found on MacBook computers and [Apple's iMac](https://www.apple.com/mac/). 
 
@@ -70,7 +70,7 @@ It is highly optimized to work with the Apple hardware only, and this makes it e
 
 ## Which OS is Best for Gaming? 
 
-![Which OS is best for gaming](https://gamingtechies.com/img/os-best-for-gaming.webp "Which OS is best for gaming")
+![Which OS is best for gaming](/uploads/which-os-is-best-for-gaming.webp "Which OS is best for gaming")
 
 Each of these above-mentioned OS is extremely functional and is highly helpful in making the gaming experience fun, enjoyable, and highly memorable for all time. The OS can help you play your most favorite games on your desired computer, however which OS is best for gaming? It all depends upon which game you play and how much variety you want to have on your gaming list. 
 
