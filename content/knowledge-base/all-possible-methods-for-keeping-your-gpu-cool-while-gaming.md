@@ -23,7 +23,7 @@ You need to take care of GPU cooling if you want to have an exclusive experience
 
 ## Why Should GPU Cooling Be Considered?
 
-![Why should GPU cooling be considered](https://gamingtechies.com/img/why-should-gpu-cooling-be-considered.webp "Why should GPU cooling be considered")
+![Why should GPU cooling be considered](/uploads/why-should-gpu-cooling-be-considered.webp "Why should GPU cooling be considered")
 
 The excessive heating of your GPU can cause various issues to your gaming device that can ultimately keep you from playing your favourite online games. These issues may be:
 
@@ -50,7 +50,7 @@ So here are some things that you can try to get the optimal results:
 
 ### Replace the Thermal Paste That you Have Previously Applied
 
-![Replace the thermal paste](https://gamingtechies.com/img/replace-the-thermal-paste.webp "Replace the thermal paste")
+![Replace the thermal paste](/uploads/replace-the-thermal-paste.webp "Replace the thermal paste")
 
 Knowing that thermal pastes effectively reduce the issues of GPUs overheating and improve the heat transfer between heat sink, GPU and the CPU of your processor, you might have applied the [thermal paste](https://en.wikipedia.org/wiki/Thermal_paste) some time ago.
 
@@ -68,7 +68,7 @@ So, when you either reapply the fresh thermal paste or even replace it with the 
 
 ### Clean your GPU Roughly Every Six Months
 
-![Clean your GPU roughly every six months](https://gamingtechies.com/img/clean-your-gpu-roughly-every-six-months.webp "Clean your GPU roughly every six months")
+![Clean your GPU roughly every six months](/uploads/clean-your-gpu-roughly-every-six-months.webp "Clean your GPU roughly every six months")
 
 This is very likely that the processor's parts collect a lot of dust and other materials that exhaust the vents and clog air intake. When enough dust gets accumulated in the GPU interior, it restricts the airflow and causes your GPU to overheat often.
 
@@ -92,7 +92,7 @@ The reason for this is that the higher GPU settings put greater stress on both t
 
 ### Play your Games in a Cooler Environment
 
-![Play your games in a cooler environment](https://gamingtechies.com/img/play-your-games-in-a-cooler-environment.webp "Play your games in a cooler environment")
+![Play your games in a cooler environment](/uploads/play-your-games-in-a-cooler-environment.webp "Play your games in a cooler environment")
 
 Sometimes the reason why your GPU gets overheated is that you have placed your processor in a hotter environment. Especially during the summer season, when the temperature gets higher than the normal, above room temperature, say 35 °C, your GPU gets overheated, and this greatly affects your gameplay.
 
@@ -100,7 +100,7 @@ So, the solution to this issue is that you play your favourite game at normal ro
 
 ### Adjust the Fan Speed
 
-![Adjust the fan speed](https://gamingtechies.com/img/adjust-the-fan-speed.webp "Adjust the fan speed")
+![Adjust the fan speed](/uploads/adjust-the-fan-speed.webp "Adjust the fan speed")
 
 The fan speed increases with the rise in temperature to keep your GPU at a relatively normal temperature. However, sometimes when you do a BIOS update, these fan configuration settings may get disturbed, and your GPU gets overheated.
 
