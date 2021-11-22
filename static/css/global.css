@@ -193,10 +193,6 @@ img.logo {
     padding: 0 1rem
 }
 
-.menu-item>a:hover, .sub-menu-item>a:hover {
-    border-bottom: 2px solid var(--textColor);
-}
-
 .menu-item a, .menu-item span {
     color: #000;
     display: inline-block;
@@ -1657,4 +1653,10 @@ ul.table-of-contents li a{
 }
 .summary-jump a:hover{
     border-bottom: 1px solid var(--mainColor) !important;
+}
+
+/* Sayim CSS Here */
+
+.menu-item>a:hover, .sub-menu-item>a:hover {
+    border-bottom: 2px solid #000;
 }
