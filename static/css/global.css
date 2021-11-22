@@ -1296,15 +1296,6 @@ footer p {
     height: 222px;
     margin-bottom: 15px
 }
-
-.amazon-link {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    align-items: center;
-    flex-direction: column
-}
-
 .amazon-review-button {
     font-size: 15px;
     font-weight: 600;
@@ -1709,6 +1700,15 @@ ul.table-of-contents li a{
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 8px !important;
+}
+
+.amazon-link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+	margin-top: -10px;
+    flex-direction: column
 }
 
 .ttu.f6.mt0{
