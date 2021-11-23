@@ -69,7 +69,7 @@ buyingGuide: >-
   It means that the display matches your current framerate per second and displays what's happening in the game. Moreover, a higher refresh rate takes away most game lags due to the lower one. However, the ping and hardware optimization effect is still in place. 
 
 
-  All the products in this list have a suitable refresh rate for Call of Duty, [Valorant](https://playvalorant.com/en-us/), and PUBG. So, you will get an **[optimized gaming](https://gamingtechies.com/how-to-optimize-mac-for-gaming/)** (optimize max for gaming) experience regardless of which product you choose. 
+  All the products in this list have a suitable refresh rate for Call of Duty, **[Valorant](https://playvalorant.com/en-us/),** and PUBG. So, you will get an **[optimized gaming](https://gamingtechies.com/how-to-optimize-mac-for-gaming/)** (optimize max for gaming) experience regardless of which product you choose. 
 
 
   ### Response Time
@@ -326,7 +326,7 @@ the_products:
 conclusion:
   - paragraph: The monitor plays an important role in gaming. A suitable monitor can
       enhance your game's graphics and provide accurate information all the
-      time. This article includes only the best monitors for RTX 3080.
+      time. This article includes only the **best monitors for RTX 3080.**
 faqs:
   - answer: RTX 3080 is currently the most powerful gaming graphics card in the
       market. So, you can enjoy all 4K games with this latest GPU. However, you
