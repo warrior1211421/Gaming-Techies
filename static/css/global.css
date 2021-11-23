@@ -1138,7 +1138,8 @@ footer p {
 }
 
 .sidebar-container .f6.truncate-2.mb2.mt0 {
-    font-size: 16px
+    font-size: 16px;
+	border-bottom: 3px solid #2871de;
 }
 
 .news-article strong {
