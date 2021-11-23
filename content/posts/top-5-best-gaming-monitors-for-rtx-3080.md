@@ -63,7 +63,7 @@ buyingGuide: >-
   All the products in this list have a suitable refresh rate for CALL OF DUTY, Valorent, and PUBG. So, you will get an optimized gaming experience regardless of which product you choose. 
 
 
-  ### **Response Time**
+  ### Response Time
 
 
   The response time is another deciding factor for online shooter games. Do you ever feel like the cursor is not moving according to your mouse actions? This means that you need a monitor with impressive response time, not that older one with ultra low response time that.
@@ -160,11 +160,12 @@ the_products:
 
           Increased view means you can keep your eye out for the enemy much effectively. In short, every aspect of the Samsung G7 favors multiplayer FPS games. However, if you want better graphics rather than a quick response time, this device is not the one for you.
     pros:
-      - pro: "High 240Hz Refresh Rate "
-      - pro: "Fewer Bezels "
-      - pro: "G-Sync + Freesync "
+      - pro: "High 240Hz refresh rate "
+      - pro: "Fewer bezels "
+      - pro: "G-Sync + freesync "
       - pro: Higher PPi
-      - pro: "Fastest Response Time In The Market Curved Display "
+      - pro: Fastest response time In the market
+      - pro: "Curved display "
     amzlink: https://amzn.to/2YGBWKo
     nameForTOC: Samsung Odyssey G7
     name: 2. Samsung Odyssey G7
@@ -174,7 +175,7 @@ the_products:
           1 Ms **\\|** **Panel Type:** Va **\\|** **Adaptive Sync:** G-Sync,
           Freesync"
     cons:
-      - con: It Only Supports up to 1440P Resolution.
+      - con: It only supports up to 1440P resolution.
     image: /uploads/samsung-odyssey-g7.webp
     award: "Best for the Refresh Rate "
   - summary_award: "Best for Image Quality "
@@ -199,11 +200,11 @@ the_products:
 
           Also, it has up to 400 nits peak brightness that lets you have brighter highlights in HDR and combats the glare that can negatively affect your game in well-lit environment.
     pros:
-      - pro: "144Hz Refresh Rate "
-      - pro: "Easily Available "
-      - pro: "High Pixel Density "
-      - pro: Freesync Adaptation
-      - pro: Many Input Ports
+      - pro: "144Hz refresh rate "
+      - pro: "Easily available "
+      - pro: "High pixel density "
+      - pro: Freesync adaptation
+      - pro: Many input ports
     amzlink: https://amzn.to/3oOOpqH
     nameForTOC: Gigabyte Aorus FI32U
     name: 3. Gigabyte Aorus FI32U
@@ -212,7 +213,7 @@ the_products:
           Density:** 139 PPi **\\| Refresh Rate:** 144 Hz **\\| Response Time:**
           1 Ms **\\| Adaptive Sync:** Freesync **\\| Panel Type:** IPs"
     cons:
-      - con: It Is Not Suitable for Nvidia GPUs due to a Lack of G-Sync.
+      - con: It Is not suitable for nvidia GPUs due to a lack of G-Sync.
     image: /uploads/gigabyte-aorus-fi32u.webp
     award: "Best for Image Quality "
   - summary_award: Best for Viewing Angle
@@ -244,10 +245,10 @@ the_products:
           Nevertheless, this rate is variable. The variable refresh rate means that you can adjust it and the response time according to the game you are playing. For instance, you don't need a faster speed in click games like AGE OF EMPIRES and DOTA 2. So, the higher refresh rate can mess your gameplay. Moreover, some games are not optimized for such a higher FPS monitor. In short, Asus Swift PG279QM provides the perfect tear free gaming experience without adding to the purchase cost.
     pros:
       - pro: sRGB
-      - pro: High Pixel Density
-      - pro: 2K Resolution Built-In HDR
-      - pro: "Adjustable Frame Rate "
-      - pro: "G-Sync Adaptation "
+      - pro: High pixel density
+      - pro: 2K Resolution built-In HDR
+      - pro: "Adjustable frame rate "
+      - pro: "G-Sync adaptation "
     amzlink: https://amzn.to/3DrUNbt
     nameForTOC: ASUS ROG Swift PG279QM
     name: 4. ASUS ROG Swift PG279QM
@@ -256,8 +257,8 @@ the_products:
           Density:** 109 PPi **\\|** **Refresh Rate:** 240 Hz **\\| Response
           Time:** 1 Ms **\\| Adaptive Sync:** G-Sync **\\| Panel Type:** IPs"
     cons:
-      - con: "It Doesn't offer Freesync Adaptation "
-      - con: The Refresh Rate Is Not Suitable For Professional Esports Gaming
+      - con: "It doesn't offer freesync adaptation "
+      - con: The refresh rate Is not suitable for professional esports gaming
     image: /uploads/asus-rog-swift-pg279qm.webp
     award: Best for Viewing Angle
   - summary_award: "Best Monitor for Response Rate "
@@ -285,13 +286,13 @@ the_products:
 
           Some people like Linus use MSI Optix monitor for both gaming and working side-by-side. The advanced physical G-Sync and FreeSync modules detect your current hardware and adjust the settings automatically. In short, if you want an affordable gaming monitor for RTX 3080, MSI Optix is your best shot.
     pros:
-      - pro: "2K Resolution "
-      - pro: Affordable Price
-      - pro: "Quick Response Time "
-      - pro: "High Contrast And Brightness "
-      - pro: "Compatible with All Major OS "
-      - pro: "Multiple Display Ports "
-      - pro: "Gaming + Workstation "
+      - pro: "2K resolution "
+      - pro: Affordable price
+      - pro: "Quick response time "
+      - pro: "High contrast and brightness "
+      - pro: "Compatible with all major OS "
+      - pro: "Multiple display ports "
+      - pro: "Gaming + workstation "
     amzlink: https://amzn.to/3uYkI7C
     nameForTOC: MSI Optix MAG274QRF-QD
     name: 5. MSI Optix MAG274QRF-QD
@@ -300,7 +301,7 @@ the_products:
           Density:** 109 PPi **\\| Refresh Rate:** 165 Hz **\\| Response Time:**
           1 Ms **\\| Panel Type:** IPs **\\|Adaptive Sync:** Freesync & G-Sync"
     cons:
-      - con: It Doesn't Support sRGB, And The Colors are Over-Saturated Sometimes.
+      - con: It doesn't support sRGB, and the colors are over-saturated sometimes.
     image: /uploads/msi-optix-mag274qrf-qd.webp
     award: Best Monitor for Response Rate
 conclusion:
@@ -312,8 +313,8 @@ faqs:
       market. So, you can enjoy all 4K games with this latest GPU. However, you
       need a monitor that supports a 4K display; otherwise, it is useless to
       you.
-    question: Can I play 4K Games on RTX 3080?
-  - question: What is the Best Monitor for RTX 3080?
+    question: Can I play 4K games on RTX 3080?
+  - question: What is the best monitor for RTX 3080?
     answer: You need a suitable monitor that matches the display performance of your
       GPU. In my opinion, MSI Optix MAG274QRF-QD is currently one of the best
       monitors for 3080 that you can get at an affordable price.
@@ -321,7 +322,7 @@ faqs:
       game, speed is everything, so the more you have, the better it is.
       Usually, any monitor with a refresh rate between 120-240 Hz is suitable
       for COD multiplayer.
-    question: How much Refresh Rate Do I Need for the Call of Duty Multiplayer?
+    question: How much refresh rate do I need for the Call of Duty Multiplayer?
   - answer: sRGB stands for standard red, blue-green. It is a technology developed
       by Microsoft and HP for inkjet printers. The spectrum of sRGB includes all
       the currently known colors and is updated regularly for future
@@ -333,5 +334,5 @@ faqs:
       resolution and a spare HDMI port can connect to your PlayStation 5.
       Luckily, all the products in this list are compatible with PlayStation,
       PC, and Xbox.
-    question: Can I Connect my PlayStation 5 to a Gaming Monitor?
+    question: Can I connect my PlayStation 5 to a gaming monitor?
 ---
