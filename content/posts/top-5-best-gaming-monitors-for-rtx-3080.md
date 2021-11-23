@@ -22,9 +22,9 @@ paragraphs:
       The gaming industry has greatly evolved ever since the first game. The
       graphics are becoming more realistic, especially with 4K gaming support.
       Similarly, gaming hardware like graphic cards is also becoming more
-      powerful with every new release. [RTX
-      3080](https://www.amazon.com/stores/GeForce/RTX3080_GEFORCERTX30SERIES/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?&linkCode=ll2&tag=gamingtechi09-20&linkId=5108390dc9b5190209db4879ebc56003&language=en_US&ref_=as_li_ss_tl)
-      is one such powerful GPUwith 4K support. To get the most out of it, you
+      powerful with every new release. **[RTX
+      3080](https://www.amazon.com/stores/GeForce/RTX3080_GEFORCERTX30SERIES/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?&linkCode=ll2&tag=gamingtechi09-20&linkId=5108390dc9b5190209db4879ebc56003&language=en_US&ref_=as_li_ss_tl)**
+      is one such powerful GPU with 4K support. To get the most out of it, you
       need to have the **best gaming monitors for rtx 3080** that is hard to
       find if you are not fully aware what you need to have in pair for **[rtx
       3080](https://www.amazon.com/stores/GeForce/RTX3080_GEFORCERTX30SERIES/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?&linkCode=ll2&tag=gamingtechi09-20&linkId=5108390dc9b5190209db4879ebc56003&language=en_US&ref_=as_li_ss_tl)**.
