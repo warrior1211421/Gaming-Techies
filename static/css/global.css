@@ -1474,10 +1474,6 @@ ul.table-of-contents li a{
     line-height: 50px
 }
 
-.trending-item {
-    margin: 0 10px;
-}
-
 /* Trending Bar End */
 
 .ez-homepage-section{
@@ -1580,6 +1576,10 @@ ul.table-of-contents li a{
 
 .menu-item>a:hover, .sub-menu-item>a:hover {
     border-bottom: 2px solid #000;
+}
+
+.trending-item {
+    margin: 0 8px;
 }
 
 .specs__text{
