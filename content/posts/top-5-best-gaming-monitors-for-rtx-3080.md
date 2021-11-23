@@ -36,7 +36,7 @@ after_intro: >-
 
 
   nevertheless, there are some striking features that make some monitors stand out from others. So to help you out in finding the one that meets your needs exceptionally you need to be fully aware of some best monitors options present nowadays.
-buyingGuideHead: Quick Shopping Tips
+buyingGuideHead: Quick Shopping Tips!
 buyingGuide: >-
   Do you like the new RTX 3080? Chances are you will be upgrading pretty soon if
   you haven't already. But you need a suitable monitor to unleash the true
@@ -123,7 +123,7 @@ the_products:
       - pro: "HDR experience "
       - pro: Small bezels
       - pro: Double as TV
-    amzlink: https://amzn.to/2X7Ucw4
+    amzlink: https://www.amazon.com/LG-34GP83A-B-Inch-Ultragear-Compatibility/dp/B08DWD38VX?&linkCode=ll1&tag=gamingtechi09-20&linkId=de9908b4da5b74889029b75099166509&language=en_US&ref_=as_li_ss_tl
     nameForTOC: LG 34GP83A-B
     name: 1. LG 34GP83A-B
     specifications:
@@ -166,7 +166,7 @@ the_products:
       - pro: Higher PPi
       - pro: Fastest response time In the market
       - pro: "Curved display "
-    amzlink: https://amzn.to/2YGBWKo
+    amzlink: https://www.amazon.com/SAMSUNG-27-inch-Odyssey-G7-Monitor/dp/B088HJ4VQK?&linkCode=ll1&tag=gamingtechi09-20&linkId=e18259892b9b6598ca0c92233d7a405e&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung Odyssey G7
     name: 2. Samsung Odyssey G7
     specifications:
@@ -205,7 +205,7 @@ the_products:
       - pro: "High pixel density "
       - pro: Freesync adaptation
       - pro: Many input ports
-    amzlink: https://amzn.to/3oOOpqH
+    amzlink: https://www.amazon.com/AORUS-Monitor-Exclusive-3840x2160-Response/dp/B09885HV8C?dchild=1&keywords=Gigabyte+Aorus+FI32U&qid=1633966459&sr=8-1&linkCode=ll1&tag=gamingtechi09-20&linkId=cdf09ed738c5670ec44cbbea6282b791&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Gigabyte Aorus FI32U
     name: 3. Gigabyte Aorus FI32U
     specifications:
@@ -249,7 +249,7 @@ the_products:
       - pro: 2K Resolution built-In HDR
       - pro: "Adjustable frame rate "
       - pro: "G-Sync adaptation "
-    amzlink: https://amzn.to/3DrUNbt
+    amzlink: https://www.amazon.com/ASUS-PG279QM/dp/B08LCNWQWL?&linkCode=ll1&tag=gamingtechi09-20&linkId=8afb7686e8d73f7e8ce70138e09b43de&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG Swift PG279QM
     name: 4. ASUS ROG Swift PG279QM
     specifications:
@@ -293,7 +293,7 @@ the_products:
       - pro: "Compatible with all major OS "
       - pro: "Multiple display ports "
       - pro: "Gaming + workstation "
-    amzlink: https://amzn.to/3uYkI7C
+    amzlink: https://www.amazon.com/MSI-9S6-3CA8DA-039-Optix-MAG274QRF-QD/dp/B08PKHV1R9?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=MSI+Optix+MAG274QRF-QD&qid=1633966596&s=pc&sr=1-1&linkCode=ll1&tag=gamingtechi09-20&linkId=e2af12ab8366dc1afb542a4985efbfe9&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MSI Optix MAG274QRF-QD
     name: 5. MSI Optix MAG274QRF-QD
     specifications:
