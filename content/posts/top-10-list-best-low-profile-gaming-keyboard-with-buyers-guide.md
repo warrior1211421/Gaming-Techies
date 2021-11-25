@@ -87,7 +87,7 @@ buyingGuide: >-
   Some keyboards are splash-resistant and allow easy cleaning without then being affected by the splash. An easy to clean keyboard is always handy when it comes to being in the ownership of an “always-in-a-hurry” gamer.
 
 
-  #### Design
+  ### Design
 
 
   For some, it may not be important to consider the design of the keyboard as long as it satisfies them with its great performance. However, it’s always good to consider buying a keyboard that comes with a design that matches your room and desk set-up.
