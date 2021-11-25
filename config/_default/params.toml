@@ -39,8 +39,8 @@ section2 = "Style 1"
 section2Cat = "Monitors"
 section3 = "Style 1"
 section3Cat = "Motherboards"
-section4 = "Off"
-section4Cat = "Learning Guides"
+section4 = "Style 1"
+section4Cat = "Headphones"
 
 [post_setting]
 featured_img = false
