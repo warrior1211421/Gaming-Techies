@@ -24,6 +24,11 @@
     name = "Monitors"
     url = "/monitors/"
     weight = "5"
+	
+  [[main]]
+    name = "Headphones"
+    url = "/headphones/"
+    weight = "6"
 
 # Footer Menu Starts Here...
 
