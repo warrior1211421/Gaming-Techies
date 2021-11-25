@@ -13,7 +13,7 @@ date: 2021-11-21T08:37:15.099Z
 updateDate: 2021-11-21T08:37:15.115Z
 featured_Image: /uploads/best-open-back-headphones-for-gaming.webp
 categories:
-  - Buying Guides
+  - Headphones
 product_table: true
 top3_table: true
 paragraphs:
