@@ -10,6 +10,7 @@ url: best-audiophile-headphones-for-gaming
 author: Gabriel
 date: 2021-11-25T19:09:24.316Z
 updateDate: 2021-11-25T19:09:24.347Z
+featured_Image: /uploads/best-audiophile-headphones-for-gaming.webp
 categories:
   - Headphones
 product_table: true
