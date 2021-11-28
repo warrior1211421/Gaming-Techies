@@ -55,5 +55,8 @@ scrollcat = "Motherboards"
 [[scroll_section]]
 scrollcat = "Headphones"
 
+[[img_section]]
+imgcat = "Knowledge Base"
+
 [post_setting]
-featured_img = false
+featured_img = true
