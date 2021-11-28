@@ -1,4 +1,4 @@
-blogSection = true
+blogSection = false
 logo = "/uploads/logo.png"
 icon = "/uploads/fav_icon.png"
 tagline = "Best Techs Reviewed"
@@ -48,9 +48,6 @@ sitepinterestAccount = "https://www.pinterest.com/gamingtechies76/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
 [[scroll_section]]
-scrollcat = "Monitors"
-
-[[scroll_section]]
 scrollcat = "Motherboards"
 
 [[scroll_section]]
@@ -61,6 +58,9 @@ scrollcat = "Graphics Cards"
 
 [[scroll_section]]
 scrollcat = "Keyboards"
+
+[[scroll_section]]
+scrollcat = "Monitors"
 
 [[scroll_section]]
 scrollcat = "Mouse"
@@ -79,6 +79,9 @@ scrollcat = "PC Cases"
 
 [[scroll_section]]
 scrollcat = "PC Builds"
+
+[[scroll_section]]
+scrollcat = "Knowledge Base"
 
 [post_setting]
 featured_img = false
