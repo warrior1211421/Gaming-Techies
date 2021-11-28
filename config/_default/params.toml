@@ -57,4 +57,4 @@ scrollcat = "Motherboards"
 scrollcat = "Headphones"
 
 [post_setting]
-featured_img = true
+featured_img = false
