@@ -80,8 +80,5 @@ scrollcat = "PC Cases"
 [[scroll_section]]
 scrollcat = "PC Builds"
 
-[[scroll_section]]
-scrollcat = "Buying Guides"
-
 [post_setting]
 featured_img = false
