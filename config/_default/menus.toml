@@ -18,55 +18,55 @@
     weight = "3"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Graphics Cards"
     url = "/graphics-cards/"
     weight = "4"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Keyboards"
     url = "/keyboards/"
     weight = "5"	
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Monitors"
     url = "/monitors/"
     weight = "6"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Mouse"
     url = "/mouse/"
     weight = "7"
 
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Routers & Modems"
     url = "/routers-and-modems/"
     weight = "8"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Cables"
     url = "/cables/"
     weight = "9"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "Chairs"
     url = "/chairs/"
     weight = "10"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "PC Cases"
     url = "/pc-cases/"
     weight = "11"
 	
   [[main]]
-    parent = "Buying Guide"
+    parent = "Buying Guides"
     name = "PC Builds"
     url = "/pc-builds/"
     weight = "12"
