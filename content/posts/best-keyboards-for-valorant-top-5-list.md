@@ -13,7 +13,7 @@ date: 2021-11-20T14:13:13.978Z
 updateDate: 2021-11-20T14:13:14.010Z
 featured_Image: /uploads/best-keyboards-for-valorant.webp
 categories:
-  - Buying Guides
+  - Keyboards
 product_table: true
 top3_table: true
 paragraphs:
