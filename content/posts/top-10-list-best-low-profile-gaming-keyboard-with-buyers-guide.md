@@ -13,7 +13,7 @@ date: 2021-11-21T15:21:18.068Z
 updateDate: 2021-11-21T15:21:18.090Z
 featured_Image: /uploads/best-low-profile-gaming-keyboard.webp
 categories:
-  - Buying Guides
+  - Keyboards
 product_table: true
 top3_table: true
 paragraphs:
