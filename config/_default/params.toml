@@ -1,9 +1,25 @@
+blogSection = false
 logo = "/uploads/logo.png"
 icon = "/uploads/fav_icon.png"
 tagline = "Best Techs Reviewed"
 contacteMail = "gamingtechies76@gmail.com"
-headerText = "**Gaming Techies supported by its audience. When you purchase through our links, we may earn an [affiliate commission](https://gamingtechies.com/affiliate-disclosure/) at no additional cost to you.**"
-footerText = "Gaming Techies © 2021. All Rights Reserved."
+headerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
+footerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
+img_section = []
+
+[fonts]
+bodyFont = "Poppins"
+heading = "Poppins"
+
+[home_section]
+section1 = "Style 1"
+section1Cat = "Buying Guides"
+section2 = "Style 1"
+section2Cat = "Monitors"
+section3 = "Style 1"
+section3Cat = "Motherboards"
+section4 = "Style 1"
+section4Cat = "Headphones"
 
 [colors]
 mainColor = "#040404"
@@ -11,9 +27,8 @@ textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
 
-[fonts]
-bodyFont = "Poppins"
-heading = "Poppins"
+[siteRobots]
+catIndex = false
 
 [open_graph]
 meta_Description = "Gaming Techies is a professional online website that keeps you updated with all the gaming techs reviews, news and latest information."
@@ -32,15 +47,41 @@ siteinstagramAccount = "https://www.instagram.com/gamingtechies76/"
 sitepinterestAccount = "https://www.pinterest.com/gamingtechies76/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
-[home_section]
-section1 = "Style 1"
-section1Cat = "Buying Guides"
-section2 = "Style 1"
-section2Cat = "Monitors"
-section3 = "Style 1"
-section3Cat = "Motherboards"
-section4 = "Style 1"
-section4Cat = "Headphones"
+[[scroll_section]]
+scrollcat = "Motherboards"
+
+[[scroll_section]]
+scrollcat = "Headphones"
+
+[[scroll_section]]
+scrollcat = "Graphics Cards"
+
+[[scroll_section]]
+scrollcat = "Keyboards"
+
+[[scroll_section]]
+scrollcat = "Monitors"
+
+[[scroll_section]]
+scrollcat = "Mouse"
+
+[[scroll_section]]
+scrollcat = "Routers and Modems"
+
+[[scroll_section]]
+scrollcat = "Cables"
+
+[[scroll_section]]
+scrollcat = "Chairs"
+
+[[scroll_section]]
+scrollcat = "PC Cases"
+
+[[scroll_section]]
+scrollcat = "PC Builds"
+
+[[scroll_section]]
+scrollcat = "Knowledge Base"
 
 [post_setting]
 featured_img = false

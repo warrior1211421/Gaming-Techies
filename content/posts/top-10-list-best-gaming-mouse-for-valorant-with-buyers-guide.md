@@ -13,7 +13,7 @@ date: 2021-11-21T15:07:10.667Z
 updateDate: 2021-11-21T15:07:10.706Z
 featured_Image: /uploads/best-gaming-mouse-for-valorant.webp
 categories:
-  - Buying Guides
+  - Mouse
 product_table: true
 top3_table: true
 paragraphs:

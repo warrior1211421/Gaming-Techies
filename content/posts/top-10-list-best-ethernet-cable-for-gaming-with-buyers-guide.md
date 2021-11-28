@@ -14,7 +14,7 @@ date: 2021-11-21T08:13:54.767Z
 updateDate: 2021-11-21T08:13:54.801Z
 featured_Image: /uploads/best-ethernet-cable-for-gaming.webp
 categories:
-  - Buying Guides
+  - Cables
 product_table: true
 top3_table: true
 paragraphs:

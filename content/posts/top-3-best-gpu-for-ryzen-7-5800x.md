@@ -12,7 +12,7 @@ date: 2021-11-20T12:26:01.360Z
 updateDate: 2021-11-20T12:26:01.410Z
 featured_Image: /uploads/best-gpu-for-ryzen-7-5800x.webp
 categories:
-  - Buying Guides
+  - Graphics Cards
 product_table: true
 top3_table: false
 paragraphs:

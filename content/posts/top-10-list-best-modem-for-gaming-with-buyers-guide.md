@@ -13,7 +13,7 @@ date: 2021-11-21T08:58:28.098Z
 updateDate: 2021-11-21T08:58:28.118Z
 featured_Image: /uploads/best-modem-for-gaming.webp
 categories:
-  - Buying Guides
+  - Routers and Modems
 product_table: true
 top3_table: true
 paragraphs:
