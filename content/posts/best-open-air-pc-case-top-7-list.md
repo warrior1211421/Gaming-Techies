@@ -13,6 +13,7 @@ updateDate: 2021-11-20T14:25:17.201Z
 featured_Image: /uploads/best-open-air-pc-cases.webp
 categories:
   - Buying Guides
+  - PC Cases
 product_table: true
 top3_table: true
 paragraphs:
