@@ -13,7 +13,7 @@ date: 2021-11-20T18:42:40.601Z
 updateDate: 2021-11-20T18:42:40.641Z
 featured_Image: /uploads/best-gaming-chair-for-short-person.webp
 categories:
-  - Buying Guides
+  - Chairs
 product_table: true
 top3_table: true
 paragraphs:
