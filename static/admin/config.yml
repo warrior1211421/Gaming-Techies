@@ -242,6 +242,7 @@ collections:
           - {label: Contact eMail, name: contacteMail, widget: string, required: false}
           - {label: Header Text, name: headerText, widget: markdown, required: false}
           - {label: Footer Text, name: footerText, widget: markdown, required: false}
+          - {label: Homepage Blog/Knowledge Section, name: blogSection, widget: boolean, required: false, hint: "This is the img section on the homepage at the end which shows all knowledge-base posts"}
           - label: "Site Colors"
             name: "colors"
             widget: "object"
@@ -258,6 +259,17 @@ collections:
             fields:
             - { label: Body Font, name: bodyFont, widget: string, required: false }
             - { label: Heading Font, name: heading, widget: string, required: false }
+          - label: "Robots"
+            name: "siteRobots"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "No Index Homepage?", name: homeIndex, widget: boolean, required: false }
+            - { label: "No Index Categories?", name: catIndex, widget: boolean, required: false }
+            - { label: "No Index Posts?", name: postIndex, widget: boolean, required: false }
+            - { label: "No Index Pages?", name: pageIndex, widget: boolean, required: false }
+            - { label: "No Index Knowledge Base?", name: blogIndex, widget: boolean, required: false }
+            - { label: "No Index Product Reviews?", name: reviewIndex, widget: boolean, required: false }
           - label: "Open Graph Meta"
             name: "open_graph"
             widget: "object"
@@ -288,19 +300,20 @@ collections:
               - { label: Instagram, name: siteinstagramAccount, widget: string, required: false}
               - { label: Pinterest, name: sitepinterestAccount, widget: string, required: false}
               - { label: YouTube, name: siteYouTubeAccount, widget: string, required: false}
-          - label: "Homepage Sections"
-            name: "home_section"
-            widget: "object"
-            collapsed: true
+          - label: "Scroll Sections"
+            name: "scroll_section"
+            widget: "list"
             fields:
-             - {label: Section 1, name: section1, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
-             - {label: "Section 1 Category", name: "section1Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
-             - {label: Section 2, name: section2, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
-             - {label: "Section 2 Category", name: "section2Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
-             - {label: Section 3, name: section3, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
-             - {label: "Section 3 Category", name: "section3Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
-             - {label: Section 4, name: section4, widget: select, options: ["Off","Style 1", "Style 2"], required: false}
-             - {label: "Section 4 Category", name: "section4Cat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+              [
+                {label: "Category", name: "scrollcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+              ]
+          - label: "Image Sections"
+            name: "img_section"
+            widget: "list"
+            fields:
+              [
+                {label: "Category", name: "imgcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+              ]
           - label: "Post Settings"
             name: "post_setting"
             widget: "object"

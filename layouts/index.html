@@ -2,10 +2,11 @@
     
     <div id="content">
         {{ partial "homepage/home-hero" . }}
-        {{ partial "homepage/img-sections" . }}
-        {{ partial "homepage/img-sections-2" . }}
-        {{ partial "homepage/scroll-sections" . }}
+        {{ partial "homepage/scroll-range" . }}
+        {{ partial "homepage/img-range" . }}
+        {{ if eq .Site.Params.blogSection true }}
         {{ partial "homepage/section-kbase" . }}
+        {{ end }}
     </div>
 
 {{ end }}

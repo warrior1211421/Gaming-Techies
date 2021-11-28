@@ -1,0 +1,33 @@
+<div id="categoriesList" class="ez-homepage-section home-hero-sub-posts">
+    {{ range .Site.Params.scroll_section }}
+    {{ $category1 := .scrollcat }}
+    <section style="background-color:white;" data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
+            <h2 class="list-title scroll"><a style="color:black" href="{{ $category1 | anchorize | absURL }}">{{$category1}}</a></h2>
+        <div class="homeListingResults"  data-sort="page" data-listkey="mixedPrimary">
+            {{ range where $.Site.RegularPages "Params.categories" "intersect" (slice $category1) }}
+            <div class="listingResult small result1" style="background-color: transparent;" itemscope="" itemtype="https://schema.org/Guide">
+                <a href="{{.Permalink |}}" class="article-link"
+                    aria-label="{{.Title}}" title="{{.Title}}">
+                    <article class="search-result search-result-review has-rating">
+                        <figure data-original="{{.Params.featured_Image}}" itemscope=""
+                            itemtype="https://schema.org/ImageObject">
+                            <link itemprop="url" href="{{.Params.featured_Image}}">
+                            <link itemprop="image" href="{{.Params.featured_Image}}">
+                            <meta itemprop="height" content="680">
+                            <meta itemprop="width" content="1200">
+                            <meta itemprop="name" content="{{.Title}}">
+                        </figure>
+                        <header>
+                            <h3 class="article-name scroll" itemprop="name caption">
+                                {{.Title}}
+                            </h3>
+                        <meta itemprop="dateCreated" content="{{.Params.updateDate}}">
+                        </header>
+                    </article>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</div>

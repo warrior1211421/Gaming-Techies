@@ -14,8 +14,8 @@
     --textColor: {{site.Params.colors.textColor | default "white"}};
     --linkColor: {{site.Params.colors.linkColor | default "blue"}};
     --ctaColor: {{site.Params.colors.ctaColor | default "grey"}};
-    --fontBody: '{{ site.Params.fonts.bodyFont | default "Open Sans"}}';
-    --fontHeading: '{{ site.Params.fonts.heading | default "Open Sans"}}';
+    --fontBody: '{{ site.Params.fonts.bodyFont | default "Roboto"}}';
+    --fontHeading: '{{ site.Params.fonts.heading | default "Roboto"}}';
 }
 {{ if (fileExists "layouts/partials/basic/head/custom-css.html") -}}
     {{- partial "basic/head/custom-css" . | safeHTML | safeCSS -}}
@@ -25,8 +25,8 @@
 {{- $fontheading := replace site.Params.fonts.heading " " "+"}}
 {{- $href := "//fonts.googleapis.com/css?family=" }}
 <link rel="stylesheet" href="{{- $mainStyle.Permalink| safeCSS -}}">
-<link href='{{$href}}{{$fontbody}}' rel='stylesheet' type='text/css'>
-<link href='{{$href}}{{$fontheading}}' rel='stylesheet' type='text/css'>
+<link href='{{$href}}{{$fontbody | default "Roboto"}}' rel='stylesheet' type='text/css'>
+<link href='{{$href}}{{$fontheading | default "Roboto"}}' rel='stylesheet' type='text/css'>
 {{- if .Params.productImages }}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"> -->

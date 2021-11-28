@@ -6,7 +6,7 @@
         }
     </style>
     <div id="document-footer-content" class="container full">
-    <p class="footer-text">{{.Site.Params.footerText}}</p>
+    <p class="footer-text">{{.Site.Params.footerText | markdownify}}</p>
         <nav>
             <ul>
                 {{ range .Site.Menus.footer }}
