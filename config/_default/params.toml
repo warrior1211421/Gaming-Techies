@@ -48,9 +48,6 @@ sitepinterestAccount = "https://www.pinterest.com/gamingtechies76/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
 [[scroll_section]]
-scrollcat = "Buying Guides"
-
-[[scroll_section]]
 scrollcat = "Monitors"
 
 [[scroll_section]]
@@ -67,6 +64,21 @@ scrollcat = "Keyboards"
 
 [[scroll_section]]
 scrollcat = "Mouse"
+
+[[scroll_section]]
+scrollcat = "Routers and Modems"
+
+[[scroll_section]]
+scrollcat = "Cables"
+
+[[scroll_section]]
+scrollcat = "Chairs"
+
+[[scroll_section]]
+scrollcat = "PC Cases"
+
+[[scroll_section]]
+scrollcat = "PC Builds"
 
 [post_setting]
 featured_img = false
