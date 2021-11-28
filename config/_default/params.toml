@@ -5,15 +5,25 @@ contacteMail = "gamingtechies76@gmail.com"
 headerText = "**Gaming Techies supported by its audience. When you purchase through our links, we may earn an [affiliate commission](https://gamingtechies.com/affiliate-disclosure/) at no additional cost to you.**"
 footerText = "Gaming Techies © 2021. All Rights Reserved."
 
+[fonts]
+bodyFont = "Poppins"
+heading = "Poppins"
+
+[home_section]
+section1 = "Style 1"
+section1Cat = "Buying Guides"
+section2 = "Style 1"
+section2Cat = "Monitors"
+section3 = "Style 1"
+section3Cat = "Motherboards"
+section4 = "Style 1"
+section4Cat = "Headphones"
+
 [colors]
 mainColor = "#040404"
 textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
-
-[fonts]
-bodyFont = "Poppins"
-heading = "Poppins"
 
 [open_graph]
 meta_Description = "Gaming Techies is a professional online website that keeps you updated with all the gaming techs reviews, news and latest information."
@@ -32,15 +42,20 @@ siteinstagramAccount = "https://www.instagram.com/gamingtechies76/"
 sitepinterestAccount = "https://www.pinterest.com/gamingtechies76/"
 siteYouTubeAccount = "https://www.youtube.com/channel/UCV1YUero4LNDkktpq6ScEjw"
 
-[home_section]
-section1 = "Style 1"
-section1Cat = "Buying Guides"
-section2 = "Style 1"
-section2Cat = "Monitors"
-section3 = "Style 1"
-section3Cat = "Motherboards"
-section4 = "Style 1"
-section4Cat = "Headphones"
+[[scroll_section]]
+scrollcat = "Buying Guides"
+
+[[scroll_section]]
+scrollcat = "Monitors"
+
+[[scroll_section]]
+scrollcat = "Motherboards"
+
+[[scroll_section]]
+scrollcat = "Headphones"
+
+[[scroll_section]]
+scrollcat = "Knowledge Base"
 
 [post_setting]
 featured_img = false
