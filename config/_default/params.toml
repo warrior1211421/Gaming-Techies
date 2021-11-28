@@ -62,5 +62,8 @@ scrollcat = "Headphones"
 [[scroll_section]]
 scrollcat = "Graphics Cards"
 
+[[scroll_section]]
+scrollcat = "Keyboards"
+
 [post_setting]
 featured_img = false
