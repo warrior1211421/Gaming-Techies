@@ -13,7 +13,7 @@ date: 2021-11-20T15:34:13.978Z
 updateDate: 2021-11-20T15:34:14.014Z
 featured_Image: /uploads/best-gpu-for-ryzen-7-2700x.webp
 categories:
-  - Buying Guides
+  - Graphics Cards
 product_table: true
 top3_table: true
 paragraphs:
