@@ -27,6 +27,9 @@ textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
 
+[siteRobots]
+catIndex = true
+
 [open_graph]
 meta_Description = "Gaming Techies is a professional online website that keeps you updated with all the gaming techs reviews, news and latest information."
 image = "/uploads/banner_image.png"
