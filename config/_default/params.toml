@@ -5,6 +5,7 @@ tagline = "Best Techs Reviewed"
 contacteMail = "gamingtechies76@gmail.com"
 headerText = "**Gaming Techies supported by its audience. When you purchase through our links, we may earn an [affiliate commission](https://gamingtechies.com/affiliate-disclosure/) at no additional cost to you.**"
 footerText = "Gaming Techies © 2021. All Rights Reserved."
+img_section = []
 
 [fonts]
 bodyFont = "Poppins"
@@ -54,9 +55,6 @@ scrollcat = "Motherboards"
 
 [[scroll_section]]
 scrollcat = "Headphones"
-
-[[img_section]]
-imgcat = "Knowledge Base"
 
 [post_setting]
 featured_img = true
