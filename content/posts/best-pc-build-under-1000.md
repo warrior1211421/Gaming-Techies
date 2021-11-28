@@ -13,7 +13,7 @@ date: 2021-11-20T12:37:05.602Z
 updateDate: 2021-11-20T12:37:05.622Z
 featured_Image: /uploads/best-gaming-pc-under-1000.webp
 categories:
-  - Buying Guides
+  - PC Builds
 product_table: true
 top3_table: false
 paragraphs:
