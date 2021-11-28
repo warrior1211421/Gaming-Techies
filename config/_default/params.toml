@@ -65,5 +65,8 @@ scrollcat = "Graphics Cards"
 [[scroll_section]]
 scrollcat = "Keyboards"
 
+[[scroll_section]]
+scrollcat = "Mouse"
+
 [post_setting]
 featured_img = false
