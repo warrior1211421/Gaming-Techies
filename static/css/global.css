@@ -217,7 +217,7 @@ img.logo {
     display: none;
     position: absolute;
     padding-bottom: 1rem;
-    background: var(--mainColor);
+    background: #feb033;
 }
 
 .has-submenu {
