@@ -1432,7 +1432,7 @@ ul.table-of-contents li a{
     font-size: 14px;
     overflow: hidden;
     align-items: center;
-    background: #eee;
+    border: 2px solid #eee;
 }
 
 .trending-wrapper .trending-lead {
