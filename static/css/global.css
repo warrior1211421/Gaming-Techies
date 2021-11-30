@@ -620,7 +620,8 @@ article figure {
 
 .related-posts-h {
     height: 52px;
-    color: #fff;
+    color: #000;
+	border: 2px solid #000;
     font-size: 16px;
     font-weight: 600;
     padding-top: 16px;
@@ -628,7 +629,7 @@ article figure {
     margin-bottom: 1rem;
     font-family: inherit;
     box-sizing: border-box;
-    background-color: #000;
+    background-color: #eee;
     text-transform: uppercase
 }
 
@@ -1683,7 +1684,7 @@ ul.table-of-contents li a{
 }
 
 .pagination-link {
-    color: #fff;
+    color: #000;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1692,8 +1693,9 @@ ul.table-of-contents li a{
     align-items: center;
     justify-content: center;
     padding: 10px 50px;
+	border: 2px solid #000;
     border-radius: 8px;
-    background-color: #000;
+    background-color: #eee;
     margin:10px 0;
 }
 
