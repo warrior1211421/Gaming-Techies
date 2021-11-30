@@ -180,7 +180,7 @@ img.logo {
 }
 
 .primary-nav .wrapper {
-    background: #EEEEEE;
+    background: #eee;
 }
 
 .primary-nav .menuitems {
@@ -217,7 +217,7 @@ img.logo {
     display: none;
     position: absolute;
     padding-bottom: 1rem;
-    background: #EEEEEE;
+    background: #eee;
 }
 
 .has-submenu {
