@@ -673,12 +673,6 @@ article figure {
     top: 1rem
 }
 
-.table-of-contents a {
-    color: #333;
-    font-size: 15px;
-    line-height: 20px;
-}
-
 .related-articles-block {
     margin-top: 10px;
     margin-bottom: 20px
@@ -1697,6 +1691,12 @@ ul.table-of-contents li a{
     border-radius: 8px;
     background-color: #eee;
     margin:10px 0;
+}
+
+.table-of-contents a {
+    color: #000;
+    font-size: 15px;
+    line-height: 20px;
 }
 
 .subtitle {
