@@ -129,7 +129,7 @@ You can install any mini-ITX or smaller sized motherboard in an SFF case due to 
 
 ### Thermaltake Core P1
 
-![Thermaltake Core P1](/uploads/thermaltake-core-p1.webp "Thermaltake Core P1")
+![Thermaltake Core P1](/uploads/thermaltake-core1.webp "Thermaltake Core P1")
 
 The P1 is the best case for Mini-ATX or smaller motherboards. It is perfect if you plan to build a compact or mini gaming PC because it has the perfect balance between compact size and airflow. If you require further airflow, you can install two external cooling fans to the front of the case. You even have the option to include cooling radiators, but the equipment needs to be placed outside the case.
 
