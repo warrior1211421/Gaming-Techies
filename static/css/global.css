@@ -1133,7 +1133,7 @@ footer p {
 }
 
 .sidebar-container .f6.truncate-2.mb2.mt0 {
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .news-article strong {
@@ -1603,8 +1603,8 @@ ul.table-of-contents li a{
 }
 
 .sidebar-container h3 {
-    margin-bottom: 15px;
-    padding-bottom: 5px;
+    margin-bottom: 12px;
+	color: #000;
 }
 
 .subtitle p {
