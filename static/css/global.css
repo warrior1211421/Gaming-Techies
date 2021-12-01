@@ -411,8 +411,7 @@ img.logo {
     text-align: center;
     margin-bottom: 20px;
     text-transform: uppercase;
-    border-top: 2px solid var(--mainColor);
-    border-bottom: 2px solid var(--mainColor)
+	background: #eee;
 }
 
 .listingResultsWrapper .list-heading-link {
@@ -1688,7 +1687,6 @@ ul.table-of-contents li a{
     align-items: center;
     justify-content: center;
     padding: 10px 50px;
-	border: 2px solid #000;
     border-radius: 8px;
     background-color: #eee;
     margin:10px 0;
