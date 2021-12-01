@@ -621,7 +621,6 @@ article figure {
 .related-posts-h {
     height: 52px;
     color: #000;
-	border: 2px solid #000;
     font-size: 16px;
     font-weight: 600;
     padding-top: 16px;
@@ -1600,7 +1599,7 @@ ul.table-of-contents li a{
     margin-bottom: 12px;
 	color: #000;
 	padding-bottom: 5px;
-	border-bottom: 2px solid #000;
+	border-bottom: 2px solid #eee;
 }
 
 .subtitle p {
@@ -1670,7 +1669,6 @@ ul.table-of-contents li a{
     padding: 5px;
     font-size: 18px;
     font-weight: 700;
-	border-bottom: 2px solid #000;
     margin-bottom: 8px !important;
 }
 
