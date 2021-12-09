@@ -65,13 +65,7 @@ the_products:
     amzlink: https://www.amazon.com/dp/B0016MNAAI?&linkCode=ll1&tag=gamingtechi09-20&linkId=e9ccd8a3832fd903533241c62b3848cb&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Beyerdynamic DT 770 PRO
     name: 1. Beyerdynamic DT 770 PRO
-    morebtns:
-      - btnName: View on Best Buy
-        btnLink: View on Best Buy
-      - btnName: View on Best Buy
-        btnLink: View on Best Buy
-      - btnName: View on Best Buy
-        btnLink: View on Best Buy
+    morebtns: []
     cons:
       - con: It doesn’t have a replaceable cord like other modern headphones
     image: /uploads/beyerdynamic-dt-770-pro.webp
