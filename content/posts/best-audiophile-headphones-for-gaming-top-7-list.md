@@ -43,15 +43,13 @@ the_products:
   - summary_award: Best Audiophile Headphone with Mic
     paragraphs:
       - paragraph: >-
-          <a href=“https://google.com” rel=“nofollow sponsored noopener
-          noreferrer”>Beyerdynamic </a> is one of the most famous brands of
-          professional headphones and other sound accessories. Every product by
-          BD comes with the promise of high quality, compatibility, and
-          affordability. Similarly, the DT 770 Pro is not different from its
-          fellow headphones from the same brand. It offers the highest level of
-          stereo sound quality that you get in most premium gaming headphones.
-          So, you will get an out-of-this-world experience whenever you put them
-          on.
+          Beyerdynamic is one of the most famous brands of professional
+          headphones and other sound accessories. Every product by BD comes with
+          the promise of high quality, compatibility, and affordability.
+          Similarly, the DT 770 Pro is not different from its fellow headphones
+          from the same brand. It offers the highest level of stereo sound
+          quality that you get in most premium gaming headphones. So, you will
+          get an out-of-this-world experience whenever you put them on.
 
 
           The DT 770 Pro is a wired headset that can be used for multiple purposes. For instance, you can connect it to your gaming setup for the perfect gaming experience, or even the home theatre to watch movies and seasons with realistic sounds. Similarly, it is a studio headphone, so you can feel free to practice your professional skills with it.
