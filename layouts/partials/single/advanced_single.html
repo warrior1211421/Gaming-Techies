@@ -9,6 +9,9 @@
 {{ end }}
 {{ partial "single/advanced-single/buying-guide" . }}
 {{ partial "single/advanced-single/products" . }}
+<div id="after-products">
+    <p>{{.Params.afterProducts | markdownify }}</p>
+</div>
 {{ if eq .Params.product_table true }}    
 {{ partial "single/advanced-single/summary" . }}
 {{ end }}

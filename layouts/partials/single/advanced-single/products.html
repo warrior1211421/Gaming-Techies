@@ -76,6 +76,10 @@
             <a href="{{.amzlink}}"
                 aria-label="{{.name}}" class="amazon-review-button" target="_blank"
                 rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
+			{{ range .morebtns }}
+                <a href="{{.btnLink}}" aria-label="{{.name}}"
+                class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">{{.btnName | title}}</a>
+            {{ end }}
         </p>
     </div>
 	{{ if (fileExists "layouts/partials/ads/below-product.html") -}}

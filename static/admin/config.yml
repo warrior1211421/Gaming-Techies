@@ -51,6 +51,12 @@ collections:
 
             {label: Design, required: false, name: image, widget: image},
             {label: "Affiliate Link", required: false, name: amzlink, widget: string },
+            {label: More Buttons, name: morebtns, required: false, widget: "list", fields: 
+              [ 
+                {label: Name, name: btnName, widget: string, required: false },
+                {label: Link, name: btnLink, widget: string, required: false }
+              ] 
+            },
             # Specifications
             {label: Specifications, name: specifications, required: false, widget: "list", fields: 
               [ {label: Specification, name: specification, widget: markdown } ] 
@@ -68,6 +74,7 @@ collections:
             }
       ] }
       # Below Producs
+      - {label: "After Products", name: afterProducts, widget: markdown, required: false }
       - {label: "Conclusion", name: "conclusion", required: false, widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
       #Frequently Asked Questions
       - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 
