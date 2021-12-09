@@ -68,6 +68,10 @@ the_products:
     morebtns:
       - btnName: View on Best Buy
         btnLink: View on Best Buy
+      - btnName: View on Best Buy
+        btnLink: View on Best Buy
+      - btnName: View on Best Buy
+        btnLink: View on Best Buy
     cons:
       - con: It doesn’t have a replaceable cord like other modern headphones
     image: /uploads/beyerdynamic-dt-770-pro.webp
