@@ -53,19 +53,28 @@ buyingGuide: >-
   ### Mechanical Keys
 
 
-  Mechanical keys are the biggest reason why people prefer gaming mechanical keyboards over others. It increases the durability of the keyboard, suppresses the noise, and provides a satisfying click sound whenever you press a button. The mechanism behind a mechanical key is known as a switch. This switch is responsible for decreasing the response time and silencing the key noise. Moreover, you don’t have to press a mechanical key as hard as other keyboards to get the job done.
+  Mechanical keys are the biggest reason why people prefer gaming mechanical keyboards over others. It increases the durability of the keyboard, suppresses the noise, and provides a satisfying click sound whenever you press a button. 
+
+
+  The mechanism behind a mechanical key is known as a switch. This switch is responsible for decreasing the response time and silencing the key noise. Moreover, you don’t have to press a mechanical key as hard as other keyboards to get the job done.
 
 
   ### Spill Resistance
 
 
-  Everyone enjoys eating or drinking during work and gaming sessions. However, there is a great chance that your hand slips and you spill some on the keyboard. 70% of the time, the fluid penetrates the keyboard structure and causes short circuits. Therefore, you need a spill-resistant keyboard to protect your gadgets from water and dust damage. The spill-resistant technology prevents any water leakage into the keyboard, and the dust resistance keeps your keyboard neat all the time.
+  Everyone enjoys eating or drinking during work and gaming sessions. However, there is a great chance that your hand slips and you spill some on the keyboard. 70% of the time, the fluid penetrates the keyboard structure and causes short circuits. 
+
+
+  Therefore, you need a spill-resistant keyboard to protect your gadgets from water and dust damage. The spill-resistant technology prevents any water leakage into the keyboard, and the dust resistance keeps your keyboard neat all the time.
 
 
   ### Programmable Keys
 
 
-  Macro are programmable keys usually present in all mechanical keyboards. The main function of these special buttons is that they have no function. In other words, you can assign complex key combinations to a single macro key. It places all the buttons within your reach whether you are playing Valorant or working. Different brands use different names and technologies for the programmable keys. For example, HyperX provides programmable capabilities for the whole keyboard.
+  Macro are programmable keys usually present in all mechanical keyboards. The main function of these special buttons is that they have no function. In other words, you can assign complex key combinations to a single macro key. It places all the buttons within your reach whether you are playing Valorant or working.
+
+
+  Different brands use different names and technologies for the programmable keys. For example, HyperX provides programmable capabilities for the whole keyboard.
 product_Summary: Best Keyboards for Valorant - Summary
 product_Mheading: Best Keyboards for Valorant Reviews
 the_products:
