@@ -295,7 +295,7 @@ the_products:
       - con: It doesn’t provide quality bass for rock and fast music.
     image: /uploads/shure-srh1540.webp
     award: Best Audiophile Multimedia Headphones
-  - summary_award: Best monitoring Headphones for Gaming
+  - summary_award: Best Monitoring Headphones for Gaming
     paragraphs:
       - paragraph: >-
           Modern gaming has evolved a lot in the last decade. It isn’t about
