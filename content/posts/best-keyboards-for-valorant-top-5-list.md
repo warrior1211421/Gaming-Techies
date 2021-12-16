@@ -22,8 +22,7 @@ paragraphs:
       game controls are based on the keyboard. So, you need a suitable keyboard
       to match your gaming style. Otherwise, you can’t achieve your true gaming
       potential even if you do everything right. Therefore, in this article, I
-      will provide a complete list of the top 5 **best keyboards for
-      Valorant** for 2021.
+      will provide a complete list of the top 5 **best keyboards for Valorant.**
 after_intro: >-
   Some people consider the keyboard as an afterthought component of their gaming
   setup. In reality, 20% of your gaming experience depends on the mouse and
@@ -54,7 +53,7 @@ buyingGuide: >-
   ### Mechanical Keys
 
 
-  Mechanical keys are the biggest reason why people prefer gaming keyboards over others. It increases the durability of the keyboard, suppresses the noise, and provides a satisfying click sound whenever you press a button. The mechanism behind a mechanical key is known as a switch. This switch is responsible for decreasing the response time and silencing the key noise. Moreover, you don’t have to press a mechanical key is hard as other keyboards to get the job done.
+  Mechanical keys are the biggest reason why people prefer gaming mechanical keyboards over others. It increases the durability of the keyboard, suppresses the noise, and provides a satisfying click sound whenever you press a button. The mechanism behind a mechanical key is known as a switch. This switch is responsible for decreasing the response time and silencing the key noise. Moreover, you don’t have to press a mechanical key as hard as other keyboards to get the job done.
 
 
   ### Spill Resistance
@@ -70,49 +69,41 @@ buyingGuide: >-
 product_Summary: Best Keyboards for Valorant - Summary
 product_Mheading: Best Keyboards for Valorant Reviews
 the_products:
-  - name: 1. Razer BlackWidow TE Chroma v2
-    nameForTOC: Razer BlackWidow TE Chroma v2
-    image: /uploads/razer-blackwidow-te-chroma-v2.webp
-    amzlink: https://amzn.to/3EKZ4HM
+  - summary_award: Overall Best Keyboard for Valorant
     paragraphs:
       - paragraph: >-
           Razer has earned its share of the gaming market through high-quality
           accessories. Even if you are just getting started in the gaming world,
           you will find yourself longing for one of Razer’s gaming products in
-          your setup. Razer BlackWidow TE Chroma v2 is the perfect keyboard for
-          all gaming formats. However, it is not preferably the best keyboard
-          for work/game sessions. Still, several streamers have been spotted
-          using this product for its convenient design and affordable price.
+          your setup. Razer BlackWidow TE Chroma v2 is the perfect mechanical
+          gaming keyboard for all gaming formats. However, it is not preferably
+          the best keyboard for work/game sessions. Still, several streamers
+          have been spotted using this product for its convenient design and
+          affordable price.
 
 
-          The V1 of the keyboard was criticized as the best keyboard without ten-key and dedicated macro keys. However, Razer improvised with their second version of the product. This keyboard includes both the lacking features along with several other improvements. For instance, it is a linear and silent keyboard that doesn’t disturb others when you are gaming during the night. So, you won’t be getting any complaints from the neighbors to keep it down.
+          The V1 of the keyboard was criticized as the best keyboard without ten-key linear switches and dedicated macro keys. However, Razer improvised with their second version of the product. This keyboard includes both the lacking features along with several other improvements. For instance, it is a linear and silent keyboard that doesn’t disturb others when you are gaming during the night. So, you won’t be getting any complaints from the neighbors to keep it down.
 
 
-          The dedicated macro keys are programmable. It means that you can assign a single key or a key combination to perform complex tasks. For instance, when playing on Jett, the smoke and hyperjump is the most dangerous tactic in the whole game. However, it requires you to press two keys that may take some time. Fortunately, you can assign a single macro key to get the job done with a single keypress.
+          The dedicated macro keys are programmable. It means that you can assign a single key or a key combination to perform complex tasks. For instance, when playing on Jett, the smoke and hyper-jump is the most dangerous tactic in the whole game. However, it requires you to press two keys that may take some time. Fortunately, you can assign a single macro key to get the job done with a single keypress.
 
 
-          The only problem that I find with this keyboard is the placement of the RGBs. The key symbols are painted green rather than the whole button. So, I faced some difficulties finding the right key when playing in a dark room. However, the situation improved as I got to the key placement over time. Other than that, the 16.8 million backlight options make this one of the most elegant keyboards that I have ever had.
+          The only problem that I find with this keyboard is the placement of the RGBs. The key symbols are painted green rather than the whole button. So, I faced some difficulties finding the right key when playing in a dark room. However, the situation improved as I got to the key placement over time. Other than that, the 16.8 million light options make this one of the most elegant keyboards that I have ever had.
     pros:
       - pro: "Mechanical Keyboard "
       - pro: USB 3.0 Connection
       - pro: "Magnetic Palm Rest "
       - pro: "Razer Synapse Compatible "
       - pro: "Silent Key Press "
+    amzlink: https://amzn.to/3EKZ4HM
+    nameForTOC: Razer BlackWidow TE Chroma v2
+    name: 1. Razer BlackWidow TE Chroma v2
     cons:
       - con: The Painted Symbols Make it Difficult to Find the Right Key When Gaming in
           a Dark Environment
-  - name: 2. Corsair K70 RGB MK.2
-    nameForTOC: Corsair K70 RGB MK.2
-    image: /uploads/corsair-k70-rgb-mk.2.webp
-    amzlink: https://amzn.to/3k5LWEW
-    specifications: []
-    pros:
-      - pro: "8MB Memory "
-      - pro: Full-sized Keyboard
-      - pro: "RGB Backlit "
-      - pro: "Aluminum Material "
-      - pro: Cherry MX Switches
-      - pro: "Calculated Key Spacing "
+    image: /uploads/razer-blackwidow-te-chroma-v2.webp
+    award: Overall Best Keyboard for Valorant
+  - summary_award: Best Keyboard for Pro Gamers
     paragraphs:
       - paragraph: >-
           Corsair has been in the competition for several years. Initially, they
@@ -125,40 +116,57 @@ the_products:
           product that won’t be a hurdle in your perfect gaming experience.
 
 
+          What good is a keyboard if you can't even find the arrow keys in the dark? Razer Blackwidow te chroma V2  is  a good keyboard but with one flaw; the key switches are not as visible. Fortunately, Corsair K70 RGB MK.2 fixed this problem by providing sharp texts on your keyboard. Moreover, the bright RGB colors almost make this keyboard feel like it's a glow-in-the-dark board.
+
+
           It is not every day that you buy a new keyboard for the system, i.e., keyboards are supposed to be permanent equipment that you can use with several gaming stations. However, the low-quality materials of other keyboards make it seem like a disposable piece of equipment. Fortunately, the Corsair K70 isn’t one of those products. The aluminum build makes it one of the most durable keyboards in the market.
 
 
-          Secondly, size matters when you plan to spend hours over the keyboard. The bigger the keyboard, the less likely it is for you to press the wrong key even without looking. So, the Corsair K70 is a full-sized keyboard with optimum key placement to ensure that you press the right button every time.
+          Secondly, size matters when you plan to spend hours over the keyboard. The bigger the keyboard, the less likely it is for you to press the wrong key even without looking. So, the Corsair K70 RGB MK is a full-sized keyboard with optimum key placement to ensure that you press the right button every time.
 
 
-          Furthermore, the Cherry MX switches provide the same feature as the programmable macro keys of Razer. You can assign your desired key combination to a single key to enhance your gameplay.
+          Furthermore, the Cherry MX red switches provide the same feature as the programmable macro keys of Razer. You can assign your desired multiple keys combination to a single key to enhance your gameplay.
 
 
           Moreover, the grey-colored MX switches are like a blank slate. So, you don’t have to remember every key as you can mark it with a permanent marker.
+    pros:
+      - pro: "8MB Memory "
+      - pro: Full-sized Keyboard
+      - pro: "RGB Backlit "
+      - pro: "Aluminum Material "
+      - pro: Cherry MX Switches
+      - pro: "Calculated Key Spacing "
+    amzlink: https://amzn.to/3k5LWEW
+    nameForTOC: Corsair K70 RGB MK.2
+    name: 2. Corsair K70 RGB MK.2
+    specifications: []
     cons:
       - con: Relatively Expensive than Other Products
-  - name: 3. HyperX Alloy FPS Pro
-    nameForTOC: HyperX Alloy FPS Pro
-    image: /uploads/hyperx-alloy-fps-pro.webp
-    amzlink: https://amzn.to/2ZIHl4l
+    image: /uploads/corsair-k70-rgb-mk.2.webp
+    award: Best Keyboard for Pro Gamers
+  - summary_award: Best Keyboard with Programmable Keys
     paragraphs:
       - paragraph: >-
           HyperX is the second name of unmatched performance at an affordable
           price. So, when you can’t find the right word, just say HyperX, and
           the others will get what you mean. HyperX Alloy FPS Pro is one of the
           few recommended keyboards for work + gaming experience. The elegant
-          design and the satisfying mechanical keypress make you keep wanting to
-          press more keys all the time. So, if you spend several hours on the
-          keyboard, I highly recommend that you check out this keyboard.
+          design and the satisfying mechanical tactile switches make you keep
+          wanting to press more keys all the time. So, if you spend several
+          hours on the keyboard, I highly recommend that you check out this
+          keyboard.
+
+
+          HyperX Allow FPS PRO is a good keyboard if you are one of those creative gamers. The problem with other keyboards is that they don't provide as much room for creativity as you desire. For instance, the number of programmable keys is very limited on the Crossair keyboards. However, HyperX took things a step further by allowing you to customize every button you can find. This feature, along with the innovative keyboard design, makes it the best among all quality keyboards.
 
 
           I have a bad news and a good news, just like the Irish joke. The bad news is that you don’t get separate programmable macro keys with this keyboard. The good news is that all the keys are programmable from the HyperX keyboard assistant. So, you don’t have to drag your hand across the keyboard just to press the enter key. My suggestion is that you reassign the “~” to function as the Enter button for your convenience; you don’t use it anyways.
 
 
-          Secondly, the compact form factor places every key within your reach. Sometimes, you don’t even have to pick your hand just to press a button on the other end of the board. Similarly, the sturdy build quality makes this keyboard suitable for several years of functionality. The gaming PCs may come and go, but your HyperX keyboard is permanent and the companion for every system.
+          Secondly, the compact design places every key within your reach. Sometimes, you don’t even have to pick your hand just to press a button on the other end of the board. Similarly, the sturdy build quality makes this keyboard suitable for several years of functionality. The gaming PCs may come and go, but your HyperX keyboard is permanent and the companion for every system.
 
 
-          Lastly, you get two USB ports with this keyboard. One input port is to attach the connection USB cable for the keyboard. This ensures that you don’t need to replace the keyboard in case the USB cable is damaged. So, it further increases the lifespan of the HyperX keyboard. Moreover, the second USB port is for charging output. You can charge other devices at 2A-5V while you conquer all the maps of Valorant.
+          Lastly, you get two USB ports with this keyboard. One input port is to attach the connection USB cable for the keyboard. This ensures that you don’t need to replace the keyboard in case the USB cable is damaged. So, it further increases the lifespan of the HyperX keyboard. Moreover, the second port is there to function as a USB passthrough port. You can even charge other devices at 2A-5V while you conquer all the maps of Valorant.
     pros:
       - pro: "Ten-Keyless Design for Gaming "
       - pro: RGB Backlit
@@ -166,13 +174,15 @@ the_products:
       - pro: "Programmable Keyboard "
       - pro: "Silver Speed Switches "
       - pro: "USB Passthrough Output Port "
+    amzlink: https://amzn.to/2ZIHl4l
+    nameForTOC: HyperX Alloy FPS Pro
+    name: 3. HyperX Alloy FPS Pro
     cons:
       - con: "It doesn’t Come with Dedicated Macro Keys "
       - con: You Don’t Get a Wrist Rest with the Keyboard
-  - name: 4. ROCCAT Vulcan 100 AIMO
-    nameForTOC: ROCCAT Vulcan 100 AIMO
-    image: /uploads/roccat-vulcan-100-aimo.webp
-    amzlink: https://amzn.to/3mJqJCJ
+    image: /uploads/hyperx-alloy-fps-pro.webp
+    award: Best Keyboard with Programmable Keys
+  - summary_award: Best Mechanical Keyboard for Every Gaming Mode
     paragraphs:
       - paragraph: >-
           According to research, the keyboard is the sole victim of gaming
@@ -182,6 +192,9 @@ the_products:
           it highly durable and resistant to impact damage at an affordable
           price. So, if you are looking for a durable gaming keyboard at an
           affordable price, I suggest you check this one out.
+
+
+          The mechanical switches make playing games even more fun. However, even the top brands like HyperX failed to provide the level of satisfaction that users desired. On the contrary, ROCCAT Vulcan 100 took things a step further with the improved mechanics of their keyboard. Some users even said that the keyboard is like a magnet that forces them to play games for a longer duration because it is so satisfying.
 
 
           Honestly, I think that ROCCAT Vulcan 100 has the most satisfying keypress feel in all the products. The switch bounce technology brings back the button within a fraction of a second, ready to be pressed again. Moreover, the low tactility value ensures that you don’t have to bang hard on the keys for proper functionality. However, it doesn’t take away the satisfaction of a mechanical keyboard. So, you can jump on the Enter button after every line without any problems.
@@ -198,12 +211,14 @@ the_products:
       - pro: "AIMO Backlit "
       - pro: "Silent Keypress "
       - pro: "Switch Bounce Technology "
+    amzlink: https://amzn.to/3mJqJCJ
+    nameForTOC: ROCCAT Vulcan 100 AIMO
+    name: 4. ROCCAT Vulcan 100 AIMO
     cons:
       - con: It Doesn’t Come with a Detachable Palm Rest
-  - name: Logitech G213 Prodigy Gaming Keyboard
-    nameForTOC: Logitech G213 Prodigy
-    image: /uploads/logitech-g213-prodigy-gaming-keyboard.webp
-    amzlink: https://amzn.to/3bIsY2w
+    image: /uploads/roccat-vulcan-100-aimo.webp
+    award: Best Mechanical Keyboard for Every Gaming Mode
+  - summary_award: Best Budget Keyboard for FPS Games
     paragraphs:
       - paragraph: >-
           Logitech is all about speed and accuracy in its products. For
@@ -215,14 +230,16 @@ the_products:
           suggest that you get one of these bad boys for your system.
 
 
-          The main problem with full-sized keyboards is that you don’t have direct access to all the keys. For example, if you are playing a game that involves Enter button, you have to remove your hand to press it. However, the G213 is different from other keyboards in the market. With this keyboard, you get the accessibility of compact keyboards during the space of the large keyboard in one product. The extended design provides more room for palm rest so that your wrists don’t get fatigued after long gaming sessions.
+          Logitech G213 is the most premium keyboard that you can find at an affordable price. Its compact design, along with the innovative key spacing, makes it suitable for playing games. Moreover, you can even pair it with a wireless mouse to further boost your gaming performance. In my opinion, G213 is even better than HyperX and ROCCAT keyboards combined. One of the reasons is the premium wrist rest that you get with the product.
+
+
+          The main problem with full-sized keyboards is that you don’t have direct access to all the keys. For example, if you are playing a game that involves Enter button, you have to remove your hand to press it. However, the G213 is different from other keyboards in the market. With this keyboard, you get the accessibility of compact keyboards during the space of the large keyboard in one product. The extended design provides room for the premium magnetic wrist rest so that your wrists don’t get fatigued after long gaming sessions.
 
 
           Secondly, the Romer-G mechanical switches make key pressing a whole new adventure. The feel is so satisfactory that you always want to press more and more. Similarly, the mechanical keys are silent yet responsive. So, the product is suitable for both work and gaming at the same time. The faster response time ensures that you are the first to react in any situation, and believe me, Valorant requires such response time all the time.
 
 
           The keyboard is highly durable as the framework is reinforced with steel, and the keys are protected with design improvements. So, you can take out your frustration on the keys after any failure, and the keyboard won’t mind. Furthermore, the active LightSync RGB system can be customized from the Logitech support software. So, you can change the color to create a whole new vibe for the system.
-    specifications: []
     pros:
       - pro: "16.8 million RGB Colors  "
       - pro: "Palm Rest Design "
@@ -230,8 +247,14 @@ the_products:
       - pro: Multimedia Controls
       - pro: Detachable USB Cable
       - pro: "Fast Response Time "
+    amzlink: https://amzn.to/3bIsY2w
+    nameForTOC: Logitech G213 Prodigy
+    name: 5. Logitech G213 Prodigy Gaming Keyboard
+    specifications: []
     cons:
       - con: The Keyboard is Slightly on the Compact Form Factor Side
+    image: /uploads/logitech-g213-prodigy-gaming-keyboard.webp
+    award: Best Budget Keyboard for FPS Games
 conclusion:
   - paragraph: The keyboard plays a crucial role in all multiplayer shooters,
       especially Valorant. You have to timely press the button to activate a
