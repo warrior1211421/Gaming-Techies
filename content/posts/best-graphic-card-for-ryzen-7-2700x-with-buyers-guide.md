@@ -48,9 +48,6 @@ buyingGuide: >-
   The most important thing that you have to consider in a GPU is whether it is compatible with your motherboard. This is because; motherboard-GPU compatibility is a must for the effective performance of your computer.
 
 
-   I will remain just a dream of yours.
-
-
   So, if you want to avoid any such thing happening to you, we suggest you first figure out what motherboard you have installed in your CPU and then go ahead to buy a GPU to make sure that it doesn’t block any useful **[PCIe slot.](https://en.wikipedia.org/wiki/PCI_Express)**
 
 
