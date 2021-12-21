@@ -84,7 +84,7 @@ article, aside, figcaption, figure, footer, header, nav, section {
     display: block
 }
 
-#main.container.full, .menuitems.container.full, footer>.container.full {
+#main.container.full, footer>.container.full {
     padding-left: 15px;
     padding-right: 15px
 }
@@ -190,7 +190,7 @@ img.logo {
 }
 
 .menu-item, .sub-menu-item {
-    padding: 0 1rem
+    padding: 1rem;
 }
 
 .menu-item a, .menu-item span {
@@ -233,10 +233,6 @@ img.logo {
     right: 0;
     margin-top: 5px;
     font-size:10px
-}
-
-.sub-menu-item>a {
-    padding-top: 1.5rem
 }
 
 #affiliateDisclaimer a {
@@ -862,7 +858,7 @@ footer p {
 }
 
 .nav-list.component-loaded {
-    width: 200px;
+    width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -880,8 +876,7 @@ footer p {
     top: 67px;
     left: 75px;
     width: 200px;
-    border-top: 1px solid #fff;
-    border-left: 1px solid #fff
+    box-shadow: 0px 5px 40px -10px #cecece;
 }
 
 .responsive .icon-arrow-down i {

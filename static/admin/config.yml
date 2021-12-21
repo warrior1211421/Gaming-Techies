@@ -34,17 +34,17 @@ collections:
       - {label: "Product Table", name: "product_table", widget: "boolean", default: false, required: false}
       - {label: "Top 3 Table", name: "top3_table", widget: "boolean", default: false, required: false}
       #Intro-Paragraphs -->
-      - {label: "Paragraphs", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
+      - {label: "Introduction Paragraph", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
       - {label: "After Top 3 Table", name: after_intro, widget: markdown }
       #Buying Guide
-      - {label: Buying Guice Heading, name: buyingGuideHead, required: false, widget: string }
-      - {label: Buying Guice, name: buyingGuide, required: false, widget: markdown }
+      - {label: Buying Guide Heading, name: buyingGuideHead, required: false, widget: string }
+      - {label: Buying Guide, name: buyingGuide, required: false, widget: markdown }
       #Summary & Main-Heading -->
-      - {label: At A Glance, name: product_Summary, required: false, widget: string }
-      - {label: Main Haeding, name: product_Mheading, required: false, widget: string }
+      - {label: Table/Summary Heading, name: product_Summary, required: false, widget: string }
+      - {label: Before Product Reviews Haeding, name: product_Mheading, required: false, widget: string }
       #Product Recommendations
-      - {label: "Recommendation", name: "the_products",widget: "list", required: false, fields: [
-            {label: "Name/Modal", required: false, name: name, widget: string },
+      - {label: "Recommendation/Products", name: "the_products",widget: "list", required: false, fields: [
+            {label: "Name/Model", required: false, name: name, widget: string },
             {label: "NameForTOC", required: false, name: nameForTOC, widget: string },
             {label: Award, required: false, name: award, widget: string },
             {label: Summary Award, required: false, name: summary_award, widget: string },
@@ -69,8 +69,8 @@ collections:
               [ {label: Con, name: con, widget: string } ]
             },
             #Product Paragraphs
-            {label: Paragraphs, name: paragraphs, required: false, widget: "list", fields: 
-              [ {label: Paragraph, name: paragraph, widget: markdown } ]
+            {label: Review Paragraph, name: paragraphs, required: false, widget: "list", fields: 
+              [ {label: Review, name: paragraph, widget: markdown } ]
             }
       ] }
       # Below Producs
@@ -239,6 +239,30 @@ collections:
           - { label: Google Analytics Code, name: googleAnalytics, widget: string, required: false }
           - { label: Disqus Shortname, name: DisqusShortname, widget: string, required: false }
 
+      - name: menus
+        label: Menus
+        file: "/config/_default/menus.toml"
+        fields:
+          - label: "Header Menu"
+            name: "main"
+            widget: "list"
+            fields:
+              [
+                { label: "Menu Name", name: name, hint: "The main name of the menu which appear in the header area.", widget: string },
+                { label: "Link URL", name: url, widget: string },
+                { label: "Parent/Sub-Menu Name", name: parent, hint: "This is the sub-menu header name which will apear as a main for your sub-menu", widget: string, required: false },
+                { label: "Weight", name: weight, widget: number, default: 1, min: 1, value_type: "int", required: false }
+              ]
+          - label: "Footer Menu"
+            name: "footer"
+            widget: "list"
+            fields:
+              [
+                { label: "Menu Name", name: name, hint: "The main name of the menu which appear in the header area.", widget: string },
+                { label: "Link URL", name: url, widget: string },
+                { label: "Weight", name: weight, widget: number, default: 1, min: 1, step: 1, value_type: "int", required: false }
+              ]
+
       - label: "Other Settings"
         name: "other_settings"   
         file: "/config/_default/params.toml"
@@ -300,13 +324,14 @@ collections:
           - label: "Social Media Accounts"
             name: "social_accounts"
             widget: "object"
+            hint: "Add full Social Media URLs"
             collapsed: true
             fields:
-              - { label: Facebook, name: sitefbAccount, widget: string, required: false}
-              - { label: Twitter, name: sitetwitterAccount, widget: string, required: false}
-              - { label: Instagram, name: siteinstagramAccount, widget: string, required: false}
-              - { label: Pinterest, name: sitepinterestAccount, widget: string, required: false}
-              - { label: YouTube, name: siteYouTubeAccount, widget: string, required: false}
+              - { label: Facebook, name: sitefbAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: Twitter, name: sitetwitterAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: Instagram, name: siteinstagramAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: Pinterest, name: sitepinterestAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: YouTube, name: siteYouTubeAccount, hint: "Add full Social Media URL", widget: string, required: false}
           - label: "Scroll Sections"
             name: "scroll_section"
             widget: "list"

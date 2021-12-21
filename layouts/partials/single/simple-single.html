@@ -2,7 +2,7 @@
 <div id="article-body" class="text-copy contentBody">
     
     <article class="article">
-        {{ .Content | htmlUnescape | safeHTML }}
+        {{ .Content | markdownify | htmlUnescape | safeHTML }}
         {{ partial "single/advanced-single/faqs" . }}
     </article>
 
