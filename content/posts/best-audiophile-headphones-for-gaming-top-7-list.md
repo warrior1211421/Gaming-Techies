@@ -24,10 +24,7 @@ paragraphs:
       will discuss the top 7 **best audiophile headphones for gaming** to help
       you make an intelligent purchase.
 after_intro: >-
-  <a
-  href="https://www.amazon.com/dp/B0016MNAAI?&amp;linkCode=ll1&amp;tag=gamingtechi09-20&amp;linkId=e9ccd8a3832fd903533241c62b3848cb&amp;language=en_US&amp;ref_=as_li_ss_tl"
-  target="_blank" rel="nofollow sponsored noopener noreferrer">The</a>
-  audiophile headset is a type of professional headphone that extracts the
+  The audiophile headset is a type of professional headphone that extracts the
   natural sound as intended by the source. In comparison, the gaming and music
   headphones are optimized to filter specific audio profiles for an improved
   experience. However, the audiophile headphones provide a neutral audio profile
