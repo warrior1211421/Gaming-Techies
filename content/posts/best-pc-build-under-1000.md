@@ -39,7 +39,7 @@ the_products:
   - name: 1. AMD Ryzen 5 5600x
     nameForTOC: AMD Ryzen 5 5600x
     image: /uploads/amd-ryzen-5-5600x.webp
-    amzlink: https://amzn.to/3wsr0wh
+    amzlink: https://www.amazon.com/AMD-Ryzen-5600X-12-Thread-Processor/dp/B08166SLDF?th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=2eefeb73261431d0aed0d45a111a6a59&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           The first-ever component within a gaming PC build that every gamer is
@@ -83,8 +83,8 @@ the_products:
           Stealth Cooler"
   - name: 2. ASUS ROG Strix B450-F
     nameForTOC: ASUS ROG Strix B450-F
-    image: /uploads/asus-am4-tuf-gaming-x570-plus.webp
-    amzlink: https://amzn.to/3zvWqDG
+    image: /uploads/asus-rog-strix-b450-f.webp
+    amzlink: https://www.amazon.com/ASUS-ROG-B450-F-Gaming-Motherboard/dp/B08KH1M1H4?&linkCode=ll1&tag=gamingtechi09-20&linkId=7038e56f1472f902a704c462ef1868f7&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           As the processor mentioned above is described to be compatible with
@@ -129,8 +129,8 @@ the_products:
           3200MHz **\\| RGB:** Aura RGB **\\| Ram:** 64GB DDR4"
   - name: 3. Corsair Vengeance LPX 16GB
     nameForTOC: Corsair Vengeance LPX 16GB
-    image: /uploads/hyperx-fury-black-32gb-ddr4.webp
-    amzlink: https://amzn.to/35rp0s2
+    image: /uploads/corsair-vengeance-lpx-16gb.webp
+    amzlink: https://www.amazon.com/Corsair-Vengeance-3200MHz-Desktop-Memory/dp/B0143UM4TC?th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=2c57ec4ac671d09706fc012f2c259711&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           Next to complement the setup is this set of two DDR4 RAMs. RAMs are
@@ -173,7 +173,7 @@ the_products:
           3200MHz **\\| Height:** 34mm"
   - name: 4. Cooler Master MWE Gold 750 V2
     nameForTOC: Cooler Master MWE Gold 750 V2
-    image: /uploads/cooler-master-mwe-gold-750.webp
+    image: /uploads/cooler-master-mwe-gold-750-v2.webp
     paragraphs:
       - paragraph: >-
           A power supply is unsurprisingly one of the essential components
@@ -202,7 +202,7 @@ the_products:
 
 
           The PSU is a great unit that keeps the functionality of the overall build at an enhanced level. Without installing this high-quality PSU, your PC build will remain incomplete, and you will always find its performance lacking.
-    amzlink: https://amzn.to/3pYzwjT
+    amzlink: https://www.amazon.com/Cooler-Master-Efficiency-Connectors-Semi-fanless/dp/B08M9LDLXH?&linkCode=ll1&tag=gamingtechi09-20&linkId=816b3fbb64a7f2846b0693babb22a828&language=en_US&ref_=as_li_ss_tl
     pros:
       - pro: Full Modular
       - pro: 750 Watt
@@ -242,7 +242,7 @@ the_products:
     name: 5. Bgears b-Voguish Gaming PC
     nameForTOC: Corsair iCUE 4000X
     image: /uploads/corsair-icue-4000x.webp
-    amzlink: https://amzn.to/3iHJAMC
+    amzlink: https://www.amazon.com/Bgears-b-Voguish-Tempered-Support-Motherboard/dp/B07T4W3BMH?&linkCode=ll1&tag=gamingtechi09-20&linkId=115d328f1344fb5983c0dbdd448e472b&language=en_US&ref_=as_li_ss_tl
     pros:
       - pro: "Great customization support "
       - pro: Durable design
@@ -255,8 +255,8 @@ the_products:
           rear-120mm **\\| Fan Count:** 9 **\\| Internal Bays:** 5"
   - nameForTOC: Samsung Electronics 870 EVO 500GB
     name: 6. Samsung Electronics 870 EVO 500GB
-    image: /uploads/samsung-870-evo-500gb.webp
-    amzlink: https://amzn.to/35m0nwY
+    image: /uploads/samsung-electronics-870-evo-500gb.webp
+    amzlink: https://www.amazon.com/SAMSUNG-500GB-Internal-MZ-77E500B-AM/dp/B08QBMD6P4?&linkCode=ll1&tag=gamingtechi09-20&linkId=a365fb19ed93bc75d0df7258eb58f8ea&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           In the last, we have this SATA III Internal SSD by Samsung: a known
@@ -320,6 +320,8 @@ the_products:
       - specification: "**Capacity:** 4GB **\\| Model:** Nvidia GeForce GTX 1650 **\\|
           GDDR version:** GDDR6 **\\|** **Ports:** 1.4,HDMI 2.0b, DL-DVI-D |
           **Power consumption:** 75W **\\|** **Memory Clock:** 12GB/s"
+    image: /uploads/geforce-gtx-1650.webp
+    amzlink: https://www.amazon.com/ZOTAC-GeForce-128-bit-Graphics-ZT-T16520F-10L/dp/B0881YZJ45?&linkCode=ll1&tag=gamingtechi09-20&linkId=f63ea3170c8b6ffc1d28656baefc0c9d&language=en_US&ref_=as_li_ss_tl
 conclusion:
   - paragraph: >-
       So, here we end our list of Best PC build under $1000. All the PC
