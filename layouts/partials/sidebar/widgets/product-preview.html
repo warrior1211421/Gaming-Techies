@@ -1,0 +1,16 @@
+{{ if .Params.productImages }}
+<div class="staff-pick">
+    <div class="suggest-card">
+        <div class="imgBx">
+            {{ range first 1 .Params.productImages }}
+                    <img src="{{.product_Img}}" class="lazyload" loading="lazy" loading="lazy" alt="Our Product Review">
+            {{ else }}
+                <img src="{{.Params.featured_Image | absURL}}" class="lazyload" loading="lazy" loading="lazy" alt="Our Product Review">
+            {{end}}
+        </div>
+        <div class="contextBx">
+            <a rel="nofollow" href="{{.Params.buybtn}}" class="buy">Get in Now!</a>
+        </div>
+    </div>
+</div>
+{{ end }}

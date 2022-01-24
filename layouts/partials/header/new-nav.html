@@ -1,0 +1,45 @@
+<div class="wrapper">
+    <nav>
+      <input type="checkbox" id="show-search">
+      <input type="checkbox" id="show-menu">
+      <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+      <div class="content">
+        <ul class="links">
+            {{ range .Site.Menus.main }}
+            {{ if .Children }}
+                <li>
+                    <a href="#" class="desktop-link">{{.Name}}</a>
+                    <input type="checkbox" id="show-{{ .Name | urlize }}">
+                    <label for="show-{{ .Name | urlize }}">{{ .Name }}</label>
+                    <ul class="ez-submenu">
+                        {{ range .Children }}
+                        {{ if .Children }}
+                        <li>
+                            <a href="{{.URL}}" class="desktop-link">{{.Name}}</a>
+                            <input type="checkbox" id="show-{{ .Name | urlize }}">
+                            <label for="show-{{ .Name | urlize }}">{{ .Name }}</label>
+                            <ul class="ez-submenu">
+                                {{ range .Children }}
+                                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </li>
+                    {{ else }}
+                        <li><a href="{{.URL | absURL}}">{{.Name}}</a></li>
+                    {{ end }}
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ else }}
+                <li><a href="{{.URL | absURL}}">{{.Name}}</a></li>
+            {{ end }}
+        {{ end }}
+        </ul>
+      </div>
+      {{/*  <label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
+      <form action="#" class="search-box">
+        <input type="text" placeholder="Type Something to Search..." required>
+        <button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
+      </form>  */}}
+    </nav>
+  </div>
