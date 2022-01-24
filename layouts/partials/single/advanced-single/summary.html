@@ -11,7 +11,7 @@
 }
 .product-table .btn-table{
     width: auto;
-    padding: 5px 10px;
+    padding: .5rem .8rem;
 }
 .product-table .btn-review{
     width: auto;
@@ -126,7 +126,7 @@
 {{ end }}
 <table class="product-table" id="product-summary">
 <thead>
-<tr style="background-color:#eee;color:#000">
+<tr style="background-color:#000;color:#fff">
   <th scope="col">Award</th>
   <th scope="col">Image</th>
   <th scope="col">Model</th>
@@ -142,7 +142,8 @@
             </td>
             <td data-label="Brand">{{ .nameForTOC }}</div></td>
             <td data-label="Price">
-                <a class="btn btn-table" href="{{.amzlink}}" target="_blank" rel="nofollow sponsored noopener noreferrer">See On Amazon</a>
+                {{ $amzlong := or (findRE "amazon" .amzlink) (findRE "amzn" .amzlink) }}
+                <a class="btn btn-table" href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/dp/{{.amzlink}}/?tag={{site.Params.amznTracking.table}}{{end}}" target="_blank" rel="nofollow sponsored noopener noreferrer">See On Amazon</a>
             </td>
         </tr>
     {{ end }}

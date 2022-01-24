@@ -10,7 +10,7 @@ html {
 
 body {
     color: #333;
-    font-size: 16px;
+    font-size: 18px;
     background-color: #fff;
     font-family: var(--fontBody);
 }
@@ -46,7 +46,7 @@ a {
 }
 
 p{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
     margin-bottom: 1em;
     font-weight: normal;
@@ -62,7 +62,7 @@ blockquote{
 }
 
 .news-article .text-copy p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.6;
     margin-bottom: 1em
 }
@@ -103,7 +103,7 @@ article, aside, figcaption, figure, footer, header, nav, section {
     font-size: 24px;
     line-height: 60px;
     max-height: 60px;
-    background-color: #000;
+    background-color: #fff;
 }
 
 .burgerbar .burgerbar-small {
@@ -180,7 +180,7 @@ img.logo {
 }
 
 .primary-nav .wrapper {
-    background: #eee;
+    background: var(--mainColor)
 }
 
 .primary-nav .menuitems {
@@ -193,8 +193,12 @@ img.logo {
     padding: 1rem;
 }
 
+.menu-item>a:hover, .sub-menu-item>a:hover {
+    border-bottom: 2px solid var(--textColor);
+}
+
 .menu-item a, .menu-item span {
-    color: #000;
+    color: var(--textColor);
     display: inline-block;
     font-weight: 600;
     font-size: 16px;
@@ -217,7 +221,7 @@ img.logo {
     display: none;
     position: absolute;
     padding-bottom: 1rem;
-    background: #eee;
+    background: var(--mainColor);
 }
 
 .has-submenu {
@@ -244,6 +248,8 @@ img.logo {
     min-height: 70vh
 }
 
+
+
 #affiliateDisclaimer {
     font-size: 14px;
     line-height: 13px;
@@ -251,7 +257,7 @@ img.logo {
 }
 
 #document-footer {
-    background-color: #000;
+    background-color: #333
 }
 
 #document-footer-content {
@@ -309,7 +315,7 @@ img.logo {
 }
 
 .feature-block.top-featured .article-name {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     margin-bottom: 0;
     line-height: 1.25
@@ -407,12 +413,8 @@ img.logo {
     text-align: center;
     margin-bottom: 20px;
     text-transform: uppercase;
-	background: #eee;
-}
-
-.list-title.scroll {
-	border-top: 2px solid #000;
-	border-bottom: 2px solid #000;
+    border-top: 2px solid var(--mainColor);
+    border-bottom: 2px solid var(--mainColor)
 }
 
 .listingResultsWrapper .list-heading-link {
@@ -456,6 +458,12 @@ article figure {
     margin-bottom: 0px;
 }
 
+.listingResult .article-name {
+    font-size: 20px;
+    line-height: 26px;
+    margin-bottom: 7px
+}
+
 .byline {
     color: #333;
     display: block;
@@ -488,6 +496,22 @@ article figure {
 .news-article header {
     margin-top: 10px
 }
+
+.pagination-link {
+    color: #333;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 50px;
+    border-radius: 8px;
+    background-color: var(--mainColor);
+    margin:10px 0;
+}
+
 .news-article header h1 {
     font-size: 25px;
     font-weight: 600;
@@ -574,6 +598,14 @@ article figure {
     line-height: 16px
 }
 
+.p-and-c {
+    display: grid;
+    margin-bottom: 1rem;
+    grid-column-gap: 15px;
+    grid-template-columns: 1fr;
+    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
+}
+
 .s-p-s-g .image-figure {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -591,6 +623,12 @@ article figure {
     margin-bottom: .5em
 }
 
+.subtitle p {
+    font-weight: 300;
+    margin:0;
+    padding-bottom: 10px;
+}
+
 .pros-and-cons h4 {
     margin-bottom: 10px
 }
@@ -598,7 +636,7 @@ article figure {
 .btn {
     color: var(--textColor);
     font-size: 15px;
-    padding: 5px 30px;
+    padding: .5rem 2rem;
     min-width: 8.4rem;
     text-align: center;
     display: inline-block;
@@ -620,15 +658,15 @@ article figure {
 
 .related-posts-h {
     height: 52px;
-    color: #000;
-    font-size: 16px;
+    color: #fff;
+    font-size: 18px;
     font-weight: 600;
     padding-top: 16px;
     text-align: center;
     margin-bottom: 1rem;
     font-family: inherit;
     box-sizing: border-box;
-    background-color: #eee;
+    background-color: #333;
     text-transform: uppercase
 }
 
@@ -672,6 +710,17 @@ article figure {
     top: 1rem
 }
 
+.sidebar-container h3 {
+    font-size: 25px;
+    margin-bottom: 15px
+}
+
+.table-of-contents a {
+    color: #333;
+    font-size: 15px;
+    line-height: 20px;
+}
+
 .related-articles-block {
     margin-top: 10px;
     margin-bottom: 20px
@@ -686,8 +735,26 @@ article figure {
     margin-bottom: 1em
 }
 
+.table-of-contents {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 240px;
+    list-style: decimal;
+    flex-direction: column;
+}
+
+.table-of-contents li {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
 .table-of-contents li:last-child{
     margin-bottom: 0 !important;
+}
+
+.table-of-contents li ul {
+    margin: 15px 0;
+    list-style-type: disc;
 }
 
 .bg-grey-1 {
@@ -755,7 +822,7 @@ article figure {
 }
 
 .table-responsive {
-    font-size: 16px
+    font-size: 18px
 }
 
 table {
@@ -795,7 +862,7 @@ td, th {
 .b-m {
     color: #fff;
     padding: 10px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     text-transform: uppercase;
     background-color: var(--mainColor);
@@ -809,6 +876,10 @@ td a {
 
 #frequently-asked-questions {
     margin-bottom: 1rem
+}
+
+.pros-and-cons .cons>p:last-child {
+    margin-bottom: 0
 }
 
 p:empty {
@@ -833,7 +904,7 @@ footer p {
 }
 
 .vertical-header h1 {
-    font-size: 16px
+    font-size: 18px
 }
 
 .primary-nav>.wrapper {
@@ -850,7 +921,7 @@ footer p {
 }
 
 .sub-menu {
-    padding-top: 0rem
+    padding-top: 2rem
 }
 
 .primary-nav.responsive>.wrapper {
@@ -896,7 +967,7 @@ footer p {
     color: #fff;
     position: fixed;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 18px;
     border-radius: 2px;
     background-color: var(--mainColor)
 }
@@ -924,7 +995,7 @@ footer p {
 }
 
 .page p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.7;
     margin-bottom: 1rem
 }
@@ -973,6 +1044,12 @@ footer p {
 
 .page .btn {
     font-size: .8rem
+}
+
+.page .btn-teal {
+    color: #fff;
+    border: 1px solid var(--mainColor);
+    background-color: var(--mainColor)
 }
 
 .page .btn, .page a[type=button] {
@@ -1051,9 +1128,20 @@ footer p {
     font-weight: 600
 }
 
+.subtitle {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
+}
+
 .subtitle, .title__heading {
     text-align: center;
     margin:0;
+}
+
+.news-article .text-copy .specs__text {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid hsla(0, 0%, 80%, .23137)
 }
 
 .news-article .image-figure .image-figcaption {
@@ -1125,7 +1213,7 @@ footer p {
 }
 
 .sidebar-container .f6.truncate-2.mb2.mt0 {
-    font-size: 14px;
+    font-size: 16px
 }
 
 .news-article strong {
@@ -1220,7 +1308,7 @@ footer p {
 
 .figure-product .product__title {
     color: #333;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700
 }
 
@@ -1246,6 +1334,15 @@ footer p {
     height: 222px;
     margin-bottom: 15px
 }
+
+.amazon-link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
+
 .amazon-review-button {
     font-size: 15px;
     font-weight: 600;
@@ -1424,7 +1521,7 @@ ul.table-of-contents li a{
     font-size: 14px;
     overflow: hidden;
     align-items: center;
-    border: 2px solid #eee;
+    background: #eee;
 }
 
 .trending-wrapper .trending-lead {
@@ -1436,11 +1533,6 @@ ul.table-of-contents li a{
 }
 .trending-items li{
     list-style: inside;
-}
-
-.news-article .text-copy .specs__title {
-    color: #333;
-    margin-bottom: 0
 }
 
 .trending-item>a {
@@ -1458,6 +1550,10 @@ ul.table-of-contents li a{
     display: -ms-flexbox;
     display: flex;
     line-height: 50px
+}
+
+.trending-item {
+    margin: 0 10px;
 }
 
 /* Trending Bar End */
@@ -1556,169 +1652,4 @@ ul.table-of-contents li a{
 }
 .summary-jump a:hover{
     border-bottom: 1px solid var(--mainColor) !important;
-}
-
-/* Sayim CSS Here */
-
-.page .btn-teal {
-    color: #fff;
-    border: 1px solid #333;
-    background-color: #333;
-}
-
-.menu-item>a:hover, .sub-menu-item>a:hover {
-    border-bottom: 2px solid #000;
-}
-
-.trending-item {
-    margin: 0 8px;
-}
-
-.specs__text{
-	border: 3px solid #d7d7d7;
-    background: #e7e7e7;
-    padding: 10px;
-}
-
-.fa.fa-bars {
-	color:white;
-}
-
-.table-of-contents li ul {
-    margin: 7px 0;
-    list-style-type: disc;
-}
-
-.table-of-contents li {
-    margin-left: 20px;
-    margin-bottom: 10px;
-}
-
-.sidebar-container h3 {
-    margin-bottom: 12px;
-	color: #000;
-	padding-bottom: 5px;
-	border-bottom: 2px solid #eee;
-}
-
-.subtitle p {
-    font-weight: 300;
-    margin:0;
-}
-
-.table-of-contents {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    list-style: decimal;
-    flex-direction: column;
-}
-
-.summary-p{
-	padding-top: 20px;
-	border-top: 2px dashed #d3d3d3;
-}
-
-.w-100.flex.pros-and-cons.mb2-5{
-	display:flex;
-	width: 100%;
-}
-
-.p-and-c {
-    margin-bottom: 25px;
-    grid-column-gap: 15px;
-    grid-template-columns: 1fr;
-}
-
-.w-100.cons.black{
-	width: 50%;
-	background: rgb(255, 235, 233);
-}
-
-.w-100.pros.black.mr2{
-	width: 50%;
-	background: rgb(230, 255, 240);
-}
-
-.flex.flex-row.items-start{
-	padding-left: 12px;
-}
-
-.mb3.f4.ttu.pros{
-	padding: 10px;
-    color: #fff;
-    font-size: 1.1em;
-    margin: 0;
-    background: #0f9d58;
-}
-
-.mb3.f4.ttu.cons{
-    padding: 10px;
-    color: #fff;
-    margin: 0;
-    font-size: 1.1em;
-    background: #db4437;
-}
-
-.ttu.f6.w-100.pb2.mv0.latest-posts-heading{
-	background: #eee;
-    text-align: center;
-    color: #000;
-	text-decoration: none;
-    padding: 5px;
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 8px !important;
-}
-
-.listingResult .article-name {
-    font-size: 16px;
-    line-height: 26px;
-    margin-bottom: 7px
-}
-
-.pagination-link {
-    color: #000;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    font-size: 20px;
-    font-weight: 600;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 50px;
-    border-radius: 8px;
-    background-color: #eee;
-    margin:10px 0;
-}
-
-.table-of-contents a {
-    color: #000;
-    font-size: 14px;
-    line-height: 20px;
-}
-
-.subtitle {
-    margin-bottom: 1rem;
-}
-
-.amazon-link {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    align-items: center;
-	margin-top: -10px;
-    flex-direction: column
-}
-
-.ttu.f6.mt0{
-    background: #eee;
-    text-align: center;
-    color: #000;
-	text-decoration: none;
-    padding: 5px;
-    font-size: 18px;
-    font-weight: 700;
-    border-bottom: 2px solid #000;
-    margin-bottom: 8px!important;
 }

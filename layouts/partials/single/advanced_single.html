@@ -12,9 +12,6 @@
 <div id="after-products">
     <p>{{.Params.afterProducts | markdownify }}</p>
 </div>
-{{ if eq .Params.product_table true }}    
-{{ partial "single/advanced-single/summary" . }}
-{{ end }}
 {{ partial "single/advanced-single/conclusion" . }}
 {{ partial "single/advanced-single/faqs" . }}
 {{ partial "single/author-box" . }}

@@ -2,9 +2,9 @@
     .primary-nav>.wrapper, .sidebar {
         display: block
     }
-	.has-submenu:hover>.sub-menu{
-     margin-top: 30px;
-     box-shadow: 0px 5px 40px -10px #cecece;
+    .has-submenu:hover>.sub-menu{
+        margin-top: 30px;
+        box-shadow: 0px 5px 40px -10px #cecece;
     }
     .c-v-a {
         content-visibility: unset
@@ -30,7 +30,7 @@
         margin-bottom: 0.625em;
     }
     .news-article .text-copy p {
-        font-size: 16px;
+        font-size: 18px;
         line-height: 1.6;
         margin-bottom: 1em
     }
