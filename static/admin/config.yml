@@ -283,15 +283,6 @@ collections:
             - { label: Text Color, name: textColor, widget: color, enableAlpha: true, allowInput: true, required: false }
             - { label: Link Color, name: linkColor, widget: color, enableAlpha: true, allowInput: true, required: false }
             - { label: CTA Button Color, name: ctaColor, widget: color, enableAlpha: true, allowInput: true, required: false }
-          - label: "Amazon Tracking IDs"
-            name: "amznTracking"
-            widget: "object"
-            collapsed: true
-            fields:
-            - { label: Amazon Tracking Tag, name: global, widget: string, required: false }
-            - { label: Amazon Tracking for Top 3 Products, name: topProducts, widget: string, required: false }
-            - { label: Amazon Tracking for Table, name: table, widget: string, required: false }
-            - { label: Amazon Tracking for Review Button, name: review, widget: string, required: false }
           - label: "Site Fonts"
             name: "fonts"
             widget: "object"

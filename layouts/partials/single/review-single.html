@@ -3,7 +3,6 @@
     
     {{ partial "single/review-single/specification" . }}
     {{ partial "single/review-single/pros-cons" . }}
-    <a href="{{.Params.buybtn}}" class="after-pc btn">Get in Now!</a>
 
     <article id="review-body" class="article">
         {{ .Content | htmlUnescape | safeHTML }}
