@@ -190,7 +190,7 @@ a.desktop-link::after,
   nav .content .links{
     display: block;
     position: fixed;
-    background: eee;
+    background: #eee;
     height: 100%;
     width: 100%;
     top: 110px;
