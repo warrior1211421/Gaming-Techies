@@ -10,7 +10,7 @@ html {
 
 body {
     color: #333;
-    font-size: 18px;
+    font-size: 16px;
     background-color: #fff;
     font-family: var(--fontBody);
 }
@@ -46,7 +46,7 @@ a {
 }
 
 p{
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
     margin-bottom: 1em;
     font-weight: normal;
@@ -62,7 +62,7 @@ blockquote{
 }
 
 .news-article .text-copy p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.6;
     margin-bottom: 1em
 }
@@ -311,7 +311,7 @@ img.logo {
 }
 
 .feature-block.top-featured .article-name {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin-bottom: 0;
     line-height: 1.25
@@ -620,7 +620,7 @@ article figure {
 .related-posts-h {
     height: 52px;
     color: #fff;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     padding-top: 16px;
     text-align: center;
@@ -794,7 +794,7 @@ td, th {
 .b-m {
     color: #fff;
     padding: 10px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     text-transform: uppercase;
     background-color: var(--mainColor);
@@ -899,7 +899,7 @@ footer p {
     color: #fff;
     position: fixed;
     cursor: pointer;
-    font-size: 18px;
+    font-size: 16px;
     border-radius: 2px;
     background-color: var(--mainColor)
 }
@@ -927,7 +927,7 @@ footer p {
 }
 
 .page p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.7;
     margin-bottom: 1rem
 }
@@ -1229,7 +1229,7 @@ footer p {
 
 .figure-product .product__title {
     color: #333;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700
 }
 
@@ -1670,7 +1670,7 @@ ul.table-of-contents li a{
     color: #000;
 	text-decoration: none;
     padding: 5px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin-bottom: 8px !important;
 }
@@ -1721,7 +1721,7 @@ ul.table-of-contents li a{
     color: #000;
 	text-decoration: none;
     padding: 5px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     border-bottom: 2px solid #000;
     margin-bottom: 8px!important;
