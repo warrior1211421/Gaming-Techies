@@ -38,7 +38,7 @@ nav .content .links{
 }
 .content .links li:hover,
 .content .links li label:hover{
-  background: var(--ctaColor);
+  text-decoration: underline;
 }
 .wrapper .search-icon{
     z-index: 999;
