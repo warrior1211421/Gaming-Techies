@@ -1,0 +1,14 @@
+<div class="w-25 hidden-in-print ml3 sidebar c-v-a">
+    <div class="sidebar-container">
+        {{ partial "sidebar/widgets/also-read" . }}
+    </div>
+    <div class="p-sticky top-1">
+        <div class="sidebar-container">
+            {{ partial "sidebar/widgets/product-preview" . }}
+            {{ partial "sidebar/widgets/auto-toc" . }}
+            {{ if (fileExists "layouts/partials/ads/sidebar.html") -}}
+            {{ partial "ads/sidebar" . }}
+            {{end}}
+        </div>
+    </div>
+</div>
