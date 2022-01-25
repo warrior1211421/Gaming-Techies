@@ -52,7 +52,7 @@ In our guide to the best BIOS settings, you will get to know everything needed t
 
 ![What is BIOS, and How Does it Work](/uploads/what-is-bios.webp "What is BIOS, and How Does it Work")
 
-[BIOS](https://en.wikipedia.org/wiki/BIOS) refers to a computer system used by the CPU and is responsible for performing various startup procedures when you start the computer. It is a whole set of computer instructions that control all its output and input operations. It is a ROM chip that comes on the [motherboard](https://gamingtechies.com/best-x470-motherboard-for-2700x/) (x470 motherboard for 2700x) and allows you to easily access your computer's basic level settings.
+[BIOS](https://en.wikipedia.org/wiki/BIOS) refers to a computer system used by the CPU and is responsible for performing various startup procedures when you start the computer. It is a whole set of computer instructions that control all its output and input operations. It is a ROM chip that comes on the motherboard and allows you to easily access your computer's basic level settings.
 
 It works professionally to keep your PC's basic operations working properly. It comes included with all the instructions relating to the loading of basic computer hardware. It has a test named as POST-Power-On Self-Test-that intelligently indicates whether your computer meets up all the requirements for the boot or not. If it does not meet them all, it starts up a beeping sound to indicate your computer's malfunctioning.
 
