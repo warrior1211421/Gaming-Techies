@@ -1,7 +1,7 @@
 ---
 title: Difference Between Micro ATX vs. Mini ITX vs. ATX
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: Micro ATX vs Mini ITX vs ATX – What’s the Difference?
 meta_Description: Motherboard’s form factor determines which PC hardware you can
@@ -23,7 +23,7 @@ Custom-built PCs can be a little tricky sometimes. You have to make your selecti
 
 As you can see, ATX is the largest form factor that you can get in a motherboard. It requires a larger PC case, and the parts that fit in the motherboard are also comparatively larger. Similarly, Micro ATX motherboards are slightly smaller, followed by Mini ITX motherboards. The form factor that you choose will dictate which PC parts can fit in it and which ones are out of bounds. 
 
-## ATX Motherboards:
+## ATX Motherboards
 
 ATX motherboards are the largest ones that you can buy from the market. The Advanced Technology eXtended or ATX motherboards provide more room to fit all your PC parts without blocking ventilation. For instance, an ATX motherboard has 4-slots of RAM that can support up to 128GBs of memory without any problem. Moreover, you get space to install up to six HDDs or SSDs along with NVMe slots to extend the storage space. 
 
