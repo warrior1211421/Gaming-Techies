@@ -16,9 +16,12 @@ categories:
 ---
 Custom-built PCs can be a little tricky sometimes. You have to make your selection based on various factors such as size, power, compatibility, specifications, and much more. For example, the motherboard that you love might not support the architecture or generation of the processor, or it may be too large to fit in the PC case. For instance, motherboards are available in several size and form factors, and the motherboard selection shapes your selection of other PC components. Therefore, this article will discuss the difference between Micro ATX VS. Mini ITX VS. ATX to help you make an intelligent purchase.
 
-**The Dimensions:**
+### **The Dimensions:**
+
 **Mini ITX:** 170mm x 170mm or 6.7” x 6.7”
+
 **Micro ATX:** 244mm x 244mm or 9.6” x 9.6”
+
 **ATX:** 305mm x 244 mm or 12.0” x 9.6”
 
 As you can see, ATX is the largest form factor that you can get in a motherboard. It requires a larger PC case, and the parts that fit in the motherboard are also comparatively larger. Similarly, Micro ATX motherboards are slightly smaller, followed by Mini ITX motherboards. The form factor that you choose will dictate which PC parts can fit in it and which ones are out of bounds. 
@@ -41,7 +44,7 @@ Furthermore, most ATX motherboards support either Crossfire, SLI, or both techno
 * Relatively expensive than other options.
 * You need a large PC case to fit an ATX motherboard.
 
-**Micro ATX Motherboard:**
+## **Micro ATX Motherboards**
 
 Micro ATX motherboards offer similar specifications to an ATX, except for a few differences. Its size is comparatively smaller than an ATX, mainly due to the lower number of PCIe slots. Moreover, most Micro ATX boards don’t come with built-in WIFI and soundcards. However, the best part is that their price is almost 40% lower than an ATX. So, if you want to build a budget gaming PC, a Micro ATX is the best possible option. 
 
@@ -60,7 +63,7 @@ Previously, Micro ATX boards lacked the hardware required to support a multi GPU
 * Some Micro ATX doesn’t support a multi GPU setup.
 * It isn’t suitable for intense overclocking.
 
-## Mini ITX Motherboard
+## Mini ITX Motherboards
 
 Mini ITX motherboards have the smallest form factor in the market. These boards are suitable for people who want to build a compact or portable gaming PC that they can carry around wherever they go. However, the downside is that it offers only a limited space to fit all your PC hardware. For instance, a Mini ITX motherboard has only two RAM slots that support up to 32-GBs of RAM storage. Moreover, the number of SATA and NVMe slots is also limited, but you can tackle this problem by installing large storage HDDs and SSDs. 
 
