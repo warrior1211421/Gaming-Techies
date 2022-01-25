@@ -10,6 +10,7 @@ url: parts-needed-to-build-a-gaming-pc
 author: Gabriel
 date: 2022-01-25T17:01:39.325Z
 updateDate: 2022-01-25T17:01:39.352Z
+featured_Image: /uploads/parts-needed-to-build-a-gaming-pc.webp
 categories:
   - Knowledge Base
 ---
