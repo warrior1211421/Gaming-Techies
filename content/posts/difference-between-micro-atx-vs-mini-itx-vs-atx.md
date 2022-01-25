@@ -1,7 +1,7 @@
 ---
 title: Difference Between Micro ATX vs. Mini ITX vs. ATX
 type: posts
-draft: true
+draft: false
 trending: false
 seo_title: Micro ATX vs Mini ITX vs ATX – What’s the Difference?
 meta_Description: Motherboard’s form factor determines which PC hardware you can
