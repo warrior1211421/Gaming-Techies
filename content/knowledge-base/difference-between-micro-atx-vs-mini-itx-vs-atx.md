@@ -16,7 +16,7 @@ categories:
 ---
 Custom-built PCs can be a little tricky sometimes. You have to make your selection based on various factors such as size, power, compatibility, specifications, and much more. For example, the motherboard that you love might not support the architecture or generation of the processor, or it may be too large to fit in the PC case. For instance, motherboards are available in several size and form factors, and the motherboard selection shapes your selection of other PC components. Therefore, this article will discuss the difference between Micro ATX VS. Mini ITX VS. ATX to help you make an intelligent purchase.
 
-### **The Dimensions:**
+**Dimensions:**
 
 **Mini ITX:** 170mm x 170mm or 6.7” x 6.7”
 
