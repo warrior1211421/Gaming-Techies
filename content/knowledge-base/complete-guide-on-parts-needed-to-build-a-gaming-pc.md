@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Parts Needed to Build a Gaming PC
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: "Parts Needed to Build a Gaming PC: A Detailed Guide"
 meta_Description: Building a gaming PC is an interesting and simple job. The
