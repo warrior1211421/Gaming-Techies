@@ -31,7 +31,7 @@ Building a gaming PC is a simple task that dreads most users. In my opinion, mod
 
 **Accessories you Need**
 
-* **Gaming monitor**
+* **Gaming Monitor**
 * **Keyboard**
 * **Thermal Paste**
 * **Mouse**
