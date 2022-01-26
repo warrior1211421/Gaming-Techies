@@ -25,8 +25,8 @@ paragraphs:
       powerful with every new release. [RTX
       3080](https://www.amazon.com/stores/GeForce/RTX3080_GEFORCERTX30SERIES/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?&linkCode=ll2&tag=gamingtechi09-20&linkId=5108390dc9b5190209db4879ebc56003&language=en_US&ref_=as_li_ss_tl) is
       one such powerful GPU with 4K support. To get the most out of it, you need
-      to have the best gaming monitors for RTX 3080 that is hard to find if you
-      are not fully aware of what you need to have in pair for RTX 3080.
+      to have the **best gaming monitors for RTX 3080** that is hard to find if
+      you are not fully aware of what you need to have in pair for RTX 3080.
 
 
       **Also Read: [Best GPU for Ryzen 7 2700x](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)**
@@ -89,7 +89,7 @@ buyingGuide: >-
   Did you know? The RTX 3080 can play most games like Assassin’s creed Valhalla, GTA V Online, and Call of Duty vanguard at 4K resolution. So, why not utilize such performance by playing the way it’s meant to be played. Most typical gaming monitors only have 1080P or 2K resolution, which is ineffective for viewing the highest quality graphics. So, you need a gaming monitor that displays accurate colors and true pixels as rendered by the GPU. Having at least a 2K or 4K resolution monitor is a must for every RTX 3080 owner out there.
 
 
-  4K has become so normal that even YouTube has several videos in 4K. So, whether you want a monitor for gaming, working, or watching movies, 4K is a must-have for you. It would help to check the product specifications and physically test the hardware before actually purchasing a monitor for RTX 3080. 
+  4K has become so normal that even YouTube has several videos in 4K. So, whether you want a monitor for gaming, working, or watching movies, 4K is a must-have for you. It would help to check the product specifications and physically test the hardware before actually purchasing a **monitor for RTX 3080.** 
 
 
   ### Adaptation
@@ -107,9 +107,8 @@ the_products:
       - paragraph: >-
           When it comes to quality gaming, you are allowed to get picky. The
           best gaming session is only possible if the monitor matches your
-          hardware. If you are in the market for the best option at hand, **[LG
-          34GP83A-B](https://www.amazon.com/LG-34GP83A-B-Inch-Ultragear-Compatibility/dp/B08DWD38VX?&linkCode=ll1&tag=gamingtechi09-20&linkId=de9908b4da5b74889029b75099166509&language=en_US&ref_=as_li_ss_tl)** is
-          second to none.
+          hardware. If you are in the market for the best option at hand, **LG
+          34GP83A-B** is second to none.
 
 
           We all know the achievements of LG in terms of screen size and PPI. LG makes their screens, and LG phone screens speak for themselves. The LG 34GP83A-B offers unmatched pixel density and screen-to-body ratio.
@@ -121,7 +120,7 @@ the_products:
           However, having only the best ultrawide gaming monitor doesn’t fulfill the need of modern-day competitive gamers. Besides a large gaming monitor, there are also other features that are needed, and this perfect gaming monitor comes with all.
 
 
-          Similarly, this LG gaming is one of the best monitors for RTX 3080 graphics card that provide you unmatched HDR effect in the market. The soft yet bright screen offers the ultimate gaming experience that you are looking for. However, this monitor is not suitable for hardcore gamers who play multiplayer games at a fast pace. The screen only offers a 160Hz refresh rate that feels like up to 180Hz.
+          Similarly, this LG gaming is one of the **best monitors for RTX 3080** graphics card that provide you unmatched HDR effect in the market. The soft yet bright screen offers the ultimate gaming experience that you are looking for. However, this monitor is not suitable for hardcore gamers who play multiplayer games at a fast pace. The screen only offers a 160Hz refresh rate that feels like up to 180Hz.
 
 
           The higher number of input ports, including USB 2.0 and 2 standard HDMI ports, allow you to have multiple connectivity options. For example, you can connect your gaming PC to one HDMI port and the TV box to the other. It even includes a built-in 3.5mm headphone jack for connecting theater speakers for the best gaming and home-theater experience possible.
