@@ -52,7 +52,7 @@ A gaming laptop comes with high speed, better graphics, huge memory, and also fa
 
 As it is already known that gaming laptops come with the most advanced features that are not found in those ordinary laptops. So, if you are thinking of converting your laptop into a gaming laptop, you might not be able to do it completely. 
 
-This is because you might be able to change the hardware of your laptop completely in order to make it support various games that are introduced in present times. The most important components of a gaming laptop are probably the [motherboard](https://gamingtechies.com/best-x470-motherboard-for-2700x/) (Best motherboards for 2700x), processors, and also [graphics card](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/) (Graphic cards for Ryzen 7 2700x) that are surely not replaceable in any laptop model. 
+This is because you might be able to change the hardware of your laptop completely in order to make it support various games that are introduced in present times. The most important components of a gaming laptop are probably the motherboard, processors, and also [graphics card](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/) (Graphic cards for Ryzen 7 2700x) that are surely not replaceable in any laptop model. 
 
 Even if you manage to replace 1-2 parts, it still doesn’t work if you have some older version of the laptop with you with an older version of Intel HD Graphics processor, in place of a dedicated GPU which is not even able to run the games like Skyrim or Crysis. 
 
