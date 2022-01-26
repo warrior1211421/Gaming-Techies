@@ -368,7 +368,7 @@ conclusion:
       performance of your systems without ever facing any difficulty.
 
 
-      Overall, the Gigabyte B365M is the most stable motherboard for i7 4790K. It comes with two BIOS, precise power control, and an affordable price. So, buying this feature-rich mobo won't have much impact on your PC build budget.
+      Overall, the **[Gigabyte B365M](https://www.amazon.com/dp/B07T6N8N56?th=1&psc=1&linkCode=ll1&tag=gamingtechi09-20&linkId=568a731c84edf8cb732db095b0e7b2b4&language=en_US&ref_=as_li_ss_tl)** is the most stable motherboard for i7 4790K. It comes with two BIOS, precise power control, and an affordable price. So, buying this feature-rich mobo won't have much impact on your PC build budget.
 faqs:
   - answer: The motherboards that come with a greater number of SATA ports and RAM
       slots, along with having the best compatible processor socket type and PCI
