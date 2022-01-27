@@ -1,5 +1,5 @@
 ---
-title: "Bottleneck Calculator: What is it, and What is its Benefit?"
+title: What is Bottleneck Calculator and What are its Benefits?
 type: knowledge-base
 draft: false
 trending: false
