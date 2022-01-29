@@ -32,7 +32,7 @@ after_intro: >-
   ## My Recommendation
 
 
-  I own a **Cougar Conquer ATX** case myself. I have been using it for almost half a year now. Honestly, I am in love with this case. It has the best air-flow system and the most attractive looks. The exterior is made completely out of aluminum and has room for two extra cooling fans. It also has an in-built cable management system.
+  I own a **[Cougar Conquer ATX](https://www.amazon.com/Cougar-CONQUER-ATX-Gaming-Case/dp/B0759PNHX8?&linkCode=ll1&tag=gamingtechi09-20&linkId=3405bb2809908fd4798be93303cfdbf2&language=en_US&ref_=as_li_ss_tl)** case myself. I have been using it for almost half a year now. Honestly, I am in love with this case. It has the best air-flow system and the most attractive looks. The exterior is made completely out of aluminum and has room for two extra cooling fans. It also has an in-built cable management system.
 
 
   The only drawback that I found in it is that it doesn’t have housing for a USB-C port. Luckily, I don’t own a device that uses USB-C, but for those of you who do, you should consider this flaw before purchasing this case.
@@ -47,7 +47,7 @@ after_intro: >-
   ## Importance of a Good PC Case
 
 
-  If you have been saving up to build your dream PC, then your top preference should be a unique PC case. Trust me when I tell you, people will always judge your system by the looks of it. Even if you own a 2080Ti and a Core i9, a poor PC case will always make it judgmental.
+  If you have been saving up to build your dream PC, then your top preference should be a unique PC case. Trust me when I tell you, people will always judge your system by the looks of it. Even if you own a **2080Ti** and a Core i9, a poor PC case will always make it judgmental.
 
 
    On the other hand, a good looking case shouts out loud that it houses a beast inside it. You don’t have to explain your PC’s hardware to everyone individually in order to impress them. The case does all the talking for you.
@@ -65,6 +65,9 @@ after_intro: >-
   * Lastly, buy a PC case according to the hardware and motherboard.
 
   * You can add accessories like RGBs, water cooling, fans later on.
+
+
+  **[Skip to Products](https://gamingtechies.com/best-open-air-pc-case/#1-thermaltake-core-p5)**
 buyingGuideHead: Quick Shopping Tips!
 buyingGuide: >-
   The PC case is a one-time purchase most of the time. You can upgrade the
@@ -110,7 +113,10 @@ buyingGuide: >-
   * Standard ATX
 
 
-  You need to know the size and dimensions of your motherboard and then check the case’s compatibility with that size. Similarly,  components such as GPUs and PSUs require separate space to work properly. If the case is not spacious enough for these components, they may not fit properly to the motherboard. You will then be required to make alterations to the PC case. 70% of the time, alterations result in ruining the looks of the case.
+  You need to know the size and dimensions of your motherboard and then check the case’s compatibility with that size. Similarly, components such as GPUs and PSUs require separate space to work properly. If the case is not spacious enough for these components, they may not fit properly to the motherboard. You will then be required to make alterations to the PC case. 70% of the time, alterations result in ruining the looks of the case.
+
+
+  **Related: [Difference Between Micro ATX vs. Mini ITX vs. ATX](https://gamingtechies.com/micro-atx-vs-mini-atx-vs-atx/)**
 
 
   ### Looks
@@ -156,7 +162,7 @@ the_products:
   - name: 1. Thermaltake Core P5
     nameForTOC: Thermaltake Core P5
     image: /uploads/thermaltake-core-p5.webp
-    amzlink: https://amzn.to/35lVAf3
+    amzlink: https://www.amazon.com/Thermaltake-Tempered-Vertical-Computer-CA-1E7-00M1WN-05/dp/B07VNP18ZR?&linkCode=ll1&tag=gamingtechi09-20&linkId=c679d00b03c336275280a1300b00cf3b&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           The first PC case in the list is best known for its portability. It
@@ -169,7 +175,7 @@ the_products:
           This case has amazing hardware capacities, including housing space for liquid cooling radiators. It is one of the few cases to support Multi-GPUs without the need for any alterations fully. It comes company altered according to space and cooling requirements of a multi-GPU machine.
 
 
-          The case inside can be accessed by removing the large acrylic window present on its side. Acrylic is a material similar to plastic but has all the qualities of tempered glass. It is also known as shatter-proof glass. Such a side*glass greatly enhances the beauty of your system. All the material used in this case is highly durable. The mainframe is made of aluminum, and the housing is made of high-quality plastic.
+          The case inside can be accessed by removing the large acrylic window present on its side. **[Acrylic](https://www.curbellplastics.com/Research-Solutions/Materials/Acrylic#:~:text=Acrylic%20is%20a%20transparent%20plastic,to%20many%20other%20transparent%20plastics.)** is a material similar to plastic but has all the qualities of tempered glass. It is also known as shatter-proof glass. Such a side*glass greatly enhances the beauty of your system. All the material used in this case is highly durable. The mainframe is made of aluminum, and the housing is made of high-quality plastic.
   - name: 2. Corsair Graphite Series 760T
     nameForTOC: Corsair Graphite Series 760T
     paragraphs:
@@ -188,7 +194,7 @@ the_products:
 
           This case can house all your hardware such as USB 3.0, 2.0, USB C, Ample liquid cooling system. That’s right! This case has built-in support for an Ample liquid cooling system. The case is designed for housing some of the most powerful machines that require even more powerful cooling systems. However, the only drawback of this case is that it doesn’t support Multi-GPU without doing alterations.
     image: /uploads/corsair-graphite-series-760t.webp
-    amzlink: https://amzn.to/3pPFPX7
+    amzlink: https://www.amazon.com/CORSAIR-GRAPHITE-Full-Tower-Window-Panels/dp/B00P7TPYI2?&linkCode=ll1&tag=gamingtechi09-20&linkId=6e3eb81a98c5f677bb1571b678101ece&language=en_US&ref_=as_li_ss_tl
   - name: 3. In Win D-Frame 2.0 Open-Air Chassis
     nameForTOC: In Win D-Frame 2.0 Open-Air Chassis
     image: /uploads/in-win-d-frame-2.0-open-air-chassis.webp
@@ -196,9 +202,11 @@ the_products:
     paragraphs:
       - paragraph: >-
           These are some of the high-value PC case preferred by professionals.
-          This case is highly customizable as well as durable. The whole case is
-          inspired by bike designs. This case has a unique Two-way open design
-          that sets it apart from other models in the market.
+          **[This
+          case](https://www.amazon.com/D-Frame-2-0-BK-GO-Motorcycle/dp/B06XGNLGJM?&linkCode=ll1&tag=gamingtechi09-20&linkId=fd5b6fb7ff74bc3731b6ad8f237a63c5&language=en_US&ref_=as_li_ss_tl)**
+          is highly customizable as well as durable. The whole case is inspired
+          by bike designs. This case has a unique Two-way open design that sets
+          it apart from other models in the market.
 
 
           The frame of this case is made completely from tungsten, one of the hardest metals on earth. You should know that I am talking about some serious durability when I say highly-durable. The whole case is handcrafted and perfected by the experts. It is one of the most beautiful and luxurious cases on the whole list.
@@ -212,7 +220,7 @@ the_products:
     paragraphs:
       - paragraph: >-
           I have already told you all the information about this case at the
-          start of the article. It has the best air-flow system and the most
+          start of the article. It has the **best air-flow system** and the most
           attractive looks. The exterior is made completely out of aluminum and
           has room for two extra cooling fans. It also has an in-built cable
           management system.
@@ -222,18 +230,19 @@ the_products:
 
 
           It is a modular case, which means that it can be easily customized according to your taste and requirements. These customizations can sometimes even be done without using a screwdriver. It is the best PC case I have ever used.
-    amzlink: https://amzn.to/35kcESK
+    amzlink: https://www.amazon.com/Cougar-CONQUER-ATX-Gaming-Case/dp/B0759PNHX8?&linkCode=ll1&tag=gamingtechi09-20&linkId=3405bb2809908fd4798be93303cfdbf2&language=en_US&ref_=as_li_ss_tl
   - name: 5. Thermaltake Core P1
     nameForTOC: Thermaltake Core P1
     image: /uploads/thermaltake-core-p1.webp
-    amzlink: https://amzn.to/3vmsTsW
+    amzlink: https://www.amazon.com/Thermaltake-Tempered-Panoramic-Certified-CA-1H9-00T1WN-00/dp/B06XFW9W43?&linkCode=ll1&tag=gamingtechi09-20&linkId=d957c7499e2ac2ff44ceb0fbb808cf07&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
-          This case is best suitable for Mini ATX type motherboards. It is
-          perfect if you plan to build a compact or mini gaming PC because it
-          has the perfect balance between compact size and cooling. You can
-          install two external cooling fans to the front of the case for added
-          cooling.
+          This case is best suitable for **[Mini
+          ATX](https://gamingtechies.com/micro-atx-vs-mini-atx-vs-atx/)** type
+          motherboards. It is perfect if you plan to build a compact or mini
+          gaming PC because it has the perfect balance between compact size and
+          cooling. You can install two external cooling fans to the front of the
+          case for added cooling.
 
 
           You can place this case on your desk or even mount it on a wall. It is the cutest case in the whole list. But don’t be fooled by its small size because it has all the specs of a full-sized open-air case. You can install RGBs and high RPM cooling fans without any hassle. It can even house 500W PSUs in its built-in housing.
@@ -243,14 +252,16 @@ the_products:
   - name: 6. Antec Striker
     nameForTOC: Antec Striker
     image: /uploads/antec-striker.webp
-    amzlink: https://amzn.to/3cBLlHh
+    amzlink: https://www.amazon.com/Antec-Aluminum-ITX-Computer-Included/dp/B08CSQ31F7?&linkCode=ll1&tag=gamingtechi09-20&linkId=913149d989ccc3daf9b14ff7e5b816a4&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
-          The Striker is the most arousing PC case on the list. It has a simple
-          design but has some magic in it. The simplicity attracts you towards
-          hardcore gaming and testing your hardware limits on this case. It even
-          has a built-in cable management system to make your PC look even more
-          neat and elegant.
+          **[The
+          Strike](https://www.amazon.com/Antec-Aluminum-ITX-Computer-Included/dp/B08CSQ31F7?&linkCode=ll1&tag=gamingtechi09-20&linkId=913149d989ccc3daf9b14ff7e5b816a4&language=en_US&ref_=as_li_ss_tl)**r
+          is the most arousing PC case on the list. It has a simple design but
+          has some magic in it. The simplicity attracts you towards hardcore
+          gaming and testing your hardware limits on this case. It even has a
+          built-in cable management system to make your PC look even more neat
+          and elegant.
 
 
           The frame structure of Striker is composed of highly durable aluminum and steel. The case’s interior is completely insulated with a current insulation factor of 99% to prevent any accidents. It is a fully open-air case, so you should expect some very serious cooling performance from it.
@@ -260,7 +271,7 @@ the_products:
   - name: 7. FSP CMT710
     nameForTOC: FSP CMT710
     image: /uploads/fsp-cmt710.webp
-    amzlink: https://amzn.to/3gjU6rS
+    amzlink: https://www.amazon.com/FSP-Streaming-Dual-System-Computer-CMT710/dp/B084Y83RWG?&linkCode=ll1&tag=gamingtechi09-20&linkId=a911519d50e59209489037f8c075d2f5&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           This last case is the most expensive pc case in the world. It has all
@@ -277,10 +288,10 @@ the_products:
           It can house all motherboards, PSUs, GPUs, Cooling fans, and all the other components TWICE! Because It has dual system support. That means that you can install two PCs in a single case and simultaneously change between them using a common HDMI port. It has all the necessary components of a modern PC such as USB C, cooling radiators, etc.
 conclusion:
   - paragraph: >-
-      A perfect open-air PC case is best for perfectly cooling the system even
-      at high loads. It also increases the beauty of the system and makes it
-      more aesthetic.
+      A perfect **open-air PC case** is best for perfectly cooling the system
+      even at high loads. It also increases the beauty of the system and makes
+      it more aesthetic.
 
 
-      In this article, I have collected all the necessary information that you require before purchasing a PC case. Hope you liked it.
+      In this article, I have collected all the necessary information that you require before purchasing a PC case. **Hope you liked it.**
 ---
