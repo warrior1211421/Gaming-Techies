@@ -35,7 +35,7 @@ The first AC game was released back in 2007. So, it has been almost 14 years, an
 11. Assassin’s Creed: Odyssey (2018)
 12. Assassin’s Creed: Valhalla (2021)
 
-### Assassin’s Creed (2007):
+### Assassin’s Creed (2007)
 
 The first Assassin’s Creed game features Desmond Miles as its main character. He wakes up in a lab where he meets with Dr. Vidic and his assistant. After some introduction about the Animus and a slight backstory, they force him to enter the machine. 
 
