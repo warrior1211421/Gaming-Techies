@@ -114,10 +114,12 @@ the_products:
           Gamers, if you want a modem that will give you excellent network
           connection while being connected to multiple other devices
           simultaneously and also saves your monthly rental fee, then this
-          NETGEAR C7800 Modem is complementary to your choice.
+          **[NETGEAR
+          C7800](https://www.amazon.com/gp/product/B01I8KA48G?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=b05e1f50fcd7282f04f648e27fa09c51&language=en_US&ref_=as_li_ss_tl)**
+          Modem is complementary to your choice.
 
 
-          NETGEAR C7800 Modem is a 10.40×7.50×12.40 inches featured pack router that takes care of all internet related needs of gamers.
+          **[NETGEAR C7800](https://www.amazon.com/gp/product/B01I8KA48G?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=b05e1f50fcd7282f04f648e27fa09c51&language=en_US&ref_=as_li_ss_tl)** Modem is a 10.40×7.50×12.40 inches featured pack router that takes care of all internet related needs of gamers.
 
 
           This modem is designed keeping in view the requirements of a gamer from its router, and it efficiently replaces your conventional wifi devices and keeps you happy at saving $150/yr in the rental fee of the equipment.
@@ -129,7 +131,7 @@ the_products:
           While entertaining you with a perfect high speed of up to 3200Mbps for your heavy-duty 4k HD streaming, it also provides you with an additional feature of parental control that you can use to limit the internet access to other devices. Now you can have a check on your kid’s screen and also manipulate the devices if they are hindering your gaming experience.
 
 
-          Because of the inclusion of amplified antennas and range-boosting Beamforming+ technology, NETGEAR C7800 Modem allows you to enjoy unlimited WiFi coverage up to 3000 square feet.
+          Because of the inclusion of amplified antennas and range-boosting Beamforming+ technology, **[NETGEAR C7800](https://www.amazon.com/gp/product/B01I8KA48G?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=b05e1f50fcd7282f04f648e27fa09c51&language=en_US&ref_=as_li_ss_tl)** Modem allows you to enjoy unlimited WiFi coverage up to 3000 square feet.
 
 
           You can very quickly and easily set up this modem by simply plugging in your coax cable into your modem and then by activating either of them according to your own convenience.
@@ -143,7 +145,7 @@ the_products:
       - pro: Vast coverage.
       - pro: Excellent uninterrupted network access.
       - pro: Perfect 4K HD streaming.
-    amzlink: https://amzn.to/3wAd7w9
+    amzlink: https://www.amazon.com/gp/product/B01I8KA48G?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=b05e1f50fcd7282f04f648e27fa09c51&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NETGEAR C7800
     name: 1. NETGEAR C7800
     specifications:
@@ -166,7 +168,7 @@ the_products:
           This router says much about itself and has attracted millions of admirers through its unmatched features.
 
 
-          ASUS modem comes combined with a DOCSIS cable modem having a WiFi AC2600 router that is meticulously powered by advanced wireless technologies designed to deliver full bandwidth and coverage.
+          **[ASUS](https://www.asus.com/pk/)** modem comes combined with a DOCSIS cable modem having a WiFi AC2600 router that is meticulously powered by advanced wireless technologies designed to deliver full bandwidth and coverage.
 
 
           Now, with zero dead zones in your house, you can enjoy uninterrupted internet access up to a vast area of your house.
@@ -196,7 +198,7 @@ the_products:
       - pro: Works best with Comcast's Xfinity Internet.
       - pro: "Highly rated and recommended. "
       - pro: "Monthly rental saving. "
-    amzlink: https://amzn.to/3zrLBTl
+    amzlink: https://www.amazon.com/gp/product/B06Y3XQ8M9?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=28b806d6e1de415091f9cf4ec9f1a640&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS DOCSIS 3.0
     name: 2. ASUS DOCSIS 3.0
     specifications:
@@ -210,9 +212,10 @@ the_products:
   - summary_award: Best Dual-Band WiFi
     paragraphs:
       - paragraph: >-
-          Linksys is among the top-rated modem sellers and is famous for its
-          best quality products and highly efficient network provision, which
-          the gamers are extremely grateful to have.
+          **[Linksys](https://www.linksys.com/us/)** is among the top-rated
+          modem sellers and is famous for its best quality products and highly
+          efficient network provision, which the gamers are extremely grateful
+          to have.
 
 
           When you have this Linksys High-Speed 2.04×9.68×7.63 inches dual-band WiFi modem with you at your home, you can enjoy its unlimited features that are there to entertain the users, especially the gamers.
@@ -221,7 +224,7 @@ the_products:
           Linksys has taken great care in maintaining the internal features and the outward look of the product. This modem is inspected professionally, cleaned, and tested to work and look like a brand new product. The high-quality material with which it is made makes it reliable and durable to use.
 
 
-          This modem is intentionally designed for gamers who are so inclined towards their gaming all the time and want a speedy internet connection for their gameplay. AC2300 comes to provide you Next-Gen AC WiFi speed up to 3.2 Gbps that help you be at the top of your game.
+          This modem is intentionally designed for gamers who are so inclined towards their gaming all the time and want a speedy internet connection for their gameplay. **[AC2300](https://www.amazon.com/gp/product/B072LQZFHM?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=4778c8b43edfa6ca2fd441eacad1608b&language=en_US&ref_=as_li_ss_tl)** comes to provide you Next-Gen AC WiFi speed up to 3.2 Gbps that help you be at the top of your game.
 
 
           Its Killer Prioritization Engine is included to identify, prioritize, and identify gaming network traffic above any other and reduces peak ping up to 77% so that you don’t have to worry about losing the round.
@@ -241,7 +244,7 @@ the_products:
       - pro: DFS Feature.
       - pro: "Premium quality material. "
       - pro: "Prioritizes gaming. "
-    amzlink: https://amzn.to/3vpRnBs
+    amzlink: https://www.amazon.com/gp/product/B072LQZFHM?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=4778c8b43edfa6ca2fd441eacad1608b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Linksys WRT32X AC3200 "
     name: 3. Linksys WRT32X AC3200
     specifications:
@@ -257,8 +260,9 @@ the_products:
       - paragraph: >-
           If you are tired of changing and trying various modems to treat your
           network speed problems and still have not found any way out, then make
-          sure to try out this NETGEAR Cable Modem CM600 once, and you’ll watch
-          out all your internet troubles fade away.
+          sure to try out this **[NETGEAR Cable Modem
+          CM600](https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl)**
+          once, and you’ll watch out all your internet troubles fade away.
 
 
           This 5.30×8.70×2.40 inches router comes packed with features that are unmatched and could not be found in any other router.
@@ -267,16 +271,16 @@ the_products:
           This cable modem is specifically designed to set you free from all the internet speed related troubles. It comes to provide you with a connection with an exclusively high speed of up to 960Mbps, including 24 downstream and eight upstream channels that you can enjoy anytime.
 
 
-          NETGEAR products are always easy to install, and when it comes to the installation of CM600, it’s super quick and easy; and you can install the device just by plugging in your coax cable into the modem and by activating either of them, whatever may suit you.
+          **[NETGEAR](https://www.netgear.com/)** products are always easy to install, and when it comes to the installation of **[CM600](https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl)**, it’s super quick and easy; and you can install the device just by plugging in your coax cable into the modem and by activating either of them, whatever may suit you.
 
 
-          CM600 works with any type of WiFi router. Just plug the modem into the router that perfectly fulfills your wireless needs. You can easily start streaming and play high-end games of your choice at very high speed.
+          **[CM600](https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl)** works with any type of WiFi router. Just plug the modem into the router that perfectly fulfills your wireless needs. You can easily start streaming and play high-end games of your choice at very high speed.
 
 
           This modem is highly compatible with all the major cable providers, including Xfinity by Spectrum, Comcast, and COX.
 
 
-          CM600 eliminates the monthly rental fees and helps you save up to $168 or more per year.
+          **[CM600](https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl)** eliminates the monthly rental fees and helps you save up to $168 or more per year.
 
 
           NETGEAR Cable Modem CM600 does not let you feel frustrated over the lagging internet connection and provides you a high-end speed for unlimited simultaneous connections.
@@ -284,7 +288,7 @@ the_products:
       - pro: "Vast compatibility range. "
       - pro: Efficient speed.
       - pro: "Quick and easy installation. "
-    amzlink: https://amzn.to/3vjBMDv
+    amzlink: https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NETGEAR CM600
     name: 4. NETGEAR CM600
     specifications:
@@ -296,7 +300,7 @@ the_products:
           and bundled voice services.
     image: /uploads/netgear-cable-modem-cm600.webp
     award: Best Cable Modem For Gaming
-  - summary_award: ""
+  - summary_award: Best Router within This Price
     paragraphs:
       - paragraph: >-
           Ever since its establishment, Motorola has remained dedicated to
@@ -340,7 +344,7 @@ the_products:
       - pro: "Packed in PVC Jacket. "
       - pro: "100% Pure Copper. "
       - pro: "Speed up-to 10Gbps. "
-    amzlink: https://amzn.to/3pOMlNM
+    amzlink: https://www.amazon.com/gp/product/B01MSTB5KW?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=e26505bb463c1887662d4d954f5e0239&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MOTOROLA MG7540
     name: 5. MOTOROLA MG7540
     specifications:
@@ -351,10 +355,8 @@ the_products:
       - con: "Difficult Installation. "
       - con: Less Bandwidth.
     image: /uploads/motorola-vdsladsl2-modem-router.webp
-  - name: 6. NETGEAR Orbi All-in-One
-    nameForTOC: NETGEAR Orbi All-in-One
-    image: /uploads/netgear-orbi-all-in-one-wifi-router.webp
-    amzlink: https://amzn.to/3vpRs8e
+    award: Best Router within This Price
+  - summary_award: Best Modem for Durability
     paragraphs:
       - paragraph: >-
           Orbi is popular for providing a fast, reliable, and upgraded wifi
@@ -393,16 +395,18 @@ the_products:
     pros:
       - pro: "Best performance. "
       - pro: Saves rental fee of up to $156.
-    cons:
-      - con: Not compatible with Verizon, CenturyLink, or AT&T.
+    amzlink: https://www.amazon.com/gp/product/B07CNZ9PXC?ie=UTF8&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=0ce77e1913a8bff14e27ac7b32c6fce3&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: NETGEAR Orbi All-in-One
+    name: 6. NETGEAR Orbi All-in-One
     specifications:
       - specification: "**Brand:** NETGEAR **\\| Frequency:** Not Specified **\\|
           Weight:** 3.25 pounds **\\| Dimensions:** 8 x 9.57 x 5.91 inches **\\|
           Data Speed:** 2.2 GBPS"
-  - name: 7. ARRIS SURFboard SBG7600AC2
-    nameForTOC: ARRIS SURFboard SBG7600AC2
-    image: /uploads/arris-surfboard-sbg7600ac2.webp
-    amzlink: https://amzn.to/3grHQV8
+    cons:
+      - con: Not compatible with Verizon, CenturyLink, or AT&T.
+    image: /uploads/netgear-orbi-all-in-one-wifi-router.webp
+    award: Best Modem for Durability
+  - summary_award: Best Modem for Connection Stability
     paragraphs:
       - paragraph: >-
           Selecting the best modem for your online gaming can be the most
@@ -410,7 +414,7 @@ the_products:
           the choice becomes very easy.
 
 
-          Entertaining you with multiple features like increased speed, wide compatibility options, dual-band wifi with the best performance, and many others, ARRIS SURFboard SBG7600AC2 has made its way to the hearts of millions of people.
+          Entertaining you with multiple features like increased speed, wide compatibility options, dual-band wifi with the best performance, and many others, ARRIS **[SURFboard SBG7600AC2](https://www.amazon.com/gp/product/B07H4VJHB9?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=f623b977230159c2ee5c65625542f196&language=en_US&ref_=as_li_ss_tl)** has made its way to the hearts of millions of people.
 
 
           Considering DOCSIS is very important when you are buying the best ever performing router. DOCSIS is a telecommunications standard that is used by cable TV providers to provide internet access over the existing infrastructure. Its relationship to the modem is that the higher the DOCSIS better the performance of the modem.
@@ -440,18 +444,20 @@ the_products:
       - pro: 4 Gigabit Ethernet ports.
       - pro: "Perfect performance. "
       - pro: "Great support for multiple devices. "
-    cons:
-      - con: "Not compatible with Verizon, ATT, Century Link, or other DSL or Fiber
-          internet providers. "
-      - con: Digital voice service not supported.
+    amzlink: https://www.amazon.com/gp/product/B07H4VJHB9?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=f623b977230159c2ee5c65625542f196&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: ARRIS SURFboard SBG7600AC2
+    name: 7. ARRIS SURFboard SBG7600AC2
     specifications:
       - specification: "**Brand:** ARRIS **\\| Frequency:** Not Specified **\\|
           Weight:** 2.59 pounds **\\| Dimensions:** 9.72 x 4.06 x 9.5 inches
           **\\| Data Speed:** 1400 MBPS"
-  - name: 8. Motorola MB8600
-    nameForTOC: Motorola MB8600
-    image: /uploads/motorola-mb8600-cable-modem.webp
-    amzlink: https://amzn.to/3vqYMR4
+    cons:
+      - con: "Not compatible with Verizon, ATT, Century Link, or other DSL or Fiber
+          internet providers. "
+      - con: Digital voice service not supported.
+    image: /uploads/arris-surfboard-sbg7600ac2.webp
+    award: Best Modem for Connection Stability
+  - summary_award: Best Modem with Stable Internet Connection
     paragraphs:
       - paragraph: >-
           You cannot imagine what this 7.25×2.25×7.88 inches router can do to
@@ -490,17 +496,19 @@ the_products:
       - pro: Reduced latency.
       - pro: "Ultra-secure from denials of service attacks. "
       - pro: "Compatible with most of the cable modems. "
-    cons:
-      - con: Not compatible with Verizon, AT&T, CenturyLink, and other satellite, DSL,
-          or fiber optic services.
+    amzlink: https://www.amazon.com/gp/product/B0723599RQ?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=8651c1b964dd3a62f0f024a40bc1afc3&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: Motorola MB8600
+    name: 8. Motorola MB8600
     specifications:
       - specification: "**Brand:** Motorola **\\| Frequency:** Not Specified **\\|
           Weight:** 1.1 ounces **\\| Dimensions:** 7.25 x 2.25 x 7.88 **\\|**
           inches **\\| Data Speed:** Not Specified"
-  - name: 9. Tenda AC10U Smart Gigabit
-    nameForTOC: Tenda AC10U Smart Gigabit
-    image: /uploads/tenda-gigabit-wi-fi-router.webp
-    amzlink: https://amzn.to/3gw3qYG
+    cons:
+      - con: Not compatible with Verizon, AT&T, CenturyLink, and other satellite, DSL,
+          or fiber optic services.
+    image: /uploads/motorola-mb8600-cable-modem.webp
+    award: Best Modem with Stable Internet Connection
+  - summary_award: Best Designed Modem
     paragraphs:
       - paragraph: >-
           Gamers would enjoy the company of this router as it keeps them at ease
@@ -545,26 +553,29 @@ the_products:
       - pro: "Perfect for gamers. "
       - pro: "Reduced latency. "
       - pro: Ultimate coverage.
-    cons:
-      - con: A bit expensive.
+    amzlink: https://www.amazon.com/gp/product/B00ES6ZQ7O?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=2c8b0eee1a6012f1153f85065686d64a&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: Tenda AC10U Smart Gigabit
+    name: 9. Tenda AC10U Smart Gigabit
     specifications:
       - specification: "**Brand:** Tenda **\\| Frequency:** 5 GHz **\\| Weight:** 12.4
           ounces **\\| Dimensions:** 8.66 x 5.57 x 1.93 inches **\\| Data
           Speed:** 1200 MBPS"
-  - name: 10. WAVLINK AC2100
-    nameForTOC: WAVLINK AC2100
-    image: /uploads/wavlink-smart-wifi-router.webp
+    cons:
+      - con: A bit expensive.
+    image: /uploads/tenda-gigabit-wi-fi-router.webp
+    award: Best Designed Modem
+  - summary_award: Best Modem with Advanced Technology
     paragraphs:
       - paragraph: >-
-          WAVLINK is famous for introducing super-fast and actively performing
-          routers that are perfect for gamers to handle more efficient and
-          successful gameplay.
+          **[WAVLINK](https://www.wavlink.com/)** is famous for introducing
+          super-fast and actively performing routers that are perfect for gamers
+          to handle more efficient and successful gameplay.
 
 
           Coming with multiple features, this router is designed to excite the gamers each time they try their hand at their favorite gameplay while connected to this router. With its ultimate speed, extra-wide range of coverage, multiple device connectivity options, and advanced MU-MIMO technology, it has now become the favorite of almost all gamers.
 
 
-          WAVLINK is equipped with Broadcom 4709 chip and high-quality Beamforming antennas that entertain you with super-fast internet speed and at a much larger distance than you can ever imagine. It spreads the WiFi all over the home so that all the dead points are eliminated, and you are provided with a greatly performing internet connection.
+          **[WAVLINK](https://www.wavlink.com/)** is equipped with Broadcom 4709 chip and high-quality Beamforming antennas that entertain you with super-fast internet speed and at a much larger distance than you can ever imagine. It spreads the WiFi all over the home so that all the dead points are eliminated, and you are provided with a greatly performing internet connection.
 
 
           With this newest and advanced technology, the capacity of your modem gets increased, and it allows even more devices to connect with it simultaneously without making any lag in the connection for others.
@@ -585,20 +596,24 @@ the_products:
           This router is supported with a built-in Broadcom 1.4GHz dual-core main processor to provide it with a much better performance. This processor can intelligently handle the bandwidth distribution.
 
 
-          WAVLINK is not an ordinary router, but it comes with 26 features that keep you satisfied with its performance. For gamers, it may prove to be the right choice if they want to play their favorite game with an increased and non-lagging internet speed.
+          **[WAVLINK](https://www.wavlink.com/)** is not an ordinary router, but it comes with 26 features that keep you satisfied with its performance. For gamers, it may prove to be the right choice if they want to play their favorite game with an increased and non-lagging internet speed.
     pros:
       - pro: "Extraordinary performance. "
       - pro: Greater Coverage.
       - pro: "Perfect speed. "
       - pro: "Multiple features. "
       - pro: "Advanced technologies. "
-    cons:
-      - con: Not much rated.
-    amzlink: https://amzn.to/3ghTcMx
+    amzlink: https://www.amazon.com/gp/product/B01K1RCRR0?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=649fde5968af9d9c842761f2634184f9&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: WAVLINK AC2100
+    name: 10. WAVLINK AC2100
     specifications:
       - specification: "**Brand:** WAVLINK **\\| Frequency:** 5 GHz **\\| Weight:** 2.25
           pounds **\\| Dimensions:** 9 x 5.7 x 8.7 inches **\\| Data Speed:**
           1000 MBPS"
+    cons:
+      - con: Not much rated.
+    image: /uploads/wavlink-smart-wifi-router.webp
+    award: Best Modem with Advanced Technology
 conclusion:
   - paragraph: >-
       Gaming in itself is a focus demanding task, but in the middle of the game,
