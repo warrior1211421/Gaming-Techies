@@ -15,7 +15,7 @@ featured_Image: /uploads/how-to-play-burned-dreamcast-games.webp
 categories:
   - Knowledge Base
 ---
-**[Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)** was released back in 1999 by Sega as the predecessor to all sixth-generation gaming consoles. Its open-source firmware provides endless possibilities for playing later games. In this tutorial, I will explain how to play burned Dreamcast games. 
+**[Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)** was released back in 1999 by Sega as the predecessor to all sixth-generation gaming consoles. Its open-source firmware provides endless possibilities for playing later games. In this tutorial, I will explain **how to play burned dreamcast games.** 
 
 The list of original Dreamcast console titles is limited to only 624. However, the powerful hardware and the stable firmware allow you to play a lot more than that.
 
@@ -23,7 +23,7 @@ The list of original Dreamcast console titles is limited to only 624. However, t
 
 ![Does your Dreamcast Support Burned Games](/uploads/does-your-dreamcast-support-burned-games.webp "Does your Dreamcast Support Burned Games")
 
-Dreamcast comes with powerful hardware that can play several games. However, only specific devices are programmed to play pirated games burned CD R discs. To check whether or not your console supports burned games, follow this tutorial
+**[Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)** comes with powerful hardware that can play several games. However, only specific devices are programmed to play pirated games burned CD R discs. To check whether or not your console supports burned games, follow this tutorial
 
 * Unplug all the wires from your Dreamcast. 
 * 'Turn it upside down and look for the branding sticker at the bottom of the console. 
