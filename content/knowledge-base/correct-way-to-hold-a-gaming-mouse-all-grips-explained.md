@@ -110,4 +110,4 @@ There were the main things that you need to keep in mind while using your mouse.
 
 ### Some Concluding Words 
 
-We hope that our guide on how to hold a gaming mouse has helped you a lot in correcting your grip positions and styles. We have done this homework just to keep you away from any type of injury or strain that might occur in your wrist, shoulder, or neck while using and holding your mouse the wrong way. We are sure that by following our guide, you will be set free from any such trouble.
+We hope that our guide on **how to hold a gaming mouse** has helped you a lot in correcting your grip positions and styles. We have done this homework just to keep you away from any type of injury or strain that might occur in your wrist, shoulder, or neck while using and holding your mouse the wrong way. We are sure that by following our guide, you will be set free from any such trouble.
