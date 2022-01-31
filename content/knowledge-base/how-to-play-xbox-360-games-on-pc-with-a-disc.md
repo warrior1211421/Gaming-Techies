@@ -71,7 +71,7 @@ The PC hardware had evolved greatly since the first Xbox 360 release back in 200
 
 #### Step-by-Step: How to use Xenia Emulator:
 
-If your gaming PC matches the above requirements, you are good to go. Make sure that your PC has a dedicated Nvidia or AMD graphics card. Otherwise, Intel HD graphics provide 2-3 FPS at the most. Moreover, if you want even better performance, then upgrade your PC. People with 1660 or better GPUs will not get the maximum performance because the emulator is not yet optimized for such powerful hardware.
+If your gaming PC matches the above requirements, you are good to go. Make sure that your PC has a dedicated Nvidia or AMD graphics card. Otherwise, Intel HD graphics provide 2-3 FPS at the most. Moreover, if you want even better performance, then upgrade your PC. People with **[1660](https://www.amazon.com/ZOTAC-GeForce-192-bit-Graphics-ZT-T16600K-10M/dp/B07XV7FNR2?keywords=GTX+1660&qid=1643646142&sr=8-1&linkCode=ll1&tag=gamingtechi09-20&linkId=29fafc9f52343284ab13b98fad8a738c&language=en_US&ref_=as_li_ss_tl)** or better **[GPUs](https://gamingtechies.com/best-pc-build-under-1000/) (Best PC Build Under 1000$)** will not get the maximum performance because the emulator is not yet optimized for such powerful hardware.
 
 * Download the latest version of Xenia from the official website [here.](https://xenia.jp/download/)
 * You can choose from the Xenia master version for optimum settings.
@@ -107,3 +107,5 @@ Xenia currently doesn’t support direct run from disc drives. Therefore, you ha
 ## Conclusion:
 
 Xbox 360 has been around for over 16 years but playing your childhood games always brings back memories. The best way to enhance your gameplay is to run Xbox games directly on your gaming PC. I hope this tutorial was clear enough for you to understand **how to play Xbox 360 games on pc with a disc.**
+
+**Related: [How to Play Burned Dreamcast Games](https://gamingtechies.com/how-to-play-burned-dreamcast-games/)**
