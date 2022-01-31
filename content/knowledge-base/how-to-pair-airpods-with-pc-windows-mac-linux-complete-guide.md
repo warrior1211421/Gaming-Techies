@@ -118,7 +118,7 @@ Pairing your AirPods with a Linux-based system requires a lot more than just hea
 * Disable all other paired devices with the AirPods such as your iPhone, iPad, and laptop.
 * Toggle the pairing mode by long-pressing the case’s setup button for 2-3 settings till the light turns white.
 * Run bluetoothctl and type scan on in the available prompt.
-* Copy the Bluetooth address of your Apple AirPods from the list.
+* Copy the Bluetooth address of your **[Apple AirPods](https://www.apple.com/airpods/)** from the list.
 * Type pair <the copied Bluetooth address< and hit the Enter button.
 * Close the AirPods case lid and wait for 5 seconds before opening the lid again.
 * Head over to the settings, choose Bluetooth and connect to your Apple AirPods.
