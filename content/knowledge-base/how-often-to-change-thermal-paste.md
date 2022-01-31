@@ -26,7 +26,7 @@ Modern computer components are becoming more and more powerful every year. Every
 
 **Also Read : [Best GPU for Ryzen 7 5800x](https://gamingtechies.com/best-gpu-for-ryzen-7-5800x/)**
 
-A thermal paste is a semi-conductor-based compound that catches the heat from the component and transfers it to the heatsink and, ultimately, the cooling fan. Most people think of thermal pastes as cooling compounds. In reality, the thermal paste only ensures that the heatsink is fully in contact with the CPU. For instance, even if the heatsink is tightly sealed on the CPU or GPU, some microscopic air bubbles are still present. As you know, the air is a poor heat conductor; the air bubbles prevent heat transfer from the respective areas on the hardware. However, a thermal paste ensures that little to no air bubbles are left between the heatsink and the component, thus ensuring lower temperatures.
+A thermal paste is a semi-conductor-based compound that catches the heat from the component and transfers it to the heatsink and, ultimately, the cooling fan. Most people think of thermal pastes as cooling compounds. In reality, the thermal paste only ensures that the heatsink is fully in contact with the CPU. For instance, even if the heatsink is tightly sealed on the **[CPU](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)** or GPU, some microscopic air bubbles are still present. As you know, the air is a poor heat conductor; the air bubbles prevent heat transfer from the respective areas on the hardware. However, a thermal paste ensures that little to no air bubbles are left between the heatsink and the component, thus ensuring lower temperatures.
 
 ## When to Change the Thermal Paste of the CPU?
 
@@ -52,11 +52,13 @@ People often forget that the thermal paste is only a seal between the cooler and
 
 The thermal paste doesn’t get dried out suddenly. Instead, it is a long-term process. The heat generated from the CPU and GPU dry out the thermal paste gradually over a span of two years. A great way to keep your thermal paste fresh is to keep an eye on your CPU and GPU temperatures. Usually, a good quality thermal paste keeps your CPU and GPU temperature around 35 to 50 degrees Celsius. However, a PC with a dry thermal paste can reach up to 60 degrees centigrade when using the same applications as before. Therefore, if you notice any abnormal temperature rise in the system, it is time to change the thermal paste.
 
+**Related: [How to Keep your GPU cool wHile Gaming](https://gamingtechies.com/how-to-keep-gpu-cool/)**
+
 ## How to Change the Thermal Paste of the CPU?
 
 ![How to Change the Thermal Paste of the CPU](/uploads/how-to-change-the-thermal-paste-of-the-cpu.webp "How to Change the Thermal Paste of the CPU")
 
-Replacing the thermal paste of your system can be a DIY project if you have the right tools. Beware! Changing the thermal paste improperly can short-circuit the system. Here is how to properly change the thermal paste of the CPU:
+**[Replacing the thermal paste](https://gamingtechies.com/how-to-remove-the-thermal-paste-with-alcohol/)** of your system can be a DIY project if you have the right tools. Beware! Changing the thermal paste improperly can short-circuit the system. Here is how to properly change the thermal paste of the CPU:
 
 * Disconnect the PC from the power socket and remove the power cable from the power supply.
 * Open the side panel of your PC case or disassemble the laptop (refer to YouTube).
@@ -78,4 +80,6 @@ Liquid metal-based thermal pastes are more effective than silicon-based pastes. 
 
 ## Conclusion
 
-Thermal pastes play a vital role in keeping your PC’s temperature under control. However, the paste dries out over time and requires replacement every 1-2 years. Moreover, certain environmental factors can decrease your thermal paste’s life. This article provides a complete guide about thermal paste and when to replace it.
+Thermal pastes play a vital role in keeping your PC’s temperature under control. However, the paste dries out over time and requires replacement every 1-2 years. Moreover, certain environmental factors can decrease your thermal paste’s life. This article provides a complete guide about **thermal paste and when to replace it.**
+
+**Related: [How to Replace Thermal Paste with Alcohol](https://gamingtechies.com/how-to-remove-the-thermal-paste-with-alcohol/)**
