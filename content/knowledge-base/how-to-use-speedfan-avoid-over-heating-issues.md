@@ -1,7 +1,7 @@
 ---
 title: How to use Speedfan & Avoid Over Heating Issues.
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: " How to Use SpeedFan? Avoid Over Heating Issues"
 meta_Description: "Speedfan is a popular PC program that allows you to control
