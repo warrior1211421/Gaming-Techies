@@ -15,6 +15,7 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       Why Ryzen 5 3600 is the best Processor to own? Well! You might already
@@ -89,6 +90,7 @@ buyingGuide: >-
 
 
   The reason looking out for a warranty serves as an important thing when buying a motherboard is that the motherboards are a complex assembly of small electronic parts that are put together to make the PC’s functionality possible and even powerful. Hence, it is extremely important for a person to ensure that each of the components of the motherboard works well and to its full potential: the warranty feature helps you make sure of that.
+the_glanceHeading: At a Glace
 product_Summary: Best Motherboards for Ryzen 5 3600 - Summary
 product_Mheading: Best Motherboards for Ryzen 5 3600 Reviews
 the_products:
