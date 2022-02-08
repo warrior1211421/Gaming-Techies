@@ -16,6 +16,7 @@ categories:
   - Graphics Cards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: To keep the functioning of an octa-core processor like AMD Ryzen, you
       always need the best quality GPU that can maintain the internal
