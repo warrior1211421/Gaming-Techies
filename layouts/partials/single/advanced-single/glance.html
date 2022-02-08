@@ -1,6 +1,6 @@
 {{ if .Params.the_products }}
 {{ if .Params.the_glanceHeading }}
-<p id="product-at-glance" class="summary-p"><strong>{{.}}</strong></p>
+<p id="product-at-glance" class="summary-p"><strong>{{.Params.product_glance}}</strong></p>
 {{ else }}
 <p id="product-at-glance" class="summary-p"><strong>{{ .Title }} At a Glance:</strong></p>
 {{ end }}
