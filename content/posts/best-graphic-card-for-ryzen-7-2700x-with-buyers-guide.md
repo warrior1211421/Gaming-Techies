@@ -114,7 +114,7 @@ buyingGuide: >-
 
 
   Another most important thing that we want to make you aware of is to make sure you d not spend too much money on highly overclocked aftermarket graphics cards as it is not enough to provide you the advantage you require from them.
-the_glanceHeading: At a Glace
+the_glanceHeading: "Graphic Card for Ryzen 7 2700x At a Glace:"
 product_Summary: Best GPU for Ryzen 7 2700x - Summary
 product_Mheading: Best GPU for Ryzen 7 2700x Reviews
 the_products:
