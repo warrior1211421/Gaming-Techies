@@ -16,6 +16,7 @@ categories:
   - Keyboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       When a gamer like you is searching for a great quality performing
@@ -130,6 +131,7 @@ buyingGuide: >-
 
 
   These features mentioned above can always help you buy good quality keyboards that will perform perfectly great and satisfy you in your extended gameplay sessions.
+the_glanceHeading: "Low Profile Gaming Keyboard At a Glance:"
 product_Summary: Best Low Profile Gaming Keyboard - Summary
 product_Mheading: Best Low Profile Gaming Keyboard Reviews
 the_products:
