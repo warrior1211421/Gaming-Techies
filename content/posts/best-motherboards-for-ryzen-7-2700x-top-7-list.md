@@ -15,6 +15,7 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       There is a never-ending debate between **[Intel](https://www.intel.com/)**
@@ -38,6 +39,7 @@ after_intro: >-
 
 
   All the new games like Assassin’s creed Valhalla and Call of Duty Vanguard are optimized for the **[Ryzen 7 processors](https://gamingtechies.com/best-motherboard-for-ryzen-7-3700x/)**. You can get eight cores and up to 16 threads with this second-gen Ryzen processor. Similarly, its base clock is 3.7GHz, and the boost clocks in at a whopping 4.3GHz. Such processing power is enough to play the latest games for the next 1-2 years.
+the_glanceHeading: "Motherboards for Ryzen 7 2700x At a Glance:"
 product_Summary: Best Motherboards for Ryzen 7 2700x - Summary
 product_Mheading: Best Motherboards for Ryzen 7 2700x Reviews
 the_products:
