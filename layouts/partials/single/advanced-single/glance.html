@@ -1,0 +1,14 @@
+{{ if .Params.the_products }}
+{{ if .Params.the_glanceHeading }}
+<p id="product-at-glance" class="summary-p"><strong>{{.}}</strong></p>
+{{ else }}
+<p id="product-at-glance" class="summary-p"><strong>{{ .Title }} At a Glance:</strong></p>
+{{ end }}
+<ul class="summary-ul">
+{{ range .Params.the_products }}
+    <li class="summary-li">
+        <a href="#{{.name | anchorize}}"> {{.nameForTOC}}</a>
+    </li>
+{{ end }}
+</ul>
+{{ end }}

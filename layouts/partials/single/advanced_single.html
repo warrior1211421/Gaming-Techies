@@ -4,17 +4,15 @@
 {{ partial "single/advanced-single/top-3" . }}
 {{ end }}
 <p>{{.Params.after_intro | markdownify }}</p>
-{{ if eq .Params.product_table true }}    
+{{ if eq .Params.product_table true }}
 {{ partial "single/advanced-single/summary" . }}
 {{ end }}
 {{ partial "single/advanced-single/buying-guide" . }}
+{{ partial "single/advanced-single/glance" . }}
 {{ partial "single/advanced-single/products" . }}
 <div id="after-products">
     <p>{{.Params.afterProducts | markdownify }}</p>
 </div>
-{{ if eq .Params.product_table true }}    
-{{ partial "single/advanced-single/summary" . }}
-{{ end }}
 {{ partial "single/advanced-single/conclusion" . }}
 {{ partial "single/advanced-single/faqs" . }}
 {{ partial "single/author-box" . }}

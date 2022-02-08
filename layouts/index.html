@@ -7,6 +7,9 @@
         {{ if eq .Site.Params.blogSection true }}
             {{ partial "homepage/section-kbase" . }}
         {{ end }}
+        {{ with .Site.Params.homeContent }}
+            <p>{{. | markdownify}}</p>
+        {{ end }}
     </div>
 
 {{ end }}

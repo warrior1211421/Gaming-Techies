@@ -33,6 +33,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
       - {label: "Product Table", name: "product_table", widget: "boolean", default: false, required: false}
       - {label: "Top 3 Table", name: "top3_table", widget: "boolean", default: false, required: false}
+      - {label: "At Glance", name: "the_glance", widget: "boolean", default: false, required: false}
       #Intro-Paragraphs -->
       - {label: "Introduction Paragraph", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
       - {label: "After Top 3 Table", name: after_intro, widget: markdown }
@@ -40,6 +41,7 @@ collections:
       - {label: Buying Guide Heading, name: buyingGuideHead, required: false, widget: string }
       - {label: Buying Guide, name: buyingGuide, required: false, widget: markdown }
       #Summary & Main-Heading -->
+      - {label: At Glance Heading, name: the_glanceHeading, required: false, widget: string }
       - {label: Table/Summary Heading, name: product_Summary, required: false, widget: string }
       - {label: Before Product Reviews Haeding, name: product_Mheading, required: false, widget: string }
       #Product Recommendations
@@ -47,8 +49,7 @@ collections:
             {label: "Name/Model", required: false, name: name, widget: string },
             {label: "NameForTOC", required: false, name: nameForTOC, widget: string },
             {label: Award, required: false, name: award, widget: string },
-            {label: Summary Award, required: false, name: summary_award, widget: string },
-
+            # {label: Summary Award, required: false, name: summary_award, widget: string },
             {label: Design, required: false, name: image, widget: image},
             {label: "Affiliate Link", required: false, name: amzlink, widget: string },
             {label: More Buttons, name: morebtns, required: false, widget: "list", fields: 
@@ -69,7 +70,7 @@ collections:
               [ {label: Con, name: con, widget: string } ]
             },
             #Product Paragraphs
-            {label: Review Paragraph, name: paragraphs, required: false, widget: "list", fields: 
+            {label: Review Paragraphs, name: paragraphs, required: false, widget: "list", fields: 
               [ {label: Review, name: paragraph, widget: markdown } ]
             }
       ] }
@@ -274,6 +275,7 @@ collections:
           - {label: Header Text, name: headerText, widget: markdown, required: false}
           - {label: Footer Text, name: footerText, widget: markdown, required: false}
           - {label: Homepage Blog/Knowledge Section, name: blogSection, widget: boolean, required: false, hint: "This is the img section on the homepage at the end which shows all knowledge-base posts"}
+          - {label: Homepage Content, name: homeContent, widget: markdown, required: false}
           - label: "Site Colors"
             name: "colors"
             widget: "object"
@@ -346,14 +348,16 @@ collections:
             widget: "list"
             fields:
               [
-                {label: "Category", name: "scrollcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+                {label: "Category", name: "scrollcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]},
+                {label: "Category", name: "scrolldes", widget: "markdown", required: false}
               ]
           - label: "Image Sections"
             name: "img_section"
             widget: "list"
             fields:
               [
-                {label: "Category", name: "imgcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]}
+                {label: "Category", name: "imgcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]},
+                {label: "Category", name: "imgdes", widget: "markdown", required: false}
               ]
           - label: "Post Settings"
             name: "post_setting"

@@ -111,3 +111,6 @@ $('.slider-for').slick({
     focusOnSelect: true,
     arrows: false
   });
+
+// Nofollow Links
+$('[href*="amazon.com"]').attr('rel','nofollow sponsored noopener noreferrer');

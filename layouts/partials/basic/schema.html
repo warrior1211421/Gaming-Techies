@@ -5,10 +5,7 @@
     {{- partial "basic/schema/blog-schema.html" . }}
 {{- end }}
 
-{{- if eq .Page.Type "post" }}
+{{- if or (eq .Page.Type "posts") (eq .Page.Type "knowledge-base") }}
     {{- partial "basic/schema/article.html" . }}
-{{- end }}
-
-{{- if eq .Page.Type "knowledge-base" }}
     {{- partial "basic/schema/blogpost.html" . }}
 {{- end }}

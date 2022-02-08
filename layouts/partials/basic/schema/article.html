@@ -8,12 +8,16 @@
       },
       "headline": "{{.Params.seo_title | default .Title}}",
       "description": "{{.Params.meta_Description}}",
-      "copyrightYear": "{{.now.Format "2006"}}",
+      "copyrightYear": "{{now.Format "2006"}}",
       {{ with .Params.Cateogies }}
       "articleSection": "{{index 0 .}}",
       {{ end }}
-      "articleBody": "{{.Content}}",
-      "keywords": "{{.Params.meta_Keywords}} ",
+      {{ with .Content }}
+      "articleBody": "{{.}}",
+      {{ end }}
+      {{ with .Params.meta_Keywords }}
+      "keywords": "{{.}} ",
+      {{ end }}
       "image": {
         "@type": "ImageObject",
         "url": "{{.Params.featured_Image}}",

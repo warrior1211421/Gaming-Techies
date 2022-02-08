@@ -55,25 +55,7 @@
     font-size: .8em !important;
 }
 
-@media screen and (min-width:786px) {
-    .product-table td[data-label="Image"] {
-        display: flex;
-        align-items: center;
-    }
-    .product-table td[data-label="Image"] img {
-        margin-right: 5px;
-    }
-    div[data-label="Brand"] {
-        display: block;
-        text-align: center;
-        margin: 10px;
-    }
-}
-
 @media screen and (max-width: 600px) {
-    div[data-label="Brand"]{
-        margin-top: 10px;
-    }
     .product-table {
         border: 0;
     }
@@ -127,7 +109,11 @@
 <table class="product-table" id="product-summary">
 <thead>
 <tr style="background-color:#000;color:#fff">
+{{range first 1 .Params.the_products }}
+{{ with .award }}
   <th scope="col">Award</th>
+  {{ end }}
+{{ end }}
   <th scope="col">Image</th>
   <th scope="col">Model</th>
   <th scope="col">Price</th>
@@ -136,7 +122,7 @@
 <tbody>
     {{ range .Params.the_products }}
         <tr>
-            <td data-label="Award">{{ .award }}</td>
+            {{ with .award }}<td data-label="Award">{{ . }}</td>{{ end }}
             <td data-label="Image">
             <img width="110" height="110" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
             </td>

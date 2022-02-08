@@ -15,14 +15,23 @@
     --textColor: {{site.Params.colors.textColor | default "white"}};
     --linkColor: {{site.Params.colors.linkColor | default "blue"}};
     --ctaColor: {{site.Params.colors.ctaColor | default "grey"}};
-    --fontBody: sans-serif;
-    --fontHeading: sans-serif;
+    --fontBody: {{ with site.Params.fonts.bodyFont }} '{{ . }}';{{ else }} sans-serif; {{ end }}
+    --fontHeading: {{ with site.Params.fonts.heading }} '{{ . }}';{{ else }} sans-serif; {{ end }}
 }
 {{ if (fileExists "layouts/partials/basic/head/custom-css.html") -}}
     {{- partial "basic/head/custom-css" . | safeHTML | safeCSS -}}
 {{ end }}
 </style>
+{{- $fontbody := replace site.Params.fonts.bodyFont " " "+" }}
+{{- $fontheading := replace site.Params.fonts.heading " " "+"}}
+{{- $href := "//fonts.googleapis.com/css?family=" }}
 <link rel="stylesheet" href="{{- $mainStyle.Permalink| safeCSS -}}">
+{{- with $fontbody }}
+<link href='{{$href}}{{$fontbody}}' rel='stylesheet' type='text/css'>
+{{- end }}
+{{- with $fontheading }}
+<link href='{{$href}}{{$fontheading}}' rel='stylesheet' type='text/css'>
+{{- end }}
 {{- if .Params.productImages }}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"> -->

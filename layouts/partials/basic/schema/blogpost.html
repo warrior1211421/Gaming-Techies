@@ -8,7 +8,9 @@
       },
       "headline": "{{.Params.seo_title | default .Title}}",
       "description": "{{.Params.meta_Description}}",
-      "keywords": "{{.Params.meta_Keywords}} ",
+      {{ with .Params.meta_Keywords }}
+      "keywords": "{{.}} ",
+      {{ end }}
       "image": {
         "@type": "ImageObject",
         "url": "{{.Params.featured_Image}}",
