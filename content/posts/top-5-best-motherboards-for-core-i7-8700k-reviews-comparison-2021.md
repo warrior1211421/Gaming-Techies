@@ -17,6 +17,7 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: Intel shook the entire gaming community with their new 8th gen
       i7-8700K processors. However, some users have reported that their
@@ -89,6 +90,7 @@ buyingGuide: >-
 
 
   It all comes down to the unique features that your motherboard will provide you. For example, some motherboards have onboard RGB, while others have a powerful yet easy-to-understand **[BIOS](https://gamingtechies.com/best-bios-setting/)**. In any case, at least one of the unique features will surely attract you to the motherboard. Furthermore, some motherboards even offer built-in WIFI cards and Sound cards so that you don’t have to spend the extra money. All-in-all the additional features offered by any brand are provided to make your life easy and every purchase an intelligent one. You just have to consider what you want from the motherboard and start looking for the best suitable options.
+the_glanceHeading: "Motherboards for Core i7 8700K At a Glance:"
 product_Summary: Best Motherboards for Core i7 8700k - Summary
 product_Mheading: Best Motherboards for Core i7 8700k Reviews
 the_products:
