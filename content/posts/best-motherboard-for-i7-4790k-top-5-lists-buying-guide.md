@@ -17,6 +17,7 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: When you are in a mood to lighten up your day by spending more time
       playing your favorite games on your system, ensure that all equipment are
@@ -100,6 +101,7 @@ buyingGuide: >-
 
 
   So, these were some most important things that we suggest you consider in a motherboard. If you never ignore looking out for these things in the motherboard you are buying for your intel **core i7 4790K**, we bet that you are unlikely to go wrong with your decision.
+the_glanceHeading: At a Glace
 product_Summary: Best Motherboard for i7 4790k - Summary
 product_Mheading: Best Motherboard for i7 4790k Reviews
 the_products:

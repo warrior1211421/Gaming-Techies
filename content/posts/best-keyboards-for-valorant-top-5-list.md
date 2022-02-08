@@ -16,6 +16,7 @@ categories:
   - Keyboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       Valorant is a skill-based multiplayer shooter that requires accurate aim,
@@ -82,6 +83,7 @@ buyingGuide: >-
 
 
   Different brands use different names and technologies for the programmable keys. For example, **[HyperX](https://www.hyperxgaming.com/en)** provides programmable capabilities for the whole keyboard.
+the_glanceHeading: At a Glace
 product_Summary: Best Keyboards for Valorant - Summary
 product_Mheading: Best Keyboards for Valorant Reviews
 the_products:

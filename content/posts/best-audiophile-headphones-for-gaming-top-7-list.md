@@ -15,6 +15,7 @@ categories:
   - Headphones
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: Great sound quality is a must-have for every gamer regardless of the
       genre. The perfect accuracy and depth of sound give you the edge in every
@@ -37,6 +38,7 @@ after_intro: >-
 
 
   **([Skip to Products Reviews](https://gamingtechies.com/best-audiophile-headphones-for-gaming/#1-beyerdynamic-dt-770-pro) or [Click Here](https://gamingtechies.com/best-openback-headphones/#buying-guide) for Quick Shopping Tips)**
+the_glanceHeading: At a Glace
 product_Summary: Best Audiophile Headphones for Gaming - Summary
 product_Mheading: Best Audiophile Headphones for Gaming Reviews
 the_products:
