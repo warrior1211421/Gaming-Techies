@@ -17,6 +17,7 @@ categories:
   - Monitors
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       The gaming industry has greatly evolved ever since the first game. The
@@ -99,6 +100,7 @@ buyingGuide: >-
 
 
   So, it would be best to choose the monitor according to your GPU. Most of the products in this list have both FreeSync and G sync compatibility modules. So, you can choose any product from above, and I assure you that your graphics card will work without any problems. For other users, I recommend that you check the product specifications and choose according to your gaming setup and experience the market’s best.
+the_glanceHeading: "Gaming Monitors for RTX 3080 At a Glance:"
 product_Summary: Best Gaming Monitors for RTX 3080 - Summary
 product_Mheading: Best Gaming Monitors for RTX 3080 Reviews
 the_products:
