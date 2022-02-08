@@ -100,6 +100,7 @@ buyingGuide: >-
 
 
   So we suggest you go for the mouse that comes with these optical sensors to make your game more comfortable, enjoyable, and, most importantly, responsive.
+the_glanceHeading: "Gaming Mouse for Valorant At a Glance:"
 product_Summary: Best Gaming Mouse for Valorant - Summary
 product_Mheading: Best Gaming Mouse for Valorant Reviews
 the_products:

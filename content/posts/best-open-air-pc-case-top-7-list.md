@@ -15,6 +15,7 @@ categories:
   - PC Cases
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: A PC case is just like the toppings of the cake. No matter how tasty
       the cake is, it isn’t considered good if the toppings aren’t decent. PC
@@ -156,6 +157,7 @@ buyingGuide: >-
 
 
   The same consideration should be provided for liquid cooling. If you are not installing it now, but you see yourself upgrading the cooling system of the gaming rig. Then you should buy a PC case that can house liquid coolers and radiators.
+the_glanceHeading: "Open Air PC Case At a Glance:"
 product_Summary: Best Open-air PC Case - Summary
 product_Mheading: Best Open-air PC Case Reviews
 the_products:

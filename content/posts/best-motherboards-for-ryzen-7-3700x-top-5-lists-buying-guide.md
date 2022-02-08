@@ -17,6 +17,7 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       Ryzen 7 3700x is an eight-core processor that is known for its lower power
@@ -86,6 +87,7 @@ buyingGuide: >-
 
 
   So, these were some things that we consider most important for you to look out for in a motherboard. These will help you make the best choice for the motherboard without compromising on getting quality performance.
+the_glanceHeading: "Motherboards for Ryzen 7 3700x At a Glace:"
 product_Summary: Best Motherboards for Ryzen 7 3700x - Summary
 product_Mheading: Best Motherboards for Ryzen 7 3700x Reviews
 the_products:

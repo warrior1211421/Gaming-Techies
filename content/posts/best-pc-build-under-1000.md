@@ -16,6 +16,7 @@ categories:
   - PC Builds
 product_table: true
 top3_table: false
+the_glance: true
 paragraphs:
   - paragraph: If you’ve got only a $1000 budget to get for yourself the world’s
       best gaming PC build, then you are at the right place. $1000 is just
@@ -33,6 +34,8 @@ after_intro: >-
 
 
   Following are the components that we have added to our list based on our experience of buying and using them for years. These components never let you down in your expectations for their best performance and even the quality of the material they are formed with.
+buyingGuideHead: ""
+the_glanceHeading: "PC Build Under $1000 At a Glance:"
 product_Summary: Best PC Build Under $1000 Summary
 product_Mheading: Best PC Build Under $1000 Components
 the_products:

@@ -16,6 +16,7 @@ categories:
   - Chairs
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: A gamer like you would probably know the importance of a comfortable
       and right-sized chair. If you are comfortable in your chair while gaming,
@@ -109,6 +110,7 @@ buyingGuide: >-
 
 
   By considering these things while buying the **best gaming chair for a short person,** you will never make the wrong choice, and you will be satisfied with the decision you have made in the long run.
+the_glanceHeading: "Gaming Chair for Short People At a Glance:"
 product_Summary: Best Gaming Chair For Short People - Summary
 product_Mheading: Best Gaming Chair For Short People Reviews
 the_products:
