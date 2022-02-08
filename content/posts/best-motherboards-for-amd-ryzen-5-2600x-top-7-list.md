@@ -16,6 +16,7 @@ categories:
   - Motherboards
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: The demand for Ryzen gaming setups is constantly increasing by
       professional computer users. However, the processor world is less likely
