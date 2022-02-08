@@ -83,7 +83,7 @@ buyingGuide: >-
 
 
   Different brands use different names and technologies for the programmable keys. For example, **[HyperX](https://www.hyperxgaming.com/en)** provides programmable capabilities for the whole keyboard.
-the_glanceHeading: At a Glace
+the_glanceHeading: "Keyboards for Valorant At a Glace:"
 product_Summary: Best Keyboards for Valorant - Summary
 product_Mheading: Best Keyboards for Valorant Reviews
 the_products:
