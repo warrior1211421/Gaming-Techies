@@ -16,6 +16,7 @@ categories:
   - Routers and Modems
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: Online gaming is one of the most loved sports of youth these days. No
       matter what happens in the surrounding, you will see them being lost in
@@ -105,6 +106,7 @@ buyingGuide: >-
 
 
   Some people have common network problems to avoid those problems [check out this link.](https://www.cbtnuggets.com/blog/technology/networking/7-common-network-issues-and-how-to-resolve-them-fast)
+the_glanceHeading: "Modem for Gaming At a Glance:"
 product_Summary: Best Modem for Gaming - Summary
 product_Mheading: Best Modem for Gaming Reviews
 the_products:
