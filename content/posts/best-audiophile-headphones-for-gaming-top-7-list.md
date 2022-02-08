@@ -15,6 +15,7 @@ categories:
   - Headphones
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: Great sound quality is a must-have for every gamer regardless of the
       genre. The perfect accuracy and depth of sound give you the edge in every
