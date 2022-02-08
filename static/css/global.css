@@ -1532,9 +1532,9 @@ ul.table-of-contents li a{
     display: contents;
 }
 .summary-li a{
-    color:#8bacc8;
-    font-weight: 100;
-    border-bottom: 1px solid #8bacc8;
+    color:#2871de;
+    font-weight: 600;
+    border-bottom: 1px solid #2871de;
     transition: ease-in .2s;
     text-decoration: none;
 }
