@@ -45,6 +45,7 @@ after_intro: >-
 
   **Also Read: [Best Motherboards for i7 8700k](https://gamingtechies.com/best-motherboards-for-core-i7-8700k/)**
 buyingGuideHead: ""
+the_glanceHeading: "Motherboard for Ryzen 5 2600x At a Glance:"
 product_Summary: Best Motherboards for Ryzen 5 2600x - Summary
 product_Mheading: Best Motherboards for Ryzen 5 2600x Reviews
 the_products:
