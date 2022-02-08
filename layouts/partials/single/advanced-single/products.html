@@ -5,6 +5,7 @@
 {{end}}
 <!-- Product Previews -->
 {{ range .Params.the_products }}
+{{- $amzlong := or (findRE "amazon" .amzlink) (findRE "amzn" .amzlink) }}
 <div class="c-v-a" id="{{.name | anchorize}}" >
     <figure class="image-figure" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
         <div class="figure-img">
@@ -71,9 +72,9 @@
 		{{end}}
 				<div>
         <p class="amazon-link">
-            <a href="{{.amzlink}}" aria-label="{{.name}}"
+            <a href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/dp/{{.amzlink}}/?tag={{site.Params.amznTracking.global}}{{end}}" aria-label="{{.name}}"
                 class="btn btn-orange" target="_blank" rel="nofollow sponsored noopener noreferrer">View on Amazon</a>
-            <a href="{{.amzlink}}"
+            <a href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/product-reviews/{{.amzlink}}/?tag={{site.Params.amznTracking.review}}{{end}}"
                 aria-label="{{.name}}" class="amazon-review-button" target="_blank"
                 rel="nofollow sponsored noopener noreferrer">Read Customer Reviews</a>
 			{{ range .morebtns }}
