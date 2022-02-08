@@ -105,7 +105,7 @@ buyingGuide: >-
 
 
   **Related: [Keep your GPU Cool While Gaming](https://gamingtechies.com/how-to-keep-gpu-cool/)**
-the_glanceHeading: "GPU for Ryzen 7 5800x At a Glance::"
+the_glanceHeading: "GPU for Ryzen 7 5800x At a Glance:"
 product_Summary: Best GPU for Ryzen 7 5800x Summary
 product_Mheading: Best GPU for Ryzen 7 5800x Reviews
 the_products:
