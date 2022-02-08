@@ -15,6 +15,7 @@ categories:
   - Graphics Cards
 product_table: true
 top3_table: false
+the_glance: true
 paragraphs:
   - paragraph: "Getting the **best GPU for Ryzen 7 5800x** is extremely important:
       despite the fact it is considered the best and most advanced gaming
@@ -104,6 +105,7 @@ buyingGuide: >-
 
 
   **Related: [Keep your GPU Cool While Gaming](https://gamingtechies.com/how-to-keep-gpu-cool/)**
+the_glanceHeading: "GPU for Ryzen 7 5800x At a Glance::"
 product_Summary: Best GPU for Ryzen 7 5800x Summary
 product_Mheading: Best GPU for Ryzen 7 5800x Reviews
 the_products:
