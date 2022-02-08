@@ -1531,13 +1531,6 @@ ul.table-of-contents li a{
 .summary-a{
     display: contents;
 }
-.summary-li a{
-    color:#2871de;
-    font-weight: 600;
-    border-bottom: 1px solid #2871de;
-    transition: ease-in .2s;
-    text-decoration: none;
-}
 .summary-li a:hover{
     color:#333;
     border-bottom: 1px solid var(--mainColor);
@@ -1709,6 +1702,14 @@ ul.table-of-contents li a{
     align-items: center;
 	margin-top: -10px;
     flex-direction: column
+}
+
+.summary-li a{
+    color:#2871de;
+    font-weight: 600;
+    border-bottom: 1px solid #2871de;
+    transition: ease-in .2s;
+    text-decoration: none;
 }
 
 .ttu.f6.mt0{
