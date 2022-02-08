@@ -17,6 +17,7 @@ categories:
   - Cables
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: Why would you ever want to turn to Ethernet cables in your life? The
       obvious reason is to enjoy an unlimited, super-fast internet speed that
@@ -118,6 +119,7 @@ buyingGuide: >-
 
 
   So now we are relaxed that we have reached out to you with maximum perfectly simple points, even then affecting your cable purchase greatly. So, keep these things in mind if you want to have an exclusive and memorable experience with your gigabit connection.
+the_glanceHeading: "Ethernet Cable for Gaming At a Glance:"
 product_Summary: Best Ethernet Cable For Gaming - Summary
 product_Mheading: Best Ethernet Cable For Gaming Reviews
 the_products:
