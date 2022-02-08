@@ -16,6 +16,7 @@ categories:
   - Headphones
 product_table: true
 top3_table: true
+the_glance: true
 paragraphs:
   - paragraph: >-
       Hey, gamers! You might be facing troubles with your headsets, which
@@ -186,6 +187,7 @@ buyingGuide: >-
 
 
   Now you have all the information of what you have to keep in mind while buying the **best headset for gaming** purposes, and now you may choose any of the headsets and search for the qualities you want in them the most purchase to have a great gaming experience.
+the_glanceHeading: "Open Back Headphones for Gaming At a Glance:"
 product_Summary: Best Open Back Headphones For Gaming - Summary
 product_Mheading: Best Open Back Headphones For Gaming Reviews
 the_products:
