@@ -34,7 +34,7 @@ faqs:
       may be caused because of premature hardware failure.
     question: Is it Normal for a Gaming Laptop to Get Hot?
 ---
-Overheating is one of those reasons that can keep you from enjoying a smoother and flawless gaming experience. If you are also facing this issue, you might want to have a solution that can get you out of it. In this guide, we will tell you how you can keep your gaming laptop cooler no matter how intense or long the session is.
+Overheating is one of those reasons that can keep you from enjoying a smoother and flawless gaming experience. If you are also facing this issue, you might want to have a solution that can get you out of it. In this guide, we will tell you **how you can keep your gaming laptop cooler** no matter how intense or long the session is.
 
 ## Why Gaming Laptops turn Hot? 
 
