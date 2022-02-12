@@ -16,6 +16,8 @@ categories:
 ---
 When building a gaming system, you need to buy all the hardware you need. Calculate the total Power wattage and pick a suitable PSU accordingly, right?
 
+**Related: [Best PC Under 1000$](https://gamingtechies.com/best-pc-build-under-1000/)**
+
 WRONG!!! A lot more needs to be considered when choosing the perfect Power Supply Unit (PSU) for your gaming rig. This article will guide you about how you can pick up a suitable and long-lasting PSU.
 
 I have also classified all the options you have into various tiers based on their specifications and characteristics.  You can rely on any of these products as they are all 80 Plus certified.
@@ -24,23 +26,31 @@ Suppose you are a beginner at PC building and have no idea what to consider when
 
 And for those who already know what they are looking at, without any further delay, here is the **PSU Tier List of 2022.**
 
-## **Value TIER**
+## Value TIER
 
-This tier consists of all the high-end Power Supply Units. They have the highest continuous power wattage as well as the highest maximum power supply capacity. This tier is best for those who are planning to use Multiple GPUs in their system. If money isn’t an issue and you require a reliable powerplant for your beast, then you should choose from the list below.
+![Value Tier](/uploads/psu-value-tierlist.webp "Value Tier")
+
+This tier consists of all the high-end Power Supply Units. They have the highest continuous power wattage as well as the highest maximum power supply capacity. This tier is best for those who are planning to use Multiple **[GPUs](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)** **(Best GPU For Ryzen 7 2700x)** in their system. If money isn’t an issue and you require a reliable powerplant for your beast, then you should choose from the list below.
 
 ### 80 Plus: Titanium - Platinum
 
+![80 Plus: Titanium - Platinum](/uploads/80-plus-platinum.webp "80 Plus: Titanium - Platinum")
+
 #### TIER 1
 
-This tier has the second-best quality PSU in the market. If you require a high-end, reliable PSU, but you already spent a lot of your budget on other components. Then this tier is the perfect choice for you. It has slightly lower price range products having all the capabilities of an S-quality PSU. You can install either a single GPU or multiple GPUs with this power supply unit. They also help you with cable management by including only ports for your required cables.
+This tier has the second-best quality PSU in the market. If you require a high-end, reliable PSU, but you already spent a lot of your budget on other components. Then this tier is the perfect choice for you. It has slightly lower price range products having all the capabilities of an S-quality PSU. You can install either a single GPU or multiple GPUs with this power supply unit. They also help you with cable management by including only ports for your required **[cables](https://gamingtechies.com/best-ethernet-cable/) (Best Ethernet Cable for Gaming)**.
 
 ### 80 Plus: Platinum - Gold
+
+![80 Plus: Platinum - Gold](/uploads/80-plus-platinum-gold.webp "80 Plus: Platinum - Gold")
 
 #### TIER 2 
 
 This tier consists of PSUs with slightly lower, 80 plus ratings. It doesn’t mean that the product isn’t reliable enough. But this tier is made up of products for users who don’t have a high-power wattage need. Picking out the PSU closest to your wattage requirements increases the overall efficiency of your system. Therefore, if you only want to install a single GPU and have no future plans to upgrade your system to multi-GPU, this tier is perfect for you.
 
 ### 80 Plus: Gold - Bronze
+
+![80 Plus: Gold - Bronze](/uploads/80-plus-gold-bronze.webp "80 Plus: Gold - Bronze")
 
 #### **TIER 3** 
 
@@ -78,7 +88,7 @@ Suppose you are building a gaming PC for the first time. You probably already ha
 
 We have all wished to build our own gaming rig at one point or another. If you are fulfilling your wish and all you need to do is buy a suitable PSU according to your power requirements. There is a code of procedure that you need to follow. This ensures that you avoid burning all your hardware due to under-powering the system or spending a lot more money than required.
 
-First of all, you need to calculate all the power wattage that you are going to need to support the hardware fully. This ensures that you get the maximum performance out of the system. On average, a gaming PC requires between 400-500 watts of power. Therefore, you will need a PSU that provides a continuous wattage of 500 Watts.
+First of all, you need to **[calculate](https://www.newegg.com/tools/power-supply-calculator/)** all the power wattage that you are going to need to support the hardware fully. This ensures that you get the maximum performance out of the system. On average, a gaming PC requires between 400-500 watts of power. Therefore, you will need a PSU that provides a continuous wattage of 500 Watts.
 
 However, you can’t just pick up any PSU within your wattage needs and install it on your system. There are some factors that you need to consider before finally making your decision:
 
@@ -94,13 +104,15 @@ Many PSUs generate a lot of heat when operating above 80% capacity. The integrat
 
 A properly labeled PSU doesn’t always mean that the unit will be operable for a long time. Power Supply is the component of the system that remains functional throughout the operation. Suppose you are engaged in a long gameplay session of 8-10 hours. Other components such as CPU or cooling fans, or GPU will be used only when required. The PSU will operate as long as the system remains turned on. Therefore, it is always advised to use a reliable PSU.
 
+**Related: [Keep you GPU Cool while Gaming](https://gamingtechies.com/how-to-keep-gpu-cool/)**
+
 There are hundreds of PSU models available in the market from various manufacturers. You should always prefer to pick out a PSU from a reliable brand such as Corsair because they are made up of durable components that can even handle a maximum power output for a long time.
 
 A reliable PSU ensures that your system is provided with a constant and continuous supply of power throughout the session. There is always a risk of scalding the system if there is even a little fluctuation in the power supply. Therefore, even after purchasing a PSU from a reliable manufacturer. Always make sure to manually test its power fluctuations before installing it on your system.
 
 ### Efficiency
 
-The efficiency of  PSU means the amount of energy provided to the PSU and the continuous output obtained from it. This describes the amount % of loss in the whole system. The efficiency of a PSU is obtained by the output/input *100 formula. The efficiency of any PSU decreases with the power output obtained from it. For example, if a PSU has 90% efficiency at 50% load, the same PSU will give an efficiency of 70% at 80-90% usage.
+The efficiency of PSU means the amount of energy provided to the PSU and the continuous output obtained from it. This describes the amount % of loss in the whole system. The efficiency of a PSU is obtained by the output/input *100 formula. The efficiency of any PSU decreases with the power output obtained from it. For example, if a PSU has 90% efficiency at 50% load, the same PSU will give an efficiency of 70% at 80-90% usage.
 
 An efficient PSU may cost you a little more than average, but it saves you money in the long term. An efficient Power Supply draws out only the required amount of energy as input and gives out a continuous, reliable amount of energy as required by the system. This results in the minimum amount of losses as well as the least amount of heat production. This saves your system from wear and tear and saves your money in the form of electrical bills. You may save up to $100 every month by using a power-efficient PSU.
 
