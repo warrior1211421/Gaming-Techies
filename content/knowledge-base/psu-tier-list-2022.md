@@ -98,6 +98,8 @@ This factor describes the power output limits of a PSU. You need to check out th
 
 Some manufacturers write the maximum power output capacity of the unit. This doesn’t imply that this unit will give out the same wattage all the time. For example, if a PSU says that it can support a maximum load of 600Watts. It means that the continuous power wattage will always be less than that. If operated at 100% usage for a long time, your system is at a high risk of burning out.
 
+**Related: [Reduce CPU Usage while Gaming](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)**
+
 Many PSUs generate a lot of heat when operating above 80% capacity. The integrated fans in PSU can’t tackle this heat. It is best to manually test the continuous power provided by the unit before installing it on your system. You can use external meters to draw out a continuous power as well as the maximum power output. Heat production should also be kept in check during the testing process using a thermal gun.
 
 ### Reliability
