@@ -66,7 +66,7 @@ The CAT 8 ethernet cables are widely used in the data centers for linking server
 
 Usually, the internet speed depends on several factors rather than just the ethernet cable technology. For instance, the main factor to consider is your basic internet speed as provided by the internet service provider. For instance, if the internet connection is 100Mbps, then even a CAT 5e cable is good enough. However, the connection’s bandwidth is another factor that you need to consider. In other words, if either the bandwidth or transfer speed is lower than the CAT technology, then you will experience a bottleneck problem. So, it is best to upgrade your CAT technology depending on the internet connection.
 
-### Which is Faster, Ethernet or WIFI?
+## Which is Faster, Ethernet or WIFI?
 
 ![Which is Faster, Ethernet or WIFI?](/uploads/which-is-faster-ethernet-or-wifi.webp "Which is Faster, Ethernet or WIFI?")
 
