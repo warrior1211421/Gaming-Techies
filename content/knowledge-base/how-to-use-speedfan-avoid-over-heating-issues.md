@@ -14,13 +14,19 @@ featured_Image: /uploads/how-to-use-speedfan.webp
 categories:
   - Knowledge Base
 ---
-The fans in your PC play an important role in keeping the system temperature under control. The systen uses built-in heat sensors to record the temperature of various components, and adjust the cooling fan speeds accordingly. However, sometimes you need a little extra control over how your PC operates. In this regard, Speedfan is essential software for hardcore gaming and overclocking your PC. Despite its importance, most people are unaware of the software and how to use Speedfan. Therefore, in this article, I will explain the basics and how to get started with using Speedfan on your PC.
+The fans in your PC play an important role in keeping the system temperature under control. The system uses built-in heat sensors to record the temperature of various components, and adjust the cooling fan speeds accordingly. However, sometimes you need a little extra control over how your PC operates. In this regard, Speed fan is essential software for hardcore gaming and overclocking your PC. Despite its importance, most people are unaware of the software and how to use Speedfan. Therefore, in this article, I will explain the basics and how to get started with using Speedfan on your PC.
+
+**Related: [Reduce CPU Usage](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)**
 
 ## What is Speedfan?
 
-Before jumping to the process, it is important to know some basics about the software. Speedfan is a basic yet extremely powerful PC software that allows you to override the automatic fan speed. You can monitor the temperatures of various PC components like CPU and GPU at any instance with Speedfan. Moreover, it also allows you to control and change the system fans speeds depending on the usage. For instance, you can temper the settings to always run the fans at 100% performance, or set it to auto mode respectively.
+![What is Speedfan?](/uploads/what-is-speed-fan.webp "What is Speedfan?")
 
-## How to install Speedfan?
+Before jumping to the process, it is important to know some basics about the software. Speedfan is a basic yet extremely powerful PC software that allows you to override the automatic fan speed. You can monitor the temperatures of various PC components like CPU and GPU at any instance with Speedfan. Moreover, it also allows you to control and change the system fans speeds depending on the usage. For instance, you can temper the settings to always run the fans at 100% performance, or set it to auto mode respectively. 
+
+**Related: [Keep your GPU Cool while Gaming](https://gamingtechies.com/how-to-keep-gpu-cool/)**
+
+## How to Install Speedfan?
 
 Speedfan is free software that you can download from its official website <https://almico.com>. Before downloading the software, it would be best to first check whether or not your motherboard is compatible with the software from the list [here](http://www.almico.com/forummotherboards.php).
 
@@ -29,7 +35,7 @@ If you see your motherboard in the list, you are good to go. Otherwise, you won'
 ## How to use Speedfan?
 
 * The first step is to prepare your PC for the software:
-* Restart the computer and boot into the BIOS using the appropriate key combination for your system.
+* Restart the computer and boot into the **[BIOS](https://gamingtechies.com/best-bios-setting/)** using the appropriate key combination for your system.
 * Navigate to system configuration and disable the automatic fan speed control.
 * The option may vary depending on the BIOS, however, you get the general idea by exploring the BIOS.
 * Boot your PC into the operating system and launch the Speedfan software (Run as Administrator).
@@ -42,7 +48,9 @@ If you see your motherboard in the list, you are good to go. Otherwise, you won'
 * You can adjust the fan speeds by monitoring the temperature of various system components through experimentation.
 * In the end, click applies and close the program. Now you can use your PC normally, enjoy!
 
-## What are the benefits of using Speedfan?
+## What are the Benefits of Using Speedfan?
+
+![What are the Benefits of Using Speedfan](/uploads/what-are-the-benefits-of-using-speedfan.webp "What are the Benefits of Using Speedfan")
 
 Speedfan is a powerful software that can optimize the system's performance while keeping your temperature under control. It is especially beneficial for overclocking the PC and for heavy-duty gaming PCs. Here are a few major benefits of using Speedfan on your PC
 
