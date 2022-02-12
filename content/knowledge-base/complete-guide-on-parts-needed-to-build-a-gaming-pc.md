@@ -20,7 +20,7 @@ The main reason why people prefer a gaming PC over a console is customizability 
 
 Building a gaming PC is a simple task that dreads most users. In my opinion, modern PC build is a simple job that only requires ordering the right components and having them delivered to your doorstep. Lastly, the satisfaction you get once the PC is all set up is out of this world. However, it is best to have knowledge about the **parts needed to build a gaming PC**, so this article is here to help you out.
 
-**List of Parts you Need**
+## List of Parts you Need
 
 * **[PC Case](https://gamingtechies.com/pc-cases/)**
 * **[Motherboard](https://gamingtechies.com/motherboards/)**
@@ -31,7 +31,7 @@ Building a gaming PC is a simple task that dreads most users. In my opinion, mod
 * **[Graphics Card](https://gamingtechies.com/graphics-cards/)**
 * **CPU cooler**
 
-**Accessories you Need**
+### **Accessories you Need**
 
 * **[Gaming Monitor](https://gamingtechies.com/monitors/)**
 * **[Keyboard](https://gamingtechies.com/keyboards/)**
@@ -41,7 +41,7 @@ Building a gaming PC is a simple task that dreads most users. In my opinion, mod
 
 Now I will provide a short description of each part and some details of which specifications are best for you.
 
-## PC Case
+### PC Case
 
 ![PC Case](/uploads/pc-case.webp "PC Case")
 
@@ -51,7 +51,7 @@ The **[PC Case](https://gamingtechies.com/best-open-air-pc-case/)** is the first
 
 Therefore, it is important to check the size and compatibility of your hardware before choosing the **[PC case for your gaming build](https://gamingtechies.com/types-of-pc-cases/) (Types of PC Cases)**. Moreover, modern PCs have to look beautiful to display their power. So, an extra see-through side of the PC case and some RGBs will only add to the beauty and popularity of your build.
 
-## Motherboard
+### Motherboard
 
 ![Motherboard](/uploads/motherboard.webp "Motherboard")
 
@@ -59,7 +59,7 @@ A motherboard is the most important component of any PC build. All your hardware
 
 Similarly, some motherboards support Crossfire technology for **[AMD GPUs](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)**, and Nvidia graphics cards require SLI technology for a dual-GPU setup. Similarly, some motherboards support overclocking as they have advanced power control and temperature management systems. In short, it is best to check the compatibility of each PC part before ordering a motherboard.  
 
-## Power Supply (PSU)
+### Power Supply (PSU)
 
 ![Power Supply](/uploads/power-supply.webp "Power Supply")
 
@@ -69,13 +69,13 @@ The maximum power output of your PSU is measured in Watts. Therefore, it is best
 
 **Related: [PSU Tier List](https://gamingtechies.com/psu-tier-list/)**
 
-## Processor
+### Processor
 
 ![Processor](/uploads/processor.webp "Processor")
 
 A processor or CPU is the brain of any computer. It calculates and processes all the information that your gaming PC needs to function. The power of a processor is measured in MHz or GHz. Modern processors like the **[Intel Core i7](https://gamingtechies.com/best-motherboards-for-core-i7-8700k/)** **(Best Motherboard for Core i7 8700k)** or AMD Ryzen 9 have the highest processing power. However, different processors require different sockets to fit and function correctly. In this regard, Intel processors use LGA architecture, and AMD processors use an AM4 architecture. In any case, it is important to know which socket is supported by your motherboard, along with the maximum processing power that you will need for the games. 
 
-## RAM
+### RAM
 
 ![RAM](/uploads/ram.webp "RAM")
 
@@ -83,7 +83,7 @@ Random Access Memory or RAM is a short-term, high-speed memory of the PC. It tem
 
 Therefore, it would be wise to consider both these factors and the DDR3 or DDR4 technology of the memory. Lastly, most gaming RAMs have built-in RGBs that enhance the aesthetics of your gaming PC.
 
-## Storage
+### Storage
 
 ![Storage](/uploads/storage.webp "Storage")
 
@@ -93,7 +93,7 @@ The data transfer speed of the storage greatly speeds up the read/write speed of
 
 At the same time, HDD is used to store everything else on your computer. In most cases, a 256-GBs SSD and a 1-2TB HDD are more than enough to store all your important data.
 
-## Graphics Card
+### Graphics Card
 
 ![Graphics Card](/uploads/graphic-card.webp "Graphics Card")
 
@@ -103,7 +103,7 @@ Moreover, different cards are designed to enhance the usability of different tas
 
 **Related: [Best GPU for Ryzen 7 2700](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)**[x](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)
 
-## CPU Cooler
+### CPU Cooler
 
 ![CPU Cooler](/uploads/cpu-cooler.webp "CPU Cooler")
 
