@@ -14,9 +14,11 @@ featured_Image: /uploads/bottleneck-calculator.webp
 categories:
   - Knowledge Base
 ---
-Computer manufacturers have made it possible for anyone to build their own PC. All it takes is the right set of tools, some basic hardware knowledge, and a little help from YouTube. However, there are still some factors that some people neglect and suffer the consequences in the long run. The bottleneck of various PC hardware is one such factor that can greatly limit your gaming PC’s performance. This article will provide some basic knowledge about the bottleneck calculator and how it can shape your future PC.
+Computer manufacturers have made it possible for anyone to build their own PC. All it takes is the right set of tools, some basic hardware knowledge, and a little help from YouTube. However, there are still some factors that some people neglect and suffer the consequences in the long run. The bottleneck of various PC hardware is one such factor that can greatly limit your gaming PC’s performance. This article will provide some basic knowledge about the **bottleneck calculator** and how it can shape your future PC.
 
 ## What is the Bottleneck?
+
+![What is the Bottleneck?](/uploads/what-is-the-bottleneck.webp "What is the Bottleneck?")
 
 The word bottleneck is very common in the PC gaming community. It refers to restrictive hardware that limits your gaming system’s performance due to incompatibility or some other reason. In other words, sometimes your processor or GPU can’t perform as it is supposed to if you pair it with incompatible or slow hardware. So, you can’t expect to squeeze every drop of performance from your power gaming PC if it suffers from the bottleneck condition. 
 
@@ -24,11 +26,15 @@ The word bottleneck is usually used for the top portion of a bottle that slows d
 
 ### CPU Bottleneck
 
+![CPU Bottleneck](/uploads/cpu-bottleneck.webp "CPU Bottleneck")
+
 CPU or processor bottleneck is the most common issue most PC gamers face. As the name suggests, your CPU acts as the limiting factor in this case. For instance, using an RTX 3090 with a 2nd or 3rd generation, Core i3 processor will bottleneck. In other words, the GPU will render textures and shaders faster than the rate or processing. As a result, the CPU will experience more load and will overheat or underperform in most cases. On the contrary, the GPU will remain idle most of the time. 
 
 Therefore, the GPU load will remain under 70% while easily providing 100% performance with a compatible CPU. Moreover, you will notice several lags and FPS drops in your game. In short, all the money that you spend on your expensive graphics card will go in vain unless you spend a little extra and upgrade the CPU as well.
 
-### **GPU Bottleneck**
+### GPU Bottleneck
+
+![GPU Bottleneck](/uploads/gpu-bottleneck.webp "GPU Bottleneck")
 
 Another form of bottleneck is the graphics card bottleneck. Most users suggest that a GPU bottleneck is more desirable than a CPU. It means that the CPU is processing faster than the GPU renders and processes your visual data. 
 
@@ -44,7 +50,7 @@ If the percentage is high, it means that your PC suffers from a bottleneck condi
 
 The bottleneck is a common issue most PC gamers face, whether they know about it or not. In most cases, a GPU bottleneck is more desirable as it can be fixed without spending much money. 
 
-However, a CPU bottleneck is a more serious issue that can’t be fixed without upgrading the hardware. There are some fixes that you can apply to your system to reduce the GPU bottleneck issue slightly:
+However, a CPU bottleneck is a more serious issue that can’t be fixed without upgrading the hardware. There are some fixes that you can apply to your system to **[reduce the GPU](https://gamingtechies.com/how-to-keep-gpu-cool/)** bottleneck issue slightly:
 
 ### Optimize the System
 
@@ -58,10 +64,12 @@ Most modern CPUs are programmed to perform within safe limits to avoid overheati
 
 So, if you have a suitable cooling system of a watercooler in your gaming PC, it doesn’t hurt to overclock your CPU a little. Doing so will unlock more CPU resources to utilize maximum GPU memory and minimize the GPU bottleneck condition.
 
+**Related: [Reduce CPU Usage while Gaming](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)**
+
 ### Upgrade your System
 
 If none of these tips worked, you could always upgrade the processor to a newer model to keep up with the new GPU. New and more powerful CPUs have a higher capacity to timely process more data. As a result, all the GPU resources will be utilized, and you won’t face any FPS drop in the games.
 
 ## Conclusion
 
-The bottleneck is a common issue in the PC gaming community. The problem mainly arises when either the CPU or GPU can’t keep up with the rest of the system performance. As a result, you can’t experience your system’s true power without making any upgrades. However, a bottleneck calculator can help you understand which hardware is causing the problem so that you can upgrade or optimize your system.
+The bottleneck is a common issue in the PC gaming community. The problem mainly arises when either the CPU or GPU can’t keep up with the rest of the system performance. As a result, you can’t experience your system’s true power without making any upgrades. However, a **bottleneck calculator** can help you understand which hardware is causing the problem so that you can upgrade or optimize your system.
