@@ -101,7 +101,7 @@ Graphics card or Graphics Processing Unit GPU is gradually becoming the most imp
 
 Moreover, different cards are designed to enhance the usability of different tasks. For instance, the Nvidia GTX or RTX series is specially designed for gaming and entertainment. Similarly, the Nvidia Quadro series is best suitable for designing and rendering. In any case, it is important to know your requirements before choosing a modern graphics card like the new RTX 3090.
 
-**Related: [Best GPU for Ryzen 7 2700](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)****[x](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)**
+**Related: [Best GPU for Ryzen 7 2700](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)**[x](https://gamingtechies.com/best-gpu-for-ryzen-7-2700x/)
 
 ## CPU Cooler
 
@@ -109,7 +109,7 @@ Moreover, different cards are designed to enhance the usability of different tas
 
 CPU and other components of your gaming PC generate an immense amount of heat. The components cease to function properly if they overheat. Therefore, you need a good cooling system along with adequate airflow throughout the CPU. In this regard, you need a series of cooling fans to push hot air out of the system and bring in fresh, cold air. 
 
-**Related:[](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/) [Reduce CPU usage while Gaming](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)**
+**Related:**[](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)** [Reduce CPU usage while Gaming](https://gamingtechies.com/how-to-reduce-cpu-usage-while-gaming/)**
 
 Similarly, modern gaming PCs use a water cooling system that radiates heat away from the system to make it cool. A properly cooled gaming PC functions faster and is much more stable than others. So, it is best to calculate the maximum heat output of your system and design a system cooling system accordingly. Moreover, some cooling fans have built-in RGBs that you can control with a remote or via a smartphone app. 
 
