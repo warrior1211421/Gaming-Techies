@@ -1,6 +1,6 @@
 {{ $products := .Params.the_products}}
 {{ if $products }}
-<h2 id="top-picks">Our Top 3 Recommendations</h2>
+<h2 id="top-picks" class="top-picks">Our Top 3 Recommendations</h2>
 <div class="table-grid">
     {{ $products := .Params.the_products}}
     {{ range first 1 $products }}

@@ -1,4 +1,18 @@
+{{ if .Params.paragraphs }}
 <!-- Intro Paragraphs -->
-    {{ range .Params.paragraphs }}
+    {{ range first 1 .Params.paragraphs }}
+        <p>{{.paragraph | markdownify }}</p>
+    {{ end }}   
+        {{ if eq .Params.top3_table true }}
+            {{ partial "single/advanced-single/top-3" . }}
+        {{ end }}
+    {{ range first 1 (after 1 .Params.paragraphs) }}
         <p>{{.paragraph | markdownify }}</p>
     {{ end }}
+        {{ if eq .Params.product_table true }}
+            {{ partial "single/advanced-single/summary" . }}
+        {{ end }}
+    {{ range after 2 .Params.paragraphs }}
+        <p>{{.paragraph | markdownify }}</p>
+    {{ end }}
+{{ end }}

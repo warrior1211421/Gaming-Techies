@@ -2,7 +2,7 @@
 <div class="feature-block-item-wrapper" itemscope="" itemtype="https://schema.org/Guide">
     <a class="article-link" href="{{.Permalink}}" aria-label="{{.Title}}"
         title="{{.Title}}">
-        <figure class="feature-block-item" data-original="{{.Params.featured_Image | absURL }}" itemscope=""
+        <figure class="feature-block-item __first" data-original="{{.Params.featured_Image | absURL }}" itemscope=""
             itemtype="https://schema.org/ImageObject">
             <img loading="lazy" src="{{ .Params.featured_Image | absURL }}" data-src="{{ .Params.featured_Image | absURL }}" alt="{{.Title}}" itemprop="image" width="970" height="572">
             <link itemprop="url" href="{{.Params.featured_Image | absURL }}">

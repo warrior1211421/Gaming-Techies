@@ -5,6 +5,8 @@ backend:
 media_folder: "static/uploads"
 public_folder: "/uploads"
 
+logo_url: https://salesmag.netlify.app/images/logo.png
+
 editor:
   preview: false
 
@@ -34,15 +36,11 @@ collections:
       - {label: "Product Table", name: "product_table", widget: "boolean", default: false, required: false}
       - {label: "Top 3 Table", name: "top3_table", widget: "boolean", default: false, required: false}
       - {label: "At Glance", name: "the_glance", widget: "boolean", default: false, required: false}
-      #Intro-Paragraphs -->
-      - {label: "Introduction Paragraph", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
-      - {label: "After Top 3 Table", name: after_intro, widget: markdown }
-      #Buying Guide
-      - {label: Buying Guide Heading, name: buyingGuideHead, required: false, widget: string }
-      - {label: Buying Guide, name: buyingGuide, required: false, widget: markdown }
-      #Summary & Main-Heading -->
       - {label: At Glance Heading, name: the_glanceHeading, required: false, widget: string }
       - {label: Table/Summary Heading, name: product_Summary, required: false, widget: string }
+      #Intro-Paragraphs -->
+      - {label: "Introduction Paragraph", name: "paragraphs", widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
+      #Summary & Main-Heading -->
       - {label: Before Product Reviews Haeding, name: product_Mheading, required: false, widget: string }
       #Product Recommendations
       - {label: "Recommendation/Products", name: "the_products",widget: "list", required: false, fields: [
@@ -75,8 +73,7 @@ collections:
             }
       ] }
       # Below Producs
-      - {label: "After Products", name: afterProducts, widget: markdown, required: false }
-      - {label: "Conclusion", name: "conclusion", required: false, widget: "list", fields: [ {label: "Paragraph", name: "paragraph", widget: "markdown" } ] }
+      - {label: "After Products Content", name: body, widget: markdown, required: false }
       #Frequently Asked Questions
       - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 
         [ {label: "Question", name: "question", widget: "string" },
@@ -236,9 +233,9 @@ collections:
           - { label: Site URL, name: baseURL, widget: string, required: false }
           - { label: Site Title, name: title, widget: string, required: false }
           - { label: Language, name: languageCode, widget: string, default: en-us, required: false }
-          - { label: Total Post to Show on Frontpage, name: paginate, widget: string, default: 8, required: false }
-          - { label: Google Analytics Code, name: googleAnalytics, widget: string, required: false }
-          - { label: Disqus Shortname, name: DisqusShortname, widget: string, required: false }
+          - { label: Total Post to Show on Paginated Pages, name: paginate, widget: string, default: 8, required: false }
+          - { label: Google Analytics Code, name: googleAnalytics, widget: string, default: "UA-XXXXXXXXX-XX", required: false }
+          - { label: Disqus Shortname, name: DisqusShortname, widget: string, default: "ghost-23", required: false }
 
       - name: menus
         label: Menus
@@ -247,6 +244,7 @@ collections:
           - label: "Header Menu"
             name: "main"
             widget: "list"
+            summary: "{{parent}} – {{name}}"
             fields:
               [
                 { label: "Menu Name", name: name, hint: "The main name of the menu which appear in the header area.", widget: string },
@@ -272,18 +270,14 @@ collections:
           - {label: Favicon, name: icon, widget: image, hint: '128x128.', required: false}
           - {label: Extended Title, name: tagline, widget: string, required: false}    
           - {label: Contact eMail, name: contacteMail, widget: string, required: false}
-          - {label: Header Text, name: headerText, widget: markdown, required: false}
-          - {label: Footer Text, name: footerText, widget: markdown, required: false}
-          - {label: Homepage Blog/Knowledge Section, name: blogSection, widget: boolean, required: false, hint: "This is the img section on the homepage at the end which shows all knowledge-base posts"}
-          - {label: Homepage Content, name: homeContent, widget: markdown, required: false}
           - label: "Site Colors"
             name: "colors"
             widget: "object"
             collapsed: true
             fields:
             - { label: Main Color, name: mainColor, widget: color, enableAlpha: true, allowInput: true, required: false }
-            - { label: Text Color, name: textColor, widget: color, enableAlpha: true, allowInput: true, required: false }
-            - { label: Link Color, name: linkColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: Anchor Text Color, name: textColor, widget: color, hint: "This color will appear on button text, menu text, and other anchors", enableAlpha: true, allowInput: true, required: false }
+            - { label: Links Color, name: linkColor, widget: color, hint: "This color will appear on link in the body", enableAlpha: true, allowInput: true, required: false }
             - { label: CTA Button Color, name: ctaColor, widget: color, enableAlpha: true, allowInput: true, required: false }
           - label: "Amazon Tracking IDs"
             name: "amznTracking"
@@ -349,7 +343,6 @@ collections:
             fields:
               [
                 {label: "Category", name: "scrollcat", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"]},
-                {label: "Category", name: "scrolldes", widget: "markdown", required: false}
               ]
           - label: "Image Sections"
             name: "img_section"
@@ -365,6 +358,16 @@ collections:
             collapsed: true
             fields:
              - {label: Show Featured Image, name: featured_img, widget: boolean, required: false}
+             - {label: Show Comments, name: show_comments, widget: boolean, required: false}
+          - label: "Homepage Settings"
+            name: "home_setting"
+            widget: "object"
+            collapsed: true
+            fields:
+            - {label: Header Text, name: headerText, widget: markdown, required: false}
+            - {label: Footer Text, name: footerText, widget: markdown, required: false}
+            - {label: Homepage Blog/Knowledge Section, name: blogSection, widget: boolean, required: false, hint: "This is the img section on the homepage at the end which shows all knowledge-base posts"}
+            - {label: Homepage Content, name: homeContent, widget: markdown, required: false}
 
 
       - label: "Below Header Ad Code"

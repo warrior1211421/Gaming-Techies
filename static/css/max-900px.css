@@ -3,7 +3,10 @@
         margin-bottom: 15px
     }
     .burgerbar-small{
-        justify-content: center;
+        justify-content: space-between;
+    }
+    img.logo{
+        height: 50px;
     }
     .trending-wrapper .trend-wrapper::-webkit-scrollbar {
         height: 6px;
@@ -18,8 +21,24 @@
         background-color: #f5f5f5;
         border-radius: 10px
     }
-    .buttons-social{
-        display: none !important;
+    .nav-list.component-loaded {
+        padding-top: 1em;
+        background: var(--mainColor);
+    }
+    .burgerbar .buttons-social a {
+        color: #fff;
+        width: 15px;
+        height: 15px;
+        display: block;
+        margin: 0 5px;
+        padding: 4.5px;  
+        border-radius: 50%;
+    }
+    .buttons-social .icon-circle>i {
+        font-size: 13px;
+        position: relative;
+        line-height: 28px;
+        top: -25px;
     }
     .home-hero-sub-posts{
         display: block !important;
@@ -57,23 +76,7 @@
     .socialite-widget-ul{
         margin:15px 0;
     }
-	/* Sayim Css Here */
-	
-	.nav-list.component-loaded {
-    padding-top: 1em;
-    background: #eee;
-    }
-	.w-100.flex.pros-and-cons.mb2-5 {
-		display: grid;
-	}
-	.w-100.pros.black.mr2{
-	width: 100%;
-	}
-	.w-100.cons.black{
-	width: 100%;	
-	}
-    .nav-list.component-loaded {
-        padding-top: 15px;
-        background: #eee;
+    .feature-block-item.__first img{
+        height: 233px;
     }
 }

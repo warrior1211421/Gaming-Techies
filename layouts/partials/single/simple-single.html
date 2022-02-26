@@ -7,5 +7,8 @@
     </article>
 
     {{ partial "single/author-box" . }}
-
+{{ if eq site.Params.post_setting.show_comments true }}
+    {{ partial "single/footer" . }}
+    {{ partial "single/disqus" . }}
+{{ end }}
 </div>

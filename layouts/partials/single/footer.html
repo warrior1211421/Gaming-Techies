@@ -5,9 +5,8 @@
         });</script>
 <button class='comment-button js-load-disqus' onclick='disqus(); return false;'>Leave a Comment</button>
 
-<nav class="socialite-widget box less-space"
-data-contexturl="{{.Permalink | absURL}}">
-<ul class="socialite-widget-ul incenter">
+<nav class="socialite-widget box less-space" data-contexturl="{{.Permalink | absURL}}">
+<ul class="socialite-widget-ul incenter" style="margin-bottom: 0;">
     <li class="socialite-widget-item">
         <a data-component-tracking-label="Facebook" rel="nofollow noopener noreferrer"
             href="https://facebook.com/sharer.php?u={{ .Permalink | absURL }}"

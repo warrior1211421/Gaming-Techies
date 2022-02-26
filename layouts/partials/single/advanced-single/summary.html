@@ -1,3 +1,4 @@
+{{ if .Params.the_products }}
 <style>
     /*Table Responsive */
 
@@ -38,7 +39,7 @@
     color: #000;
 }
 .product-table td a.btn{
-    color: var(--textColor);
+    color: #fff;
 }
 
 .product-table img {
@@ -102,11 +103,11 @@
 </style>
 
 {{ if .Params.product_Summary }}
-<h2 class="summary-p"><strong>{{.Params.product_Summary}}</strong></h2>
+<h2 class="top-picks" id="product-summary"><strong>{{.Params.product_Summary}}</strong></h2>
 {{ else }}
-<h2 class="summary-p"><strong>{{ .Title }} Summary</strong></h2>
+<h2 class="top-picks" id="product-summary"><strong>{{ .Title }} Summary</strong></h2>
 {{ end }}
-<table class="product-table" id="product-summary">
+<table class="product-table">
 <thead>
 <tr style="background-color:#000;color:#fff">
 {{range first 1 .Params.the_products }}
@@ -135,3 +136,4 @@
     {{ end }}
     </tbody>
 </table>
+{{ end }}

@@ -4,7 +4,7 @@
             {{ range .Site.Menus.main }}
             {{ if .Children }}
                 <li class="menu-item menu-item-{{ .Name | urlize }} menu-level-1 has-submenu menu-item-hover-reveal">
-                    <span style="margin-right: 3px;">{{.Name}}</span>
+                    <span style="margin-right: 3px;padding-top:0">{{.Name}}</span>
                     <ul class="sub-menu" data-{{ .Name | urlize }}-submenu="{{ .Name | urlize }}" role="menu">
                         {{ range .Children }}
                             <li class="sub-menu-item menu-level-2 primary-style" role="menuitem">

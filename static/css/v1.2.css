@@ -128,7 +128,7 @@
 
 /* Top 3 Picks Table */
 
-#top-picks {
+.top-picks {
     padding: 5px 0;
     font-size: 15px;
     background-color: #e7e7e7;
@@ -417,30 +417,13 @@
 
 /* Back to Top Btn */
 
-.go-top {
-    position: fixed;
-    text-decoration: none;
-    color: #000;
-    font-weight: bolder;
-    background-color: #eee;
-    font-size: 15px;
-    padding: 11px 15px;
-    display: none;
-    text-align: center;
-    bottom: 2em;
-    right: 2em;
-    z-index: 999;
-    cursor: pointer;
-    user-select: none;
-    transition: .3s ease-in-out;
-}
 .go-top::after{
     content: '▲';
     margin-left: 5px;
 }
 .go-top:hover {
-    background-color: #eee;
-    color: #000;
+    background-color: var(--ctaColor);
+    color: #fff;
     transition: .3s ease-in-out;
 }
 @media screen and (max-width:700px) {
@@ -544,4 +527,24 @@
     text-transform: uppercase;
     letter-spacing: 1px;
     transition: 0.5s;
+}
+
+/* Sayim Css Here */
+
+.go-top {
+    position: fixed;
+    text-decoration: none;
+    color: #000;
+    font-weight: bolder;
+    background-color: #eee;
+    font-size: 15px;
+    padding: 11px 15px;
+    display: none;
+    text-align: center;
+    bottom: 2em;
+    right: 2em;
+    z-index: 999;
+    cursor: pointer;
+    user-select: none;
+    transition: .3s ease-in-out;
 }

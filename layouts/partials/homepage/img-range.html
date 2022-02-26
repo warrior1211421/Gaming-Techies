@@ -4,9 +4,10 @@
     <section data-next="latest" data-list="/home/latest" class="listingResultsWrapper mixedPrimary mixedPrimary">
         <header>
             <h2 class="list-title" style="background-color: white;"><a href="{{ $category1 | anchorize | absURL }}">{{$category1}}</a></h2>
+            <p>{{.imgdes}}</p>
         </header>
         <div class="listingResults mixedPrimary" data-sort="page" data-listkey="mixedPrimary">
-            {{ range first 3 (where $.Site.RegularPages "Params.categories" "intersect" (slice $category1)) }}
+            {{ range or (where $.Site.RegularPages "Params.tags" "intersect" (slice $category1)) (where $.Site.RegularPages "Params.categories" "intersect" (slice $category1)) }}
             <div class="listingResult small result1">
                 <a href="{{.Permalink}}" class="article-link"
                     aria-label="{{.Title}}">

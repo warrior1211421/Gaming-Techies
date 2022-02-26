@@ -4,10 +4,10 @@
         {{ partial "homepage/home-hero" . }}
         {{ partial "homepage/scroll-range" . }}
         {{ partial "homepage/img-range" . }}
-        {{ if eq .Site.Params.blogSection true }}
+        {{ if eq site.Params.home_setting.blogSection true }}
             {{ partial "homepage/section-kbase" . }}
         {{ end }}
-        {{ with .Site.Params.homeContent }}
+        {{ with site.Params.home_setting.homeContent }}
             <p>{{. | markdownify}}</p>
         {{ end }}
     </div>

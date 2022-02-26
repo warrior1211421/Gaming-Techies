@@ -162,6 +162,7 @@
 						<div id="description">
 
 							<h1>XML Sitemap</h1>
+							<p>This sitemap is created by Yousaf Nadeem.</p>
 							
 							<p>
 								Learn more about <a href="http://sitemaps.org" target="_blank">XML Sitemaps</a>.							</p>

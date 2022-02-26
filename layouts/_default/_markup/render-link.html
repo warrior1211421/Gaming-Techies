@@ -3,7 +3,7 @@
     rel="nofollow sponsored noopener noreferrer" target="_blank"
 {{- else if .Title }}
     rel="{{.Title}} noopener" target="_blank"
-{{- else if findRE .Destination .Page.Site.BaseURL }}
+{{- else if strings.HasPrefix .Destination "http" }}
     rel="noopener" target="_blank"
 {{- end }}
 >{{ .Text | safeHTML }}</a>
