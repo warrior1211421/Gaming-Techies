@@ -22,7 +22,7 @@ section4 = "Style 1"
 section4Cat = "Headphones"
 
 [colors]
-mainColor = "#040404"
+mainColor = "#eee"
 textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
