@@ -347,7 +347,7 @@ img.logo {
 }
 
 .list-text-links .list-title a {
-    color: #fff;
+    color: #000;
     font-size: 16px;
     font-weight: 700;
     margin-left: 20px
@@ -1667,6 +1667,7 @@ ul.table-of-contents li a{
 
 .listingResultsWrapper .list-title {
     font-size: 16px;
+	color: #000;
     line-height: 42px;
     position: relative;
     text-align: center;
