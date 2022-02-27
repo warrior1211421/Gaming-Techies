@@ -670,15 +670,6 @@ article figure {
     margin-bottom: 1em
 }
 
-.table-of-contents {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    max-width: 240px;
-    list-style: decimal;
-    flex-direction: column;
-}
-
 .table-of-contents li:last-child{
     margin-bottom: 0 !important;
 }
@@ -1688,6 +1679,14 @@ ul.table-of-contents li a{
     box-sizing: border-box;
     background-color: #eee;
     text-transform: uppercase
+}
+
+.table-of-contents {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    list-style: decimal;
+    flex-direction: column;
 }
 
 .list-title.scroll {
