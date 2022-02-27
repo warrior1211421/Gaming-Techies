@@ -187,7 +187,7 @@ img.logo {
 }
 
 .menu-item a, .menu-item span {
-    color: var(--textColor);
+    color: #000;
     display: inline-block;
     font-weight: 600;
     font-size: 16px;
@@ -335,7 +335,7 @@ img.logo {
 }
 
 .list-text-links .list-title {
-    color: #fff;
+    color: #000;
     font-size: 16px;
     font-weight: 700;
     padding-left: 20px;
