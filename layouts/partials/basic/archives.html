@@ -1,6 +1,6 @@
 <section data-next="latest" data-total-count="12" data-list="mixed/latest" class="listingResultsWrapper mixed mixed ez-homepage-section">
     <header>
-        <h3 class="list-title" style="border: none;background-color:var(--mainColor);color:var(--textColor);">Showing Latest Posts {{ with .Data.Term }}from {{.}}{{ end }}</h3>
+        <h3 class="list-title" style="border: none;background-color:var(--mainColor);color:#000;">Showing Latest Posts {{ with .Data.Term }}from {{.}}{{ end }}</h3>
     </header>
     <div class="listingResults mixed" data-sort="page" data-listkey="mixed">
         {{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) }}
