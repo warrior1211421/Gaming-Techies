@@ -1,11 +1,11 @@
 blogSection = false
+footerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
 logo = "/uploads/logo.png"
 icon = "/uploads/fav_icon.png"
 tagline = "Best Techs Reviewed"
 contacteMail = "gamingtechies76@gmail.com"
-headerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
-footerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
 img_section = []
+headerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
 
 [fonts]
 bodyFont = "Poppins"
@@ -22,7 +22,7 @@ section4 = "Style 1"
 section4Cat = "Headphones"
 
 [colors]
-mainColor = "#040404"
+mainColor = "#eee"
 textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
@@ -85,3 +85,7 @@ scrollcat = "Knowledge Base"
 
 [post_setting]
 featured_img = false
+
+[home_setting]
+headerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
+footerText = "Gaming Techies supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
