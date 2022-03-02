@@ -275,8 +275,8 @@ the_products:
       - pro: High contrast ratio
       - pro: Fastest response time yet
     amzlink: https://www.amazon.com/AOC-C27G2Z-Frameless-Ultra-Fast-Adjustable/dp/B088LG2BSW?&linkCode=ll1&tag=gamingtechi09-20&linkId=e4b0298560069884a7e535a796dc4cb5&language=en_US&ref_=as_li_ss_tl
-    nameForTOC: "AOC C27G2Z:"
-    name: "6. AOC C27G2Z:"
+    nameForTOC: AOC C27G2Z
+    name: 6. AOC C27G2Z
     specifications:
       - specification: "**Size:** 27-inch **\\| Resolution:** Full HD 1920 x 1080 **\\|
           Pixel Density:** 81 **\\| Refresh Rate:** 240 Hz **\\| Response
