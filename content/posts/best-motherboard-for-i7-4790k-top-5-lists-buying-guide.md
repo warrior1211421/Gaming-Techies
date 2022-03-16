@@ -88,13 +88,13 @@ paragraphs:
       you’ve got Intel Core i7 4790K, installing the most compatible **and best
       motherboard for i7 4790K** is highly essential.
   - paragraph: >-
-      <https://motherboardsecret.com/><!--StartFragment-->
+      <!--StartFragment-->
 
 
       Core i7 4790K are one of the most advanced processors and are even better than Intel Celeron processors that are usually slower and come with lesser cores. Intel Core i7 processors provide you with maximum speed, come with some extra features, mostly have expansion cards and more expansion slots, PCIE ports, and some other amazing features that are rarely to be found in any other processor.
 
 
-      So, when you have an upgraded and most advanced processor at hand, ensure to install a premium-grade motherboard to notice an obvious change in your daily gaming experience. The speed of your processor will increase manifold, and hence it will provide better support for whatever game you desire to play on your system. 
+      So, when you have an upgraded and most advanced processor at hand, ensure to install a [premium-grade motherboard](https://motherboardsecret.com/) to notice an obvious change in your daily gaming experience. The speed of your processor will increase manifold, and hence it will provide better support for whatever game you desire to play on your system. 
 
 
       To help you out in getting the motherboard that could go perfectly great with your processor, we have come up with this guide. It has some **best motherboards for i7 4790K** processor. So, you can choose any one of them for getting a superior quality partner for your Intel processor.
