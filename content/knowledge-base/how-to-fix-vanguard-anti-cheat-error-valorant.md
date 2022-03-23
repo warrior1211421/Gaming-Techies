@@ -10,6 +10,7 @@ url: how-to-fix-vanguard-anti-cheat-guard-error-valorant
 author: Gabriel
 date: 2022-03-23T02:40:20.352Z
 updateDate: 2022-03-23T02:40:20.419Z
+featured_Image: /uploads/vanguard-valorant-anti-cheat-error.webp
 categories:
   - Knowledge Base
 ---
