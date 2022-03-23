@@ -38,12 +38,12 @@ Check the Windows firewall to ensure that it isn’t blocking Minecraft. Similar
 
 Suppose you didn’t change anything about your game, such as the account, internet connection, or device. Chances are your problem is due to a corrupted game profile. In this regard, the only way to fix it is to delete the UDID folder, sign in to your game account, and re-sync the game profile.
 
-* Go to C:\Users\<username>\AppData\Roaming\.minecraft
+* Go to C:\Users<username>\AppData\Roaming.minecraft
 * Find the saved games folder and open it
 * Delete everything inside the folder and restart your PC.
 * Similarly, if you want to delete the saved files on MacOS X, open spotlight and paste the following “~/Library/Application Support/Minecraft.”
 * Lastly, if deleting the saved files didn’t work, you may need to remove the UDID for your player.
-* Go to [this](MinecraftUUID.com.) website and enter your username to generate a UDID.
+* Go to [this](MinecraftUUID.com) website and enter your username to generate a UDID.
 * Log in to the Minecraft server in the internet browser and head to server files.
 * Go to Worlds > Select Players > Delete Username and UDID.
 * Finally, restart the computer and try starting the game again.
