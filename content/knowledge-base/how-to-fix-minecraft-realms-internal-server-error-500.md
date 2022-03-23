@@ -6,7 +6,7 @@ trending: false
 seo_title: Minecraft Realms Internal Server Error-500 Error Fix
 meta_Description: Minecraft realms internal server error-500 is a common error
   for online players. The easiest way to fix it is…
-url: "minecraft-realms-internal-server-error-500 "
+url: minecraft-realms-internal-server-error-500
 author: Gabriel
 date: 2022-03-15T14:06:08.737Z
 updateDate: 2022-03-15T14:06:08.787Z
