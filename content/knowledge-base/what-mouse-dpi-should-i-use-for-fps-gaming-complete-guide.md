@@ -4,6 +4,8 @@ type: knowledge-base
 draft: false
 trending: false
 seo_title: What Mouse DPI Should I Use for FPS Gaming?
+meta_Description: What Mouse DPI Should I Use for FPS Gaming? The answer is
+  simple; you can boost your gaming performance by…
 url: what-mouse-dpi-should-i-use-for-gaming
 date: 2022-03-29T20:08:53.760Z
 updateDate: 2022-03-29T20:08:53.856Z
