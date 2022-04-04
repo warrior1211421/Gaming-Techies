@@ -43,7 +43,7 @@ Suppose you didn’t change anything about your game, such as the account, inter
 * Delete everything inside the folder and restart your PC.
 * Similarly, if you want to delete the saved files on MacOS X, open spotlight and paste the following “~/Library/Application Support/Minecraft.”
 * Lastly, if deleting the saved files didn’t work, you may need to remove the UDID for your player.
-* Go to [this](MinecraftUUID.com) website and enter your username to generate a UDID.
+* Go to [this](https://minecraftuuid.com) website and enter your username to generate a UDID.
 * Log in to the Minecraft server in the internet browser and head to server files.
 * Go to Worlds > Select Players > Delete Username and UDID.
 * Finally, restart the computer and try starting the game again.
