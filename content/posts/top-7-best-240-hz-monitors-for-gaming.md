@@ -8,6 +8,7 @@ seo_title: Best 240 Hz Monitors for Gaming [Best Experience]
 meta_Description: Modern games require modern equipment, and monitoring is the
   most important of them all. The best 240 Hz monitor for gaming is…
 url: best-240-hz-gaming-monitors
+author: Gabriel
 date: 2022-02-27T10:39:12.766Z
 updateDate: 2022-02-27T10:39:12.921Z
 featured_Image: /uploads/best-240-hz-monitors.webp
