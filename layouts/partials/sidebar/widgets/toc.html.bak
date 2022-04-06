@@ -7,7 +7,7 @@
     </span>
     {{ if .Params.buyingGuide }}
     <span class="big-one">
-        <a href="#quick-shopping-tips">
+        <a href="#buying-guide">
             Buying Guide
         </a>
     </span>
