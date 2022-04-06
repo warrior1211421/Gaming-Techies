@@ -1,5 +1,10 @@
-<nav style="position: relative; top:0; width:100%" id="primary-nav" class="primary-nav" role="banner">
+<nav style="position: relative; top:0; width:100%" id="primary-nav" class="primary-nav{{ if eq site.Params.home_setting.headerStyle "Style 2" }} responsive{{ end }}" role="banner">
     {{ partial "header/layout" . }}
-    {{ partial "header/navigation" . }}
+
+    {{ if eq site.Params.home_setting.headerStyle "Style 1" }}
+        {{ partial "header/navigation" . }}
+    {{ else if eq site.Params.home_setting.headerStyle "Style 2" }}
+        {{ partial "header/new-nav" . }}
+    {{ end }}
     {{ partial "header/trending" . }}
 </nav>

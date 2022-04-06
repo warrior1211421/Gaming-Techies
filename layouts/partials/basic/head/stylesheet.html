@@ -14,7 +14,8 @@
     --mainColor: {{site.Params.colors.mainColor | default "black"}};
     --textColor: {{site.Params.colors.textColor | default "white"}};
     --linkColor: {{site.Params.colors.linkColor | default "blue"}};
-    --ctaColor: {{site.Params.colors.ctaColor | default "grey"}};
+    --ctaColorBG: {{site.Params.colors.ctaColorBG | default "grey"}};
+    --ctaColorText: {{site.Params.colors.ctaColorText | default "orange"}};
     --fontBody: {{ with site.Params.fonts.bodyFont }} '{{ . }}';{{ else }} sans-serif; {{ end }}
     --fontHeading: {{ with site.Params.fonts.heading }} '{{ . }}';{{ else }} sans-serif; {{ end }}
 }

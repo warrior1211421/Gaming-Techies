@@ -278,7 +278,8 @@ collections:
             - { label: Main Color, name: mainColor, widget: color, enableAlpha: true, allowInput: true, required: false }
             - { label: Anchor Text Color, name: textColor, widget: color, hint: "This color will appear on button text, menu text, and other anchors", enableAlpha: true, allowInput: true, required: false }
             - { label: Links Color, name: linkColor, widget: color, hint: "This color will appear on link in the body", enableAlpha: true, allowInput: true, required: false }
-            - { label: CTA Button Color, name: ctaColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: CTA Button Background, name: ctaColorBG, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: CTA Button Text Color, name: ctaColorText, widget: color, enableAlpha: true, allowInput: true, required: false }
           - label: "Amazon Tracking IDs"
             name: "amznTracking"
             widget: "object"
@@ -364,6 +365,7 @@ collections:
             widget: "object"
             collapsed: true
             fields:
+            - {label: Header Style, name: headerStyle, widget: "select", options: ["Style 1", "Style 2"], required: false}
             - {label: Header Text, name: headerText, widget: markdown, required: false}
             - {label: Footer Text, name: footerText, widget: markdown, required: false}
             - {label: Homepage Blog/Knowledge Section, name: blogSection, widget: boolean, required: false, hint: "This is the img section on the homepage at the end which shows all knowledge-base posts"}

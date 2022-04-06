@@ -1,0 +1,1214 @@
+<style>
+    .main-nav{background-color: #0581c9;}
+    .bound {
+    margin: auto;
+    max-width: 970px;
+}
+.responsive-menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #fff;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    background-color: #0581c9;
+    justify-content: space-between;
+}
+.nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+@media only screen and (min-width: 700px){
+.home-link {
+    display: block;
+}
+}
+.dropdown-container {
+    position: relative;
+}
+@media only screen and (min-width: 700px){
+.best-pick {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+}
+.best-pick {
+    flex: 4;
+    display: none;
+    color: #fff;
+    margin-left: 2rem;
+    flex-direction: row;
+    align-items: center;
+    justify-content: unset;
+}
+@media only screen and (min-width: 700px){
+.nav-link {
+    font-size: 1rem;
+}
+}
+@media only screen and (min-width: 700px){
+.nav-dropdown-content {
+    overflow-y: unset;
+}}
+.nav-dropdown-content {
+    left: 0;
+    top: 100%;
+    z-index: 3;
+    width: 100%;
+    display: none;
+    min-width: 23rem;
+    position: absolute;
+    max-height: 36rem;
+    overflow-y: scroll;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 30%);
+    border-radius: 4px;
+    background-color: #fff;
+}
+@media only screen and (min-width: 700px){
+.dropdown-categories {
+    width: 20%;
+    max-height: 36rem;
+    overflow-y: scroll;
+}
+.dropdown-container:hover .nav-dropdown-content {
+    left: -3rem;
+    width: 55rem;
+    display: block;
+}
+.dropdown-categories .nav-link {
+    width: 100%;
+}
+.dropdown-posts {
+    top: 0;
+    width: 80%;
+}
+.dropdown-posts {
+    top: 0;
+    right: 0;
+    width: 70%;
+    padding: 0.5rem;
+    overflow-y: scroll;
+    position: absolute;
+    background-color: #fff;
+}
+}
+.hidden {
+    display: none;
+}
+@media only screen and (min-width: 700px){
+.best-pick {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.dropdown-container:hover .nav-dropdown-content {
+    left: -3rem;
+    width: 55rem;
+    display: block;
+}
+}
+.dropdown-categories {
+    left: 0;
+    width: 30%;
+    padding: 0.5rem;
+    position: relative;
+    border-right: 1px solid #e4e4e4;
+}
+.nav-dropdown-content p {
+    color: #0581c9;
+    font-weight: 600;
+    margin: 0.5rem 0;
+    font-size: .7rem;
+    text-transform: uppercase;
+}
+.dropdown-posts {
+    top: 0;
+    right: 0;
+    width: 70%;
+    padding: 0.5rem;
+    overflow-y: scroll;
+    position: absolute;
+    background-color: #fff;
+}
+.nav-custom-posts {
+    font-size: 0;
+    word-spacing: 1rem;
+}
+.nav-blog {
+    --columns: 3;
+    color: #000;
+    min-height: 4rem;
+    font-size: .85rem;
+    vertical-align: top;
+    max-width: 24.375em;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    word-spacing: normal;
+    flex-direction: column;
+} 
+</style>
+<div class="main-nav">
+    <div class="bound">
+        <div class="responsive-menu">
+            <div class="nav">
+                <a href="/" aria-label="home" class="home-link">
+                    <span>Home</span>
+                </a>
+                <div class="dropdown-container" role="menuitem" data-component-label="Best Pick">
+                    <span class="nav-link best-pick">
+                        Best Picks
+                        <span class="icon icon-circle icon-arrow-down" aria-label="Arrow Down">
+                            <i class="fas fa-chevron-down" aria-hidden="true"></i>
+                        </span>
+                    </span>
+                    <div class="nav-dropdown-content">
+                        <div class="dropdown-categories">
+                            <p>CATEGORIES</p>
+                            <button class="nav-link motherboards_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Motherboards">
+                                Motherboards
+                                <img class="nav-link-icon" id="motherboards_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link cpus_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="CPUs">
+                                CPUs
+                                <img class="nav-link-icon hidden" id="cpus_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link graphics-cards_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Graphics Cards">
+                                Graphics Cards
+                                <img class="nav-link-icon hidden" id="graphics-cards_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+
+                            <button class="nav-link cpu-coolers_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="CPU Coolers">
+                                CPU Coolers
+                                <img class="nav-link-icon hidden" id="cpu-coolers_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link cases_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="PC Cases">
+                                PC Cases
+                                <img class="nav-link-icon hidden" id="cases_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link monitors_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Monitors">
+                                Monitors
+                                <img class="nav-link-icon hidden" id="monitors_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link pc-fans_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="PC Fans">
+                                PC Fans
+                                <img class="nav-link-icon hidden" id="pc-fans_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link keyboards_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Keyboards">
+                                Keyboards
+                                <img class="nav-link-icon hidden" id="keyboards_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link mouse_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Mouse">
+                                Mouse
+                                <img class="nav-link-icon hidden" id="mouse_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link power-supplies_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Power Supplies">
+                                Power Supplies
+                                <img class="nav-link-icon hidden" id="power-supplies_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link rams_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="RAMs">
+                                RAMs
+                                <img class="nav-link-icon hidden" id="rams_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link storage-drives_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" data-component-label="Storage Drives">
+                                Storage Drives
+                                <img class="nav-link-icon hidden" id="storage-drives_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                            <button class="nav-link knowledge_btn"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; openCategoryPosts(this)"
+                                role="menuitem" href="/knowledge-base" data-component-label="knowledge base">
+                                Knowledge Base
+                                <img class="nav-link-icon hidden" id="knowledge_icon" alt="arrow right icon"
+                                    src="https://d33wubrfki0l68.cloudfront.net/6a24bd672735c4bf60901f2a1a6122d7b176930f/d5e36/img/arrow-right.svg"
+                                    width="10" height="10">
+                            </button>
+                        </div>
+                        <div class="dropdown-posts" id="motherboards">
+                            <p>Motherboards</p>
+                            <div class="nav-custom-posts">
+                                <a href="/motherboards/best-motherboard-for-i9-12900k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">The Best Motherboards for i9 12900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-i9-12900k.jpg">
+                                    <meta itemprop="description"
+                                        content="To find the perfect components for your PC, especially for the best motherboard for i9 12900K, you need to check out the top-end items ruling the market.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-i9-12900k/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-i9-12900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-i7-12700k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">The Best Motherboards for i7 12700K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-i7-12700k.jpg">
+                                    <meta itemprop="description"
+                                        content="i7 12700K is rich in specs and features, and gamers are just looking for the best motherboard for i7 12700K to take ultimate results from this masterpiece.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-i7-12700k/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-i7-12700k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-i5-12600k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">The Best Motherboards for i5 12600K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-i5-12600k.jpg">
+                                    <meta itemprop="description"
+                                        content="The motherboard deserves more attention when buying, especially when looking for the best motherboard for i5 12600K; it is more significant to find the pro.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-i5-12600k/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-i5-12600k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-rtx-2070/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for RTX 2070</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-rtx-2070.jpg">
+                                    <meta itemprop="description"
+                                        content="Along with other stunning components, you still need the best motherboard for RTX 2070. Here is a question that will click in your mind: Why is motherboard compatibility so important?">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-rtx-2070/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-rtx-2070.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-rtx-2060/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for RTX 2060</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-rtx-2060.jpg">
+                                    <meta itemprop="description"
+                                        content="Let’s discuss the best motherboard for RTX 2060 because the motherboard is the center of the whole system where every component meets and gets attached to the rest.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-rtx-2060/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-rtx-2060.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-rx-5700-xt/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for RX 5700 XT</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-rx-5700-xt.jpg">
+                                    <meta itemprop="description"
+                                        content="Above all, it is not heavy on the pocket and allows the user to upgrade a bit more and opt for the best motherboard for RX 5700 XT. As for the RX 5700 XT, it is essential to have a motherboard">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-rx-5700-xt/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-rx-5700-xt.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-ryzen-9-3950x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for Ryzen 9 3950X</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="description"
+                                        content="his article has ranked almost every best motherboard for Ryzen 9 3950X. You would select a system board that meets your need. The Dual Channel DDR4 memory controller">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-ryzen-9-3950x/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-rx-5500-xt/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for RX 5500 XT</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-rx-5500-xt.jpg">
+                                    <meta itemprop="description"
+                                        content="That’s how you chase for the best motherboard for RX 5500 XT. If you are already facing the stipend in gamings with regular sessions and downgrading, keep your preference with some">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-rx-5500-xt/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-rx-5500-xt.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-rx-5600-xt/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for RX 5600 XT</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-rx-5600-xt.jpg">
+                                    <meta itemprop="description"
+                                        content="It is important to look for the best motherboard for RX 5600 XT to make a perfect pair because a motherboard holds utmost importance, affecting a graphics card and the rest of the rig’s performance.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-rx-5600-xt/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-rx-5600-xt.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard-for-rtx-2080/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards for RTX 2080</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard-for-rtx-2080.jpg">
+                                    <meta itemprop="description"
+                                        content="There are splendid options regarding the usage, availability, and features for the best motherboard for RTX 2080. The start can merge with the latest technology and high">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard-for-rtx-2080/">
+                                    <link itemprop="image" href="/img/best-motherboard-for-rtx-2080.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/motherboards/best-motherboard/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Motherboards</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-motherboard.jpg">
+                                    <meta itemprop="description"
+                                        content="The motherboard's best motherboard holds all scenarios, from the budget to the features, build quality, UEFI/BIOS, and memory support. You must be a bit aware of the parameters you have set for your ideal PC gaming system.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/motherboards/best-motherboard/">
+                                    <link itemprop="image" href="/img/best-motherboard.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="dropdown-posts hidden" id="cpus">
+                            <p>CPUs</p>
+                            <div class="nav-custom-posts">
+                                <a href="/cpus/best-cpu-for-rx-5500-xt/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPUs for RX 5500 XT</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-for-rx-5500-xt.jpg">
+                                    <meta itemprop="description"
+                                        content="So it’s a direct emulsion that you need the best CPU for RX 5500 XT to maintain the hierarchy of these vibrant cards. It comes with highly engraved features like the stunning RDNA architecture and real gaming experiences.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpus/best-cpu-for-rx-5500-xt/">
+                                    <link itemprop="image" href="/img/best-cpu-for-rx-5500-xt.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpus/best-cpu-for-rtx-2080/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best CPUs for RTX 2080</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-for-rtx-2080.jpg">
+                                    <meta itemprop="description"
+                                        content="If you want to take maximum results, you need the best CPU for RTX 2080 to avoid any form of the bottleneck. Let’s find a finishing with sophisticated features like tensor cores, triple display port, and USB Type-C port.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpus/best-cpu-for-rtx-2080/">
+                                    <link itemprop="image" href="/img/best-cpu-for-rtx-2080.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpus/best-cpu-for-rtx-2070/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best CPUs for RTX 2070</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-for-rtx-2070.jpg">
+                                    <meta itemprop="description"
+                                        content="It possesses cutting-edge features that demand the best CPU for RTX 2070 to make a sturdy combination visible on the market. Usually, these graphics cards appear with dynamic image quality">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpus/best-cpu-for-rtx-2070/">
+                                    <link itemprop="image" href="/img/best-cpu-for-rtx-2070.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpus/best-cpu-for-rx-5700-xt/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPUs for RX 5700 XT</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-for-rx-5700-xt.jpg">
+                                    <meta itemprop="description"
+                                        content="We are here to review some products so that you can get the best CPU for RX 5700 XT. It has many great features, but its compatibility is one of the most important to consider.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpus/best-cpu-for-rx-5700-xt/">
+                                    <link itemprop="image" href="/img/best-cpu-for-rx-5700-xt.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpus/best-cpu-for-rtx-2060/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best CPUs for RTX 2060</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-for-rtx-2060.jpg">
+                                    <meta itemprop="description"
+                                        content="It is better to look for the best CPU for RTX 2060 to avoid bottlenecking in your PC. Some pebbles which are throwing the light on the blazing specifications of these graphics cards">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpus/best-cpu-for-rtx-2060/">
+                                    <link itemprop="image" href="/img/best-cpu-for-rtx-2060.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpus/best-cpu/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best CPUs for Gaming</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu.jpg">
+                                    <meta itemprop="description"
+                                        content="Your CPU will decide how powerful your PC will be, so If you want to build an intelligent gaming rig, you have to go for the best CPU. The CPU is abbreviated from Central Processing Unit and is responsible for basically every computer’s task.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpus/best-cpu/">
+                                    <link itemprop="image" href="/img/best-cpu.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="graphics-cards">
+                            <p>Graphics Cards</p>
+                            <div class="nav-custom-posts">
+                                <a href="/graphics-cards/best-graphics-card-for-ryzen-9-3950x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for Ryzen 9 3950X</p>
+                                    <meta itemprop="thumbnailUrl"
+                                        content="/img/best-graphics-card-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="description"
+                                        content="But in today's article, we will be having a worthwhile discussion about the best graphics card for Ryzen 9 3950X. Let us elaborate on why we decided to come up with the idea of hunting down some top-tier graphics cards for it.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-ryzen-9-3950x/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-ryzen-7-3700x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for Ryzen 7 3700X</p>
+                                    <meta itemprop="thumbnailUrl"
+                                        content="/img/best-graphics-card-for-ryzen-7-3700x.jpg">
+                                    <meta itemprop="description"
+                                        content="We have selected some products to help you pick the best graphics card for Ryzen 7 3700X, saving you precious time and resources. They are well designed for speedy results, coding, gaming, reliability, and working.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-ryzen-7-3700x/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-ryzen-7-3700x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-ryzen-5-3600/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for Ryzen 5 3600</p>
+                                    <meta itemprop="thumbnailUrl"
+                                        content="/img/best-graphics-card-for-ryzen-5-3600.jpg">
+                                    <meta itemprop="description"
+                                        content="We have compiled a list of products, and each of them is the best graphics card for Ryzen 5 3600. With better Ray-Tracing execution and more video RAM RTX designs, cards are more well known and are sought after.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-ryzen-5-3600/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-ryzen-5-3600.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-i5-10600k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for i5 10600K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card-for-i5-10600k.jpg">
+                                    <meta itemprop="description"
+                                        content="This guide will help you pick the best graphics card for i5 10600K. Almost all the products support a 4K gaming experience and 3d modeling. You can choose your graphics cards">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-i5-10600k/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-i5-10600k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-i7-10700k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for i7 10700K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card-for-i7-10700k.jpg">
+                                    <meta itemprop="description"
+                                        content="The query that pops up is the choice of the best graphics card for i7 10700K, as these highly potent processors will not compromise on anything less than excellent.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-i7-10700k/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-i7-10700k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-i9-10900k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for i9 10900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card-for-i9-10900k.jpg">
+                                    <meta itemprop="description"
+                                        content="However, a compatible and the best graphics card for i9 10900K is a haven for gaming PC and you can certainly not deny the top-notch performance levels it delivers. But what is a graphics card">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-i9-10900k/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-i9-10900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-i5-12600k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for i5 12600K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card-for-i5-12600k.jpg">
+                                    <meta itemprop="description"
+                                        content="That’s what makes it the best graphics card for i5 12600K. The surprising magnitude is that it urges gaming with 2035MHz speeds, which allows no interference with other buggings.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-i5-12600k/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-i5-12600k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-i9-12900k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for i9 12900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card-for-i9-12900k.jpg">
+                                    <meta itemprop="description" content="In today's article, we will be discussing the best graphics card for i9 12900K. But why a graphics card all of a sudden? Let's find out. We admire your excellent taste if
+    ">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-i9-12900k/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-i9-12900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card-for-i7-12700k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards for i7 12700K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card-for-i7-12700k.jpg">
+                                    <meta itemprop="description"
+                                        content="Similarly, to find the best graphics card for i7 12700K, you need to port over the processors. After high trials over its long over manufacturers with Comet Lake">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card-for-i7-12700k/">
+                                    <link itemprop="image" href="/img/best-graphics-card-for-i7-12700k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/graphics-cards/best-graphics-card/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Graphics Cards</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-graphics-card.jpg">
+                                    <meta itemprop="description"
+                                        content="We are here to help you pick the best graphics card out there. Being a gamer, you may be fully aware of the importance of a graphics card in gaming performance. In short words, a graphics card shares the graphic tasks with the processor and allows it to perform other functions without being wrecked due to overwork.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/graphics-cards/best-graphics-card/">
+                                    <link itemprop="image" href="/img/best-graphics-card.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="cpu-coolers">
+                            <p>CPU Coolers</p>
+                            <div class="nav-custom-posts">
+                                <a href="/cpu-coolers/best-cpu-cooler-for-i9-12900k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for i9 12900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-i9-12900k.jpg">
+                                    <meta itemprop="description"
+                                        content="Here we will discuss the best CPU cooler for i9 12900K, so you do not have to hunt for the best-in-town items on your own. But what if the system gets caught by">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-i9-12900k/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-i9-12900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-i7-12700k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for i7 12700K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-i7-12700k.jpg">
+                                    <meta itemprop="description"
+                                        content="Alright, so enough with the CPU, let's get started with today’s quest for the best CPU cooler for i7 12700k. But why in the world did we jump right to the CPU c">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-i7-12700k/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-i7-12700k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-i5-12600k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for i5 12600K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-i5-12600k.jpg">
+                                    <meta itemprop="description"
+                                        content="We come to know that they are the most superior processor of the time, and that’s the definitive fact they will acquire the best CPU cooler for i5 12600K. Along">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-i5-12600k/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-i5-12600k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-ryzen-9-3950x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for Ryzen 9 3950X</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="description"
+                                        content="However, you still need the best CPU cooler for Ryzen 9 3950X. That is because every task your computer performs requires power, and in return, it generates heat that, in some cases,">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-ryzen-9-3950x/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-ryzen-9-3900x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for Ryzen 9 3900X</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-ryzen-9-3900x.jpg">
+                                    <meta itemprop="description"
+                                        content="If you want to get ultimate results from your system, you need the best CPU cooler for Ryzen 9 3900X. These advanced coolers have an incredible impact on systems by heat dissipation because they cover">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-ryzen-9-3900x/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-ryzen-9-3900x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-ryzen-5-3600/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for Ryzen 5 3600</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-ryzen-5-3600.jpg">
+                                    <meta itemprop="description"
+                                        content="The cooler that follows today’s demands and needs of the users is worth calling the best CPU cooler for Ryzen 5 3600. An advanced socket AM4 is embedded to support PCIe 4.0 on x570 motherboards.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-ryzen-5-3600/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-ryzen-5-3600.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-ryzen-7-3700x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for Ryzen 7 3700X</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-ryzen-7-3700x.jpg">
+                                    <meta itemprop="description"
+                                        content="We will help you find the best CPU cooler for Ryzen 7 3700X by covering data that includes almost everything you require to know before going for a CPU cooler. All of the products mentioned">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-ryzen-7-3700x/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-ryzen-7-3700x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-i9-11900k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for i9 11900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-i9-11900k.jpg">
+                                    <meta itemprop="description"
+                                        content="This processor by the company demands high-tech components to work efficiently, which is what makes us talk about the best CPU cooler for i9 11900K today. As tech">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-i9-11900k/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-i9-11900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-i9-10900k/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for i9 10900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-i9-10900k.jpg">
+                                    <meta itemprop="description"
+                                        content="But if you want to squeeze maximum results from your PC, you should go for the best CPU cooler for i9 10900K. These exceptional coolers make specific changes to eliminate the harsh">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-i9-10900k/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-i9-10900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler-for-ryzen-5-5600x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers for Ryzen 5 5600X</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler-for-ryzen-5-5600x.jpg">
+                                    <meta itemprop="description"
+                                        content="Here is a piece of good news for the users looking for the best CPU cooler for Ryzen 5 5600X. We have shortlisted only eight CPU coolers, and they can pick any of them to keep their cool at the maximum level. It will surely save some time for the enthusiasts and dedicated gamers that do not want to lose their performance due to heating issues of their CPU.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler-for-ryzen-5-5600x/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler-for-ryzen-5-5600x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/cpu-coolers/best-cpu-cooler/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best CPU Coolers</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-cpu-cooler.jpg">
+                                    <meta itemprop="description"
+                                        content="When you scroll for the best CPU cooler for the magnificent working of the processor. That’s, sockets, you protect yourself from the hurdles of noise pollution, temperature curves and deliver highly efficient performance. You can choose the Intel or AMD socket-based coolers. It just depends on how hard you are going to pull your gaming rig.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cpu-coolers/best-cpu-cooler/">
+                                    <link itemprop="image" href="/img/best-cpu-cooler.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="cases">
+                            <p>PC Cases</p>
+                            <div class="nav-custom-posts">
+                                <a href="/cases/best-pc-cases/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best PC Cases</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-pc-cases.jpg">
+                                    <meta itemprop="description"
+                                        content="To adore your system with the best PC cases, you should enlist some significant features that will play gorgeous roles in your system. You cannot overlook that a PC case showcases the RGB lighting, sophisticated aesthetics and protects all the accessories stored inside your case. It will endorse all the components by keeping them free of dust and debris.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/cases/best-pc-cases/">
+                                    <link itemprop="image" href="/img/best-pc-cases.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="monitors">
+                            <p>Monitors</p>
+                            <div class="nav-custom-posts">
+                                <a href="/monitors/best-gaming-monitor/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Gaming Monitors</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-gaming-monitor.jpg">
+                                    <meta itemprop="description"
+                                        content="It’s one of the most complicated tasks to find the best gaming monitor to squeeze the significant achievements out of your gaming rig. You can lag behind certain extra vigilant specifications just starting from its technologies to the refresh rates.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/monitors/best-gaming-monitor/">
+                                    <link itemprop="image" href="/img/best-gaming-monitor.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="pc-fans">
+                            <p>PC Fans</p>
+                            <div class="nav-custom-posts">
+                                <a href="/pc-fans/best-pc-fans/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best PC Fans</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-pc-fans.jpg">
+                                    <meta itemprop="description"
+                                        content="To prevent these heat issues from hindering the gaming zest, tech geeks came up with the idea of the best RGB fans. These fans keep up the performance and ampli">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/pc-fans/best-pc-fans/">
+                                    <link itemprop="image" href="/img/best-pc-fans.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="keyboards">
+                            <p>Keyboards</p>
+                            <div class="nav-custom-posts">
+                                <a href="/keyboards/best-gaming-keyboard/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Gaming Keyboards</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-gaming-keyboard.jpg">
+                                    <meta itemprop="description"
+                                        content="It's high time you should upgrade to the best gaming keyboard to make your smart PC smarter than before. A gaming keyboard will give you a whole new experience.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/keyboards/best-gaming-keyboard/">
+                                    <link itemprop="image" href="/img/best-gaming-keyboard.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="mouse">
+                            <p>Mouse</p>
+                            <div class="nav-custom-posts">
+                                <a href="/mouse/best-gaming-mouse-pad/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best Mouse Pad for Gaming</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-gaming-mouse-pad.jpg">
+                                    <meta itemprop="description"
+                                        content="Many vital features surpass the title of a mouse as the best gaming mouse pad. It needs to provide the gaming land by delivering a better gaming experience, philosophical dimensions">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/mouse/best-gaming-mouse-pad/">
+                                    <link itemprop="image" href="/img/best-gaming-mouse-pad.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/mouse/best-gaming-mouse/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best Gaming Mouse</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-gaming-mouse.jpg">
+                                    <meta itemprop="description"
+                                        content="That is why today, we will be talking about buying and upgrading some peripherals, like going for the best gaming mouse for your custom-built PC. A gaming mouse">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/mouse/best-gaming-mouse/">
+                                    <link itemprop="image" href="/img/best-gaming-mouse.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="power-supplies">
+                            <p>Power Supplies</p>
+                            <div class="nav-custom-posts">
+                                <a href="/power-supplies/best-psu/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best Power Supplies</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-psu.jpg">
+                                    <meta itemprop="description"
+                                        content="You need to be more peculiar while fitting the best PSU in your computer as the quality of the PSU dictates the working of your PC directly. For instance, if you">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/power-supplies/best-psu/">
+                                    <link itemprop="image" href="/img/best-psu.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="rams">
+                            <p>RAMs</p>
+                            <div class="nav-custom-posts">
+                                <a href="/rams/best-ram-for-ryzen-9-3950x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best RAMs for Ryzen 9 3950X</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="description"
+                                        content="Finding the best RAM for Ryzen 9 3950X is not a piece of cake, and you may need to look at some buyers’ reviews on the available products to make the right choice.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-ryzen-9-3950x/">
+                                    <link itemprop="image" href="/img/best-ram-for-ryzen-9-3950x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i9-11900k/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAMs for i9 11900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i9-11900k.jpg">
+                                    <meta itemprop="description"
+                                        content="This item is extraordinary and needs similar high-quality components to enhance its working; thus, we are here to pick the best RAM for i9 11900K. None of us is unaware that the RAM">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i9-11900k/">
+                                    <link itemprop="image" href="/img/best-ram-for-i9-11900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i9-10900k/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAMs for i9 10900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i9-10900k.jpg">
+                                    <meta itemprop="description"
+                                        content="However, we have accumulated some data to assist you with getting the best RAM for i9 10900K. The following article is compiled information about the latest RAM you would need for your i9 processor.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i9-10900k/">
+                                    <link itemprop="image" href="/img/best-ram-for-i9-10900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i7-10700k/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAMs for i7 10700K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i7-10700k.jpg">
+                                    <meta itemprop="description"
+                                        content="Let's start with choosing the best RAM for i7 10700K first. As we know that this processor is gamers’ hot favorite due to its sheer performance and excellent overclocking headroom,">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i7-10700k/">
+                                    <link itemprop="image" href="/img/best-ram-for-i7-10700k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i5-10500/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAMs for i5 10500</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i5-10500.jpg">
+                                    <meta itemprop="description"
+                                        content="It is better to find the best RAM for i5 10500 to make a perfect pair so that you can push your system at performance edges. You can simply count on some significant necessities">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i5-10500/">
+                                    <link itemprop="image" href="/img/best-ram-for-i5-10500.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ddr5-ram-for-intel-12th-gen/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best DDR5 RAM for Intel 12th Gen CPUs</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ddr5-ram-for-intel-12th-gen.jpg">
+                                    <meta itemprop="description"
+                                        content="We are here to discuss the best DDR5 RAM for Intel 12th Gen CPUs. But why of all components do we decide to recommend RAM first? The Random Access Memory, abbreviated">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ddr5-ram-for-intel-12th-gen/">
+                                    <link itemprop="image" href="/img/best-ddr5-ram-for-intel-12th-gen.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ddr4-ram-for-intel-12th-gen/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best DDR4 RAM for Intel 12th Gen CPUs</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ddr4-ram-for-intel-12th-gen.jpg">
+                                    <meta itemprop="description"
+                                        content="It is why we decided to discuss the best DDR4 RAM for Intel 12th Gen products. But why are we discussing DDR4 when it is not the latest technology anymore? Indeed,">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ddr4-ram-for-intel-12th-gen/">
+                                    <link itemprop="image" href="/img/best-ddr4-ram-for-intel-12th-gen.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i5-12600k/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAM for i5 12600K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i5-12600k.jpg">
+                                    <meta itemprop="description"
+                                        content="As a gamer, you will indeed be looking for the best RAM for i5 12600k to convert your passion into great options. The list can be a lineup of what you are looking for: an 8GB or 16GB RAM">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i5-12600k/">
+                                    <link itemprop="image" href="/img/best-ram-for-i5-12600k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i9-12900k/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAM for i9 12900K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i9-12900k.jpg">
+                                    <meta itemprop="description"
+                                        content="Let's get set for a quest for the best RAM for i9 12900K. But why is RAM important? And why would you need new RAM all of a sudden? RAM, which we call Random Access Memory">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i9-12900k/">
+                                    <link itemprop="image" href="/img/best-ram-for-i9-12900k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-i7-12700k/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAM for i7 12700K</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-i7-12700k.jpg">
+                                    <meta itemprop="description"
+                                        content="For that purpose, you will need the best RAM for i7 12700K as well. Why is RAM so important? You must have pondered that question, and the most straightforward answer is right here.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-i7-12700k/">
+                                    <link itemprop="image" href="/img/best-ram-for-i7-12700k.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-gaming/" itemscope="" itemtype="https://schema.org/Guide"
+                                    class="nav-blog">
+                                    <p itemprop="name">Best RAM for Gaming</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-gaming.jpg">
+                                    <meta itemprop="description"
+                                        content="To find the best RAM for gaming, the user goes through toil and trouble and often gets an unsuitable product that is not even cost-effective. RAMs deserve much m">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-gaming/">
+                                    <link itemprop="image" href="/img/best-ram-for-gaming.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/rams/best-ram-for-ryzen-9-5950x/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best RAM for Ryzen 9 5950x</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ram-for-ryzen-9-5950x.jpg">
+                                    <meta itemprop="description"
+                                        content="You require the best RAM for Ryzen 9 5950X. The combination needs to go hand in hand to make your games go beyond the 240+FPS mark. Games continuously access memory for frequent fetching of data and processing.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/rams/best-ram-for-ryzen-9-5950x/">
+                                    <link itemprop="image" href="/img/best-ram-for-ryzen-9-5950x.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="storage-drives">
+                            <p>Storage Drives</p>
+                            <div class="nav-custom-posts">
+                                <a href="/storage-drives/best-hard-drive/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best Hard Drives</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-hard-drive.jpg">
+                                    <meta itemprop="description"
+                                        content="Still, you need the best hard drive to attain the desirable characteristics of your PC. It does not matter if you will invest the money and time and all the hopes">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/storage-drives/best-hard-drive/">
+                                    <link itemprop="image" href="/img/best-hard-drive.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/storage-drives/best-nvme-ssd/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best NVMe SSD for Gaming</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-nvme-ssd.jpg">
+                                    <meta itemprop="description"
+                                        content="That is why they always look for the best NVMe SSD to run their system smoothly and efficiently. Similarly, if you are an enthusiastic gamer or a delightful pro">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/storage-drives/best-nvme-ssd/">
+                                    <link itemprop="image" href="/img/best-nvme-ssd.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/storage-drives/best-ssd-for-gaming/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Best SSD for Gaming</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/best-ssd-for-gaming.jpg">
+                                    <meta itemprop="description"
+                                        content="We are here to help you decide the best SSD for gaming to provide extended and faster operations. The premium quality built of an SSD has orientation for high-e">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/storage-drives/best-ssd-for-gaming/">
+                                    <link itemprop="image" href="/img/best-ssd-for-gaming.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown-posts hidden" id="knowledge">
+                            <p>Knowledge Base</p>
+                            <div class="nav-custom-posts">
+                                <a href="/knowledge-base/gaming-equipment/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">The Best Gaming Accessories</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/gaming-equipment.jpg">
+                                    <meta itemprop="description"
+                                        content="Enthusiasts are experts in building a gaming PC using astounding gaming equipment and the best accessories to enrich performance with lower disruptions.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/gaming-equipment/">
+                                    <link itemprop="image" href="/img/gaming-equipment.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                                <a href="/knowledge-base/what-is-bottlenecking-my-pc/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to Properly Balance Your Components</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/what-is-bottlenecking-my-pc.jpg">
+                                    <meta itemprop="description"
+                                        content="To know what is bottlenecking your PC, you should understand what bottlenecking is. Bottlenecking is when a component in your PC slows down the other parts, so they become less efficient and don't work to their full potential.">
+                                    <meta itemprop="dateCreated" content="2022-02-18 08:59:40 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/what-is-bottlenecking-my-pc/">
+                                    <link itemprop="image" href="/img/what-is-bottlenecking-my-pc.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 18 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/why-wont-my-computer-turn-on/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Troubleshooting - Why Won't My Computer Turn On?</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/why-wont-my-computer-turn-on.jpg">
+                                    <meta itemprop="description"
+                                        content="Knowing why your computer won't turn on will help determine why it's not working. If you are receiving any error messages, take note of them. This information can help you troubleshoot why your computer isn't starting up.">
+                                    <meta itemprop="dateCreated" content="2022-02-13 08:01:35 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/why-wont-my-computer-turn-on/">
+                                    <link itemprop="image" href="/img/why-wont-my-computer-turn-on.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 13 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/how-to-apply-thermal-paste/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to Apply Thermal Paste and How It Works</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/how-to-apply-thermal-paste.jpg">
+                                    <meta itemprop="description"
+                                        content="The thermal paste helps to ensure that your processor doesn't overheat, and it's an integral part of the cooling process.">
+                                    <meta itemprop="dateCreated" content="2022-02-13 08:01:35 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/how-to-apply-thermal-paste/">
+                                    <link itemprop="image" href="/img/how-to-apply-thermal-paste.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 13 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/how-to-build-a-gaming-pc/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to Build a Gaming PC</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/how-to-build-a-gaming-pc.jpg">
+                                    <meta itemprop="description"
+                                        content="Building your gaming PC can be an enriching experience, not to mention the potential for massive savings. Not only will you gain satisfaction by creating your vision from start to finish, but you can take pride in knowing that your computer is free of bloatware and other useless software that comes pre-installed with most store-bought PCs.">
+                                    <meta itemprop="dateCreated" content="2022-02-13 08:01:35 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/how-to-build-a-gaming-pc/">
+                                    <link itemprop="image" href="/img/how-to-build-a-gaming-pc.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 13 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/how-to-install-windows-10/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to install Windows 10 onto a new computer using a USB drive
+                                    </p>
+                                    <meta itemprop="thumbnailUrl"
+                                        content="/img/how-to-install-windows-10-using-a-usb-drive.jpg">
+                                    <meta itemprop="description"
+                                        content="To Install Windows 10 on your computer; you will need a blank USB flash drive with at least 16 GB of storage space. A larger storage capacity is recommended for this project. You can check how much free space you have on your USB by clicking on This PC in the left pane of File Explorer and checking the Size column next to the device.">
+                                    <meta itemprop="dateCreated" content="2021-11-29 04:46:18 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/how-to-install-windows-10/">
+                                    <link itemprop="image" href="/img/how-to-install-windows-10-using-a-usb-drive.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 29 Nov</span>
+                                </a>
+                                <a href="/knowledge-base/cpu-cooler-liquid-cooling-vs-air-cooling/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">CPU Cooler: Liquid Cooling Vs. Air Cooling</p>
+                                    <meta itemprop="thumbnailUrl"
+                                        content="/img/cpu-cooler-liquid-cooling-vs-air-cooling.jpg">
+                                    <meta itemprop="description"
+                                        content="Some components get hotter than others, and CPUs are notoriously hot. For this reason, a CPU cooler is used to keep temperatures lower and ensure that the CPU runs at maximum efficiency.">
+                                    <meta itemprop="dateCreated" content="2022-02-13 08:01:35 +0500 +0500">
+                                    <link itemprop="url"
+                                        href="/knowledge-base/cpu-cooler-liquid-cooling-vs-air-cooling/">
+                                    <link itemprop="image" href="/img/cpu-cooler-liquid-cooling-vs-air-cooling.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 13 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/pc-gaming-system-requirements-for-games/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">Gaming System Requirements for 2022’s Hottest Titles</p>
+                                    <meta itemprop="thumbnailUrl"
+                                        content="/img/pc-gaming-system-requirements-for-games.jpg">
+                                    <meta itemprop="description"
+                                        content="PC requirements today are more complex than ever, with developers trying to push graphics ever further. Whether you're playing on a PS4 or an Xbox One, the hardware requirements for games have been fairly consistent in recent years, but a look at some of the most anticipated AAA PC games reveals some notable differences.">
+                                    <meta itemprop="dateCreated" content="">
+                                    <link itemprop="url"
+                                        href="/knowledge-base/pc-gaming-system-requirements-for-games/">
+                                    <link itemprop="image" href="/img/pc-gaming-system-requirements-for-games.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 1 Jan</span>
+                                </a>
+                                <a href="/knowledge-base/how-to-choose-ram-for-a-gaming-pc/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to Choose RAM for a Gaming PC</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/how-to-choose-ram-for-a-gaming-pc.jpg">
+                                    <meta itemprop="description"
+                                        content="RAM is a type of memory that your computer uses to store and quickly access files and apps. It is called random access memory because the computer can access it in any order, while other types of storage (like hard drives) require you to move through or search each file sequentially.">
+                                    <meta itemprop="dateCreated" content="2022-02-13 08:01:35 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/how-to-choose-ram-for-a-gaming-pc/">
+                                    <link itemprop="image" href="/img/how-to-choose-ram-for-a-gaming-pc.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 13 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/how-to-choose-a-motherboard/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to Choose a Motherboard</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/how-to-choose-a-motherboard.jpg">
+                                    <meta itemprop="description"
+                                        content="To build a computer, the first thing you need is a motherboard. The motherboard is the central component that links all of your other components together. It manages power distribution throughout the system. It allows your CPU and RAM information to be sent to your hard drive or optical disk drive. It connects you to peripherals such as keyboards and mice.">
+                                    <meta itemprop="dateCreated" content="2022-02-13 08:01:35 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/how-to-choose-a-motherboard/">
+                                    <link itemprop="image" href="/img/how-to-choose-a-motherboard.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 13 Feb</span>
+                                </a>
+                                <a href="/knowledge-base/how-to-choose-a-gaming-cpu/" itemscope=""
+                                    itemtype="https://schema.org/Guide" class="nav-blog">
+                                    <p itemprop="name">How to Choose a Gaming CPU</p>
+                                    <meta itemprop="thumbnailUrl" content="/img/how-to-choose-a-gaming-cpu.jpg">
+                                    <meta itemprop="description"
+                                        content="A game processor has three primary functions: game rendering, game physics calculations, game AI processing. You can even overclock some game processors for increased performance in gaming.">
+                                    <meta itemprop="dateCreated" content="2022-04-05 13:31:23 +0500 +0500">
+                                    <link itemprop="url" href="/knowledge-base/how-to-choose-a-gaming-cpu/">
+                                    <link itemprop="image" href="/img/how-to-choose-a-gaming-cpu.jpg">
+                                    <meta itemprop="author creator" content="Rustam Iqbal">
+                                    <span class="blog-post-time" itemprop="dateCreated">Last Updated on 5 Apr</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

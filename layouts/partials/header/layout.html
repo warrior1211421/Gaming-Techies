@@ -1,5 +1,6 @@
 <div class="burgerbar">
     <div class="container full burgerbar-small">
+        {{ if eq site.Params.home_setting.headerStyle "Style 1" }}
         <script type="text/javascript">
             function rMenu() {
                 var x = document.getElementById("primary-nav");
@@ -13,6 +14,7 @@
         <a href="javascript:void;" aria-label="Menu Button" class="responsive-icon" onclick="rMenu()">
             <i class="fa fa-bars" aria-hidden="true"></i>
         </a>
+        {{ end }}
         <div class="logo-d" id="publisherDetails">
             <a href="/" aria-label="{{.Site.Title}} Logo">
                 {{ if .Site.Params.logo }}
