@@ -1647,7 +1647,7 @@ ul.table-of-contents li a{
     font-weight: bold;
     border-radius: 5px;
     text-transform: uppercase;
-    background-color: var(--ctaColor);
+    background-color: var(--ctaColorBG);
 }
 
 .specs__text{
