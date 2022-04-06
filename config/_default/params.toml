@@ -26,6 +26,8 @@ mainColor = "#eee"
 textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
+ctaColorBG = "#2871de"
+ctaColorText = "#ffffff"
 
 [siteRobots]
 catIndex = false
