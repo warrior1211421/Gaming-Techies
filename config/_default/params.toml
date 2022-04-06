@@ -26,7 +26,7 @@ mainColor = "#eee"
 textColor = "#ffffff"
 linkColor = "#2871de"
 ctaColor = "#2871de"
-ctaColorBG = "#000000"
+ctaColorBG = "#2871de"
 ctaColorText = "#ffffff"
 
 [siteRobots]
