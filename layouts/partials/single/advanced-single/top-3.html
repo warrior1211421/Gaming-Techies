@@ -32,7 +32,7 @@
     {{ range after 1 $products | first 1 }}
     {{- $amzlong := or (findRE "amazon" .amzlink) (findRE "amzn" .amzlink) }}
     <div class="table-grid-item">
-        <span class="grid-pick" style="background-color:var(--mainColor);">Most Popular</span>
+        <span class="grid-pick" style="background-color: #000;">Most Popular</span>
         <a class="grid-img"
            href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/dp/{{.amzlink}}/?tag={{site.Params.amznTracking.topProducts}}{{end}}">
             <img width="130" height="130" src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
