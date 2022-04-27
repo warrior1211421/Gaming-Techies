@@ -1,0 +1,18 @@
+{{- $comma := false -}}
+{{- $urlcomma := false -}}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "SiteNavigationElement",
+        "name": [
+            {{- range $name, $taxonomy := .Site.Taxonomies.categories }}
+                {{- if $comma -}},{{- end -}}{{- $name | title -}}{{- $comma = true -}}
+            {{- end -}}
+        ],
+        "url": [
+            {{- range $name, $taxonomy := .Site.Taxonomies.categories }}
+                {{- if $urlcomma -}},{{- end -}}{{- $name | urlize | absURL -}}{{- $urlcomma = true -}}
+            {{- end -}}
+        ]
+    }
+</script>

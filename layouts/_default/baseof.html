@@ -6,6 +6,7 @@
     {{- partial "basic/schema" . -}}
 </head>
     <body>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.0.2/lunr.js"></script>
         {{ partial "header/index" . }}
         <div id="main" class="container full">
         {{ if .IsHome }}

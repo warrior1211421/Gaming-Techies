@@ -365,7 +365,7 @@ collections:
             widget: "object"
             collapsed: true
             fields:
-            - {label: Header Style, name: headerStyle, widget: "select", options: ["Style 1", "Style 2"], required: false}
+            - {label: Header Style, name: headerStyle, widget: "select", options: ["Style 1", "Style 2", "Group Navigation"], default: ["Style 1"], required: false}
             - {label: Header Text, name: headerText, widget: markdown, required: false}
             - {label: Footer Text, name: footerText, widget: markdown, required: false}
             - {label: Homepage Blog/Knowledge Section, name: blogSection, widget: boolean, required: false, hint: "This is the img section on the homepage at the end which shows all knowledge-base posts"}

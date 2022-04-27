@@ -1,0 +1,257 @@
+.hidden {
+    display: none;
+}
+
+.dropdown-posts::-webkit-scrollbar {
+    width: 5px;
+}
+
+.dropdown-posts::-webkit-scrollbar-track {
+    background-color: #fff;
+}
+
+.dropdown-posts::-webkit-scrollbar-thumb {
+    background-color: #ededed;
+    border-radius: 5px;
+}
+
+.dropdown-posts::-webkit-scrollbar-thumb:hover {
+    background: grey;
+}
+
+.bound {
+    margin: auto;
+    max-width: 970px;
+}
+
+.main-nav {
+    background-color: var(--mainColor);
+}
+
+.nav {
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.home-link {
+    color: #fff;
+    display: none;
+}
+
+.responsive-menu {
+    align-items: center;
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dropdown-container,
+.responsive-menu {
+    position: relative;
+}
+
+.nav-dropdown-content p {
+    color: var(--mainColor);
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin: 0.5rem 0;
+    text-transform: uppercase;
+}
+
+.dropdown-categories {
+    border-right: 1px solid #e4e4e4;
+    left: 0;
+    overflow-y: scroll;
+    padding: 0.5rem;
+    position: relative;
+    width: 30%;
+}
+
+.dropdown-posts {
+    background-color: #fff;
+    height: -webkit-fill-available;
+    overflow-y: scroll;
+    padding: 0.5rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 60%;
+}
+
+.nav-link-icon {
+    height: 12px;
+    margin-left: 5px;
+    width: 20px;
+}
+
+.nav-blog p {
+    color: unset;
+    font-size: 1rem;
+    font-weight: unset;
+    line-height: 25px;
+    margin: 0.75rem 0 5px;
+    text-transform: unset;
+}
+
+.nav-link {
+    align-items: center;
+    background: 0 0;
+    border: 0;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    justify-content: space-between;
+    padding: 1rem 0;
+    text-align: left;
+    width: 100%;
+}
+
+.best-pick .icon-arrow-down {
+    font-size: 14px;
+    margin-left: 4px;
+}
+
+.nav-dropdown-content {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    display: none;
+    left: 0;
+    min-height: 36rem;
+    min-width: 23rem;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 3;
+}
+
+.best-pick {
+    align-items: center;
+    color: #fff;
+    display: none;
+    flex: 4;
+    flex-direction: row;
+    justify-content: unset;
+    margin-left: 2rem;
+    font-weight: bold;
+}
+
+.nav-custom-posts {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.nav-blog {
+    color: #000;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 0.85rem;
+    vertical-align: top;
+    word-spacing: normal;
+}
+
+.blog-post-time {
+    color: #737b7d;
+    display: block;
+}
+
+.dropdown-categories::-webkit-scrollbar {
+    width: 2px;
+}
+
+.dropdown-categories::-webkit-scrollbar-thumb {
+    background-color: hsla(0, 0%, 46%, 0.129);
+}
+
+.icon-arrow-down .icon {
+    height: 26px;
+    margin: -5px 0;
+    transform: rotate(90deg);
+    width: 26px;
+}
+
+@media only screen and (min-width: 700px) {
+    .best-pick {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .dropdown-categories {
+        max-height: 35rem;
+        width: 20%;
+    }
+
+    .dropdown-categories .nav-link {
+        width: 100%;
+    }
+
+    .dropdown-container:hover .nav-dropdown-content {
+        display: block;
+        left: -3rem;
+        width: 55rem;
+    }
+
+    .dropdown-posts {
+        top: 0;
+        width: 75%;
+    }
+
+    .nav-link {
+        font-size: 1rem;
+    }
+
+    .nav-blog {
+        font-size: 0.95rem;
+    }
+
+    .home-link {
+        display: block;
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 990px) {
+    .main-nav {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .nav-dropdown-content {
+        max-height: 80vh;
+        min-width: 0;
+        width: 90vw !important;
+    }
+
+    .nav-blog {
+        max-width: none;
+        width: 100%;
+    }
+}
+
+@media (max-width: 700px) {
+    .nav-dropdown-content {
+        height: calc(100vh - 100px);
+        left: 1vw;
+        max-height: none;
+        min-width: 0;
+        width: 98vw;
+    }
+
+    .nav-custom-posts {
+        grid-template-columns: 1fr;
+    }
+}

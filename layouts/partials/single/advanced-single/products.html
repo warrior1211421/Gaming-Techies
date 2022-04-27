@@ -19,6 +19,10 @@
         <meta itemprop="url" content="{{.image}}">
         <meta itemprop="height" content="240">
         <meta itemprop="width" content="320">
+        <figcaption class="image-figcaption">
+            <span class="caption" itemprop="caption">{{.name}}</span>
+            <span class="credit">(Image credit: <span itemprop="copyrightHolder">Amazon</span>)</span>
+        </figcaption>
     </figure>
     <h3 class="title__heading">
         <a href="{{ if $amzlong }}{{.amzlink}}{{else}}https://www.amazon.com/dp/{{.amzlink}}/?tag={{site.Params.amznTracking.global}}{{end}}" aria-label="{{.name}}"
@@ -32,6 +36,7 @@
     <div class="specifications">
     {{ range .specifications }}
     {{ if .specification }}
+        <p class="specs__title"><strong>SPECIFICATIONS</strong></p>
     {{ end }}
         <p class="specs__text">{{ .specification | markdownify }}</p>
     {{ end }}

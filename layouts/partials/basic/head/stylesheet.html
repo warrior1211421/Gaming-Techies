@@ -7,7 +7,9 @@
 {{- $fontawesome := resources.Get "css/font-awesome.css" | minify -}}
 {{- $newfeatures := resources.Get "css/v1.2.css" | minify -}}
 {{- $newMenu := resources.Get "css/menu.css" | minify -}}
-{{- $mainStyle := slice $globalStyle $max900 $min700 $min900 $min1000 $newfeatures $newMenu | resources.Concat "css/main.css" | fingerprint }}
+{{- $groupMenu := resources.Get "css/group-nav.css" | minify -}}
+{{- $allStyles := slice $globalStyle $max900 $min700 $min900 $min1000 $newfeatures $newMenu $groupMenu -}}
+{{- $mainStyle := $allStyles | resources.Concat "css/main.css" }}
 
 <style>
 :root {

@@ -1,4 +1,9 @@
-{{- partial "basic/schema/navigation.html" . }}
+{{ if eq site.Params.home_setting.headerStyle "Group Navigation" }}
+    {{- partial "basic/schema/group-nav.html" . }}
+{{ else }}
+    {{- partial "basic/schema/navigation.html" . }}
+{{ end }}
+
 
 {{- if .IsHome }}
     {{- partial "basic/schema/organization.html" . }}
