@@ -1,7 +1,7 @@
 ---
 title: "How to Connect Two Monitors to One Computer with One HDMI Port? "
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: "How to Connect Two Monitors to One Computer with One HDMI Port? "
 meta_Description: "How to connect two monitors to one computer with one HDMI
