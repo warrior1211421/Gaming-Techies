@@ -3,10 +3,10 @@ title: "How to Connect Two Monitors to One Computer with One HDMI Port? "
 type: knowledge-base
 draft: false
 trending: false
-seo_title: "How to Connect Two Monitors to One Computer with One HDMI Port? "
+seo_title: "How to Connect Two Monitor with One HDMI Port? "
 meta_Description: "How to connect two monitors to one computer with one HDMI
   port? The best and most promising way is to… "
-url: how-to-connect-two-monitors-to-one-computer-with-one-hdmi-port
+url: how-to-connect-two-monitors-with-one-hdmi
 author: Gabriel
 date: 2022-04-27T15:30:43.516Z
 updateDate: 2022-04-27T15:30:43.636Z
