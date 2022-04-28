@@ -38,7 +38,7 @@
 }
 
 .home-link {
-    color: #fff;
+    color: #000;
     display: none;
 }
 
@@ -58,7 +58,7 @@
 }
 
 .nav-dropdown-content p {
-    color: var(--mainColor);
+    color: #000;
     font-size: 0.7rem;
     font-weight: 600;
     margin: 0.5rem 0;
@@ -137,7 +137,7 @@
 
 .best-pick {
     align-items: center;
-    color: #fff;
+    color: #000;
     display: none;
     flex: 4;
     flex-direction: row;
