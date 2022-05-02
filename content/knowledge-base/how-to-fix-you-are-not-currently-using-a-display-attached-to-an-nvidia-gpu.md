@@ -11,6 +11,7 @@ url: you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu-fix
 author: Gabriel
 date: 2022-05-02T12:38:20.997Z
 updateDate: 2022-05-02T12:38:21.230Z
+featured_Image: /uploads/how-to-fix-you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu.webp
 categories:
   - Knowledge Base
 ---
