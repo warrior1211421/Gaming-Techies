@@ -1,7 +1,7 @@
 ---
 title: How to Wirelessly Connect a Laptop to a Vizio Smart TV?
 type: knowledge-base
-draft: true
+draft: false
 trending: false
 seo_title: How to Wirelessly Connect a Laptop to a Vizio Smart TV?
 url: how-to-wirelessly-connect-a-laptop-to-a-vizio-smart-tv?
