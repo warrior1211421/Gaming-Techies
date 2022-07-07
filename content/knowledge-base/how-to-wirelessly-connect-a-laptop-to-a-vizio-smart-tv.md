@@ -31,7 +31,7 @@ faqs:
     question: Does Vizio TV have Bluetooth?
   - answer: On all SmartCast compatible devices, the SmartCast logo appears next to
       the Chromecast logo in the first banner.
-    question: How do I know if my Vizio TV has  SmartCast?
+    question: How do I know if my Vizio TV has SmartCast?
 ---
 Do you know what’s better than your laptop’s 15-inch display? Your LED TV with a bigger screen, higher resolution, and better sound quality. Most gamers use their laptop for gaming, work, editing, and watching their favorite movies. In this regard, you can never have enough when it comes to the size of the display. However, buying a large HD display just for watching movies can be very expensive. Therefore, this article describes how you can connect your laptop to Vizio smart tv without any cables.
 
