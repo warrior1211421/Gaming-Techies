@@ -1,19 +1,18 @@
 {{ define "main" }}
     <style>
         .page{
-            margin:2.5rem;
+            margin-block:2em;
             display: block;
             background-color: white;
-            padding: 2.5rem 4rem !important;
-            border: 1px solid #dedede;
+            padding: 2.5rem 1rem !important;
         }
         .page h1{
             margin-bottom: 1.5rem;
         }
     </style>
-    <div id="content" class="page">
+    <article id="content" class="page">
         <h1>{{.Title}}</h1>
         {{.Content }}
-    </div>
+    </article>
 
 {{ end }}

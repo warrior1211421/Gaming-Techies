@@ -1,6 +1,8 @@
 <div id="article-body" class="text-copy bodyCopy">
 {{ partial "single/advanced-single/introduction" . }}
+{{ if eq .Params.the_glance true }}
 {{ partial "single/advanced-single/glance" . }}
+{{ end }}
 {{ partial "single/advanced-single/products" . }}
 {{ if .Content }}
 <div id="below-products">
