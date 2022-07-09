@@ -213,7 +213,7 @@ the_products:
     nameForTOC: LG 34GP83A-B
     name: 1. LG 34GP83A-B
     specifications:
-      - specification: "**Size:** 34 **\\| Resoulution:** 3840 × 2160 (4K) **\\| Pixel
+      - specification: "**Size:** 34 **\\| Resolution:** 3840 × 2160 (4K) **\\| Pixel
           Density:** 80 PPi **\\| Refresh Rate:** 160 Hz **\\| Response Time:**
           1 Ms **\\| Panel Type:** Ips(Curved) **\\| Adaptive Sync:** Freesync &
           G-Sync"
