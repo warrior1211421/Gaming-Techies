@@ -73,7 +73,7 @@ the_products:
       - pro: "Much clear image "
       - pro: "Comes with calibration software "
       - pro: Trustworthy build quality
-    amzlink: "#"
+    amzlink: https://www.amazon.com/ASUS-PA329Q-3840x2160-ProArt-Monitor/dp/B01F6D1ITM?&linkCode=ll1&tag=gamingtechi09-20&linkId=e22cee85c56ffc29068368d1212b18e5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS PA329Q 32'' 4K
     name: 1. ASUS PA329Q 32'' 4K
     specifications:
@@ -86,7 +86,7 @@ the_products:
       - con: "Out-of-box grayscale precision "
       - con: The software doesn't back high-end instruments
       - con: "Unbendable OSD calibration "
-    image: /uploads/allocate-more-ram-in-a-minecraft-server.webp
+    image: /uploads/asus-pa329q-32-4k.webp
     award: Best Monitor for Graphic Design
   - paragraphs:
       - paragraph: >-
@@ -118,7 +118,7 @@ the_products:
       - pro: "Adaptable picture control  "
       - pro: Flawless pixel density
       - pro: "Much clear and accurate image "
-    amzlink: "#"
+    amzlink: https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-U3818DW/dp/B073FHWTPL?&linkCode=ll1&tag=gamingtechi09-20&linkId=52ff8eee937e16bc15e652c2238c3e1b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Dell U-Series 38
     name: 2. Dell U-Series 38'' Screen LED-lit Monitor (U3818DW)
     specifications:
@@ -129,7 +129,7 @@ the_products:
     cons:
       - con: "No DCI-P3 or Adobe RGB extent choices "
       - con: Built only for Windows system and is not compatible with OS.
-    image: /uploads/80-plus-gold-bronze.webp
+    image: /uploads/dell-u-series-38.webp
     award: Best 4k Monitor for Architects
   - paragraphs:
       - paragraph: >-
@@ -161,7 +161,7 @@ the_products:
       - pro: "High pixel density "
       - pro: Stylish and smart look
       - pro: "Comes with a black stabilizer "
-    amzlink: "#"
+    amzlink: https://www.amazon.com/LG-25UM58-P-25-Inch-21-UltraWide/dp/B01BV1XB2K?th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=707e89c21cc5cd74e8592011bd749482&language=en_US&ref_=as_li_ss_tl
     nameForTOC: LG 25UM58-P 25-Inch 21:9
     name: 3. LG 25UM58-P 25-Inch 21:9
     specifications:
@@ -173,7 +173,7 @@ the_products:
       - con: "Lack of 4K display "
       - con: Short screen
       - con: "No AMD Free-Sync "
-    image: /uploads/acer-predator-xb272.webp
+    image: /uploads/lg-25um58-p-25-inch-219.webp
     award: Super Extensive IPS Monitor
   - paragraphs:
       - paragraph: >-
@@ -201,7 +201,7 @@ the_products:
       - pro: " Motions are firm without any excessive play"
       - pro: "Features an arc-line base for better stability "
       - pro: Incorporates with Free-Sync technology
-    amzlink: "#"
+    amzlink: https://www.amazon.com/LG-34WK650-W-34-UltraWide-21/dp/B078GSH1LV?&linkCode=ll1&tag=gamingtechi09-20&linkId=ca9787787dea1f3df38ab8839ef205b0&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "34-inch LG 34WK650-W "
     name: "4. 34-inch LG 34WK650-W "
     specifications:
@@ -213,7 +213,7 @@ the_products:
       - con: "Does not comes with portable wires "
       - con: "Comes with mediocre speakers. "
       - con: "Text isn't that much clear as the other competitors "
-    image: /uploads/activating-avast-gaming-mode.webp
+    image: /uploads/34-inch-lg-34wk650-w.webp
     award: Best Ultra-wide Monitor
   - paragraphs:
       - paragraph: >-
@@ -240,7 +240,7 @@ the_products:
       - pro: "Marvelous HDR performance "
       - pro: Huge screen display
       - pro: "Accurate, precise, and responsive panel  "
-    amzlink: "#"
+    amzlink: https://www.amazon.com/SAMSUNG-Odyssey-Monitor-FreeSync-LS49AG952NNXZA/dp/B096YNP6ZR?th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=8d00cbc35694e5e2e14114df5be0ee84&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung Odyssey Neo G9
     name: 5. Samsung Odyssey Neo G9
     specifications:
@@ -252,7 +252,7 @@ the_products:
       - con: "Tremendously lavish "
       - con: "Underequipped with ports "
       - con: Colossal and overwhelm
-    image: /uploads/best-monitors-for-architects.webp
+    image: /uploads/samsung-odyssey-neo-g9.webp
     award: Best Monitor for Architects
   - paragraphs:
       - paragraph: >-
@@ -282,7 +282,7 @@ the_products:
       - pro: "Magnificent out-of-box color "
       - pro: "HDR-10 support "
       - pro: Provides good value for money
-    amzlink: "#"
+    amzlink: https://www.amazon.com/BenQ-PD2700U-Professional-Monitor-3840x2160/dp/B07H9XP92N?&linkCode=ll1&tag=gamingtechi09-20&linkId=890ae8b41d07a5f9e427ba58289f8ba3&language=en_US&ref_=as_li_ss_tl
     nameForTOC: BenQ PD2700U 27-inch
     name: 6. BenQ PD2700U 27-inch
     specifications:
@@ -293,7 +293,7 @@ the_products:
     cons:
       - con: "No DCI-P3 color available "
       - con: Lower refresh rate than other competitors
-    image: /uploads/activating-avast-gaming-mode.webp
+    image: /uploads/benq-pd2700u-27-inch.webp
     award: Great Monitor for Architects
 faqs:
   - question: What monitor size do architects use?
