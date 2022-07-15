@@ -318,6 +318,8 @@ faqs:
       1080 pixels vertically, or 1920x1080, and that's why it's now and then too
       abbreviated to 1080p.
 ---
+## Conclusion
+
 While illustrating you to the choices for the best monitors for architects, we begin by sharing a brief history of the monitor evolution along with you guys. After that, different variables were discussed that you just ought to consider when buying the best monitor that fits your job. 
 
 On the off chance that you are just a normal architect wanting to buy a monitor for only work, then ASUS PA329Q can be a better option for you as it incorporates a large screen and will adequately fulfill all your requirements. 
