@@ -121,8 +121,8 @@ the_products:
       - pro: Sharply curved display
       - pro: Low response time
     amzlink: https://www.amazon.com/dp/B07ZS1DZM1?&linkCode=ll1&tag=gamingtechi09-20&linkId=7f5c6e393dab69f5086e6e21aa41e3dc&language=en_US&ref_=as_li_ss_tl
-    nameForTOC: 2. LG 38GL950G-B
-    name: LG 38GL950G-B
+    nameForTOC: LG 38GL950G-B
+    name: 2. LG 38GL950G-B
     specifications:
       - specification: "**Size:** 38 **\\| Dimensions:** 35.3 x 21.7 x 11.3 inches **\\|
           Resolution:** 3840 x 1600 **\\| Pixel Density:** 109 PPI **\\| Refresh
