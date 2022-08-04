@@ -1,7 +1,7 @@
 ---
 title: Top 5 Best Monitors for Trading
 type: posts
-draft: false
+draft: true
 trending: false
 seo_title: Best Monitors for Trading - Top 5 List
 meta_Description: Are you looking for the best monitors for Nintendo? Here are
