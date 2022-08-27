@@ -10,7 +10,7 @@ date: 2022-08-27T10:04:02.939Z
 updateDate: 2022-08-27T10:04:03.009Z
 featured_Image: /uploads/best-desk-for-dual-monitors.webp
 categories:
-  - Monitors
+  - Desks
 product_table: true
 top3_table: true
 the_glance: true
