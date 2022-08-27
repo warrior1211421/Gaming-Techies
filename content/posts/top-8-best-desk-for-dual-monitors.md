@@ -105,8 +105,8 @@ the_products:
       - pro: Height adjustment
       - pro: Durability
     amzlink: https://www.amazon.com/Arozzi-Arena-Gaming-Desk-Black/dp/B01K1JW1L0?&linkCode=ll1&tag=gamingtechi09-20&linkId=8704b1a7bca930aa38a42cfcf05a1c82&language=en_US&ref_=as_li_ss_tl
-    nameForTOC: Arozzi Arena gaming desk
-    name: 2. Arozzi Arena gaming desk
+    nameForTOC: Arozzi Arena Gaming Desk
+    name: 2. Arozzi Arena Gaming Desk
     specifications:
       - specification: "**Dimensions:** 32.2 x 63 x 31 inches **\\| Weight:** 103.61
           pounds **\\| Warranty:** N/A"
@@ -174,8 +174,8 @@ the_products:
       - pro: Large drawers
       - pro: Easy to assemble
     amzlink: https://www.amazon.com/FLEXISPOT-Standing-Drawers-Electric-Adjustable/dp/B08WXFMPQQ?&linkCode=ll1&tag=gamingtechi09-20&linkId=525526b5d97f3b69fd907cc22c93201c&language=en_US&ref_=as_li_ss_tl
-    nameForTOC: Flexispot EB8 standing desk
-    name: 4. Flexispot EB8 standing desk
+    nameForTOC: Flexispot EB8 Standing Desk
+    name: 4. Flexispot EB8 Standing Desk
     specifications:
       - specification: "**Dimensions:** 26.2 x 47.3 x 7 inches **\\| Weight:** 40 pounds
           **\\| Warranty:** N/A"
