@@ -1,110 +1,111 @@
-# Main Menu Starts Here...
+[[main]]
+name = "Home"
+url = "/"
+weight = "1"
 
-  [[main]]
-    name = "Home"
-    url = "/"
-    weight = "1"
+[[main]]
+parent = "Buying Guides"
+name = "Motherboards"
+url = "/motherboards/"
+weight = "2"
 
-  [[main]]
-    parent = "Buying Guides"
-    name = "Motherboards"
-    url = "/motherboards/"
-    weight = "2"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Headphones"
-    url = "/headphones/"
-    weight = "3"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Graphics Cards"
-    url = "/graphics-cards/"
-    weight = "4"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Keyboards"
-    url = "/keyboards/"
-    weight = "5"	
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Monitors"
-    url = "/monitors/"
-    weight = "6"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Mouse"
-    url = "/mouse/"
-    weight = "7"
+[[main]]
+parent = "Buying Guides"
+name = "Headphones"
+url = "/headphones/"
+weight = "3"
 
-  [[main]]
-    parent = "Buying Guides"
-    name = "Routers & Modems"
-    url = "/routers-and-modems/"
-    weight = "8"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Cables"
-    url = "/cables/"
-    weight = "9"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "Chairs"
-    url = "/chairs/"
-    weight = "10"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "PC Cases"
-    url = "/pc-cases/"
-    weight = "11"
-	
-  [[main]]
-    parent = "Buying Guides"
-    name = "PC Builds"
-    url = "/pc-builds/"
-    weight = "12"
-	
-  [[main]]
-    name = "Knowledge Base"
-    url = "/knowledge-base/"
-    weight = "13"
+[[main]]
+parent = "Buying Guides"
+name = "Graphics Cards"
+url = "/graphics-cards/"
+weight = "4"
 
+[[main]]
+parent = "Buying Guides"
+name = "Keyboards"
+url = "/keyboards/"
+weight = "5"
 
-# Footer Menu Starts Here...
+[[main]]
+parent = "Buying Guides"
+name = "Monitors"
+url = "/monitors/"
+weight = "6"
 
-  [[footer]]
-    name = "Terms and Conditions"
-    url = "/terms-of-service/"
-    weight = "1"
+[[main]]
+parent = "Buying Guides"
+name = "Mouse"
+url = "/mouse/"
+weight = "7"
 
-  [[footer]]
-    name = "Privacy Policy"
-    url = "/privacy-policy/"
-    weight = "2"
+[[main]]
+parent = "Buying Guides"
+name = "Routers & Modems"
+url = "/routers-and-modems/"
+weight = "8"
 
-  [[footer]]
-    name = "Affiliate Disclosure"
-    url = "/affiliate-disclosure/"
-    weight = "3"
+[[main]]
+parent = "Buying Guides"
+name = "Cables"
+url = "/cables/"
+weight = "9"
 
-  [[footer]]
-    name = "About US"
-    url = "/about-us/"
-    weight = "4"
+[[main]]
+parent = "Buying Guides"
+name = "Chairs"
+url = "/chairs/"
+weight = "10"
 
-  [[footer]]
-    name = "Contact US"
-    url = "/contact-us/"
-    weight = "5"
-    
-  [[footer]]
-    name = "Sitemap"
-    url = "/sitemap.xml/"
-    weight = "5"
+[[main]]
+parent = "Buying Guides"
+name = "PC Cases"
+url = "/pc-cases/"
+weight = "11"
+
+[[main]]
+parent = "Buying Guides"
+name = "PC Builds"
+url = "/pc-builds/"
+weight = "12"
+
+[[main]]
+weight = 13
+name = "Desks"
+url = "/desks/"
+parent = "Buying Guides"
+
+[[main]]
+name = "Knowledge Base"
+url = "/knowledge-base/"
+weight = "13"
+
+[[footer]]
+name = "Terms and Conditions"
+url = "/terms-of-service/"
+weight = "1"
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy/"
+weight = "2"
+
+[[footer]]
+name = "Affiliate Disclosure"
+url = "/affiliate-disclosure/"
+weight = "3"
+
+[[footer]]
+name = "About US"
+url = "/about-us/"
+weight = "4"
+
+[[footer]]
+name = "Contact US"
+url = "/contact-us/"
+weight = "5"
+
+[[footer]]
+name = "Sitemap"
+url = "/sitemap.xml/"
+weight = "5"
