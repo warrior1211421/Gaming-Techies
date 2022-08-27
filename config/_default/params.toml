@@ -85,6 +85,9 @@ scrollcat = "PC Builds"
 [[scroll_section]]
 scrollcat = "Knowledge Base"
 
+[[scroll_section]]
+scrollcat = "Desks"
+
 [post_setting]
 featured_img = false
 
