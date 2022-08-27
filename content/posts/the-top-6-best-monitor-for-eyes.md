@@ -296,6 +296,8 @@ faqs:
       monitors.
     question: What is a borderless monitor?
 ---
+## Conclusion
+
 With the progression of innovation, screens have become more regular, whether smartphones or the shape of computer screens. Monitors have picked up first significance in this period in which individuals see on TV screens for a much longer time. This long seeing at screens is dependable for eye strain. While presenting you with the leading screens for eye strain, we depicted you with a brief history of screens. A short time later, we moved toward the most excellent screens for eyes. 
 
 On the off chance that you're modern to the gaming calling and need a great screen, at this point, you must go for the View-Sonic, ASUS, as they give you a quick reaction besides an excellent quality of the construct. They will deliver your work dependably.
