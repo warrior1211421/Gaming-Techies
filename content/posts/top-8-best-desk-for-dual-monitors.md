@@ -325,6 +325,8 @@ faqs:
   - answer: You can easily set the two monitors by keeping them in V-shaped management.
     question: Which arrangement is best for dual monitors on a desk?
 ---
+## Conclusion
+
 While illustrating to you the **best desk for dual monitors**, we saw that gaming these days has gained the utmost importance as it has provided a career path to a huge portion of our new generation. We saw that the desks are one of the foremost parts of building a fully-featured gaming setup. In old days, these things were not given much importance in comfort, but the trend has changed now, as now we have an extensive range of accessible desks for dual monitors capable of adding great comfort to your existing setup.
 
 If you have a keen interest in building a great gaming setup that anyone can say is worth investing in, you need to have a good gaming desk. If you are a regular professional looking for a desk for your office use, then you can go for the simple HON BL or any much simpler L-shape desk which will provide more than enough with good capability and long live durability.
