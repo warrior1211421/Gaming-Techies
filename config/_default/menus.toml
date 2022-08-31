@@ -76,6 +76,12 @@ url = "/desks/"
 parent = "Buying Guides"
 
 [[main]]
+weight = 14
+parent = "Buying Guides"
+name = "Speakers"
+url = "/speakers/"
+
+[[main]]
 name = "Knowledge Base"
 url = "/knowledge-base/"
 weight = "13"
