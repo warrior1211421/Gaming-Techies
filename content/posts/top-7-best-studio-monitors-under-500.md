@@ -12,7 +12,7 @@ date: 2022-08-31T13:19:33.651Z
 updateDate: 2022-08-31T13:19:33.731Z
 featured_Image: /uploads/best-studio-monitors-under-500-.webp
 categories:
-  - Monitors
+  - Speakers
 product_table: true
 top3_table: true
 the_glance: true
