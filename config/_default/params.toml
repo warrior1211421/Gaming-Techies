@@ -88,6 +88,9 @@ scrollcat = "Knowledge Base"
 [[scroll_section]]
 scrollcat = "Desks"
 
+[[scroll_section]]
+scrollcat = "Speakers"
+
 [post_setting]
 featured_img = false
 
