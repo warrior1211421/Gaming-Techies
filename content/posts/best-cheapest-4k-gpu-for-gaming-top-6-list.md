@@ -4,7 +4,7 @@ type: posts
 draft: false
 trending: false
 seo_title: Top 6 Best Cheapest 4k GPU for Gaming
-url: best-cheapest-4k-gpu-for-gaming
+url: best-cheapest-4k-gpu
 author: Gabriel
 date: 2022-10-07T09:39:12.538Z
 updateDate: 2022-10-07T09:39:12.598Z
