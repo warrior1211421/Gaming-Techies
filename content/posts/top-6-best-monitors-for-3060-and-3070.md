@@ -77,7 +77,7 @@ the_products:
       - pro: Support Free-Sync
       - pro: Support G-Sync
       - pro: Livable design
-    amzlink: https://www.amazon.com/dp/B00N2L5CXO?&linkCode=ll1&tag=gamingtechi09-20&linkId=92a2655aef1725e37387e28dc96161e5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B00N2L5CXO?&linkCode=ll1&tag=viral0c4-20&linkId=92a2655aef1725e37387e28dc96161e5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Dell S2719DGF
     name: 1. Dell S2719DGF
     specifications:
@@ -120,7 +120,7 @@ the_products:
       - pro: RGB lighting
       - pro: Sharply curved display
       - pro: Low response time
-    amzlink: https://www.amazon.com/dp/B07ZS1DZM1?&linkCode=ll1&tag=gamingtechi09-20&linkId=7f5c6e393dab69f5086e6e21aa41e3dc&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B07ZS1DZM1?&linkCode=ll1&tag=viral0c4-20&linkId=7f5c6e393dab69f5086e6e21aa41e3dc&language=en_US&ref_=as_li_ss_tl
     nameForTOC: LG 38GL950G-B
     name: 2. LG 38GL950G-B
     specifications:
@@ -168,7 +168,7 @@ the_products:
       - pro: Accurate picture quality
       - pro: Impressively large display
       - pro: Smart design
-    amzlink: https://www.amazon.com/Samsung-34-Inch-Widescreen-Monitor-C34F791/dp/B01M1D7JVO?&linkCode=ll1&tag=gamingtechi09-20&linkId=e642050709c74ab04ca91ec7ec79bafb&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Samsung-34-Inch-Widescreen-Monitor-C34F791/dp/B01M1D7JVO?&linkCode=ll1&tag=viral0c4-20&linkId=e642050709c74ab04ca91ec7ec79bafb&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung CJ791
     name: 3. Samsung CJ791
     specifications:
@@ -213,7 +213,7 @@ the_products:
       - pro: Large screen
       - pro: High refresh rate
       - pro: Picture accuracy
-    amzlink: https://www.amazon.com/SAMSUNG-34-Inch-Ultra-Wide-FreeSync-LC34G55TWWNXZA/dp/B08MVBYWGQ?&linkCode=ll1&tag=gamingtechi09-20&linkId=100b8aa6d9642f9b8546370de3b1d6b3&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SAMSUNG-34-Inch-Ultra-Wide-FreeSync-LC34G55TWWNXZA/dp/B08MVBYWGQ?&linkCode=ll1&tag=viral0c4-20&linkId=100b8aa6d9642f9b8546370de3b1d6b3&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung Odyssey G5 34-inch
     name: " 4. Samsung Odyssey G5 34-inch"
     specifications:
@@ -261,7 +261,7 @@ the_products:
       - pro: Sharp image
       - pro: Quick response
       - pro: Good build quality
-    amzlink: https://www.amazon.com/Dell-S3222DGM-31-5-inch-FreeSync-Monitor/dp/B09FCR5658?&linkCode=ll1&tag=gamingtechi09-20&linkId=fafdaff7dbb8406e25870f754a98c615&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Dell-S3222DGM-31-5-inch-FreeSync-Monitor/dp/B09FCR5658?&linkCode=ll1&tag=viral0c4-20&linkId=fafdaff7dbb8406e25870f754a98c615&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Dell S3222DGM
     name: 5. Dell S3222DGM
     specifications:
@@ -307,7 +307,7 @@ the_products:
       - pro: Optimized gaming speed
       - pro: High-rated build
       - pro: Excellent features
-    amzlink: https://www.amazon.com/MSI-DisplayPort-Technology-Oculux-NXG253R/dp/B096HFVVKK?&linkCode=ll1&tag=gamingtechi09-20&linkId=3118d55552cfd0d118f69cdc0239f6d4&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/MSI-DisplayPort-Technology-Oculux-NXG253R/dp/B096HFVVKK?&linkCode=ll1&tag=viral0c4-20&linkId=3118d55552cfd0d118f69cdc0239f6d4&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MSI Oculux NXG253R
     name: 6. MSI Oculux NXG253R
     specifications:
