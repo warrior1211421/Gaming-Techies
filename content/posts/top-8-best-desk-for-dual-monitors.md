@@ -65,7 +65,7 @@ the_products:
       - pro: Capable of handling heavyweights
       - pro: Impressive built quality
       - pro: Eye-catching add-ons
-    amzlink: https://www.amazon.com/ApexDesk-Elite-Electric-Height-Adjustable/dp/B079MJF9PL?crid=3DTAL4B802TAR&keywords=ApexDesk+Elite+Series+60%22+W&qid=1660738113&sprefix=apexdesk+elite+series+60+w+%2Caps%2C337&sr=8-1&linkCode=ll1&tag=gamingtechi09-20&linkId=1244aecae54173fce2936b33bdc16cff&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ApexDesk-Elite-Electric-Height-Adjustable/dp/B079MJF9PL?crid=3DTAL4B802TAR&keywords=ApexDesk+Elite+Series+60%22+W&qid=1660738113&sprefix=apexdesk+elite+series+60+w+%2Caps%2C337&sr=8-1&linkCode=ll1&tag=viral0c4-20&linkId=1244aecae54173fce2936b33bdc16cff&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ApexDesk Elite Series 60" W
     name: 1. ApexDesk Elite Series 60" W
     specifications:
@@ -104,7 +104,7 @@ the_products:
       - pro: Built quality
       - pro: Height adjustment
       - pro: Durability
-    amzlink: https://www.amazon.com/Arozzi-Arena-Gaming-Desk-Black/dp/B01K1JW1L0?&linkCode=ll1&tag=gamingtechi09-20&linkId=8704b1a7bca930aa38a42cfcf05a1c82&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Arozzi-Arena-Gaming-Desk-Black/dp/B01K1JW1L0?&linkCode=ll1&tag=viral0c4-20&linkId=8704b1a7bca930aa38a42cfcf05a1c82&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Arozzi Arena Gaming Desk
     name: 2. Arozzi Arena Gaming Desk
     specifications:
@@ -137,7 +137,7 @@ the_products:
       - pro: Spacious
       - pro: Luxurious look
       - pro: Durability
-    amzlink: https://www.amazon.com/Tribesigns-Modern-L-Shaped-Computer-Workstation/dp/B01NAX23FB?&linkCode=ll1&tag=gamingtechi09-20&linkId=d2daa2adcc7395e3081b75b3437e9cd3&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Tribesigns-Modern-L-Shaped-Computer-Workstation/dp/B01NAX23FB?&linkCode=ll1&tag=viral0c4-20&linkId=d2daa2adcc7395e3081b75b3437e9cd3&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Tribesigns Modern L-Shaped Desk
     name: 3. Tribesigns Modern L-Shaped Desk
     specifications:
@@ -173,7 +173,7 @@ the_products:
       - pro: Spacious
       - pro: Large drawers
       - pro: Easy to assemble
-    amzlink: https://www.amazon.com/FLEXISPOT-Standing-Drawers-Electric-Adjustable/dp/B08WXFMPQQ?&linkCode=ll1&tag=gamingtechi09-20&linkId=525526b5d97f3b69fd907cc22c93201c&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/FLEXISPOT-Standing-Drawers-Electric-Adjustable/dp/B08WXFMPQQ?&linkCode=ll1&tag=viral0c4-20&linkId=525526b5d97f3b69fd907cc22c93201c&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Flexispot EB8 Standing Desk
     name: 4. Flexispot EB8 Standing Desk
     specifications:
@@ -209,7 +209,7 @@ the_products:
       - pro: Adjustable heigh
       - pro: Spacious
       - pro: Durability
-    amzlink: https://www.amazon.com/Coleshome-Computer-Modern-Student-Writing/dp/B07MB1WDP3?&linkCode=ll1&tag=gamingtechi09-20&linkId=4d19e352fa98aae7a4e38a3b9caf83f2&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Coleshome-Computer-Modern-Student-Writing/dp/B07MB1WDP3?&linkCode=ll1&tag=viral0c4-20&linkId=4d19e352fa98aae7a4e38a3b9caf83f2&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Coles-home Computer desk
     name: 5. Coles-home Computer desk
     specifications:
@@ -245,7 +245,7 @@ the_products:
       - pro: Adjustable height
       - pro: Spacious
       - pro: Durability
-    amzlink: https://www.amazon.com/Rocelco-Adjustable-Standing-Converter-CADRB-46/dp/B07JZMD9HL?keywords=Dual%2BMonitor%2BComputer%2BDesk&qid=1660918164&sr=8-5&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=afd1cc3effb938b1e0549b1d6d357023&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Rocelco-Adjustable-Standing-Converter-CADRB-46/dp/B07JZMD9HL?keywords=Dual%2BMonitor%2BComputer%2BDesk&qid=1660918164&sr=8-5&th=1&linkCode=ll1&tag=viral0c4-20&linkId=afd1cc3effb938b1e0549b1d6d357023&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Rocelco 46 "
     name: "6. Rocelco 46 "
     specifications:
@@ -280,7 +280,7 @@ the_products:
       - pro: Durability
       - pro: Adjustable height
       - pro: "Spacious "
-    amzlink: https://www.amazon.com/Ameriwood-Home-Dakota-L-Shaped-Bookshelves/dp/B00HRYBYRU?&linkCode=ll1&tag=gamingtechi09-20&linkId=1525c0173515a1f34595520811d8e72d&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Ameriwood-Home-Dakota-L-Shaped-Bookshelves/dp/B00HRYBYRU?&linkCode=ll1&tag=viral0c4-20&linkId=1525c0173515a1f34595520811d8e72d&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Ameriwood Home Dakota L-Shaped Desk
     name: 7. Ameriwood Home Dakota L-Shaped Desk
     specifications:
@@ -308,7 +308,7 @@ the_products:
       - pro: Reasonable cost
       - pro: "Spacious "
       - pro: "Simple "
-    amzlink: https://www.amazon.com/HON-BL-Laminate-Credenza-Shell/dp/B004EK8S5G?&linkCode=ll1&tag=gamingtechi09-20&linkId=e78ca68fc83e73cbe379aa9b104f70c0&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/HON-BL-Laminate-Credenza-Shell/dp/B004EK8S5G?&linkCode=ll1&tag=viral0c4-20&linkId=e78ca68fc83e73cbe379aa9b104f70c0&language=en_US&ref_=as_li_ss_tl
     nameForTOC: HON BL Series Desk
     name: 8. HON BL Series Desk
     specifications:
