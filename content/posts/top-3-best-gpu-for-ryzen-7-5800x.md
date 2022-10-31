@@ -232,7 +232,7 @@ the_products:
       - pro: "High memory speed "
       - pro: Ultra-effective cooling system
       - pro: "Highly responsive "
-    amzlink: https://www.amazon.com/XFX-14GBPS-1620MHz-Graphics-RX-56XT6DF46/dp/B086PVK8RT?&linkCode=ll1&tag=gamingtechi09-20&linkId=3b4b8950e011d9c29ab72199dcb01440&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/XFX-14GBPS-1620MHz-Graphics-RX-56XT6DF46/dp/B086PVK8RT?&linkCode=ll1&tag=viral0c4-20&linkId=3b4b8950e011d9c29ab72199dcb01440&language=en_US&ref_=as_li_ss_tl
     nameForTOC: " XFX RX 5600 XT THICC"
     name: " 1. XFX RX 5600 XT THICC"
     cons:
@@ -281,7 +281,7 @@ the_products:
       - pro: "3-year warranty "
       - pro: Powerful features
       - pro: "Long-living "
-    amzlink: https://www.amazon.com/EVGA-08G-P5-3755-KR-GeForce-Cooling-Backplate/dp/B08L8L71SM?&linkCode=ll1&tag=gamingtechi09-20&linkId=3f65154e947578040f0596dcbfd29e3f&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/EVGA-08G-P5-3755-KR-GeForce-Cooling-Backplate/dp/B08L8L71SM?&linkCode=ll1&tag=viral0c4-20&linkId=3f65154e947578040f0596dcbfd29e3f&language=en_US&ref_=as_li_ss_tl
     nameForTOC: EVGA 08G-P5-3755-KR
     name: 2. EVGA 08G-P5-3755-KR
     specifications: []
@@ -325,7 +325,7 @@ the_products:
       - pro: "Ideal for 4K and 60-100 FPS games "
       - pro: 3-year warranty
       - pro: "Complements great performance of the processor "
-    amzlink: https://www.amazon.com/EVGA-GeForce-Technology-Backplate-24G-P5-3987-KR/dp/B08J5F3G18?&linkCode=ll1&tag=gamingtechi09-20&linkId=567d1a00c4bd0bd2a3706879c7b1467b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/EVGA-GeForce-Technology-Backplate-24G-P5-3987-KR/dp/B08J5F3G18?&linkCode=ll1&tag=viral0c4-20&linkId=567d1a00c4bd0bd2a3706879c7b1467b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: EVGA RTX 3090 FTW3
     name: 3. EVGA RTX 3090 FTW3 Ultra Gaming
     cons:
