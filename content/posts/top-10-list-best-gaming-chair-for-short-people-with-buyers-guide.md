@@ -236,7 +236,7 @@ the_products:
       - pro: "Adjustable dimensions. "
       - pro: "Durable. "
       - pro: "Great lumbar support. "
-    amzlink: https://www.amazon.com/Furmax-Ergonomic-Adjustable-Executive-Computer/dp/B01LXXM5EK?&linkCode=ll1&tag=gamingtechi09-20&linkId=1b0d237dc3e6c99b50541a777add1461&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Furmax-Ergonomic-Adjustable-Executive-Computer/dp/B01LXXM5EK?&linkCode=ll1&tag=viral0c4-20&linkId=1b0d237dc3e6c99b50541a777add1461&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Furmax Chain
     name: 1. Furmax LeatherChair
     specifications:
@@ -287,7 +287,7 @@ the_products:
       - pro: Great exchange offer/amazing customer service.
       - pro: "Durable and reliable. "
       - pro: "Easy to set up. "
-    amzlink: https://www.amazon.com/Homall-Gaming-Executive-Ergonomic-Chair/dp/B07L25NZXD?&linkCode=ll1&tag=gamingtechi09-20&linkId=f5ee28f981b7f34e44ced924356e1f7a&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Homall-Gaming-Executive-Ergonomic-Chair/dp/B07L25NZXD?&linkCode=ll1&tag=viral0c4-20&linkId=f5ee28f981b7f34e44ced924356e1f7a&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Homall Chair
     name: 2. Homall Chair Racing Office
     specifications:
@@ -330,7 +330,7 @@ the_products:
       - pro: Great design.
       - pro: "Good quality material. "
       - pro: "Comfort providing. "
-    amzlink: https://www.amazon.com/BestMassage-Office-Desk-Gaming-Chair/dp/B01ICHJIM8?&linkCode=ll1&tag=gamingtechi09-20&linkId=13967aa889e143a42f0d82ead4da77a6&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/BestMassage-Office-Desk-Gaming-Chair/dp/B01ICHJIM8?&linkCode=ll1&tag=viral0c4-20&linkId=13967aa889e143a42f0d82ead4da77a6&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "BestOffice PC Office Chair "
     name: "3. BestOffice PC Office Chair "
     specifications:
@@ -371,7 +371,7 @@ the_products:
       - pro: "One year limited warranty on replacement parts. "
       - pro: "1-month free return. "
       - pro: "Looks fashionable. "
-    amzlink: https://www.amazon.com/gp/product/B076MTKYP2?ie=UTF8&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=d6f563f1f57f2837712f7fb32e2dfa61&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B076MTKYP2?ie=UTF8&th=1&linkCode=ll1&tag=viral0c4-20&linkId=d6f563f1f57f2837712f7fb32e2dfa61&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Ficmax Chair
     name: 4. Ficmax Chair
     specifications:
@@ -385,7 +385,7 @@ the_products:
   - name: 5. Coavas Racing Chair
     nameForTOC: Coavas Racing Chair
     image: /uploads/coavas-gaming-chair.webp
-    amzlink: https://www.amazon.com/Coavas-Computer-Gaming-Leather-Executive/dp/B01NAS5IGK?&linkCode=ll1&tag=gamingtechi09-20&linkId=92e742645682da90b94787af23dce444&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Coavas-Computer-Gaming-Leather-Executive/dp/B01NAS5IGK?&linkCode=ll1&tag=viral0c4-20&linkId=92e742645682da90b94787af23dce444&language=en_US&ref_=as_li_ss_tl
     specifications:
       - specification: "**Brand:** Coavas **\\|** **Material:** Leather **\\|**
           **Weight:** 14.1 Kilograms **\\|** **Dimensions:** 24.6 x 45.08 X
@@ -460,7 +460,7 @@ the_products:
       - specification: "**Brand:** AKRacing **\\|** **Material:** Metal **\\|**
           **Weight:** 57 Pounds **\\|** **Dimensions:** 19.7 x 20.9 x 52.8
           inches **\\|** **Weight Capacitance:** Not Mentioned"
-    amzlink: https://www.amazon.com/gp/product/B07B3XNHQ8?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=5217d7eab3764d032c9b9a0f42121d5c&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B07B3XNHQ8?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=5217d7eab3764d032c9b9a0f42121d5c&language=en_US&ref_=as_li_ss_tl
   - summary_award: Seat Height Adjust ability
     paragraphs:
       - paragraph: >-
@@ -501,7 +501,7 @@ the_products:
       - pro: Plenty of colors to choose from.
       - pro: "330 lbs. Weight support. "
       - pro: "Rotates up to 360 degrees, and lean back as far as 170 degrees. "
-    amzlink: https://www.amazon.com/gp/product/B01N2RJ0HI?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=3d0d3a564c151763882e4b81f179d08d&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B01N2RJ0HI?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=3d0d3a564c151763882e4b81f179d08d&language=en_US&ref_=as_li_ss_tl
     nameForTOC: GTRACING Chair
     name: "7. GTRACING Chair "
     specifications:
@@ -534,7 +534,7 @@ the_products:
           It comes with 100% cold cured foam padding that provides optimum density for durability and long-term seating for eight long continuous hours.
 
           To get a perfect body posture that can add to your comfort and relaxation rather than pain and irritation, the AKRacing California Gaming Chair is the best option to go for.
-    amzlink: https://www.amazon.com/gp/product/B088CL92VC?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=799e35c004f8dd62328dbb5bdbd6a6c3&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B088CL92VC?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=799e35c004f8dd62328dbb5bdbd6a6c3&language=en_US&ref_=as_li_ss_tl
     pros:
       - pro: "Inexpensive as compared to other gaming chairs. "
       - pro: Comfortable.
@@ -548,7 +548,7 @@ the_products:
   - name: 9. KaiMeng Leather High Back
     nameForTOC: KaiMeng Leather High Back
     image: /uploads/kaimeng-gaming-chair.webp
-    amzlink: https://www.amazon.com/Kaimeng-Ergonomic-Adjustable-Executive-Computer/dp/B07Q56GDST?&linkCode=ll1&tag=gamingtechi09-20&linkId=a5f2c0279e37ab7884db0004dde3c7b7&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Kaimeng-Ergonomic-Adjustable-Executive-Computer/dp/B07Q56GDST?&linkCode=ll1&tag=viral0c4-20&linkId=a5f2c0279e37ab7884db0004dde3c7b7&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           For an upgraded gaming experience, try out this
@@ -594,7 +594,7 @@ the_products:
   - name: 10. Hbada High Back Chair
     nameForTOC: Hbada High Back Chair
     image: /uploads/hbada-gaming-chair.webp
-    amzlink: https://www.amazon.com/gp/product/B07WNT5GMZ?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=e50f7edf7587baa5ca1736b356ca574a&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B07WNT5GMZ?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=e50f7edf7587baa5ca1736b356ca574a&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           Keep yourself ready to get complete comfort and relaxation for your
@@ -681,6 +681,6 @@ conclusion:
 
 Buying a premium gaming chair of your choice is now not difficult with our carefully made list of the top 10 **best gaming chairs for short people**. Now you can go through all of the lists, choose the best one for you by keeping certain things in your mind (that are also discussed below), and take your gaming experience to the next level of fun, excitement and pleasure while retaining your health and comfort.
 
-Our verdict is that nothing compares to the comfort and features of a normal gaming chair. Manufacturers must trim several aspects to create the perfect seat depth in the kneeling chairs. However, the Chinese brand **[KaiMeng](https://www.amazon.com/Kaimeng-Ergonomic-Adjustable-Executive-Computer/dp/B07Q56GDST?&linkCode=ll1&tag=gamingtechi09-20&linkId=a5f2c0279e37ab7884db0004dde3c7b7&language=en_US&ref_=as_li_ss_tl)** provides small gaming chairs, ideal for work and gaming. So, it deserves to be the overall winner of this comparison.
+Our verdict is that nothing compares to the comfort and features of a normal gaming chair. Manufacturers must trim several aspects to create the perfect seat depth in the kneeling chairs. However, the Chinese brand **[KaiMeng](https://www.amazon.com/Kaimeng-Ergonomic-Adjustable-Executive-Computer/dp/B07Q56GDST?&linkCode=ll1&tag=viral0c4-20&linkId=a5f2c0279e37ab7884db0004dde3c7b7&language=en_US&ref_=as_li_ss_tl)** provides small gaming chairs, ideal for work and gaming. So, it deserves to be the overall winner of this comparison.
 
 <!--EndFragment-->
