@@ -229,7 +229,7 @@ the_products:
       - pro: Durable and strong.
       - pro: "Extremely lightweight. "
       - pro: "1-year hardware warranty. "
-    amzlink: https://www.amazon.com/Logitech-Wireless-Lightweight-Programmable-Buttons/dp/B07G5XJLWK?dchild=1&keywords=Logitech+G+Pro+Wireless+Gaming+Mouse&qid=1609158384&sr=8-1&linkCode=ll1&tag=gamingtechi09-20&linkId=356074df56329b781042549167e447ad&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Logitech-Wireless-Lightweight-Programmable-Buttons/dp/B07G5XJLWK?dchild=1&keywords=Logitech+G+Pro+Wireless+Gaming+Mouse&qid=1609158384&sr=8-1&linkCode=ll1&tag=viral0c4-20&linkId=356074df56329b781042549167e447ad&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Logitech G Pro
     name: 1. Logitech G Pro
     specifications:
@@ -279,7 +279,7 @@ the_products:
       - pro: "High-quality durable material. "
       - pro: "Perfect for Valorant players. "
       - pro: "RGB illumination "
-    amzlink: https://amzn.to/3wn2RXZ
+    amzlink: https://www.amazon.com/Xtrfy-M4-RGB-Gaming-Maus/dp/B07X8Z48TX?&linkCode=ll1&tag=viral0c4-20&linkId=2cfb7b0697731c31d056d32a3df39be0&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Xtrfy M4 RGB
     name: 2. Xtrfy M4 RGB
     specifications:
@@ -328,7 +328,7 @@ the_products:
       - pro: Amazingly compatible with the requirements of Valorant.
       - pro: "No drivers needed. "
       - pro: "Perfect 3360 sensors. "
-    amzlink: https://www.amazon.com/BenQ-S1-Symmetrical-Short-Gaming-Esports/dp/B07T5QHC3B?dchild=1&keywords=BenQ+Zowie+S1+Symmetrical+Gaming+Mouse&qid=1609159337&sr=8-1&linkCode=ll1&tag=gamingtechi09-20&linkId=ea3ec146ffb5ce178a2463984909ce3b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/BenQ-S1-Symmetrical-Short-Gaming-Esports/dp/B07T5QHC3B?dchild=1&keywords=BenQ+Zowie+S1+Symmetrical+Gaming+Mouse&qid=1609159337&sr=8-1&linkCode=ll1&tag=viral0c4-20&linkId=ea3ec146ffb5ce178a2463984909ce3b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: BenQ Zowie S1 Symmetrical
     name: 3. BenQ Zowie S1 Symmetrical
     specifications:
@@ -378,7 +378,7 @@ the_products:
       - pro: "Adjustable DPI feature. "
       - pro: "6 programmable buttons for easy handling. "
       - pro: "Outstanding comfort . "
-    amzlink: https://www.amazon.com/Logitech-Lightspeed-Wireless-Gaming-Mouse/dp/B08HYTVDLH?dchild=1&keywords=Logitech+G703+Lightspeed+Gaming+Mouse+Brand%3A+BenQ&qid=1609159442&sr=8-7&linkCode=ll1&tag=gamingtechi09-20&linkId=721eb25a6709f3ec095e9655cb6d81b2&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Logitech-Lightspeed-Wireless-Gaming-Mouse/dp/B08HYTVDLH?dchild=1&keywords=Logitech+G703+Lightspeed+Gaming+Mouse+Brand%3A+BenQ&qid=1609159442&sr=8-7&linkCode=ll1&tag=viral0c4-20&linkId=721eb25a6709f3ec095e9655cb6d81b2&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Logitech G703 "
     name: "4. Logitech G703 "
     specifications:
@@ -427,7 +427,7 @@ the_products:
       - pro: "8 programmable buttons. "
       - pro: "Ultimate control. "
       - pro: "Long term support. "
-    amzlink: https://www.amazon.com/Razer-DeathAdder-Gaming-Mouse-Programmable/dp/B082G5SPR5?dchild=1&keywords=Razer%2BDeathAdder%2BV2%2BGaming%2BMouse&qid=1609159565&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0ZVTzNUMkRMSFpXJmVuY3J5cHRlZElkPUEwMzE5MDc3MkJHVU03UDdCVEtNSCZlbmNyeXB0ZWRBZElkPUEwODcxNzA3TldVQVBLVjZEMVU2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=cb3182bcaec3fe39521fad779a0f26a9&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Razer-DeathAdder-Gaming-Mouse-Programmable/dp/B082G5SPR5?dchild=1&keywords=Razer%2BDeathAdder%2BV2%2BGaming%2BMouse&qid=1609159565&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0ZVTzNUMkRMSFpXJmVuY3J5cHRlZElkPUEwMzE5MDc3MkJHVU03UDdCVEtNSCZlbmNyeXB0ZWRBZElkPUEwODcxNzA3TldVQVBLVjZEMVU2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&th=1&linkCode=ll1&tag=viral0c4-20&linkId=cb3182bcaec3fe39521fad779a0f26a9&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Razer DeathAdder V2
     name: 5. Razer DeathAdder V2
     specifications:
@@ -473,7 +473,7 @@ the_products:
       - pro: Attractive design.
       - pro: "Great performance. "
       - pro: "Perfect for Valorant players. "
-    amzlink: https://www.amazon.com/FinalMouse-SG_B07KXVR235_US-Air58-Cherry-Blossom/dp/B07KXVR235?&linkCode=ll1&tag=gamingtechi09-20&linkId=e93a0635c1fd2f11ba6f47a68927c33a&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/FinalMouse-SG_B07KXVR235_US-Air58-Cherry-Blossom/dp/B07KXVR235?&linkCode=ll1&tag=viral0c4-20&linkId=e93a0635c1fd2f11ba6f47a68927c33a&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Finalmouse x Ninja Air58
     name: 6. Finalmouse x Ninja Air58
     specifications:
@@ -523,7 +523,7 @@ the_products:
       - pro: "Durable. "
       - pro: "Customizable RGB Chroma lighting. "
       - pro: "Advanced features. "
-    amzlink: https://www.amazon.com/Razer-Viper-Ultralight-Gaming-Mouse/dp/B084RPZD6T?dchild=1&keywords=Razer%2BViper%2BMini%2BUltralight%2BGaming%2BMouse&qid=1609160082&sr=8-2&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=8eb37a398ce1a8e8592656c74b5a08d8&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Razer-Viper-Ultralight-Gaming-Mouse/dp/B084RPZD6T?dchild=1&keywords=Razer%2BViper%2BMini%2BUltralight%2BGaming%2BMouse&qid=1609160082&sr=8-2&th=1&linkCode=ll1&tag=viral0c4-20&linkId=8eb37a398ce1a8e8592656c74b5a08d8&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Razer Viper Mini Ultralight
     name: 7. Razer Viper Mini Ultralight
     specifications:
@@ -570,7 +570,7 @@ the_products:
       - pro: Ultra-light ring.
       - pro: "16,000 DPI. "
       - pro: "3389 sensors. "
-    amzlink: https://www.amazon.com/HyperX-Pulsefire-Surge-Customization-Programmable/dp/B07B9TVQ82?dchild=1&keywords=HyperX+Pulsefire+Surge+Gaming+Mouse&qid=1609160236&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTTFTWlpJSTY4TVdUJmVuY3J5cHRlZElkPUEwNzY0ODg0MlAzSk04MFlRREZaRiZlbmNyeXB0ZWRBZElkPUEwODY2MDY0TE04NkxMQjJGV0U1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=ll1&tag=gamingtechi09-20&linkId=2f317240286c7f1e10c274b65f42ec00&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/HyperX-Pulsefire-Surge-Customization-Programmable/dp/B07B9TVQ82?dchild=1&keywords=HyperX+Pulsefire+Surge+Gaming+Mouse&qid=1609160236&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTTFTWlpJSTY4TVdUJmVuY3J5cHRlZElkPUEwNzY0ODg0MlAzSk04MFlRREZaRiZlbmNyeXB0ZWRBZElkPUEwODY2MDY0TE04NkxMQjJGV0U1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=ll1&tag=viral0c4-20&linkId=2f317240286c7f1e10c274b65f42ec00&language=en_US&ref_=as_li_ss_tl
     nameForTOC: HyperX Pulsefire Surge
     name: 8. HyperX Pulsefire Surge
     specifications:
@@ -615,7 +615,7 @@ the_products:
       - pro: Perfect size.
       - pro: "High-quality sensors. "
       - pro: "Quality control. "
-    amzlink: https://www.amazon.com/SteelSeries-Rival-Quantum-Wireless-Gaming/dp/B07HCXFQ8P?dchild=1&keywords=SteelSeries+Rival+650&qid=1609160301&sr=8-1&linkCode=ll1&tag=gamingtechi09-20&linkId=6c91bb3a8be553fa61ba38951796c622&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SteelSeries-Rival-Quantum-Wireless-Gaming/dp/B07HCXFQ8P?dchild=1&keywords=SteelSeries+Rival+650&qid=1609160301&sr=8-1&linkCode=ll1&tag=viral0c4-20&linkId=6c91bb3a8be553fa61ba38951796c622&language=en_US&ref_=as_li_ss_tl
     nameForTOC: SteelSeries Rival 650
     name: 9. SteelSeries Rival 650
     specifications:
@@ -656,7 +656,7 @@ the_products:
       - pro: "INFINITY SKIN for thickness adjustments. "
       - pro: "Great grip. "
       - pro: "Perfect aiming. "
-    amzlink: https://www.amazon.com/FinalMouse-Ultralight-2-Cape-Town-PC/dp/B07KXVR236?&linkCode=ll1&tag=gamingtechi09-20&linkId=1b6fe51c7aa6886a0cac3b5d42a90775&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/FinalMouse-Ultralight-2-Cape-Town-PC/dp/B07KXVR236?&linkCode=ll1&tag=viral0c4-20&linkId=1b6fe51c7aa6886a0cac3b5d42a90775&language=en_US&ref_=as_li_ss_tl
     nameForTOC: FinalMouse Ultralight 2
     name: 10. FinalMouse Ultralight 2
     specifications:
