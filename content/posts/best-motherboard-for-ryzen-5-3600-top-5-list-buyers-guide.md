@@ -200,7 +200,7 @@ the_products:
       - pro: "Outstanding design "
       - pro: BIOS has tons of features
       - pro: Impressive sound quality
-    amzlink: https://www.amazon.com/ASUS-ROG-Motherboard-Lighting-Heatsinks/dp/B07SW8DQVL?&linkCode=ll1&tag=gamingtechi09-20&linkId=11db45b34dbf01ecb02f5d5d20f64969&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASUS-ROG-Motherboard-Lighting-Heatsinks/dp/B07SW8DQVL?&linkCode=ll1&tag=viral0c4-20&linkId=11db45b34dbf01ecb02f5d5d20f64969&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG Strix X570-E
     name: 1. ASUS ROG Strix X570-E
     specifications:
@@ -244,7 +244,7 @@ the_products:
       - pro: "Nice build quality "
       - pro: Plenty of RGB ports
       - pro: "Looks great "
-    amzlink: https://www.amazon.com/ASRock-B550M-Supports-Processors-Motherboard/dp/B089W2Q2QC?&linkCode=ll1&tag=gamingtechi09-20&linkId=01e0550df2738cf551e6b315cfb93127&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASRock-B550M-Supports-Processors-Motherboard/dp/B089W2Q2QC?&linkCode=ll1&tag=viral0c4-20&linkId=01e0550df2738cf551e6b315cfb93127&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASRock B550M Steel Legend
     name: 2. ASRock B550M Steel Legend
     specifications:
@@ -293,7 +293,7 @@ the_products:
       - pro: "Excellent price "
       - pro: Awesome features for gaming
       - pro: "Perfect build quality "
-    amzlink: https://www.amazon.com/MSI-X570-Gaming-Plus-Motherboard/dp/B07T5QDRFX?&linkCode=ll1&tag=gamingtechi09-20&linkId=61a7487d5de6e6b5c3412eb8fb45d544&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/MSI-X570-Gaming-Plus-Motherboard/dp/B07T5QDRFX?&linkCode=ll1&tag=viral0c4-20&linkId=61a7487d5de6e6b5c3412eb8fb45d544&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MSI MPG X570 GAMING PLUS
     name: 3. MSI MPG X570 GAMING PLUS
     specifications:
@@ -337,7 +337,7 @@ the_products:
       - pro: "Excellent cooling "
       - pro: Great for showcase builds
       - pro: "Great looking "
-    amzlink: https://www.amazon.com/ROG-Crosshair-VIII-Motherboard-802-11Ax/dp/B07SYGHTCL?&linkCode=ll1&tag=gamingtechi09-20&linkId=51acf8d83eaea0ec0a374de2f8c94410&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ROG-Crosshair-VIII-Motherboard-802-11Ax/dp/B07SYGHTCL?&linkCode=ll1&tag=viral0c4-20&linkId=51acf8d83eaea0ec0a374de2f8c94410&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG X570 Crosshair VIII Formula
     name: 4. ASUS ROG X570 Crosshair VIII Formula
     specifications: []
@@ -382,7 +382,7 @@ the_products:
       - pro: Decent structure
       - pro: "Budget price "
       - pro: "Advanced thermal design "
-    amzlink: https://www.amazon.com/Gigabyte-AORUS-Elite-Realtek-Motherboard/dp/B08J9PKJ4D?&linkCode=ll1&tag=gamingtechi09-20&linkId=d2cc4a7bc6217fa5d86234ca07b0830f&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Gigabyte-AORUS-Elite-Realtek-Motherboard/dp/B08J9PKJ4D?&linkCode=ll1&tag=viral0c4-20&linkId=d2cc4a7bc6217fa5d86234ca07b0830f&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Gigabyte A520 Aorus Elite
     name: 5. Gigabyte A520 Aorus Elite
     specifications:
