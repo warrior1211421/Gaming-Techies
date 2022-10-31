@@ -275,7 +275,7 @@ the_products:
       - pro: "Great response time. "
       - pro: Excellent gaming and typing experience.
       - pro: "2-year warranty. "
-    amzlink: https://www.amazon.com/Razer-Huntsman-Elite-Opto-Mechanical-Multi-Functional/dp/B07DHNX18W?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151236&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTDBCSEJFVEtKOERKJmVuY3J5cHRlZElkPUEwOTIwOTQ4M0tEM0lJNDVBV1BNRyZlbmNyeXB0ZWRBZElkPUEwMTAyMzU0SEtONDRXQTFNMVFNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=ll1&tag=gamingtechi09-20&linkId=d5bee716a3a78c51922541c1ce9805c1&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Razer-Huntsman-Elite-Opto-Mechanical-Multi-Functional/dp/B07DHNX18W?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151236&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTDBCSEJFVEtKOERKJmVuY3J5cHRlZElkPUEwOTIwOTQ4M0tEM0lJNDVBV1BNRyZlbmNyeXB0ZWRBZElkPUEwMTAyMzU0SEtONDRXQTFNMVFNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=ll1&tag=viral0c4-20&linkId=d5bee716a3a78c51922541c1ce9805c1&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Razer Huntsman Elite
     name: 1. Razer Huntsman Elite
     specifications:
@@ -331,7 +331,7 @@ the_products:
       - pro: An easy to use 3-section layout.
       - pro: "50 million keystrokes durability. "
       - pro: "Attractive looking. "
-    amzlink: https://www.amazon.com/Alienware-Profile-RGB-Mechanical-Keyboard/dp/B07V4FY3Q2?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151273&sr=8-3&linkCode=ll1&tag=gamingtechi09-20&linkId=ffda93b817eaca136706be82821581fe&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Alienware-Profile-RGB-Mechanical-Keyboard/dp/B07V4FY3Q2?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151273&sr=8-3&linkCode=ll1&tag=viral0c4-20&linkId=ffda93b817eaca136706be82821581fe&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Alienware Low-Profile RGB Keyboard
     name: 2. Alienware Low-Profile RGB Keyboard
     specifications:
@@ -381,7 +381,7 @@ the_products:
       - pro: "2-year warranty. "
       - pro: "Lightweight. "
       - pro: "Easy to use and manage. "
-    amzlink: https://www.amazon.com/Razer-Cynosa-Chroma-Gaming-Keyboard/dp/B075KMZ4MX?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151338&sr=8-14&linkCode=ll1&tag=gamingtechi09-20&linkId=e09b55e54f83261b36483f71a6565c10&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Razer-Cynosa-Chroma-Gaming-Keyboard/dp/B075KMZ4MX?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151338&sr=8-14&linkCode=ll1&tag=viral0c4-20&linkId=e09b55e54f83261b36483f71a6565c10&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Razer Cynosa Chroma
     name: "3. Razer Cynosa Chroma "
     specifications:
@@ -446,7 +446,7 @@ the_products:
       - pro: Wireless.
       - pro: "Easy connectivity. "
       - pro: "Remote usage. "
-    amzlink: https://www.amazon.com/AIKUN-AX8100-Wireless-Rechargeable-Connection/dp/B07FLXQQ5R?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151363&sr=8-17-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNlZSQURDQjRUWE1QJmVuY3J5cHRlZElkPUEwMzA4MjgxM1U3TzRPSUE5WjNVMCZlbmNyeXB0ZWRBZElkPUEwNzU0NjUwMzdNWFJESU5KS1VFUSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=gamingtechi09-20&linkId=44bb899486575a202ededbb43b427b11&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/AIKUN-AX8100-Wireless-Rechargeable-Connection/dp/B07FLXQQ5R?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151363&sr=8-17-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNlZSQURDQjRUWE1QJmVuY3J5cHRlZElkPUEwMzA4MjgxM1U3TzRPSUE5WjNVMCZlbmNyeXB0ZWRBZElkPUEwNzU0NjUwMzdNWFJESU5KS1VFUSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=viral0c4-20&linkId=44bb899486575a202ededbb43b427b11&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Aikun Ultra-Slim
     name: 4. Aikun Ultra-Slim
     specifications:
@@ -498,7 +498,7 @@ the_products:
       - pro: "Extreme level of comfort. "
       - pro: "Easy connectivity. "
       - pro: "Broad compatibility. "
-    amzlink: https://www.amazon.com/NPET-Keyboard-Computer-Ultrathin-Compatible/dp/B089NKW1HN?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151392&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUzhFOEExWTZDTVpNJmVuY3J5cHRlZElkPUEwNTg2MDYzMTA5Rjc5TTRBM1kzWCZlbmNyeXB0ZWRBZElkPUEwODA4MjE4MUlIOENORlFDMVJKTSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=gamingtechi09-20&linkId=e302944c57f314977f1edb12b60475e4&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/NPET-Keyboard-Computer-Ultrathin-Compatible/dp/B089NKW1HN?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151392&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUzhFOEExWTZDTVpNJmVuY3J5cHRlZElkPUEwNTg2MDYzMTA5Rjc5TTRBM1kzWCZlbmNyeXB0ZWRBZElkPUEwODA4MjE4MUlIOENORlFDMVJKTSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=viral0c4-20&linkId=e302944c57f314977f1edb12b60475e4&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "NPET OK10 "
     name: 5. NPET OK10
     specifications:
@@ -540,7 +540,7 @@ the_products:
       - pro: "Perfect performance. "
       - pro: Great keypress support.
       - pro: "Absolutely great for gaming tournaments. "
-    amzlink: https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151514&sr=8-21&linkCode=ll1&tag=gamingtechi09-20&linkId=08013bd4efb220099f1f3b3528cd9c77&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151514&sr=8-21&linkCode=ll1&tag=viral0c4-20&linkId=08013bd4efb220099f1f3b3528cd9c77&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Razer Huntsman TKL Keyboard With Fast Switches
     name: 6. Razer Huntsman TKL Keyboard With Fast Switches
     specifications:
@@ -587,7 +587,7 @@ the_products:
       - pro: "Super quick and fast performance. "
       - pro: "Perfect for beginners. "
       - pro: "Available in two colors. "
-    amzlink: https://www.amazon.com/GMYLE-Compact-Wired-Mini-Keyboard/dp/B003PHJJV6?dchild=1&keywords=best%2Blow%2Bprofile%2Bkeyboard%2Bfor%2Bgaming&qid=1608151631&sr=8-22-spons&smid=AWSTL9OR9CVRW&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySVpHMUJGMDlNWVhIJmVuY3J5cHRlZElkPUEwNjI1OTU4M1Y1V09BWTVHRjlaSCZlbmNyeXB0ZWRBZElkPUEwMDYzNTY2M0lEMU1CUjVVTVBQOSZ3aWRnZXROYW1lPXNwX2J0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=d99bac069dcc9c55a38d7b7ac50cc5fe&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/GMYLE-Compact-Wired-Mini-Keyboard/dp/B003PHJJV6?dchild=1&keywords=best%2Blow%2Bprofile%2Bkeyboard%2Bfor%2Bgaming&qid=1608151631&sr=8-22-spons&smid=AWSTL9OR9CVRW&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySVpHMUJGMDlNWVhIJmVuY3J5cHRlZElkPUEwNjI1OTU4M1Y1V09BWTVHRjlaSCZlbmNyeXB0ZWRBZElkPUEwMDYzNTY2M0lEMU1CUjVVTVBQOSZ3aWRnZXROYW1lPXNwX2J0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&th=1&linkCode=ll1&tag=viral0c4-20&linkId=d99bac069dcc9c55a38d7b7ac50cc5fe&language=en_US&ref_=as_li_ss_tl
     nameForTOC: GMYLE Mini
     name: 7. GMYLE Mini
     specifications:
@@ -631,7 +631,7 @@ the_products:
       - pro: "Colorful LED backlight. "
       - pro: "Great ergonomic design. "
       - pro: "Reliable performance. "
-    amzlink: https://www.amazon.com/Gaming-Keyboard-Rainbow-Backlit-Computer/dp/B07WC9JYL1?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151677&sr=8-21&linkCode=ll1&tag=gamingtechi09-20&linkId=03192cc3c89faa9a8c6b4793929ef33f&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Gaming-Keyboard-Rainbow-Backlit-Computer/dp/B07WC9JYL1?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151677&sr=8-21&linkCode=ll1&tag=viral0c4-20&linkId=03192cc3c89faa9a8c6b4793929ef33f&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MageGee
     name: 8. MageGee Keyboard & Mouse Combo
     specifications:
@@ -677,7 +677,7 @@ the_products:
       - pro: "Superfast. "
       - pro: "Durable. "
       - pro: Advanced AIMO technology.
-    amzlink: https://www.amazon.com/Vulcan-Compact-Optical-Gaming-Keyboard/dp/B08J4DGBB9?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151677&sr=8-22&linkCode=ll1&tag=gamingtechi09-20&linkId=8f4964e1089496f4f22f357de51d562d&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Vulcan-Compact-Optical-Gaming-Keyboard/dp/B08J4DGBB9?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151677&sr=8-22&linkCode=ll1&tag=viral0c4-20&linkId=8f4964e1089496f4f22f357de51d562d&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Vulcan TKL Pro "
     name: "9. Vulcan TKL Pro "
     specifications:
@@ -725,7 +725,7 @@ the_products:
       - pro: "Some advanced technologies. "
       - pro: "Super-easy handling. "
       - pro: "Long living. "
-    amzlink: https://www.amazon.com/gp/product/B072N93MLB?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=467795e648a85283f8c96829492fc9b6&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B072N93MLB?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=467795e648a85283f8c96829492fc9b6&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Cooler Master Devastator 3 Keyboard & Mouse
     name: 10. Cooler Master Devastator 3 Keyboard & Mouse
     specifications:
@@ -787,7 +787,7 @@ conclusion:
 
 These low-profile keyboards are made to make your gaming sessions more exciting, comfortable, and convenient. These keyboards come with multiple features and help you enjoy your gameplay more than ever. With these **best low-profile gaming keyboards,** you can be at the top of the list among the other players as they are quite efficient in handling all the needs a good gamer could have. These keyboards are exclusively made to comment on your gaming desk setup.
 
-This article contains the top-notch keyboards for every field. For example, if you are looking for a gaming keyboard, **[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Elite-Opto-Mechanical-Multi-Functional/dp/B07DHNX18W?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151236&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTDBCSEJFVEtKOERKJmVuY3J5cHRlZElkPUEwOTIwOTQ4M0tEM0lJNDVBV1BNRyZlbmNyeXB0ZWRBZElkPUEwMTAyMzU0SEtONDRXQTFNMVFNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=ll1&tag=gamingtechi09-20&linkId=d5bee716a3a78c51922541c1ce9805c1&language=en_US&ref_=as_li_ss_tl)** is best for you. Similarly, Alienware is the perfect silent mechanical board, while **[GMYLE Mini](https://www.amazon.com/GMYLE-Compact-Wired-Mini-Keyboard/dp/B003PHJJV6?dchild=1&keywords=best%2Blow%2Bprofile%2Bkeyboard%2Bfor%2Bgaming&qid=1608151631&sr=8-22-spons&smid=AWSTL9OR9CVRW&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySVpHMUJGMDlNWVhIJmVuY3J5cHRlZElkPUEwNjI1OTU4M1Y1V09BWTVHRjlaSCZlbmNyeXB0ZWRBZElkPUEwMDYzNTY2M0lEMU1CUjVVTVBQOSZ3aWRnZXROYW1lPXNwX2J0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=d99bac069dcc9c55a38d7b7ac50cc5fe&language=en_US&ref_=as_li_ss_tl)** is suitable to use as a portable low-profile keyboard.
+This article contains the top-notch keyboards for every field. For example, if you are looking for a gaming keyboard, **[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Elite-Opto-Mechanical-Multi-Functional/dp/B07DHNX18W?dchild=1&keywords=best+low+profile+keyboard+for+gaming&qid=1608151236&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTDBCSEJFVEtKOERKJmVuY3J5cHRlZElkPUEwOTIwOTQ4M0tEM0lJNDVBV1BNRyZlbmNyeXB0ZWRBZElkPUEwMTAyMzU0SEtONDRXQTFNMVFNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=ll1&tag=viral0c4-20&linkId=d5bee716a3a78c51922541c1ce9805c1&language=en_US&ref_=as_li_ss_tl)** is best for you. Similarly, Alienware is the perfect silent mechanical board, while **[GMYLE Mini](https://www.amazon.com/GMYLE-Compact-Wired-Mini-Keyboard/dp/B003PHJJV6?dchild=1&keywords=best%2Blow%2Bprofile%2Bkeyboard%2Bfor%2Bgaming&qid=1608151631&sr=8-22-spons&smid=AWSTL9OR9CVRW&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySVpHMUJGMDlNWVhIJmVuY3J5cHRlZElkPUEwNjI1OTU4M1Y1V09BWTVHRjlaSCZlbmNyeXB0ZWRBZElkPUEwMDYzNTY2M0lEMU1CUjVVTVBQOSZ3aWRnZXROYW1lPXNwX2J0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&th=1&linkCode=ll1&tag=viral0c4-20&linkId=d99bac069dcc9c55a38d7b7ac50cc5fe&language=en_US&ref_=as_li_ss_tl)** is suitable to use as a portable low-profile keyboard.
 
 **Related: [Best Keyboard for Valorant](https://gamingtechies.com/best-keyboards-for-valorant/)**
 
