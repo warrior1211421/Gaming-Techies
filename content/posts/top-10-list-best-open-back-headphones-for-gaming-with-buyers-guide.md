@@ -380,7 +380,7 @@ the_products:
       - pro: "Extremely comfortable. "
       - pro: Ultimate gaming experience.
       - pro: "Premium, advanced quality material. "
-    amzlink: https://www.amazon.com/dp/B01L1IICR2?th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag=x2games-20&th=1&psc=1%22linkCode%3Dogi+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag=x2games-20&th=1&psc=1%22th%3D1+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag=x2games-20&th=1&psc=1%22psc%3D1&linkCode=ll1&tag=gamingtechi09-20&linkId=3a8e1d74d3cd93b13e219e13198215ac&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B01L1IICR2?th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag=x2games-20&th=1&psc=1%22linkCode%3Dogi+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag=x2games-20&th=1&psc=1%22th%3D1+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01L1IICR2%3Ftag=x2games-20&th=1&psc=1%22psc%3D1&linkCode=ll1&tag=viral0c4-20&linkId=3a8e1d74d3cd93b13e219e13198215ac&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Sennheiser HD 599
     name: "1. Sennheiser HD 599 "
     specifications:
@@ -419,7 +419,7 @@ the_products:
       - pro: "Extremely comfortable. "
       - pro: Ultimate gaming experience.
       - pro: "Premium, advanced quality material. "
-    amzlink: https://amzn.to/35jBkdS
+    amzlink: https://www.amazon.com/Audio-Technica-ATH-ADG1X-High-Fidelity-Gaming-Headset/dp/B01AYZZP5U?&linkCode=ll1&tag=viral0c4-20&linkId=f047c7377f881cf4f2f761235246da7a&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Audio-Technica "
     name: 2. Audio-Technica ATH-ADG1X
     specifications:
@@ -458,7 +458,7 @@ the_products:
       - pro: Easy synchronization.
       - pro: "Excellent mic performance. "
       - pro: "Impressive sound quality, self-isolated. "
-    amzlink: https://www.amazon.com/Sennheiser-GAME-ONE-Gaming-Headset/dp/B00KK8ZLEC?&linkCode=ll1&tag=gamingtechi09-20&linkId=4d20cb4823e8fce899e7d77d1a7e5d01&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Sennheiser-GAME-ONE-Gaming-Headset/dp/B00KK8ZLEC?&linkCode=ll1&tag=viral0c4-20&linkId=4d20cb4823e8fce899e7d77d1a7e5d01&language=en_US&ref_=as_li_ss_tl
     nameForTOC: EPOS I Sennheiser
     name: 3. EPOS I Sennheiser
     specifications:
@@ -494,7 +494,7 @@ the_products:
       - pro: Extremely comfortable.
       - pro: "Perfect sound quality. "
       - pro: "Highly rated and recommended. "
-    amzlink: https://www.amazon.com/beyerdynamic-Over-Ear-Studio-Headphones-construction/dp/B0011UB9CQ?&linkCode=ll1&tag=gamingtechi09-20&linkId=2d661cf4631e8ac8b0c7a33d7d70b3e0&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/beyerdynamic-Over-Ear-Studio-Headphones-construction/dp/B0011UB9CQ?&linkCode=ll1&tag=viral0c4-20&linkId=2d661cf4631e8ac8b0c7a33d7d70b3e0&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Beyerdynamic
     name: 4. Beyerdynamic DT 990 Pro
     specifications:
@@ -535,7 +535,7 @@ the_products:
       - pro: Excellently comfortable.
       - pro: "Large ear-pads, complete ear coverage. "
       - pro: "Improved, unforgettable gaming experience. "
-    amzlink: https://www.amazon.com/Audio-Technica-ATH-AD700X-Audiophile-Open-Air-Headphones/dp/B009S332TQ?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=3ec4f6fb41c39ba16468fadca3b27d93&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Audio-Technica-ATH-AD700X-Audiophile-Open-Air-Headphones/dp/B009S332TQ?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=3ec4f6fb41c39ba16468fadca3b27d93&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Audio-Technica ATH-AD700X
     name: 5. Audio-Technica ATH-AD700X
     specifications:
@@ -579,7 +579,7 @@ the_products:
       - pro: "Large soundstage for gaming. "
       - pro: Perfect bass.
       - pro: "Highly rated and recommended. "
-    amzlink: https://www.amazon.com/dp/B06ZZXKZ25?th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag=x2games-20&th=1&psc=1%22linkCode%3Dogi+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag=x2games-20&th=1&psc=1%22th%3D1+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag=x2games-20&th=1&psc=1%22psc%3D1&linkCode=ll1&tag=gamingtechi09-20&linkId=94a45c84d0f01883d364653057ad62d4&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B06ZZXKZ25?th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag=x2games-20&th=1&psc=1%22linkCode%3Dogi+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag=x2games-20&th=1&psc=1%22th%3D1+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB06ZZXKZ25%3Ftag=x2games-20&th=1&psc=1%22psc%3D1&linkCode=ll1&tag=viral0c4-20&linkId=94a45c84d0f01883d364653057ad62d4&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Philips X2HR Fidelio
     name: 6. Philips X2HR Fidelio
     specifications:
@@ -624,7 +624,7 @@ the_products:
       - pro: Extremely comfortable.
       - pro: Provides clear and precise sound.
       - pro: "Modern, and great humanized design. "
-    amzlink: https://www.amazon.com/NUBWO-Nintendo-Computer-Detachable-Microphone/dp/B07V4KPQSW?ie=UTF8+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref%3Das_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=94174e68d8b2e6ea43751d292c0e5169&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/NUBWO-Nintendo-Computer-Detachable-Microphone/dp/B07V4KPQSW?ie=UTF8+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref%3Das_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FNUBWO-Nintendo-Computer-Detachable-Microphone%2Fdp%2FB07V4KPQSW%2Fref=as_li_ss_tl%3Fie%3DUTF8&linkCode=ll1&tag=viral0c4-20&linkId=94174e68d8b2e6ea43751d292c0e5169&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NUBWO N9PRO
     name: 7. NUBWO N9PRO
     specifications:
@@ -666,7 +666,7 @@ the_products:
       - pro: Super amazing sound quality.
       - pro: "Extremely comfortable. "
       - pro: "Better, detailed drivers. "
-    amzlink: https://amzn.to/3pRShpt
+    amzlink: https://www.amazon.com/Massdrop-Sennheiser-PC37X-Gaming-Headset/dp/B084GFGMYT?dchild=1&keywords=Massdrop+x+Sennheiser+PC37X+Gaming+Headset&qid=1609651096&sr=8-3&linkCode=ll1&tag=viral0c4-20&linkId=f4bfa46770958cdea6f143bc20e3e561&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Massdrop
     name: 8. Massdrop x Sennheiser PC37X
     specifications:
@@ -710,7 +710,7 @@ the_products:
       - pro: "Versatile compatibility. "
       - pro: "Affordable. "
       - pro: "Exceptionally comfortable. "
-    amzlink: https://www.amazon.com/ASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch/dp/B07FYY2CMH?ie=UTF8+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref%3Das_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=e7346c812d58a779cc82fd56a1921e83&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch/dp/B07FYY2CMH?ie=UTF8+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref%3Das_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2FASTRO-Gaming-A40-Headset-Xbox-Nintendo-Switch%2Fdp%2FB07FYY2CMH%2Fref=as_li_ss_tl%3Fie%3DUTF8&linkCode=ll1&tag=viral0c4-20&linkId=e7346c812d58a779cc82fd56a1921e83&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASTRO A40 TR X-Edition Headset
     name: 9. ASTRO A40 TR X-Edition Headset
     specifications:
@@ -724,7 +724,7 @@ the_products:
   - name: 10. Audio Technica ATH-AD900X
     nameForTOC: Audio Technica ATH-AD900X
     image: /uploads/audio-technica-headphones.webp
-    amzlink: https://www.amazon.com/dp/B009S331VU?th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag=x2games-20&th=1&psc=1%22linkCode%3Dogi+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag=x2games-20&th=1&psc=1%22th%3D1+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag=x2games-20&th=1&psc=1%22psc%3D1&linkCode=ll1&tag=gamingtechi09-20&linkId=c533ef496934a43844bec33de7a6ad60&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B009S331VU?th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag=x2games-20&th=1&psc=1%22linkCode%3Dogi+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag=x2games-20&th=1&psc=1%22th%3D1+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag%3Dx2games-20&th=1&psc=1%22&+HYPERLINK+%22https%3A%2F%2Fwww.amazon.com%2Fdp%2FB009S331VU%3Ftag=x2games-20&th=1&psc=1%22psc%3D1&linkCode=ll1&tag=viral0c4-20&linkId=c533ef496934a43844bec33de7a6ad60&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           **[Audio Technica](https://www.audio-technica.com/)** is a brand
