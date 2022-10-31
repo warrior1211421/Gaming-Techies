@@ -71,7 +71,7 @@ the_products:
       - pro: Curved display
       - pro: High pixel density
       - pro: OLED display
-    amzlink: https://www.amazon.com/SAMSUNG-27-inch-Odyssey-G7-Monitor/dp/B088HJ4VQK?&linkCode=ll1&tag=gamingtechi09-20&linkId=e18259892b9b6598ca0c92233d7a405e&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SAMSUNG-27-inch-Odyssey-G7-Monitor/dp/B088HJ4VQK?&linkCode=ll1&tag=viral0c4-20&linkId=e18259892b9b6598ca0c92233d7a405e&language=en_US&ref_=as_li_ss_tl
     nameForTOC: SAMSUNG Odyssey G7
     name: 1. SAMSUNG Odyssey G7
     specifications:
@@ -109,7 +109,7 @@ the_products:
       - pro: G-sync technology
       - pro: HDMI, VGA, and USB input
       - pro: Sufficient Pixel Density
-    amzlink: https://www.amazon.com/dp/B071D6NGMH?&linkCode=ll1&tag=gamingtechi09-20&linkId=508c649829bd03d8cd494a42b32cde85&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B071D6NGMH?&linkCode=ll1&tag=viral0c4-20&linkId=508c649829bd03d8cd494a42b32cde85&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Acer Predator XB272
     name: 2. Acer Predator XB272
     specifications:
@@ -153,7 +153,7 @@ the_products:
       - pro: Aura Sync
       - pro: Suitable for Dual-GPUs
       - pro: Adaptive sync
-    amzlink: https://www.amazon.com/dp/B07GR9VXBF?&linkCode=ll1&tag=gamingtechi09-20&linkId=016ebdb5c81643e7b0e8ee4cd591b8c0&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B07GR9VXBF?&linkCode=ll1&tag=viral0c4-20&linkId=016ebdb5c81643e7b0e8ee4cd591b8c0&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG Strix XG248Q
     name: 3. ASUS ROG Strix XG248Q
     specifications:
@@ -191,7 +191,7 @@ the_products:
       - pro: Affordable price
       - pro: Sharper details
       - pro: Multiple input ports
-    amzlink: https://www.amazon.com/dp/B07SCX1JG2?&linkCode=ll1&tag=gamingtechi09-20&linkId=50f7af2fd0ed314c911a4ade1a301ad1&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B07SCX1JG2?&linkCode=ll1&tag=viral0c4-20&linkId=50f7af2fd0ed314c911a4ade1a301ad1&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Omen X Gaming Monitor
     name: 4. Omen X Gaming Monitor
     specifications:
@@ -233,7 +233,7 @@ the_products:
       - pro: Reasonable price
       - pro: Anti-glare display
       - pro: Joystick controls
-    amzlink: https://www.amazon.com/dp/B07YQHGC9L?&linkCode=ll1&tag=gamingtechi09-20&linkId=b876303acb02e7826f502b28c022f16c&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B07YQHGC9L?&linkCode=ll1&tag=viral0c4-20&linkId=b876303acb02e7826f502b28c022f16c&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Alienware AW2720HF
     name: 5. Alienware AW2720HF
     specifications:
@@ -275,7 +275,7 @@ the_products:
       - pro: MPRT technology for AMD
       - pro: High contrast ratio
       - pro: Fastest response time yet
-    amzlink: https://www.amazon.com/AOC-C27G2Z-Frameless-Ultra-Fast-Adjustable/dp/B088LG2BSW?&linkCode=ll1&tag=gamingtechi09-20&linkId=e4b0298560069884a7e535a796dc4cb5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/AOC-C27G2Z-Frameless-Ultra-Fast-Adjustable/dp/B088LG2BSW?&linkCode=ll1&tag=viral0c4-20&linkId=e4b0298560069884a7e535a796dc4cb5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: AOC C27G2Z
     name: 6. AOC C27G2Z
     specifications:
@@ -320,7 +320,7 @@ the_products:
       - pro: "Adaptive Sync for Nvidia and AMD\t"
       - pro: Affordable price
       - pro: "Durable build quality\t"
-    amzlink: https://www.amazon.com/BenQ-XL2540K-Flexible-Adjustment-Customizable/dp/B08JHGH42Y?&linkCode=ll1&tag=gamingtechi09-20&linkId=4391429502c0031eb28462f078bd574b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/BenQ-XL2540K-Flexible-Adjustment-Customizable/dp/B08JHGH42Y?&linkCode=ll1&tag=viral0c4-20&linkId=4391429502c0031eb28462f078bd574b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: BenQ Zowie XL2540K
     name: 7. BenQ Zowie XL2540K
     specifications:
