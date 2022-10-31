@@ -71,7 +71,7 @@ the_products:
       - pro: Good built quality
       - pro: "Super HD "
       - pro: "Bright IPS board "
-    amzlink: https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-S2418H/dp/B06XYSZRQT?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=a919e139b92cdd02b4b65643a2f52a50&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-S2418H/dp/B06XYSZRQT?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=a919e139b92cdd02b4b65643a2f52a50&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Dell S2418H
     name: 1. Dell S2418H
     specifications:
@@ -112,7 +112,7 @@ the_products:
       - pro: High image quality
       - pro: Free-Sync support
       - pro: Highly ergonomic manufacture
-    amzlink: https://www.amazon.com/VG245H-inchFull-Console-FreeSync-Adaptive/dp/B01JGYM5H6?&linkCode=ll1&tag=gamingtechi09-20&linkId=3af7154d977ae08af3847d2ec5fb68e5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/VG245H-inchFull-Console-FreeSync-Adaptive/dp/B01JGYM5H6?&linkCode=ll1&tag=viral0c4-20&linkId=3af7154d977ae08af3847d2ec5fb68e5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Asus VG245H
     name: 2. Asus VG245H
     specifications:
@@ -153,7 +153,7 @@ the_products:
       - pro: "High refresh rate "
       - pro: Responsive
       - pro: Good contrast ratio
-    amzlink: https://www.amazon.com/Acer-SB220Q-Ultra-Thin-Frame-Monitor/dp/B07CVL2D2S?&linkCode=ll1&tag=gamingtechi09-20&linkId=a20f7b8d3465df13e53911f81107fdc5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Acer-SB220Q-Ultra-Thin-Frame-Monitor/dp/B07CVL2D2S?&linkCode=ll1&tag=viral0c4-20&linkId=a20f7b8d3465df13e53911f81107fdc5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Acer SB220Q
     name: 3. Acer SB220Q
     specifications:
@@ -191,7 +191,7 @@ the_products:
       - pro: Og0sync support
       - pro: Competitive built
       - pro: Higher resolution
-    amzlink: https://www.amazon.com/Dell-Monitor-S2417DG-24-Inch-Response/dp/B01IOO4SGK?&linkCode=ll1&tag=gamingtechi09-20&linkId=903e250a38f534d6190baefc06661b06&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Dell-Monitor-S2417DG-24-Inch-Response/dp/B01IOO4SGK?&linkCode=ll1&tag=viral0c4-20&linkId=903e250a38f534d6190baefc06661b06&language=en_US&ref_=as_li_ss_tl
     nameForTOC: DELL S2417DG
     name: 4. DELL S2417DG
     specifications:
@@ -231,7 +231,7 @@ the_products:
       - pro: Quick response
       - pro: Curved monitor FHD
       - pro: Compatible with many OS
-    amzlink: https://www.amazon.com/Sceptre-C278W-1920R-DisplayPort-immersive-curvature/dp/B071JJ8V4S?&linkCode=ll1&tag=gamingtechi09-20&linkId=dbd3b87f51af9eb56b6776e23d8e96c1&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Sceptre-C278W-1920R-DisplayPort-immersive-curvature/dp/B071JJ8V4S?&linkCode=ll1&tag=viral0c4-20&linkId=dbd3b87f51af9eb56b6776e23d8e96c1&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Sceptre C278W-1920R
     name: 5. Sceptre C278W-1920R
     specifications:
@@ -270,7 +270,7 @@ the_products:
       - pro: Highly responsive
       - pro: Maximum visibility
       - pro: Full HD resolution
-    amzlink: https://www.amazon.com/Acer-R240HY-bidx-23-8-Inch-Widescreen/dp/B0148NNKTC?&linkCode=ll1&tag=gamingtechi09-20&linkId=58f547c2bda15e1a814f8844514b7676&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Acer-R240HY-bidx-23-8-Inch-Widescreen/dp/B0148NNKTC?&linkCode=ll1&tag=viral0c4-20&linkId=58f547c2bda15e1a814f8844514b7676&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Acer R240HY Bidx
     name: 6. Acer R240HY Bidx
     specifications:
