@@ -238,7 +238,7 @@ the_products:
       - pro: Vast coverage.
       - pro: Excellent uninterrupted network access.
       - pro: Perfect 4K HD streaming.
-    amzlink: https://www.amazon.com/gp/product/B01I8KA48G?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=b05e1f50fcd7282f04f648e27fa09c51&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B01I8KA48G?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=b05e1f50fcd7282f04f648e27fa09c51&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NETGEAR C7800
     name: 1. NETGEAR C7800
     specifications:
@@ -291,7 +291,7 @@ the_products:
       - pro: Works best with Comcast's Xfinity Internet.
       - pro: "Highly rated and recommended. "
       - pro: "Monthly rental saving. "
-    amzlink: https://www.amazon.com/gp/product/B06Y3XQ8M9?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=28b806d6e1de415091f9cf4ec9f1a640&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B06Y3XQ8M9?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=28b806d6e1de415091f9cf4ec9f1a640&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS DOCSIS 3.0
     name: 2. ASUS DOCSIS 3.0
     specifications:
@@ -337,7 +337,7 @@ the_products:
       - pro: DFS Feature.
       - pro: "Premium quality material. "
       - pro: "Prioritizes gaming. "
-    amzlink: https://www.amazon.com/gp/product/B072LQZFHM?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=4778c8b43edfa6ca2fd441eacad1608b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B072LQZFHM?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=4778c8b43edfa6ca2fd441eacad1608b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Linksys WRT32X AC3200 "
     name: 3. Linksys WRT32X AC3200
     specifications:
@@ -381,7 +381,7 @@ the_products:
       - pro: "Vast compatibility range. "
       - pro: Efficient speed.
       - pro: "Quick and easy installation. "
-    amzlink: https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B01621M1S4?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=0689cb2601243360a76b317d2c484563&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NETGEAR CM600
     name: 4. NETGEAR CM600
     specifications:
@@ -437,7 +437,7 @@ the_products:
       - pro: "Packed in PVC Jacket. "
       - pro: "100% Pure Copper. "
       - pro: "Speed up-to 10Gbps. "
-    amzlink: https://www.amazon.com/gp/product/B01MSTB5KW?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=e26505bb463c1887662d4d954f5e0239&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B01MSTB5KW?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=e26505bb463c1887662d4d954f5e0239&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MOTOROLA MG7540
     name: 5. MOTOROLA MG7540
     specifications:
@@ -488,7 +488,7 @@ the_products:
     pros:
       - pro: "Best performance. "
       - pro: Saves rental fee of up to $156.
-    amzlink: https://www.amazon.com/gp/product/B07CNZ9PXC?ie=UTF8&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=0ce77e1913a8bff14e27ac7b32c6fce3&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B07CNZ9PXC?ie=UTF8&th=1&linkCode=ll1&tag=viral0c4-20&linkId=0ce77e1913a8bff14e27ac7b32c6fce3&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NETGEAR Orbi All-in-One
     name: 6. NETGEAR Orbi All-in-One
     specifications:
@@ -537,7 +537,7 @@ the_products:
       - pro: 4 Gigabit Ethernet ports.
       - pro: "Perfect performance. "
       - pro: "Great support for multiple devices. "
-    amzlink: https://www.amazon.com/gp/product/B07H4VJHB9?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=f623b977230159c2ee5c65625542f196&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B07H4VJHB9?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=f623b977230159c2ee5c65625542f196&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ARRIS SURFboard SBG7600AC2
     name: 7. ARRIS SURFboard SBG7600AC2
     specifications:
@@ -589,7 +589,7 @@ the_products:
       - pro: Reduced latency.
       - pro: "Ultra-secure from denials of service attacks. "
       - pro: "Compatible with most of the cable modems. "
-    amzlink: https://www.amazon.com/gp/product/B0723599RQ?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=8651c1b964dd3a62f0f024a40bc1afc3&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B0723599RQ?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=8651c1b964dd3a62f0f024a40bc1afc3&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Motorola MB8600
     name: 8. Motorola MB8600
     specifications:
@@ -646,7 +646,7 @@ the_products:
       - pro: "Perfect for gamers. "
       - pro: "Reduced latency. "
       - pro: Ultimate coverage.
-    amzlink: https://www.amazon.com/gp/product/B00ES6ZQ7O?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=2c8b0eee1a6012f1153f85065686d64a&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B00ES6ZQ7O?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=2c8b0eee1a6012f1153f85065686d64a&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Tenda AC10U Smart Gigabit
     name: 9. Tenda AC10U Smart Gigabit
     specifications:
@@ -696,7 +696,7 @@ the_products:
       - pro: "Perfect speed. "
       - pro: "Multiple features. "
       - pro: "Advanced technologies. "
-    amzlink: https://www.amazon.com/gp/product/B01K1RCRR0?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=649fde5968af9d9c842761f2634184f9&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B01K1RCRR0?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=649fde5968af9d9c842761f2634184f9&language=en_US&ref_=as_li_ss_tl
     nameForTOC: WAVLINK AC2100
     name: 10. WAVLINK AC2100
     specifications:
