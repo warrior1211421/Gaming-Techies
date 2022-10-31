@@ -305,7 +305,7 @@ the_products:
   - name: 1. Thermaltake Core P5
     nameForTOC: Thermaltake Core P5
     image: /uploads/thermaltake-core-p5.webp
-    amzlink: https://www.amazon.com/Thermaltake-Tempered-Vertical-Computer-CA-1E7-00M1WN-05/dp/B07VNP18ZR?&linkCode=ll1&tag=gamingtechi09-20&linkId=c679d00b03c336275280a1300b00cf3b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Thermaltake-Tempered-Vertical-Computer-CA-1E7-00M1WN-05/dp/B07VNP18ZR?&linkCode=ll1&tag=viral0c4-20&linkId=c679d00b03c336275280a1300b00cf3b&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           The first PC case in the list is best known for its portability. It
@@ -337,11 +337,11 @@ the_products:
 
           This case can house all your hardware such as USB 3.0, 2.0, USB C, Ample liquid cooling system. That’s right! This case has built-in support for an Ample liquid cooling system. The case is designed for housing some of the most powerful machines that require even more powerful cooling systems. However, the only drawback of this case is that it doesn’t support Multi-GPU without doing alterations.
     image: /uploads/corsair-graphite-series-760t.webp
-    amzlink: https://www.amazon.com/CORSAIR-GRAPHITE-Full-Tower-Window-Panels/dp/B00P7TPYI2?&linkCode=ll1&tag=gamingtechi09-20&linkId=6e3eb81a98c5f677bb1571b678101ece&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/CORSAIR-GRAPHITE-Full-Tower-Window-Panels/dp/B00P7TPYI2?&linkCode=ll1&tag=viral0c4-20&linkId=6e3eb81a98c5f677bb1571b678101ece&language=en_US&ref_=as_li_ss_tl
   - name: 3. In Win D-Frame 2.0 Open-Air Chassis
     nameForTOC: In Win D-Frame 2.0 Open-Air Chassis
     image: /uploads/in-win-d-frame-2.0-open-air-chassis.webp
-    amzlink: https://amzn.to/35iy8PH
+    amzlink: https://www.amazon.com/D-Frame-2-0-BK-GO-Motorcycle/dp/B06XGNLGJM?&linkCode=ll1&tag=viral0c4-20&linkId=6d07b124804f267e08b6e04ff7cd6dda&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           These are some of the high-value PC case preferred by professionals.
@@ -373,11 +373,11 @@ the_products:
 
 
           It is a modular case, which means that it can be easily customized according to your taste and requirements. These customizations can sometimes even be done without using a screwdriver. It is the best PC case I have ever used.
-    amzlink: https://www.amazon.com/Cougar-CONQUER-ATX-Gaming-Case/dp/B0759PNHX8?&linkCode=ll1&tag=gamingtechi09-20&linkId=3405bb2809908fd4798be93303cfdbf2&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Cougar-CONQUER-ATX-Gaming-Case/dp/B0759PNHX8?&linkCode=ll1&tag=viral0c4-20&linkId=3405bb2809908fd4798be93303cfdbf2&language=en_US&ref_=as_li_ss_tl
   - name: 5. Thermaltake Core P1
     nameForTOC: Thermaltake Core P1
     image: /uploads/thermaltake-core-p1.webp
-    amzlink: https://www.amazon.com/Thermaltake-Tempered-Panoramic-Certified-CA-1H9-00T1WN-00/dp/B06XFW9W43?&linkCode=ll1&tag=gamingtechi09-20&linkId=d957c7499e2ac2ff44ceb0fbb808cf07&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Thermaltake-Tempered-Panoramic-Certified-CA-1H9-00T1WN-00/dp/B06XFW9W43?&linkCode=ll1&tag=viral0c4-20&linkId=d957c7499e2ac2ff44ceb0fbb808cf07&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           This case is best suitable for **[Mini
@@ -395,7 +395,7 @@ the_products:
   - name: 6. Antec Striker
     nameForTOC: Antec Striker
     image: /uploads/antec-striker.webp
-    amzlink: https://www.amazon.com/Antec-Aluminum-ITX-Computer-Included/dp/B08CSQ31F7?&linkCode=ll1&tag=gamingtechi09-20&linkId=913149d989ccc3daf9b14ff7e5b816a4&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Antec-Aluminum-ITX-Computer-Included/dp/B08CSQ31F7?&linkCode=ll1&tag=viral0c4-20&linkId=913149d989ccc3daf9b14ff7e5b816a4&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           **[The
@@ -414,7 +414,7 @@ the_products:
   - name: 7. FSP CMT710
     nameForTOC: FSP CMT710
     image: /uploads/fsp-cmt710.webp
-    amzlink: https://www.amazon.com/FSP-Streaming-Dual-System-Computer-CMT710/dp/B084Y83RWG?&linkCode=ll1&tag=gamingtechi09-20&linkId=a911519d50e59209489037f8c075d2f5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/FSP-Streaming-Dual-System-Computer-CMT710/dp/B084Y83RWG?&linkCode=ll1&tag=viral0c4-20&linkId=a911519d50e59209489037f8c075d2f5&language=en_US&ref_=as_li_ss_tl
     paragraphs:
       - paragraph: >-
           This last case is the most expensive pc case in the world. It has all
