@@ -260,7 +260,7 @@ the_products:
       - pro: "Fastest speed "
       - pro: Superb packaging
       - pro: "Great cooling "
-    amzlink: https://www.amazon.com/dp/B07HY6QWXN?ie=UTF8&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=a44cdb9225f381113e7db65440bc5681&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/dp/B07HY6QWXN?ie=UTF8&th=1&linkCode=ll1&tag=viral0c4-20&linkId=a44cdb9225f381113e7db65440bc5681&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG STRIX GeForce RTX 2080TI-O11G
     name: 1. ASUS ROG STRIX GeForce RTX 2080TI-O11G
     specifications:
@@ -308,7 +308,7 @@ the_products:
       - pro: Suitable for most games
       - pro: Better performance
       - pro: Long-living
-    amzlink: https://www.amazon.com/gp/product/B07N825Y1L?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=14f512d04d22cf395069a74cadab5839&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B07N825Y1L?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=14f512d04d22cf395069a74cadab5839&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MSI Gaming GeForce GTX 1660 Ti
     name: 2. MSI Gaming GeForce GTX 1660 Ti
     specifications:
@@ -364,7 +364,7 @@ the_products:
       - pro: Efficient performance
       - pro: "Strongly built "
       - pro: Silent cooling
-    amzlink: https://www.amazon.com/NVIDIA-GeForce-Super-Founders-Graphics/dp/B07VDC5FDJ?dchild=1&keywords=GeForce+RTX+2060+super&qid=1615382665&sr=8-4&linkCode=ll1&tag=gamingtechi09-20&linkId=5aebd794301e6a14a5e9c4204100b943&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/NVIDIA-GeForce-Super-Founders-Graphics/dp/B07VDC5FDJ?dchild=1&keywords=GeForce+RTX+2060+super&qid=1615382665&sr=8-4&linkCode=ll1&tag=viral0c4-20&linkId=5aebd794301e6a14a5e9c4204100b943&language=en_US&ref_=as_li_ss_tl
     nameForTOC: NVIDIA GeForce RTX 2070 Super
     name: 3. NVIDIA GeForce RTX 2070 Super
     specifications:
@@ -409,7 +409,7 @@ the_products:
       - pro: Long life
       - pro: "Attractively designed "
       - pro: "Affordable "
-    amzlink: https://www.amazon.com/gp/product/B07Y8XCB36?ie=UTF8&th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=60e3a948388cae1133af4c6b55374664&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/gp/product/B07Y8XCB36?ie=UTF8&th=1&linkCode=ll1&tag=viral0c4-20&linkId=60e3a948388cae1133af4c6b55374664&language=en_US&ref_=as_li_ss_tl
     nameForTOC: MSI Gaming Radeon Rx 5700 Xt
     name: 4. MSI Gaming Radeon Rx 5700 Xt
     specifications:
@@ -456,7 +456,7 @@ the_products:
       - pro: "Powerful "
       - pro: Perfect graphics
       - pro: "Impressive design "
-    amzlink: https://www.amazon.com/ASUS-Graphics-DisplayPort-Axial-Tech-2-9-Slot/dp/B08J6GMWCQ?dchild=1&keywords=rtx+3080&qid=1615382831&sr=8-3&linkCode=ll1&tag=gamingtechi09-20&linkId=09f8c967754922d2cd5a7a437ccb8ba2&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASUS-Graphics-DisplayPort-Axial-Tech-2-9-Slot/dp/B08J6GMWCQ?dchild=1&keywords=rtx+3080&qid=1615382831&sr=8-3&linkCode=ll1&tag=viral0c4-20&linkId=09f8c967754922d2cd5a7a437ccb8ba2&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG STRIX NVIDIA GeForce RTX 3090
     name: 5. ASUS ROG STRIX NVIDIA GeForce RTX 3090
     specifications:
