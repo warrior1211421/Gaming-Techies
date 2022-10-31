@@ -70,7 +70,7 @@ the_products:
       - pro: Excellent built quality
       - pro: Value to money
       - pro: Best sound quality for this price
-    amzlink: https://www.amazon.com/Yamaha-HS8-Studio-Monitor-Black/dp/B00DCYMVB2?th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=4c14b10bbdbc45a20a07edec7706a258&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Yamaha-HS8-Studio-Monitor-Black/dp/B00DCYMVB2?th=1&linkCode=ll1&tag=viral0c4-20&linkId=4c14b10bbdbc45a20a07edec7706a258&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Yamaha Hs8
     name: 1. Yamaha Hs8
     specifications:
@@ -105,7 +105,7 @@ the_products:
       - pro: Best for the entry price
       - pro: Good size
       - pro: High build quality
-    amzlink: https://www.amazon.com/ADAM-Audio-T7V-Powered-Monitor/dp/B079BBF66V?crid=TOLBP13GBMVJ&keywords=ADAM+Audio+T7V&qid=1661540359&s=musical-instruments&sprefix=adam+audio+t7v%2Cmi%2C1048&sr=1-1&linkCode=ll1&tag=gamingtechi09-20&linkId=c39957a40aa55a2bca694fc8ef713214&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ADAM-Audio-T7V-Powered-Monitor/dp/B079BBF66V?crid=TOLBP13GBMVJ&keywords=ADAM+Audio+T7V&qid=1661540359&s=musical-instruments&sprefix=adam+audio+t7v%2Cmi%2C1048&sr=1-1&linkCode=ll1&tag=viral0c4-20&linkId=c39957a40aa55a2bca694fc8ef713214&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ADAM Audio T7V
     name: 2. ADAM Audio T7V
     specifications:
@@ -138,7 +138,7 @@ the_products:
       - pro: Compact size
       - pro: Best sound accuracy
     amzlink: inkCode=ll1&tag=gamingtechi09-20&linkId=c39957a40aa55a2bca694fc8ef713214&language=en_US&ref_=as_li_ss_tl
-      https://www.amazon.com/Adam-Audio-A5X-Powered-Monitor/dp/B003USH8UO?&linkCode=ll1&tag=gamingtechi09-20&linkId=eb92cd5e30ff0d3abf4dad797da3b9fe&language=en_US&ref_=as_li_ss_tl
+      https://www.amazon.com/Adam-Audio-A5X-Powered-Monitor/dp/B003USH8UO?&linkCode=ll1&tag=viral0c4-20&linkId=eb92cd5e30ff0d3abf4dad797da3b9fe&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Adam Audio A5X
     name: 3. Adam Audio A5X
     specifications:
@@ -170,7 +170,7 @@ the_products:
       - pro: Impressive accessories
       - pro: High bass production without sub-woofer
       - pro: Good sound quality
-    amzlink: https://www.amazon.com/PreSonus-Active-Studio-Monitors-Single/dp/B00BFOZIR0?&linkCode=ll1&tag=gamingtechi09-20&linkId=cc3c6d427247e0ce5f28d53245062d4d&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/PreSonus-Active-Studio-Monitors-Single/dp/B00BFOZIR0?&linkCode=ll1&tag=viral0c4-20&linkId=cc3c6d427247e0ce5f28d53245062d4d&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Pre-Sonus Eris E8
     name: 4. Pre-Sonus Eris E8
     specifications:
@@ -180,20 +180,7 @@ the_products:
       - con: Not suitable for medium to large studio
     image: /uploads/pre-sonus-eris-e8.webp
     award: Best for Domestic Use
-  - nameForTOC: 5. Edifier S2000 PRO
-    award: Edifier S2000 PRO
-    image: /uploads/edifier-s2000-pro.webp
-    amzlink: https://www.amazon.com/Edifier-S2000pro-Bluetooth-Bookshelf-Speakers/dp/B0725GZQFZ?&linkCode=ll1&tag=gamingtechi09-20&linkId=d105ebd674f56f5a79b8bd9323539e59&language=en_US&ref_=as_li_ss_tl
-    specifications:
-      - specification: "**Size:** 5.5 inches **\\| Highest Power:** N/A **\\| Frequency
-          Response:** 48Hz – 20KHz"
-    pros:
-      - pro: Low vibrations
-      - pro: "Good aesthetics and appealing style "
-      - pro: Well balanced sound
-    cons:
-      - con: "No USB port "
-    paragraphs:
+  - paragraphs:
       - paragraph: >-
           Edifier is one of the driving companies within the music industry and
           specializes in the plan and manufacture of premium advancements that
@@ -216,6 +203,20 @@ the_products:
 
 
           Common EQ setting choices exist for quick tuning in obligations, and an inaccessible control is additionally offered to clients within the bundle. The construct quality is extraordinary for the cost run, and these specific studio screens are a convenient choice when comparing all the brands accessible within the nearby advertising.
+    pros:
+      - pro: Low vibrations
+      - pro: "Good aesthetics and appealing style "
+      - pro: Well balanced sound
+    amzlink: https://www.amazon.com/Edifier-S2000pro-Bluetooth-Bookshelf-Speakers/dp/B0725GZQFZ?&linkCode=ll1&tag=viral0c4-20&linkId=d105ebd674f56f5a79b8bd9323539e59&language=en_US&ref_=as_li_ss_tl
+    nameForTOC: Edifier S2000 PRO
+    name: 5. Edifier S2000 PRO
+    specifications:
+      - specification: "**Size:** 5.5 inches **\\| Highest Power:** N/A **\\| Frequency
+          Response:** 48Hz – 20KHz"
+    cons:
+      - con: "No USB port "
+    image: /uploads/edifier-s2000-pro.webp
+    award: Edifier S2000 PRO
   - paragraphs:
       - paragraph: >-
           Swans is a great quality company for finding beneficial tuning in
@@ -241,7 +242,7 @@ the_products:
       - pro: Build quality
       - pro: Impressive sound quality
       - pro: Good frequency range
-    amzlink: https://www.amazon.com/Swan-Speakers-Luxurious-Long-Throw-Mid-Woofer/dp/B00W0OAIJC?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=8db364dee2cc00d41f86ee9e7931ec62&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Swan-Speakers-Luxurious-Long-Throw-Mid-Woofer/dp/B00W0OAIJC?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=8db364dee2cc00d41f86ee9e7931ec62&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Swan Speakers T200C
     name: 6. Swan Speakers T200C
     specifications:
@@ -268,7 +269,7 @@ the_products:
       - pro: Built quality
       - pro: Bass boosted
       - pro: Stylish design
-    amzlink: https://www.amazon.com/JBL-Professional-Next-Generation-Powered-306PMKII/dp/B0787KRJ9H?&linkCode=ll1&tag=gamingtechi09-20&linkId=1469a152eae41f30ec2889f165a474c2&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/JBL-Professional-Next-Generation-Powered-306PMKII/dp/B0787KRJ9H?&linkCode=ll1&tag=viral0c4-20&linkId=1469a152eae41f30ec2889f165a474c2&language=en_US&ref_=as_li_ss_tl
     nameForTOC: JBL 306P MkII
     name: "7. JBL 306P MkII        "
     specifications:
