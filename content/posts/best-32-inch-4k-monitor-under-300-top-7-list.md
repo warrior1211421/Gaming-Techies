@@ -68,7 +68,7 @@ the_products:
       - pro: Good picture quality
       - pro: Lot of room for work
       - pro: Build quality
-    amzlink: https://www.amazon.com/SAMSUNG-inch-UJ59-monitor-LU32J590UQNXZA/dp/B07CS3JGPC?&linkCode=ll1&tag=gamingtechi09-20&linkId=c70ae4dc95d176dc32381726f9d9e8b8&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SAMSUNG-inch-UJ59-monitor-LU32J590UQNXZA/dp/B07CS3JGPC?&linkCode=ll1&tag=viral0c4-20&linkId=c70ae4dc95d176dc32381726f9d9e8b8&language=en_US&ref_=as_li_ss_tl
     nameForTOC: SAMSUNG 32 inch UJ59
     name: 1. SAMSUNG 32 inch UJ59
     specifications:
@@ -106,7 +106,7 @@ the_products:
       - pro: Good for readers
       - pro: Responsive
       - pro: IPS display
-    amzlink: https://www.amazon.com/LG-32MA70HY-P-32-Inch-Monitor-Display/dp/B0755KJ56W?&linkCode=ll1&tag=gamingtechi09-20&linkId=d35b160e832646c7d6299747b61296b5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/LG-32MA70HY-P-32-Inch-Monitor-Display/dp/B0755KJ56W?&linkCode=ll1&tag=viral0c4-20&linkId=d35b160e832646c7d6299747b61296b5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: LG MA70HY-P
     name: 2.LG MA70HY-P
     specifications:
@@ -147,7 +147,7 @@ the_products:
       - pro: Stylish design
       - pro: High contrast ratio
       - pro: "Build quality "
-    amzlink: https://www.amazon.com/AOC-C32G2-Frameless-FreeSync-adjustable/dp/B08BT9DZQW?&linkCode=ll1&tag=gamingtechi09-20&linkId=b666a0222523f4ed1dd749ec77496ce0&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/AOC-C32G2-Frameless-FreeSync-adjustable/dp/B08BT9DZQW?&linkCode=ll1&tag=viral0c4-20&linkId=b666a0222523f4ed1dd749ec77496ce0&language=en_US&ref_=as_li_ss_tl
     nameForTOC: AOC C32G2
     name: "3. AOC C32G2          "
     specifications:
@@ -190,7 +190,7 @@ the_products:
       - pro: High picture quality
       - pro: Excellent gaming performance
       - pro: Value to money
-    amzlink: https://www.amazon.com/Samsung-MagicBright-Technology-DisplayPort-LC32F397FWNXZA/dp/B078WF965Q?&linkCode=ll1&tag=gamingtechi09-20&linkId=d7811911553658d8dc5f7a78c32e9d6a&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Samsung-MagicBright-Technology-DisplayPort-LC32F397FWNXZA/dp/B078WF965Q?&linkCode=ll1&tag=viral0c4-20&linkId=d7811911553658d8dc5f7a78c32e9d6a&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung LC32F397FWNXZA
     name: 4. Samsung LC32F397FWNXZA
     specifications:
@@ -234,7 +234,7 @@ the_products:
       - pro: High contrast ration
       - pro: Picture Accuracy
       - pro: Large screen size
-    amzlink: https://www.amazon.com/Sceptre-C328W-1920R-Curved-Monitor-DisplayPort/dp/B074NJVQ4D?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=1389d9147c8ba92d6e3fa2b78b547e84&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Sceptre-C328W-1920R-Curved-Monitor-DisplayPort/dp/B074NJVQ4D?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=1389d9147c8ba92d6e3fa2b78b547e84&language=en_US&ref_=as_li_ss_tl
     nameForTOC: "Sceptre C328W "
     name: "5. Sceptre C328W "
     specifications:
@@ -273,7 +273,7 @@ the_products:
       - pro: Free-sync and HDMI
       - pro: "Excellent for gaming "
       - pro: High performance
-    amzlink: https://www.amazon.com/LG-32UL500-W-Display-FreeSync-Compatibility/dp/B088G1PKKN?&linkCode=ll1&tag=gamingtechi09-20&linkId=1c9389ccb70140622ba01ee5734d5c20&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/LG-32UL500-W-Display-FreeSync-Compatibility/dp/B088G1PKKN?&linkCode=ll1&tag=viral0c4-20&linkId=1c9389ccb70140622ba01ee5734d5c20&language=en_US&ref_=as_li_ss_tl
     nameForTOC: LG 32UL500-W
     name: 6. LG 32UL500-W
     specifications:
