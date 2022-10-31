@@ -73,7 +73,7 @@ the_products:
       - pro: Flexible cable
       - pro: Great sound quality
       - pro: "Comfortable "
-    amzlink: https://www.amazon.com/Audio-Technica-ATH-E70-Professional-Monitor-Headphones/dp/B01AXSYIVA?&linkCode=ll1&tag=gamingtechi09-20&linkId=9642805885a9ec74fcfb7b748befa830&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Audio-Technica-ATH-E70-Professional-Monitor-Headphones/dp/B01AXSYIVA?&linkCode=ll1&tag=viral0c4-20&linkId=9642805885a9ec74fcfb7b748befa830&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Audio-Technica ATH-E70
     name: 1. Audio-Technica ATH-E70
     specifications:
@@ -110,7 +110,7 @@ the_products:
       - pro: Good sound quality
       - pro: Comfortable
       - pro: Multiple color options
-    amzlink: https://www.amazon.com/CCA-C10-Earphones-Headphones-Detachable/dp/B07Q13T19H?&linkCode=ll1&tag=gamingtechi09-20&linkId=9c64794324f385c146d42c6c3bd6c3df&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/CCA-C10-Earphones-Headphones-Detachable/dp/B07Q13T19H?&linkCode=ll1&tag=viral0c4-20&linkId=9c64794324f385c146d42c6c3bd6c3df&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Audio CCA C10 ear monitors
     name: 2. Audio CCA C10 ear monitors
     specifications:
@@ -153,7 +153,7 @@ the_products:
       - pro: "Comfortable "
       - pro: Stylish
       - pro: "Build quality "
-    amzlink: https://www.amazon.com/Technica-ATH-IM03-SonicPro-Balanced-Headphones/dp/B00FWGU0OI?&linkCode=ll1&tag=gamingtechi09-20&linkId=7c6ffc6231e346926077ac7904969833&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Technica-ATH-IM03-SonicPro-Balanced-Headphones/dp/B00FWGU0OI?&linkCode=ll1&tag=viral0c4-20&linkId=7c6ffc6231e346926077ac7904969833&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Audio-Technica ATH-IM02
     name: 3. Audio-Technica ATH-IM02
     specifications:
@@ -192,7 +192,7 @@ the_products:
       - pro: "Comfortable "
       - pro: "Value to money "
       - pro: Clear sound
-    amzlink: https://www.amazon.com/Westone-Performance-Noise-Isolating-Monitors-Orange-Pro/dp/B072284BT3?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=60580d1729a2ae3ff8d72a0ad049e12b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Westone-Performance-Noise-Isolating-Monitors-Orange-Pro/dp/B072284BT3?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=60580d1729a2ae3ff8d72a0ad049e12b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Westone UM Pro 10 Single
     name: 4. Westone UM Pro 10 Single
     specifications:
@@ -231,7 +231,7 @@ the_products:
       - pro: Marvelous sound
       - pro: Quadruple sound drivers
       - pro: A large variety of customizations
-    amzlink: https://www.amazon.com/Shure-SE846-CL-Isolating-Definition-MicroDrivers/dp/B00DIUGW6A?&linkCode=ll1&tag=gamingtechi09-20&linkId=fb12c8d29ea3a58619b8718c48084c80&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Shure-SE846-CL-Isolating-Definition-MicroDrivers/dp/B00DIUGW6A?&linkCode=ll1&tag=viral0c4-20&linkId=fb12c8d29ea3a58619b8718c48084c80&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Shure SE846 Pro
     name: 5. Shure SE846 Pro
     specifications:
@@ -264,7 +264,7 @@ the_products:
       - pro: Great sound quality
       - pro: Impressive features
       - pro: Build quality
-    amzlink: https://www.amazon.com/Sennheiser-IE-40-dynamic-monitors/dp/B07FBBV6Y8?&linkCode=ll1&tag=gamingtechi09-20&linkId=ec2d95944eae107eb6e64eb5e585f78b&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Sennheiser-IE-40-dynamic-monitors/dp/B07FBBV6Y8?&linkCode=ll1&tag=viral0c4-20&linkId=ec2d95944eae107eb6e64eb5e585f78b&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Sennheiser 40 pro
     name: 6. Sennheiser 40 pro
     specifications:
@@ -292,7 +292,7 @@ the_products:
       - pro: Sound quality
       - pro: "Lightweight "
       - pro: Durable
-    amzlink: https://www.amazon.com/BASN-Bsingerbc100-Headphones-Detachable-Cancelling/dp/B075197M94?&linkCode=ll1&tag=gamingtechi09-20&linkId=f76b558c66e757548fe61cb87fda6248&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/BASN-Bsingerbc100-Headphones-Detachable-Cancelling/dp/B075197M94?&linkCode=ll1&tag=viral0c4-20&linkId=f76b558c66e757548fe61cb87fda6248&language=en_US&ref_=as_li_ss_tl
     nameForTOC: BASN Bsinger BC100
     name: 7. BASN Bsinger BC100
     specifications:
