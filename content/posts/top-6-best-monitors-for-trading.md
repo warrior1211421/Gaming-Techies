@@ -67,7 +67,7 @@ the_products:
       - pro: high resolution
       - pro: less input lag
       - pro: Free-Sync
-    amzlink: https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1?&linkCode=ll1&tag=gamingtechi09-20&linkId=44383eaa209b6668d50ac0ce07d1c425&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1?&linkCode=ll1&tag=viral0c4-20&linkId=44383eaa209b6668d50ac0ce07d1c425&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Dell 27 LED-backlit LCD Monitor SE2719H
     name: 1. Dell 27 LED-backlit LCD Monitor SE2719H
     specifications:
@@ -109,7 +109,7 @@ the_products:
       - pro: Efficient contrast ratio
       - pro: Reasonable size
       - pro: Built-in speakers
-    amzlink: https://www.amazon.com/HP-23-8-inch-Adjustment-Speakers-VH240a/dp/B072M34RQC?&linkCode=ll1&tag=gamingtechi09-20&linkId=4db0b5493fe4ad685eebc71cb1dcb6b5&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/HP-23-8-inch-Adjustment-Speakers-VH240a/dp/B072M34RQC?&linkCode=ll1&tag=viral0c4-20&linkId=4db0b5493fe4ad685eebc71cb1dcb6b5&language=en_US&ref_=as_li_ss_tl
     nameForTOC: HP VH240a
     name: 2. HP VH240a
     specifications:
@@ -147,7 +147,7 @@ the_products:
       - pro: High refresh rate
       - pro: Faster response time
       - pro: High contrast ratio
-    amzlink: https://www.amazon.com/SAMSUNG-FreeSync-Adjustable-Borderless-LF27G35TFWNXZA/dp/B08SJF7TZ2?&linkCode=ll1&tag=gamingtechi09-20&linkId=3c3ef0e216fe21ab688273f275ac060c&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SAMSUNG-FreeSync-Adjustable-Borderless-LF27G35TFWNXZA/dp/B08SJF7TZ2?&linkCode=ll1&tag=viral0c4-20&linkId=3c3ef0e216fe21ab688273f275ac060c&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung LF27G35TFWNXZA
     name: 3. Samsung LF27G35TFWNXZA
     specifications:
@@ -185,7 +185,7 @@ the_products:
       - pro: "Faster response time \t"
       - pro: Ultra-wide screen
       - pro: Support AMD Free-Sync
-    amzlink: https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5?&linkCode=ll1&tag=gamingtechi09-20&linkId=b0140ad5dbf5ba34635da397c62e37cc&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5?&linkCode=ll1&tag=viral0c4-20&linkId=b0140ad5dbf5ba34635da397c62e37cc&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung CHG90 Series 49
     name: 4. Samsung CHG90 Series 49
     specifications:
@@ -226,7 +226,7 @@ the_products:
       - pro: Higher resolution
       - pro: Audible built-in speakers
       - pro: Competitive design
-    amzlink: https://www.amazon.com/ViewSonic-VX3276-2K-MHD-Frameless-Widescreen-DisplayPort/dp/B0787XMLZQ?&linkCode=ll1&tag=gamingtechi09-20&linkId=921d01d4576033387a972aef548419ca&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ViewSonic-VX3276-2K-MHD-Frameless-Widescreen-DisplayPort/dp/B0787XMLZQ?&linkCode=ll1&tag=viral0c4-20&linkId=921d01d4576033387a972aef548419ca&language=en_US&ref_=as_li_ss_tl
     nameForTOC: VIEWSONIC VX3276-2K-MHD
     name: 5. VIEWSONIC VX3276-2K-MHD
     specifications:
@@ -242,7 +242,7 @@ the_products:
   - name: 6. Asus DESIGNO MX299Q
     nameForTOC: Asus DESIGNO MX299Q
     image: /uploads/asus-designo-mx299q.webp
-    amzlink: https://www.amazon.com/ASUS-Designo-MX299Q-29-21/dp/B00DRPYQ9G?&linkCode=ll1&tag=gamingtechi09-20&linkId=9b22bba508fbecbd9408a45daa12524d&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASUS-Designo-MX299Q-29-21/dp/B00DRPYQ9G?&linkCode=ll1&tag=viral0c4-20&linkId=9b22bba508fbecbd9408a45daa12524d&language=en_US&ref_=as_li_ss_tl
     specifications:
       - specification: "**Size:** 29 **\\| Dimensions:** 8.46 x 27.56 x 15.39 inches
           **\\| Resolution:** 2560 x 1080 **\\| Pixel Density:** 163 PPI **\\|
