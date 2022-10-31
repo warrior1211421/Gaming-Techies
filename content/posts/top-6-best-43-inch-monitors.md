@@ -70,7 +70,7 @@ the_products:
       - pro: High resolution
       - pro: Build quality
       - pro: "Responsive "
-    amzlink: https://www.amazon.com/ViewSonic-VX4381-4K-Monitor-Widescreen-DisplayPort/dp/B097J4J1Z7?&linkCode=ll1&tag=gamingtechi09-20&linkId=c8a35bf8ea453d5a1c7eb41f538e5441&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ViewSonic-VX4381-4K-Monitor-Widescreen-DisplayPort/dp/B097J4J1Z7?&linkCode=ll1&tag=viral0c4-20&linkId=c8a35bf8ea453d5a1c7eb41f538e5441&language=en_US&ref_=as_li_ss_tl
     nameForTOC: View-Sonic VX4381-4K
     name: 1. View-Sonic VX4381-4K
     specifications:
@@ -110,7 +110,7 @@ the_products:
       - pro: Responsive
       - pro: Glamourous design
       - pro: Great color performance
-    amzlink: https://www.amazon.com/Samsung-LC43J890DKNXZA-CHG90-Curved-Monitor/dp/B07CT1T7HH?&linkCode=ll1&tag=gamingtechi09-20&linkId=63569d6f0f4c7516e6615b63871fab01&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Samsung-LC43J890DKNXZA-CHG90-Curved-Monitor/dp/B07CT1T7HH?&linkCode=ll1&tag=viral0c4-20&linkId=63569d6f0f4c7516e6615b63871fab01&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung C49J89
     name: 2. Samsung C49J89
     specifications:
@@ -148,7 +148,7 @@ the_products:
       - pro: Powerful speakers
       - pro: High pixel density
       - pro: Ultra HD
-    amzlink: https://www.amazon.com/Dell-Monitor-43-Multi-Client-P4317Q/dp/B01F80FSKS?&linkCode=ll1&tag=gamingtechi09-20&linkId=618074846cccb44525f1b0b03aa2923c&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Dell-Monitor-43-Multi-Client-P4317Q/dp/B01F80FSKS?&linkCode=ll1&tag=viral0c4-20&linkId=618074846cccb44525f1b0b03aa2923c&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Dell 43″ P4317Q
     name: 3. Dell 43″ P4317Q
     specifications:
@@ -187,7 +187,7 @@ the_products:
       - pro: High refresh rate
       - pro: Cable management system
       - pro: Hotkeys are available
-    amzlink: https://www.amazon.com/ASUS-XG43VQ-Ultra-Wide-FreeSync-DisplayHDR/dp/B082XZKQN6?&linkCode=ll1&tag=gamingtechi09-20&linkId=43375922d4de74e47646915d9e3520b1&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASUS-XG43VQ-Ultra-Wide-FreeSync-DisplayHDR/dp/B082XZKQN6?&linkCode=ll1&tag=viral0c4-20&linkId=43375922d4de74e47646915d9e3520b1&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG Strix XG43VQ 43”
     name: 4. ASUS ROG Strix XG43VQ 43”
     specifications:
@@ -223,7 +223,7 @@ the_products:
       - pro: High pixel per inch value
       - pro: Build quality
       - pro: Value to money
-    amzlink: https://www.amazon.com/Philips-BDM4350UC-Brilliance-UHD3840x2160-DisplayPortx2/dp/B01E18XRY2?ie=UTF8&linkCode=ll1&tag=gamingtechi09-20&linkId=f19f8c7f0993fd8809487414694cc041&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Philips-BDM4350UC-Brilliance-UHD3840x2160-DisplayPortx2/dp/B01E18XRY2?ie=UTF8&linkCode=ll1&tag=viral0c4-20&linkId=f19f8c7f0993fd8809487414694cc041&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Philips BDM4350UC 43
     name: 5. Philips BDM4350UC 43
     specifications:
@@ -262,7 +262,7 @@ the_products:
       - pro: Good 4K quality
       - pro: Much responsive
       - pro: Stylish design
-    amzlink: https://www.amazon.com/SAMSUNG-Monitor-Computer-Microsoft-LS43AM702UNXZA/dp/B096MY3BN8?th=1&linkCode=ll1&tag=gamingtechi09-20&linkId=6b95fd4b8485b56eb8374fcc85543b18&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SAMSUNG-Monitor-Computer-Microsoft-LS43AM702UNXZA/dp/B096MY3BN8?th=1&linkCode=ll1&tag=viral0c4-20&linkId=6b95fd4b8485b56eb8374fcc85543b18&language=en_US&ref_=as_li_ss_tl
     nameForTOC: Samsung M7 4K 43
     name: 6. Samsung M7 4K 43
     specifications:
