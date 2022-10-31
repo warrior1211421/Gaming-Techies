@@ -73,7 +73,7 @@ the_products:
       - pro: "Have speakers "
       - pro: "Quick response time "
       - pro: Higher resolution
-    amzlink: https://www.amazon.com/Designo-Adjustable-Speakers-Subwoofer-MZ27AQL/dp/B07GGM4TCH?&linkCode=ll1&tag=gamingtechi09-20&linkId=423bd1abea7acc36458a5509a170f6e6&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/Designo-Adjustable-Speakers-Subwoofer-MZ27AQL/dp/B07GGM4TCH?&linkCode=ll1&tag=viral0c4-20&linkId=423bd1abea7acc36458a5509a170f6e6&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS Designo 27″ MZ27AQL
     name: 1. ASUS Designo 27″ MZ27AQL
     specifications:
@@ -112,7 +112,7 @@ the_products:
       - pro: Large size
       - pro: "High refresh rate\t"
       - pro: Remarkable HDR
-    amzlink: https://www.amazon.com/SAMSUNG-32-inch-Odyssey-G7-Monitor/dp/B088HHZBGJ?&linkCode=ll1&tag=gamingtechi09-20&linkId=aae9e94f925c209c86da31ba0141b0bd&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/SAMSUNG-32-inch-Odyssey-G7-Monitor/dp/B088HHZBGJ?&linkCode=ll1&tag=viral0c4-20&linkId=aae9e94f925c209c86da31ba0141b0bd&language=en_US&ref_=as_li_ss_tl
     nameForTOC: SAMSUNG Odyssey G7 32-Inch WQHD
     name: 2. SAMSUNG Odyssey G7 32-Inch WQHD
     specifications:
@@ -155,7 +155,7 @@ the_products:
       - pro: "Considerable response time "
       - pro: Affordable
       - pro: Contains HDR10 technology
-    amzlink: https://www.amazon.com/LG-29WN600-W-29-21-UltraWide/dp/B0876DBCBX?&linkCode=ll1&tag=gamingtechi09-20&linkId=93a9fe7d6404b59a7f8503cdc0dd94a9&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/LG-29WN600-W-29-21-UltraWide/dp/B0876DBCBX?&linkCode=ll1&tag=viral0c4-20&linkId=93a9fe7d6404b59a7f8503cdc0dd94a9&language=en_US&ref_=as_li_ss_tl
     nameForTOC: LG 29WN600-W 29″
     name: 3. LG 29WN600-W 29″
     specifications:
@@ -195,7 +195,7 @@ the_products:
       - pro: High resolution
       - pro: High saturated colors
       - pro: Build quality
-    amzlink: https://www.amazon.com/ASUS-XG27AQ-Compatible-DisplayPort-DisplayHDR/dp/B08LCNNGZN?&linkCode=ll1&tag=gamingtechi09-20&linkId=c8c75bebd5a6628aea56b55961435a82&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ASUS-XG27AQ-Compatible-DisplayPort-DisplayHDR/dp/B08LCNNGZN?&linkCode=ll1&tag=viral0c4-20&linkId=c8c75bebd5a6628aea56b55961435a82&language=en_US&ref_=as_li_ss_tl
     nameForTOC: ASUS ROG Strix 27”
     name: 4. ASUS ROG Strix 27”
     specifications:
@@ -235,7 +235,7 @@ the_products:
       - pro: Eye care technology
       - pro: Responsive
       - pro: Stylish design
-    amzlink: https://www.amazon.com/BenQ-GW2280-Monitor-Performance-Mountable/dp/B00KYCSRQI?&linkCode=ll1&tag=gamingtechi09-20&linkId=1852a117ad45cf192a651191f32be045&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/BenQ-GW2280-Monitor-Performance-Mountable/dp/B00KYCSRQI?&linkCode=ll1&tag=viral0c4-20&linkId=1852a117ad45cf192a651191f32be045&language=en_US&ref_=as_li_ss_tl
     nameForTOC: BenQ GW2280
     name: 5. BenQ GW2280
     specifications:
@@ -273,7 +273,7 @@ the_products:
       - pro: Support Free-Sync
       - pro: Quick
       - pro: "Full HD "
-    amzlink: https://www.amazon.com/ViewSonic-VX2457-MHD-Gaming-Monitor-FreeSync/dp/B018MYTH9U?&linkCode=ll1&tag=gamingtechi09-20&linkId=719166ea5e4ec2cba0908bf3d5fdf362&language=en_US&ref_=as_li_ss_tl
+    amzlink: https://www.amazon.com/ViewSonic-VX2457-MHD-Gaming-Monitor-FreeSync/dp/B018MYTH9U?&linkCode=ll1&tag=viral0c4-20&linkId=719166ea5e4ec2cba0908bf3d5fdf362&language=en_US&ref_=as_li_ss_tl
     nameForTOC: View-Sonic VX2457-MHD 24”
     name: 6. View-Sonic VX2457-MHD 24”
     specifications:
